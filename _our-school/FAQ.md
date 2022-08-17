@@ -13,9 +13,25 @@ description: ""
 	</li>  
 	  <li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Simple</label>
+			<label for="accordion2"><h5>Q2. When is the side gate open?</h5></label>
     <div>
       <p>A2: The side gates (Gate B & C) opening hours are as follows:</p>
+			<p><strong>Morning:</strong><br><table>
+<tbody>
+  <tr>
+    <td>Monday – Friday:</td>
+    <td>6.30 am to 7.25 am</td>
+  </tr>
+			</tbody>
+			</table></p>
+			<p><strong>Dismissal Time:</strong><br><table>
+<tbody>
+  <tr>
+    <td>Monday – Friday</td>
+    <td>1.30 pm to 2.00 pm</td>
+  </tr>
+</tbody>
+</table></p>
 			<p>
     </div>
 	</li>
