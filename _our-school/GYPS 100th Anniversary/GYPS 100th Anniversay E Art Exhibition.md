@@ -6,7 +6,8 @@ third_nav_title: GYPS 100th Anniversary
 ---
 ![](/images/e-Art-Exhibition-Banner_b.jpeg)
 
-![](/images/imagination.jpeg)
+<img src="/images/imagination.jpeg" 
+     style="width:65%">
 
 #### [Drawing with Scissors](https://photos.app.goo.gl/5i2KJrsQDLmhEDuA9 "Drawing with Scissors")
 
@@ -24,7 +25,9 @@ third_nav_title: GYPS 100th Anniversary
 
 [![](/images/ea4.jpeg)](https://photos.app.goo.gl/8rpTPGaXmoVuWBAXA)
 
-![](/images/materiality.jpeg)
+<img src="/images/materiality.jpeg" 
+     style="width:65%">
+
 
 #### [Constructed Canines](https://photos.app.goo.gl/fckmokYaZb7NowdD9 "Constructed Canines")
 
@@ -38,7 +41,8 @@ third_nav_title: GYPS 100th Anniversary
 
 [![](/images/ea7.jpeg)](https://photos.app.goo.gl/zzsshcZpCw69YvfH6)
 
-![](/images/inspiration.jpeg)
+<img src="/images/inspiration.jpeg" 
+     style="width:65%">
 
 #### [Colour Forest](https://photos.app.goo.gl/voEaW55UfoQE272h9 "Colour Forest")
 
@@ -64,7 +68,8 @@ third_nav_title: GYPS 100th Anniversary
 
 [![](/images/ea13.jpeg)](https://photos.app.goo.gl/r2WrFchHtNENXyfC9)
 
-![](/images/teachers.jpeg)
+<img src="/images/teachers.jpeg" 
+     style="width:65%">
 
 #### [Our Teachers’ Work](https://photos.app.goo.gl/DMgqR54b9biB45iAA "Our Teachers’ Work")
 
