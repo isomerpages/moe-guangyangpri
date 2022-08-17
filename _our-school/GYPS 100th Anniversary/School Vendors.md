@@ -121,3 +121,40 @@ Operating Days & Hours :
 Telephone : 6353 3835
 
 Outside the above period, the clinic will be closed. You may contact the buddy clinics at nearby schools for dental treatment (fillings, cleaning, and extractions)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">S/N</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit"> Buddy Dental Clinic</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">Contact No.</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit"> Address</span></td>
+  </tr>
+  <tr>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">1</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">Kuo Chuan Prebysterian Primary School</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">6268 4356</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">8 Bishan Street 13, Singapore 579793</span></td>
+  </tr>
+  <tr>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">2</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">Catholic High Primary School</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">6454 9387</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">9 Bishan Street 22, Singapore 579767</span></td>
+  </tr>
+  <tr>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">3</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">Marymount Convent Primary School</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">6266 0445</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit">20 Marymount Road Singapore 297754</span></td>
+  </tr>
+</tbody>
+</table>
