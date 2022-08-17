@@ -32,6 +32,25 @@ description: ""
   </tr>
 </tbody>
 </table></p>
-			<p>
+			<p><strong>Afternoon Lesson Dismissal Time:</strong><br><table>
+<tbody>
+  <tr>
+    <td>Day</td>
+    <td>Timing</td>
+  </tr>
+  <tr>
+    <td>Monday</td>
+    <td>4.00 pm to 4.30 pm</td>
+  </tr>
+  <tr>
+    <td>Tuesday</td>
+    <td>3.00 pm to 3.30 pm</td>
+  </tr>
+  <tr>
+    <td>Thursday</td>
+    <td>3.00 pm to 3.30 pm</td>
+  </tr>
+</tbody>
+</table></p>
     </div>
 	</li>
