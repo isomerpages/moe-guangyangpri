@@ -158,3 +158,28 @@ Outside the above period, the clinic will be closed. You may contact the buddy c
   </tr>
 </tbody>
 </table>
+
+For emergencies such as dental trauma, facial/gum swellings or toothaches, please contact:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-4p8a{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit"> Dental Clinic</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit"> Contact No.</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit"> Address</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">Health Promotion Board, School Dental Centre</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">6435 3782</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">3 Second Hospital Avenue #04-00 Singapore 168937</span></td>
+  </tr>
+</tbody>
+</table>
