@@ -54,3 +54,15 @@ description: ""
 </table></p>
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion3">
+		<label for="accordion3"><h5>Q3. When can parents enter the school to buy things from the bookshop?</h5></label>
+    <div>
+      <p>A3: The bookshop is open from 9 am to 3.00 pm, Monday to Friday.</p>
+	</div>
+	</li>
+	</ul>
+
+ssss
+		
+	
