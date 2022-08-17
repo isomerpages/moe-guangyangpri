@@ -4,8 +4,6 @@ permalink: /our-school/gyps-100th-anniversary/gyps-100th-anniversary
 description: ""
 third_nav_title: GYPS 100th Anniversary
 ---
-
-
 ![](/images/100-years-header-latest_d_780.jpg)
 
 <table style="undefined;table-layout: fixed; width: 800px">
@@ -36,7 +34,7 @@ third_nav_title: GYPS 100th Anniversary
           <img src="/images/gyvideo.jpeg"></a></td>
   </tr>
   <tr>
-    <td><a href = "/our-school/gyps-100th-anniversary/e-art-exhibition" target = "_self"> 
+    <td><a href = "/our-school/GYPS-100th-Anniversary/e-art-exhibition" target = "_self"> 
           <img src="/images/gy5.jpg"></a></td>
     <td><img src="/images/gif5.gif"></td>
   </tr>
