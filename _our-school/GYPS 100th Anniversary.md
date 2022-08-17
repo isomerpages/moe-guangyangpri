@@ -33,13 +33,13 @@ description: ""
           <img src="/images/gyvideo.jpeg"></a></td>
   </tr>
   <tr>
-    <td><a href = "linkhere" target = "_self"> 
+    <td><a href = "/our-school/gyps-10th-anniversary/a-art-exhibition" target = "_self"> 
           <img src="/images/gy5.jpg"></a></td>
     <td><img src="/images/gif5.gif"></td>
   </tr>
   <tr>
     <td><img src="/images/gif6.gif"></td>
-    <td><a href = "linkhere" target = "_self"> 
+    <td><a href = "https://photos.app.goo.gl/Vo2sBEmdM4gL2i3N6" target = "_self"> 
           <img src="/images/gy6.jpg"></a></td>
   </tr>
   <tr>
