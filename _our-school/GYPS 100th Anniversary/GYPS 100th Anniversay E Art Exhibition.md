@@ -6,23 +6,25 @@ third_nav_title: GYPS 100th Anniversary
 ---
 ![](/images/e-Art-Exhibition-Banner_b.jpeg)
 
+![](/images/imagination.jpeg)
+
 #### [Drawing with Scissors](https://photos.app.goo.gl/5i2KJrsQDLmhEDuA9 "Drawing with Scissors")
 
-[![art_banner_scissor](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/art_banner_scissor.jpg "art_banner_scissor")](https://photos.app.goo.gl/5i2KJrsQDLmhEDuA9)
+[![](/images/ea1.jpeg)]()
 
 #### [Let’s Fly a Kite](https://photos.app.goo.gl/3JaiuH2uTKAdomoHA "Let’s Fly a Kite")
 
-[![art_banner_kite](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/art_banner_kite.jpg "art_banner_kite")](https://photos.app.goo.gl/3JaiuH2uTKAdomoHA)
+[![](/images/ea1.jpeg)]()
 
 #### [Little Fingerprint Stories](https://photos.app.goo.gl/basYK2FemJTGTp937 "Little Fingerprint Stories")
 
-[![art_banner_fingerprint](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/art_banner_fingerprint.jpg "art_banner_fingerprint")](https://photos.app.goo.gl/basYK2FemJTGTp937)
+[![](/images/ea1.jpeg)]()
 
 #### [My Future Classroom](https://photos.app.goo.gl/8rpTPGaXmoVuWBAXA "My Future Classroom")
 
-[![art_banner_future_class](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/art_banner_future_class.jpg "art_banner_future_class")](https://photos.app.goo.gl/8rpTPGaXmoVuWBAXA)
+[![](/images/ea1.jpeg)]()
 
-![e-art-small-titles_materiality](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/e-art-small-titles_materiality.jpg "e-art-small-titles_materiality")
+![](/images/materiality.jpeg)
 
 #### [Constructed Canines](https://photos.app.goo.gl/fckmokYaZb7NowdD9 "Constructed Canines")
 
