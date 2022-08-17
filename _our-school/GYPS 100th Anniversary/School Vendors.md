@@ -112,11 +112,11 @@ Operating Period: 01 July 2021 to 30 September 2021(_Subject to changes_)
 
 Dental Therapist : Ms Jeslyn Tan Jie Lin  
 Operating Days & Hours :  
-Monday to Thursday:  
+<u>Monday to Thursday:</u>   
 8.00 am to 5.30 pm  
-Friday:  
+<u>Friday:</u>  
 8.00 am to 5.00 pm  
-Lunch Hour:  
+<u>Lunch Hour:</u>  
 12.30 pm to 1.30 pm  
 Telephone : 6353 3835
 
