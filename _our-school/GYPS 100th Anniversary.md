@@ -22,14 +22,15 @@ description: ""
           <img src="/images/gy2.jpg"></a></td>
   </tr>
   <tr>
-    <td><a href = "linkhere" target = "_self"> 
+    <td><a href = "https://photos.google.com/share/AF1QipPHZyk4gdNkG5XNYIKJjCcVK6Op9Kmm7miBKAYvSvDQiYkYHEaRVFSx4ct0rz0o3w?key=XzlPUVVJWW1GZ2lTeGw1Z1dfWnVvY1dnNXJVbS1n" target = "_self"> 
           <img src="/images/gy3.jpg"></a></td>
     <td><img src="/images/gif3.gif"></td>
   </tr>
   <tr>
     <td><img src="/images/gif4.gif"></td>
-    <td><a href = "linkhere" target = "_self"> 
-          <img src="/images/gy4.jpg"></a></td>
+    <td><a href = "https://photos.app.goo.gl/3G18eeT6HVb2Jc8L7" target = "_self"> 
+          <img src="/images/gy4.jpg"></a><a href = "https://www.youtube.com/playlist?list=PLzVcvAIODfFoELhTbb2RTbSHu6J6UBjPf" target = "_self"><br>
+          <img src="/images/gyvideo.jpeg"></a></td>
   </tr>
   <tr>
     <td><a href = "linkhere" target = "_self"> 
