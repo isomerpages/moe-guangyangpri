@@ -12,13 +12,13 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td><a href = "linkhere" target = "_self"> 
+    <td><a href = "https://photos.google.com/share/AF1QipNYUk8DbD54TQ2udheP-tpEZUYSz_Taox27cMYqQhywd0BIT_pVfgSlaIWA4o9x-g?key=SGNLU1pua3BDTGc5UFNJQ2Y4QV8zNDhKX1lfczB3" target = "_self"> 
           <img src="/images/gy1.jpg"></a></td>
     <td><img src="/images/gif1.gif"></td>
   </tr>
   <tr>
     <td><img src="/images/gif2.gif"></td>
-    <td><a href = "linkhere" target = "_self"> 
+    <td><a href = "https://photos.google.com/share/AF1QipPuxr6BmeSrBIBI67pYZEwfODp_Cn2dIgr9pgZUOWYAn-bD-cedxwD1CuUuZX9fgg?key=cEZUTHhTWTZuTEVneWwxUkt5OUFpSi12MFowYVJ3" target = "_self"> 
           <img src="/images/gy2.jpg"></a></td>
   </tr>
   <tr>
