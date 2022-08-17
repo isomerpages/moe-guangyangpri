@@ -2,8 +2,8 @@ collections:
   our-school:
     output: true
     order:
-      - GYPS 100th Anniversary/GYPS 100th Anniversay E Art Exhibition.md
-      - GYPS 100th Anniversary/GYPS 100th Anniversary.md
       - GYPS 100th Anniversary/.keep
+      - GYPS 100th Anniversary/GYPS 100th Anniversary.md
+      - GYPS 100th Anniversary/GYPS 100th Anniversay E Art Exhibition.md
       - Notice for Visitors.md
       - FAQ.md
