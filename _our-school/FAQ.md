@@ -15,6 +15,7 @@ description: ""
     <input type="checkbox" id="accordion2">
     <label for="accordion2">Simple</label>
     <div>
-      <p>This is a simple one line item</p>
+      <p>A2: The side gates (Gate B & C) opening hours are as follows:</p>
+			<p>
     </div>
 	</li>
