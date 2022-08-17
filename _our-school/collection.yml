@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - GYPS 100th Anniversary/.keep
-      - GYPS 100th Anniversary.md
       - Notice for Visitors.md
       - FAQ.md
