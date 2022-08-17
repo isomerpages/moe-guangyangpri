@@ -35,3 +35,89 @@ Email address : [school@sfxtransport.com.sg](mailto:school@sfxtransport.com.sg)
 Parents who are interested in taking up the school bus services are to liaise with the bus operator directly.
 
 The list of ‘Not to Exceed’ (i.e. the maximum) monthly bus fares by distance for the daily school bus services is shown below for your reference. You can refer to MOE IBSB website for details. ([https://schadmsvc.moe.gov.sg/moeibsb/IbsbSchoolBusServices.aspx](https://schadmsvc.moe.gov.sg/moeibsb/IbsbSchoolBusServices.aspx))
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-z9xn{background-color:#D6FFFA;color:#3A3A3A;text-align:center;vertical-align:middle}
+.tg .tg-4p8a{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-z9xn" rowspan="2"><span style="font-weight:inherit;font-style:inherit;background-color:#D6FFFA">Distance</span></td>
+    <td class="tg-z9xn" colspan="2"><span style="font-weight:inherit;font-style:inherit;background-color:#D6FFFA">Up to 15 seaters</span></td>
+    <td class="tg-z9xn" colspan="2"><span style="font-weight:inherit;font-style:inherit;background-color:#D6FFFA">&gt;15-30 seaters</span></td>
+    <td class="tg-z9xn" colspan="2"><span style="font-weight:inherit;font-style:inherit;background-color:#D6FFFA">&gt; 30 seaters</span></td>
+  </tr>
+  <tr>
+    <td class="tg-z9xn"><span style="font-weight:inherit;font-style:inherit;background-color:#D6FFFA">1 way</span></td>
+    <td class="tg-z9xn"><span style="font-weight:inherit;font-style:inherit;background-color:#D6FFFA">2 way</span></td>
+    <td class="tg-z9xn"><span style="font-weight:inherit;font-style:inherit;background-color:#D6FFFA">1 way</span></td>
+    <td class="tg-z9xn"><span style="font-weight:inherit;font-style:inherit;background-color:#D6FFFA">2 way</span></td>
+    <td class="tg-z9xn"><span style="font-weight:inherit;font-style:inherit;background-color:#D6FFFA">1 way</span></td>
+    <td class="tg-z9xn"><span style="font-weight:inherit;font-style:inherit;background-color:#D6FFFA">2 way</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">Up to 2km</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">130</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">140</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">130</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">140</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">130</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">140</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">&gt; 2 – 4km</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">160</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">180</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">160</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">180</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">160</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">180</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">&gt; 4 – 6km</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">180</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">200</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">180</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">200</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">180</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">200</span></td>
+  </tr>
+</tbody>
+</table>
+
+_\*Prices quoted are before GST_
+
+The annual bus fares will be payable over 9 months in a school academic year. The collection months are January, February, March, April, May, July, August, September and October. There will be no collections for the months of June, November and December.
+
+#### STUDENT CARE CENTRE
+
+**Raffles Students Care Centre LLP**  
+Regional Manager & Head of Operations : Ms Aishah Abu Bakar  
+Telephone : 8923 3360 (HP)  
+Email Address : [admin@RafflesStudentCare.com](mailto:admin@RafflesStudentCare.com)  
+Website : [https://rafflesstudentcare.com/about/](https://rafflesstudentcare.com/about/)  
+Online Registration Form : [www.RafflesStudentCare.com/Registration](https://docs.google.com/forms/d/e/1FAIpQLSdjwCPOKfjp0Y6tT7V1oZi6QJkDn-I_osVPu44BTtEyQc823A/viewform)
+
+#### DENTAL CLINIC SERVICES
+
+With effect from January 2020, Health Promotion Board (HPB) has started a new way of delivering dental treatment services for GYPS to improve service productivity. A Roving Dental Clinic has been arranged to provide dental services for the students.
+
+Operating Period: 01 July 2021 to 30 September 2021(_Subject to changes_)
+
+Dental Therapist : Ms Jeslyn Tan Jie Lin  
+Operating Days & Hours :  
+Monday to Thursday:  
+8.00 am to 5.30 pm  
+Friday:  
+8.00 am to 5.00 pm  
+Lunch Hour:  
+12.30 pm to 1.30 pm  
+Telephone : 6353 3835
+
+Outside the above period, the clinic will be closed. You may contact the buddy clinics at nearby schools for dental treatment (fillings, cleaning, and extractions)
