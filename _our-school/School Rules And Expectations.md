@@ -65,3 +65,54 @@ Discipline in GYPS is enforced as part of the schoolâ€™s effort to mould pupilsâ
 		<input type="checkbox" id="accordion4">
 		<label for="accordion4"><h5>4. LEAVING SCHOOL DURING SCHOOL HOURS</h5></label>
 		<div>
+			<ul>
+				<li>Pupils are not allowed to leave the school premises during school hours.</li>
+				<li>Pupils must be accompanied home by a parent/guardian if they are granted permission to leave school early.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion5">
+		<label for="accordion5"><h5>5. SAFETY RULES</h5></label>
+		<div>
+			<ul>
+				<li>Pupils are NOT allowed to remain in the classroom without the presence of a teacher during recess or before / after curriculum hours.</li>
+				<li>Entry into Special Rooms is allowed only with permission from a teacher.</li>
+				<li>Pupils must observe movement discipline while moving along the corridors at all times.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion6">
+		<label for="accordion6"><h5>6. TURNOUT AND BEARING</h5></label>
+		<div>
+			<p><strong>School Attire</strong></p>
+			<ul>
+				<li>The school uniform must be worn in school for all school activities.</li>
+				<li>Pupils are to wear the prescribed school uniform and modification to the uniform is not allowed.</li>
+				<li>School PE attire is allowed only on days when the pupils have PE lessons, game practices or co-curricular activities.</li>
+				<li>The name tag is part of the school attire and must be on the school uniform and PE attire.</li>
+			</ul>
+			<p><strong>Hair and Appearance</strong></p>
+			<ul>
+				<li>Hair must be neat and tidy at all times.</li>
+				<li>No gel, mousse, fancy hair styling, tinting or dyeing of hair is allowed.</li>
+				<li>Boys&rsquo; hair should be short and neatly combed. It should not grow beyond the eyebrows, collar or the tip of the ears.</li>
+				<li>Girls&rsquo; hair must be above the base of the collar or neatly tied up. Short fringe must be above the eyebrows. Long fringe must be neatly secured.</li>
+				<li>All ribbons, hair bands and hair clips used must be black or dark blue in colour.</li>
+				<li>Male pupils must be neat in appearance, clean-shaven and no facial hair is allowed. Nails must be kept short and clean. No varnish is allowed.</li>
+			</ul>
+			<p><strong>Shoes and Socks</strong></p>
+			<ul>
+				<li>Shoes and socks are to be white in colour only and should not have any coloured logos or trimmings.</li>
+				<li>Socks must fully cover the ankles.</li>
+			</ul>
+			<p><strong>Accessories</strong></p>
+			<ul>
+				<li>Girls may wear gold/silver ear studs which are simple and round in design.</li>
+				<li>No chains, rings or bracelets are allowed.</li>
+				<li>Watch should be simple and inexpensive.</li>
+				<li>Boys are not allowed to pierce their ears or wear ear studs.</li>
+			</ul>
+		
+		
