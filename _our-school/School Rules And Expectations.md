@@ -190,5 +190,57 @@ Discipline in GYPS is enforced as part of the school’s effort to mould pupils�
 		</div>
 	</li>
 	<li>
+		<input type="checkbox" id="accordion12">
+		<label for="accordion12"><h5>12. ICT</h5></label>
+		<div>
+			<ul>
+				<li>Being in a rapidly changing technological landscape, pupils are faced with a myriad of choices that will ultimately impact how their time is spent in school. Pupils will be given the responsibility of making choices on how to make appropriate use of technology, while ensuring that their teachers and peers are being respected.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion13">
+		<label for="accordion13"><h5>13. COMMUNICATION</h5></label>
+		<div>
+			<ul>
+				<li>Teachers will communicate with all parents/guardian regularly to provide feedback of pupils’ progress in education.<li>
+				<li>Modes of communication include Meet-the-Parents sessions, Pupil Journal, scheduled meetings, email and telecommunications.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion14">
+		<label for="accordion14"><h5>14. SCHOOL VISITORS</h5></label>
+		<div>
+			<ul>
+				<li>The safety and security of the pupils and staff are our prime concern.  Hence visitors will be screened before permission is given for entry to the school.</li>
+				<li>To avoid disruptions, parents and all other visitors should make an appointment in advance with the staff at the General Office or teachers before coming to visit the school.</li>
+				<li>Parents and all other visitors must report to the General Office when they arrive at the school to obtain a Visitor Pass.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion15">
+		<label for="accordion15"><h5>15. COURTESY CODE</h5></label>
+		<div>
+			<ul>
+				<li>All GYPS pupils are expected to be courteous at all times. As an act of courtesy, pupils must be helpful and greet all staff and visitors of the school. Rudeness in speech or body language towards staff of the school will result in serious consequences.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion16">
+		<label for="accordion16"><h5>16. OTHER MATTERS</h5></label>
+		<div>
+			<ul>
+				<li>Pupils must obtain permission and the Movement Pass from the teacher if they wish to leave the classroom. It must be displayed at all times.</li>
+				<li>Pupils must queue for food and drinks in the canteen.</li>
+				<li>Pupils must return all crockery to the receptacles at the designated places.</li>
+				<li>All food and drinks will be consumed only in the canteen.</li>
+			</ul>
+		</div>
+	</li>
+	</ul>
+
+test
 		
-			
