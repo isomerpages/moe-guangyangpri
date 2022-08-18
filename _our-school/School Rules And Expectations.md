@@ -44,3 +44,14 @@ Discipline in GYPS is enforced as part of the schoolâ€™s effort to mould pupilsâ
 		<label for="accordion2"><h6>2. ATTENDANCE</h6></label>
 		<div>
 			<ul>
+				<li>Attendance is compulsory on school days and at all school functions unless otherwise stated.</li>
+				<li>Pupils are expected to be punctual for all activities at all times.</li>
+				<li>Absences from all school activities must be supported by a medical certificate or an explanatory letter from a parent or the guardian of the pupil. The medical certificate or explanatory letter should be given to the form teacher upon the pupil&rsquo;s return to school.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion3">
+		<label for="accordion3"><h6>2. ATTENDANCE</h6></label>
+		<div>
+	
