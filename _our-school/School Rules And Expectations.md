@@ -20,3 +20,27 @@ As a pupil of Guangyang Primary School, I will always:
 #### School Rules
 
 Discipline in GYPS is enforced as part of the school’s effort to mould pupils’ character and provide a safe learning environment for all. It is not merely a set of rules but an attitude and a way of life that will enhance schooling.
+
+<ul class="jekyllcodex_accordion">
+	<li>
+		<input type="checkbox" id="accordion1">
+		<label for="accordion1"><h5>1. Discipline</h5></label>
+		<div>
+			<ul>
+				<li>All pupils are to uphold the school&rsquo;s Code of Conduct.</li>
+				<li>The school takes a serious view on pupils&rsquo; discipline and conduct. Pupils who commit any serious offence despite warning / counselling given will be severely dealt with</li>
+				<li>If a pupil commits more than one serious offence on a single occasion, each serious offence will be recorded.</li>
+				<li>All actions taken by the school for serious offences will be recorded.</li>
+				<li>If a pupil repetitively commits any minor offences, disciplinary actions will be taken against him / her and such offences and the actions taken will also be recorded</li>
+			</ul>
+			<p><strong>Possession of Weapons</strong></p>
+			<ul>
+				<li>All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others.</li>
+			</ul>
+    </div>
+	</li> 
+	<li>
+		<input type="checkbox" id="accordion2">
+		<label for="accordion2"><h6>2. ATTENDANCE</h6></label>
+		<div>
+			<ul>
