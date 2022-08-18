@@ -114,5 +114,32 @@ Discipline in GYPS is enforced as part of the schoolâ€™s effort to mould pupilsâ
 				<li>Watch should be simple and inexpensive.</li>
 				<li>Boys are not allowed to pierce their ears or wear ear studs.</li>
 			</ul>
-		
-		
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion7">
+		<label for="accordion7"><h5>7. BEFORE-SCHOOL PROGRAMME</h5></label>
+		<div>
+			<ul>
+				<li>Before-school programme is implemented to provide academic support for pupils as well as cater to pupils&rsquo; all-round development. As such, to maximise its benefits, all pupils are encouraged to participate actively.</li>
+				<li>Pupils involved in specific programmes (e.g. Buddy Reading Programme) are to report to the teachers-in-charge at designated venues promptly.</li>
+				<li>All other pupils are advised to be seated in the hall by 7.10am and are expected to be engaged in silent reading, using supplementary reading materials.</li>
+				<li>Gate A will be opened until 7.20am daily for parents to drive their child into the school compound to alight at the school porch.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion8">
+		<label for="accordion8"><h5>8. SUPPLEMENTARY / REMEDIAL / ENRICHMENT LESSONS</h5></label>
+		<div>
+			<ul>
+				<li>Afternoon lessons are conducted for selected pupils, to meet their specific learning needs. Pupils identified for such lessons are expected to participate actively so as to maximise their learning.</li>
+				<li>Pupils who have been selected to attend these afternoon lessons are to remain in school for lunch in the canteen before the commencement of the lessons.</li>
+				<li>All pupils are to assemble in the foyer/canteen before proceeding to the classrooms with their teachers.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion9">
+		<label for="accordion9"><h5>9. HANDPHONES AND OTHER BELONGINGS</h5></label>
+		<div>
