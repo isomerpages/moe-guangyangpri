@@ -24,7 +24,7 @@ Discipline in GYPS is enforced as part of the schoolâ€™s effort to mould pupilsâ
 <ul class="jekyllcodex_accordion">
 	<li>
 		<input type="checkbox" id="accordion1">
-		<label for="accordion1"><h5>1. Discipline</h5></label>
+		<label for="accordion1"><h5>1. DISCIPLINE</h5></label>
 		<div>
 			<ul>
 				<li>All pupils are to uphold the school&rsquo;s Code of Conduct.</li>
