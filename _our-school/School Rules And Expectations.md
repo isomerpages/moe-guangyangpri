@@ -203,7 +203,7 @@ Discipline in GYPS is enforced as part of the school’s effort to mould pupils�
 		<label for="accordion13"><h5>13. COMMUNICATION</h5></label>
 		<div>
 			<ul>
-				<li>Teachers will communicate with all parents/guardian regularly to provide feedback of pupils’ progress in education.<li>
+				<li>Teachers will communicate with all parents/guardian regularly to provide feedback of pupils’ progress in education.</li>
 				<li>Modes of communication include Meet-the-Parents sessions, Pupil Journal, scheduled meetings, email and telecommunications.</li>
 			</ul>
 		</div>
@@ -243,4 +243,3 @@ Discipline in GYPS is enforced as part of the school’s effort to mould pupils�
 	</ul>
 
 test
-		
