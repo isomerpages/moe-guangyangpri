@@ -4,7 +4,7 @@ permalink: /our-school/school-contact-information
 description: ""
 ---
 <div class="fl-map">
-	<iframe src="https://www.google.com/maps/embed/v1/place?q=Guangyang+Primary+School+6+Bishan+Street+12&amp;key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8" aria-hidden="true"></iframe></div>
+	<center><iframe src="https://www.google.com/maps/embed/v1/place?q=Guangyang+Primary+School+6+Bishan+Street+12&amp;key=AIzaSyD09zQ9PNDNNy9TadMuzRV_UsPUoWKntt8" aria-hidden="true"></iframe></center></div>
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
