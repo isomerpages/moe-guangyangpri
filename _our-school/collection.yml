@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - School Crest & Song.md
       - School Uniform.md
       - School Contact Information.md
       - School Hours.md
