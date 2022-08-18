@@ -143,3 +143,52 @@ Discipline in GYPS is enforced as part of the schoolâ€™s effort to mould pupilsâ
 		<input type="checkbox" id="accordion9">
 		<label for="accordion9"><h5>9. HANDPHONES AND OTHER BELONGINGS</h5></label>
 		<div>
+			<ul>
+				<li>All pupils must learn to take personal responsibility for their own belongings. Pupils must also learn to bring only items that are essential to their learning to school.</li>
+				<li>Handphones are NOT allowed in school.</li>
+				<li>Parents who require their children to carry handphones under special circumstances are to submit the request form found at the page on &lsquo;Guidelines on the Use of Handphone in School&rsquo;. The school will consider the requests.</li>
+				<li>All handphones must be switched off during curriculum hours and after-school programmes.</li>
+				<li>Permission to bring is not a permission to use the handphones in school. Pupils cannot use their handphones in school.</li>
+				<li>Pupils can use the public telephones or the telephones in the General Office if they need to contact their parents during curriculum hours and after-school programmes.</li>
+				<li>The school shall NOT bear any responsibility for the loss or damage of any handphone.</li>
+				<li>Electronic games and devices (e.g. iPod, iPad, MP3 players), toys, chewing gum, cigarettes, lighters/matches, pornographic materials, weapons, pirated materials and all other items prohibited by Singapore law are not permitted in the school.</li>
+				<li>Pupils must not bring large sums of money or expensive items to school.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion10">
+		<label for="accordion10"><h5>10. HOMEWORK</h5></label>
+		<div>
+			<ul>
+				<li>Homework provides pupils with the opportunity to consolidate their classroom learning, pattern behaviour for lifelong learning beyond classroom and involve family members in their learning.</li>
+				<li>Homework assignments may take the forms of practice exercises, preview/preparatory assignments, extension assignments and creative activities.</li>
+				<li>Home-based learning days are days on which pupils are not required to be present in school as a result of the school premises being used for national examinations or the like.</li>
+				<li>Home-based learning will take the form of IT-related activities which may include micro-lessons, online exercises and assessments, oral and listening practices, research tasks and collaborative learning through online portals.</li>
+				<li>The school uses pupils&rsquo; work as a means to assess their learning. Hence pupils are expected to complete and submit all homework and assignments on time so that teachers can accurately assess the effectiveness of lessons conducted.</li>
+				<li>To reflect an accurate assessment of a pupil&rsquo;s learning, pupils should not copy their homework from their friends. They should take pride in their work and do their own assignments neatly.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion11">
+		<label for="accordion11"><h5>11. ASSESSMENT</h5></label>
+		<div>
+			<ul>
+				<li>GYPS has put in place alternative assessments for all levels.</li>
+				<li>For all grade levels, alternative assessments are conducted throughout the year, in addition to pen-and-paper assessments.</li>
+				<li>Alternative assessments will feature more prominently in Term 3.</li>
+				<li>Pupils who are absent, with no valid reason, for an assessment will not be awarded any marks for that assessment. Valid reasons include a medical certificate from a registered Singapore medical doctor.</li>
+				<li>A pupil who is absent for 20% or more of the total marks for any assessment and/or its components will be deemed to not have sat for that assessment.</li>
+				<li>Only essential writing and/or measurement materials are allowed on pupils&rsquo; desk when an assessment is in progress.</li>
+				<li>All bags, files, books and water bottles will be placed outside the assessment venue.</li>
+				<li>Pupils who are late for an assessment, by up to 30 minutes, will sit for their assessment in their allocated classrooms. No extra time will be given and they will have to stop writing at the scheduled time.</li>
+				<li>Beyond 30 minutes, the school will make a decision, with regards to whether the pupil will sit for the examinations, on a case-by-case basis.</li>
+				<li>Pupils must not talk, whisper, gesture or be involved in any form of verbal and/or non-verbal communication with anyone during the test or examination.</li>
+				<li>Pupils found cheating or attempting to cheat during any assessments will be severely dealt with and/or may be given a &lsquo;zero&rsquo; mark for the respective paper.</li>
+			</ul>
+		</div>
+	</li>
+	<li>
+		
+			
