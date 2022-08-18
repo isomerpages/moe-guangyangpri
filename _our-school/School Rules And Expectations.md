@@ -41,7 +41,7 @@ Discipline in GYPS is enforced as part of the schoolâ€™s effort to mould pupilsâ
 	</li> 
 	<li>
 		<input type="checkbox" id="accordion2">
-		<label for="accordion2"><h6>2. ATTENDANCE</h6></label>
+		<label for="accordion2"><h5>2. ATTENDANCE</h5></label>
 		<div>
 			<ul>
 				<li>Attendance is compulsory on school days and at all school functions unless otherwise stated.</li>
@@ -52,6 +52,10 @@ Discipline in GYPS is enforced as part of the schoolâ€™s effort to mould pupilsâ
 	</li>
 	<li>
 		<input type="checkbox" id="accordion3">
-		<label for="accordion3"><h6>2. ATTENDANCE</h6></label>
+		<label for="accordion3"><h5>3. NATIONAL ANTHEM / ASSEMBLY / PLEDGE- TAKING</h5></label>
 		<div>
-	
+			<ul>
+				<li>Pupils are to be present for and take part in the daily Flag-Raising Ceremony.</li>
+				<li>Pupils who are Singapore citizens must sing the National Anthem and take the Pledge. Pupils will take the Pledge with the right fist placed over the heart. Failure to comply will result in disciplinary action.</li>
+				<li>Late-comers as well as parents / visitors, who are in the school premises, should stand at attention during the singing of the National Anthem and the taking of the Pledge.</li>
+</ul>
