@@ -24,4 +24,4 @@ Live our lives, with strength and confidence<br>
 Innovative and resilient,<br>
 	A loyal citizen.<br></strong></center>
 
-*Repeat
+<center>*Repeat</center>
