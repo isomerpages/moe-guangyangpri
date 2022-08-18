@@ -58,4 +58,10 @@ Discipline in GYPS is enforced as part of the schoolâ€™s effort to mould pupilsâ
 				<li>Pupils are to be present for and take part in the daily Flag-Raising Ceremony.</li>
 				<li>Pupils who are Singapore citizens must sing the National Anthem and take the Pledge. Pupils will take the Pledge with the right fist placed over the heart. Failure to comply will result in disciplinary action.</li>
 				<li>Late-comers as well as parents / visitors, who are in the school premises, should stand at attention during the singing of the National Anthem and the taking of the Pledge.</li>
-</ul>
+			</ul>
+		</div>
+	</li>
+	<li>
+		<input type="checkbox" id="accordion4">
+		<label for="accordion4"><h5>4. LEAVING SCHOOL DURING SCHOOL HOURS</h5></label>
+		<div>
