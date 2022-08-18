@@ -241,5 +241,3 @@ Discipline in GYPS is enforced as part of the schoolâ€™s effort to mould pupilsâ
 		</div>
 	</li>
 	</ul>
-
-test
