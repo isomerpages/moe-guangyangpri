@@ -20,19 +20,19 @@ third_nav_title: Our Educators
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ae1.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Kavithasri d/o Anandan (Ms)</h5></span><br><span style="font-weight:700;font-style:inherit">Counsellor</span><br><br><a href="mailto:kavithasri_anandan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">kavithasri_anandan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ae2.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Tay Zhen Ping (Ms)</h5></span><br><span style="font-weight:700;font-style:inherit">Learning &amp; Behavioural Support</span><br><br><a href="mailto:tay_zhen_ping@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">tay_zhen_ping@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ae3.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Koh Shu Yi (Ms)</h5></span><br><span style="font-weight:700;font-style:inherit">Learning &amp; Behavioural Support</span><br><br><a href="mailto:koh_shu_yi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">koh_shu_yi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ae4.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Leong Tuan Ngee Clara (Ms)</h5></span><br><span style="font-weight:700;font-style:inherit">Teaching &amp; Learning</span><br><br><a href="mailto:clara_leong_tuan_ngee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">clara_leong_tuan_ngee@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
