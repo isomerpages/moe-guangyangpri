@@ -242,11 +242,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/28.jpeg"></td>
-    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Eliza Bte Abdul Rashid (Ms)</span><br><a href="mailto:eliza_abdul_rashid@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">eliza_abdul_rashid@moe.edu.sg</span></a></td>
   </tr>
    <tr>
     <td class="tg-0lax"><img src="/images/28.jpeg"></td>
-    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Norsinah Bte Suadi (Mdm)</span><br><a href="mailto:norsinah_suadi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">norsinah_suadi@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -270,11 +270,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/28.jpeg"></td>
-    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Kang Xin Yuan (Mrs)</span><br><a href="mailto:soh_xin_yuan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">soh_xin_yuan@moe.edu.sg</span></a></td>
   </tr>
    <tr>
     <td class="tg-0lax"><img src="/images/28.jpeg"></td>
-    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Valerie Moh (Mdm)</span><br><a href="mailto:moh_tzer_huey_valerie@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">moh_tzer_huey_valerie@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -298,11 +298,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/28.jpeg"></td>
-    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Junaidah Bte Mohd Sali (Mdm)</span><br><a href="mailto:junaidah_mohamed_sali@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">junaidah_mohamed_sali@moe.edu.sg</span></a></td>
   </tr>
    <tr>
     <td class="tg-0lax"><img src="/images/28.jpeg"></td>
-    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Lim Siew Hua (Mdm)</span><br><a href="mailto:lim_siew_hua@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">lim_siew_hua@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -326,7 +326,7 @@ won_min_ting@moe.edu.sg</span></a></td>
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/28.jpeg"></td>
-    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Tham Yue Hao (Ms)</span><br><a href="mailto:tham_yue_hao@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">tham_yue_hao@moe.edu.sg</span></a></td>
   </tr>
    <tr>
     <td class="tg-0lax"><img src="/images/28.jpeg"></td>
@@ -571,4 +571,3 @@ won_min_ting@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
-
