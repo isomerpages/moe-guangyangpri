@@ -41,15 +41,17 @@ third_nav_title: Our Educators
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi6.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>Lim-Chew Hua Jie (Mrs)</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:chew_hua_jie@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">chew_hua_jie@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi7.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>hello</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>Lua Yi Wen (Ms)</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:lua_yi_wen@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">lua_yi_wen@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi8.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>Kang Xin Yuan (Mrs)</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:	
+soh_xin_yuan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">	
+soh_xin_yuan@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi10.jpeg"></td>
