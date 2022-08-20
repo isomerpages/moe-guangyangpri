@@ -241,11 +241,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/41.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Eliza Bte Abdul Rashid (Ms)</span><br><a href="mailto:eliza_abdul_rashid@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">eliza_abdul_rashid@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/42.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Norsinah Bte Suadi (Mdm)</span><br><a href="mailto:norsinah_suadi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">norsinah_suadi@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
@@ -269,11 +269,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/43.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Kang Xin Yuan (Mrs)</span><br><a href="mailto:soh_xin_yuan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">soh_xin_yuan@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/44.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Valerie Moh (Mdm)</span><br><a href="mailto:moh_tzer_huey_valerie@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">moh_tzer_huey_valerie@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
@@ -297,11 +297,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/45.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Junaidah Bte Mohd Sali (Mdm)</span><br><a href="mailto:junaidah_mohamed_sali@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">junaidah_mohamed_sali@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/46.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Lim Siew Hua (Mdm)</span><br><a href="mailto:lim_siew_hua@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">lim_siew_hua@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
@@ -325,11 +325,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/47.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Tham Yue Hao (Ms)</span><br><a href="mailto:tham_yue_hao@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">tham_yue_hao@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/48.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Brindha Sankar (Ms)</span><br><a href="mailto:brindha_sankar@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">brindha_sankar@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
@@ -356,11 +356,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/51.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Lai Chih Wei (Mr)</span><br><a href="mailto:lai_chih_wei@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">lai_chih_wei@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/52.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Hao Xueshu (Mrs)</span><br><a href="mailto:zhu_xueshu@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">	
 zhu_xueshu@moe.edu.sg</span></a></td>
   </tr>
@@ -385,11 +385,11 @@ zhu_xueshu@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/53.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Lazar Jennifer Selvi (Mdm)</span><br><a href="mailto:lazar_jennifer_selvi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">lazar_jennifer_selvi@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/54.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Ling Hui Khim (Mdm)</span><br><a href="mailto:ling_hui_khim@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">ling_hui_khim@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
@@ -414,11 +414,11 @@ zhu_xueshu@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/56.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Tan Yong Yuan (Mr)</span><br><a href="mailto:tan_yong_yuan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">tan_yong_yuan@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/57.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Goh Jia Yee (Ms)</span><br><a href="mailto:goh_jia_yee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">goh_jia_yee@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
