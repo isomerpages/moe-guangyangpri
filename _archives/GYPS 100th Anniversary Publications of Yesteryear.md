@@ -21,7 +21,7 @@ Excited about GYPS 100 year Anniversary? Now you can view pictures of yesteryear
 <tbody>
   <tr>
     <td class="tg-cly1"><img src="/images/bk1.jpeg"></td>
-    <td class="tg-cly1"></td>
+    <td class="tg-cly1"><a href="http://eresources.nlb.gov.sg/printheritage/detail/8ac85de1-578d-4659-b20c-486475898774.aspx?s=Kong%20+Yiong" target="_blank" rel="noopener">光洋校友会庆祝五周年纪念暨筹募会务经费游艺晚会特辑 Kong Yiong Alumni Association 5th Anniversary Souvenir Magazine, 1960</a></td>
   </tr>
   <tr>
     <td class="tg-cly1"><img src="/images/bk2.jpeg"></td>
