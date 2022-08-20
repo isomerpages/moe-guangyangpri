@@ -71,7 +71,7 @@ won_min_ting@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/25.jpeg"></td>
-    <td class="tg-0lax"><span style="font-weight:inherit;font-style:inherit">Kim Han Ip (Ms)</span><br><a href="mailto:kim_han_Ip@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">kim_han_Ip@moe.edu.sg</span></a></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Kim Han Ip (Ms)</span><br><a href="mailto:kim_han_Ip@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">kim_han_Ip@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
