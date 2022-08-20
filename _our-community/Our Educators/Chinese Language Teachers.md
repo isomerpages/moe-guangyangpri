@@ -55,11 +55,13 @@ soh_xin_yuan@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi10.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>Zhu Xueshu (Mdm)</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:	
+zhu_xueshu@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">	
+zhu_xueshu@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi11.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>Leng Han (Ms)</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:leng_han@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">leng_han@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
