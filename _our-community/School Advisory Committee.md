@@ -32,15 +32,15 @@ description: ""
 <table class="tg">
 <tbody>
   <tr>
-		<td class="tg-wa1i"><h5>Chairman</h5></td>
+		<td class="tg-yla0"><h5>Chairman</h5></td>
     <td class="tg-nrix">Mr Lee Keok Boon Peter</td>
   </tr>
   <tr>
-		<td class="tg-wa1i"><h5>Hon Secretary</h5></td>
+		<td class="tg-yla0"><h5>Hon Secretary</h5></td>
     <td class="tg-nrix">Mr Enoch Lau</td>
   </tr>
   <tr>
-    <td class="tg-wa1i"><h5>Committee Members</h5?</td>
+    <td class="tg-yla0"><h5>Committee Members</h5?</td>
     <td class="tg-nrix"><span style="font-weight:inherit;font-style:normal">Mr Chris Yeo</span><br><span style="font-weight:inherit;font-style:normal">Mdm Purnawati</span><br><span style="font-weight:inherit;font-style:normal">Ms Wendy Chua</span></td>
   </tr>
 </tbody>
