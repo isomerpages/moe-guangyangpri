@@ -10,12 +10,8 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
-<colgroup>
-<col style="width: 150px">
-<col style="width: 550px">
 <colgroup>
 <col style="width: 150px">
 <col style="width: 550px">
@@ -44,8 +40,10 @@ description: ""
 </tbody>
 </table>
 
-Department Contact
-------------------
+
+
+### Department Contact
+
 Phone: (+65) 6258 0455
 
 Fax: (+65) 6258 0455
