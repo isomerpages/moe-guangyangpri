@@ -31,11 +31,11 @@ third_nav_title: Our Educators
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/21.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Chua Xing Xuan (Mdm)</span><br><a href="mailto:chua_xing_xuan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">chua_xing_xuan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/22.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Katherine Cheong (Mrs)</span><br><a href="mailto:katherine_cheong@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">katherine_cheong@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
@@ -60,17 +60,17 @@ third_nav_title: Our Educators
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/23.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Mahanom Daing Basok (Mdm)</span><br><a href="mailto:mahanom_daing_basok@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mahanom_daing_basok@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/24.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Won Min Ting (Ms)</span><br><a href="mailto:	
 won_min_ting@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">	
 won_min_ting@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/25.jpeg"></td>
     <td class="tg-0lax"><span style="font-weight:inherit;font-style:inherit">Kim Han Ip (Ms)</span><br><a href="mailto:kim_han_Ip@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">kim_han_Ip@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
@@ -94,11 +94,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/26.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Farahiyah Dina Osman (Ms)</span><br><a href="mailto:farahiyah_dina_osman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">farahiyah_dina_osman@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/27.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:400;font-style:normal">Leng Han (Ms)</span><br><a href="mailto:leng_han@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">leng_han@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
@@ -123,11 +123,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Andrew Leung (Mr)</span><br><a href="mailto:andrew_leung_yat_fai@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">andrew_leung_yat_fai@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/29.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Aidah bte Hosni (Mdm)</span><br><a href="mailto:aidah_hosni@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">aidah_hosni@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
