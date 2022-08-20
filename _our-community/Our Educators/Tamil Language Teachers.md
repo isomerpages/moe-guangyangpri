@@ -19,7 +19,7 @@ third_nav_title: Our Educators
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/2Mrs-Thilagaletchumi-Waran.jpeg"></td>
     <td class="tg-0lax"><h5>Thilagaletchumi Waran (Mrs)</h5><br><span style="font-weight:700;font-style:inherit">Tamil Language Teacher</span><br><br><a href="mailto:thilagaletchumi_krishnamoorthi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">thilagaletchumi_krishnamoorthi@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
