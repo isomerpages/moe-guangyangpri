@@ -1,4 +1,5 @@
 collections:
   archives:
     output: true
-    order: []
+    order:
+      - GYPS 100th Anniversary Publications of Yesteryear.md
