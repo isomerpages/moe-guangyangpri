@@ -135,18 +135,31 @@ won_min_ting@moe.edu.sg</span></a></td>
 
 <a id="P3"><h3>Primary 3</h3></a>
 
-
+#### 3 Teamwork
+#### 3 Courage
+#### 3 Loyalty
 
 
 
 <a id="P4"><h3>Primary 4</h3></a>
 
-
-
+#### 4 Honesty
+#### 4 Loyalty
+#### 4 Teamwork
+#### 4 Courage
 
 
 <a id="P5"><h3>Primary 5</h3></a>
 
+#### 4 Honesty
+#### 4 Loyalty
+#### 4 Teamwork
+#### 4 Courage
 
 
 <a id="P6"><h3>Primary 6</h3></a>
+
+#### 4 Courage
+#### 4 Diligence
+#### 4 Honesty
+#### 4 Loyalty
