@@ -37,7 +37,7 @@ third_nav_title: Our Educators
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi5.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>Lim Chiu Har (Mdm)</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>Lim Chiu Har (Mdm)</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:lim_chiu_har@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">lim_chiu_har@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi6.jpeg"></td>
