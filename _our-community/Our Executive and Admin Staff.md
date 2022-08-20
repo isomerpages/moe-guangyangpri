@@ -19,51 +19,52 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex1.jpeg">
+</td>
     <td class="tg-cly1"><h5>Ser Lay Bee (Ms)</h5><br>Administration Manager<br></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex2.jpeg"></td>
     <td class="tg-cly1"><h5>Heng Cheng Peng (Ms)</h5><br>Administration Manager</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex3.jpeg"></td>
     <td class="tg-cly1"><h5>Lau Cheng Nam, PBM, PBS, BBM (Mr)</h5><br>Operations Manager<br></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex4.jpeg"></td>
     <td class="tg-cly1"><h5>Lee Ping (Ms)</h5><br>Administrative Executive</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex5.jpeg"></td>
     <td class="tg-cly1"><h5>Mohammad Zhafrie Bin Jalil (Mr)</h5><br>Administrative Executive</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex6.jpeg"></td>
     <td class="tg-cly1"><h5>Suzana Suja (Mdm)</h5><br>Corporate Support Officer<br></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex7.jpeg"></td>
     <td class="tg-cly1"><h5>Hadi Asyaari Bin Ahmad (Mr)</h5><br>ICT Associate</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex8.jpeg"></td>
     <td class="tg-cly1"><h5>Krishna Susilah (Mdm)</h5><br>Operations Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex9.jpeg"></td>
     <td class="tg-cly1"><h5>Nagarathnam D/O Gopal (Mdm)</h5><br>Operations Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex10.jpeg"></td>
     <td class="tg-cly1"><h5>Enasiammal D/O Savakamuthu (Mdm)</h5><br>Operations Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex11.jpeg"></td>
     <td class="tg-cly1"><h5>Siti Zaidah Bte Adam (Mdm)</h5><br>Operations Support Officer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ex12.jpeg"></td>
 		<td class="tg-cly1"><h5>Jumadi Bin Pahmu (Mr)</h5><br>Operations Support Officer</td>
   </tr>
 </tbody>
