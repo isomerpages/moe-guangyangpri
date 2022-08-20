@@ -11,7 +11,7 @@ third_nav_title: Our Educators
 <a href="#P6">Primary 6</a>
 
 
-<a id="P2"><h3>Primary 2</h3></a>
+<h3><a id="P2">Primary 2</a></h3>
 
 #### 2 Teamwork
 
