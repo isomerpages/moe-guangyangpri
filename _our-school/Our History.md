@@ -25,3 +25,7 @@ In January 1993, the school was relocated to 6 Bishan Street 12.
 <figcaption>The GYPS building at 6 Bishan St 12 between 1993 to 2009. It was demolished and was being redeveloped under PRIME in 2010-2011.</figcaption>
 </figure>
 
+To facilitate the redevelopment of the school premises under PRIME for 2 years, in January 2010, the school was shifted to a holding site at 2 Ang Mo Kio Street 23.  
+In January 2012, Guangyang Primary School moved back to 6 Bishan Street 12. The sparkling new building complete with an Indoor Sport Hall, covered play courts, a roof-top parade square and a Multi-Purpose Hall. New PE attire and school uniform were also introduced.
+
+<img src="/images/history4.jpeg">
