@@ -40,8 +40,6 @@ description: ""
 </tbody>
 </table>
 
-testtest
-
 ### Department Contact
 
 Phone: (+65) 6258 0455
