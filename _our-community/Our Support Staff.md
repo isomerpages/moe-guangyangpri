@@ -30,7 +30,8 @@ description: ""
     <td class="tg-0lax">Mumtaj Begum (Ms) <br><br>Librarian</td>
   </tr>
   <tr>
-    <td class="tg-0lax"><img src="/images/sup4.jpeg">Tan Ah Oon Lisa (Ms) <br><br>Teacher Aide</td>
+    <td class="tg-0lax"><img src="/images/sup4.jpeg"></td>
+		<td class="tg-0lax">Tan Ah Oon Lisa (Ms) <br><br>Teacher Aide</td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/sup5.jpeg"></td>
