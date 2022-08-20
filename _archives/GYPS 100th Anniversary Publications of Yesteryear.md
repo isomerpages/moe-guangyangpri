@@ -41,7 +41,7 @@ Excited about GYPS 100 year Anniversary? Now you can view pictures of yesteryear
   </tr>
   <tr>
     <td class="tg-cly1"><img src="/images/bk6.jpeg"></td>
-    <td class="tg-cly1"><a href="https://drive.google.com/file/d/1Qsjvbx25rm543jd7H3UJPgR9w3vRPLLZ/view?usp=sharing" target="_blank" rel="noopener">光洋中学一九七五年度毕业特刊 Kong Yiong High School Graduation Souvenir Magazine, 1975</a></p></td>
+    <td class="tg-cly1"><a href="https://drive.google.com/file/d/1Qsjvbx25rm543jd7H3UJPgR9w3vRPLLZ/view?usp=sharing" target="_blank" rel="noopener">光洋中学一九七五年度毕业特刊 Kong Yiong High School Graduation Souvenir Magazine, 1975</a></td>
   </tr>
   <tr>
     <td class="tg-cly1"><img src="/images/bk7.jpeg"></td>
