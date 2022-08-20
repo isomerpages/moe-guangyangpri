@@ -330,7 +330,7 @@ won_min_ting@moe.edu.sg</span></a></td>
   </tr>
    <tr>
     <td class="tg-0lax"><img src="/images/28.jpeg"></td>
-    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Brindha Sankar (Ms)</span><br><a href="mailto:brindha_sankar@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">brindha_sankar@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
