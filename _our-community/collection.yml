@@ -2,6 +2,7 @@ collections:
   our-community:
     output: true
     order:
+      - Our Educators/.keep
       - Our Executive and Admin Staff.md
       - Our Support Staff.md
       - School Advisory Committee.md
