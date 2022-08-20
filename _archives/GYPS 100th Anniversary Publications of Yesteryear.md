@@ -81,3 +81,9 @@ Excited about GYPS 100 year Anniversary? Now you can view pictures of yesteryear
   </tr>
 </tbody>
 </table>
+
+_\* Courtesy of National Library Board, Singapore_
+
+You can view these publications via [National Library Board‘s BookSG](http://eresources.nlb.gov.sg/printheritage) portal.
+
+Share in the rich heritage of our 100 year old school!
