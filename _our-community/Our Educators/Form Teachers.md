@@ -78,6 +78,31 @@ won_min_ting@moe.edu.sg</span></a></td>
 
 #### 2 Diligence
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 603px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 453px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Farahiyah Dina Osman (Ms)</span><br><a href="mailto:farahiyah_dina_osman@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">farahiyah_dina_osman@moe.edu.sg</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-cly1"><span style="font-weight:400;font-style:normal">Leng Han (Ms)</span><br><a href="mailto:leng_han@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">leng_han@moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
 
 #### 2 Honesty
 
