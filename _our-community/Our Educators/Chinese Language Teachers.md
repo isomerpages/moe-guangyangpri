@@ -33,31 +33,31 @@ third_nav_title: Our Educators
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi4.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">teacherposition</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>Goh Jia Yee (Ms)</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:goh_jia_yee@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">goh_jia_yee@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi5.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">teacherposition</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>Lim Chiu Har (Mdm)</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi6.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">teacherposition</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi7.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>hello</h5></span><br><span style="font-weight:700;font-style:inherit">teacherposition</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>hello</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi8.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">teacherposition</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi10.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">teacherposition</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0pky"><img src="/images/chi11.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">teacherposition</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>teachername</h5></span><br><span style="font-weight:700;font-style:inherit">Chinese Language Teachers</span><br><br><a href="mailto:email" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">mail</span></a></td>
   </tr>
 </tbody>
 </table>
