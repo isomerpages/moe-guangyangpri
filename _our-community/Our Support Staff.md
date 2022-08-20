@@ -23,23 +23,23 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/sup1.jpeg"></td>
-		<td class="tg-0lax"><h5>Muhammad Roslan (Mr)</h5><span style="font-weight:bold"> </span><br>Desktop Engineer</td>
+		<td class="tg-0lax"><h5>Muhammad Roslan (Mr)</h5><span style="font-weight:bold"> </span><br><strong>Desktop Engineer</strong></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/sup2.jpeg"></td>
-		<td class="tg-0lax"><h5>Edmund Wong (Mr)</h5><br>Desktop Engineer</td>
+		<td class="tg-0lax"><h5>Edmund Wong (Mr)</h5><br><strong>Desktop Engineer</strong></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/sup3.jpeg"></td>
-		<td class="tg-0lax"><h5>Mumtaj Begum (Ms)</h5><br>Librarian</td>
+		<td class="tg-0lax"><h5>Mumtaj Begum (Ms)</h5><br><strong>Librarian</strong></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/sup4.jpeg"></td>
-		<td class="tg-0lax"><h5>Tan Ah Oon Lisa (Ms)</h5><br>Teacher Aide</td>
+		<td class="tg-0lax"><h5>Tan Ah Oon Lisa (Ms)</h5><br><strong>Teacher Aide</strong></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/sup5.jpeg"></td>
-		<td class="tg-0lax"><h5>Heng Geok Alice (Mdm)</h5><br>Office Support</td>
+		<td class="tg-0lax"><h5>Heng Geok Alice (Mdm)</h5><br><strong>Office Support</strong></td>
   </tr>
 </tbody>
 </table>
