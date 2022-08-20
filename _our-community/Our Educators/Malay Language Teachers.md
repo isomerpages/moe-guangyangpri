@@ -25,7 +25,7 @@ third_nav_title: Our Educators
   </tr>
   <tr>
     <td class="tg-0pky"><img src="/images/2Mdm-Junaidah-Bte-Mohamed-Sali.jpeg"></td>
-    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit">Junaidah Bte Mohamed Sali (Mdm)</span><br><br><span style="font-weight:700;font-style:inherit">Malay Language Teacher</span><br><br><a href="mailto:junaidah_mohamed_sali@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">junaidah_mohamed_sali@moe.edu.sg</span></a></td>
+    <td class="tg-lboi"><span style="font-weight:inherit;font-style:inherit"><h5>Junaidah Bte Mohamed Sali (Mdm)</h5></span><br><span style="font-weight:700;font-style:inherit">Malay Language Teacher</span><br><br><a href="mailto:junaidah_mohamed_sali@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">junaidah_mohamed_sali@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
