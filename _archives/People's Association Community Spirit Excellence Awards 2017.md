@@ -23,3 +23,5 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+![](/images/PA-Community-Awards_2017_650.jpeg)
