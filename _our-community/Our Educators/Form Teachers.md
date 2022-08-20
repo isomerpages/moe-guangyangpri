@@ -153,11 +153,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/31.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Tan Pei Ming Elizabeth (Ms)</span><br><a href="mailto:tan_pei_ming_elizabeth@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">tan_pei_ming_elizabeth@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/32.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Seet Chia Song (Mr)</span><br><a href="mailto:seet_chia_song@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">seet_chia_song@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
@@ -181,11 +181,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/33.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Trupti Vikas Palkar (Ms)</span><br><a href="mailto:trupti_vikas_palkar@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">trupti_vikas_palkar@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/34.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Bianca Ang Hui Ying (Ms)</span><br><a href="mailto:ang_hui_ying@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">ang_hui_ying@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
@@ -209,11 +209,11 @@ won_min_ting@moe.edu.sg</span></a></td>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/35.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">Chrisnita d/o Baliram (Ms)</span><br><a href="mailto:chrisnita_baliram@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">chrisnita_baliram@moe.edu.sg</span></a></td>
   </tr>
    <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-0lax"><img src="/images/36.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">S Nirmala Devi Santhanasamy (Mrs)</span><br><a href="mailto:s_nirmala_devi_santhanasamy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">s_nirmala_devi_santhanasamy@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
