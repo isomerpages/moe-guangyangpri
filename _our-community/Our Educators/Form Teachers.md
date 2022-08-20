@@ -338,7 +338,7 @@ won_min_ting@moe.edu.sg</span></a></td>
 
 <h3><a id="P5">Primary 5</a></h3>
 
-#### 4 Honesty
+#### 5 Honesty
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -366,36 +366,7 @@ won_min_ting@moe.edu.sg</span></a></td>
 </tbody>
 </table>
 
-#### 4 Loyalty
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 603px">
-<colgroup>
-<col style="width: 150px">
-<col style="width: 453px">
-</colgroup>
-<tbody>
-  <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
-    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
-  </tr>
-   <tr>
-    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
-    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
-  </tr>
-</tbody>
-</table>
-
-
-#### 4 Teamwork
+#### 5 Loyalty
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -424,8 +395,37 @@ won_min_ting@moe.edu.sg</span></a></td>
 </table>
 
 
+#### 5 Teamwork
 
-#### 4 Courage
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 603px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 453px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
+  </tr>
+   <tr>
+    <td class="tg-0lax"><img src="/images/28.jpeg"></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit">teachername</span><br><a href="mailto:teachermail" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teachermail</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+
+
+#### 5 Courage
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -457,7 +457,7 @@ won_min_ting@moe.edu.sg</span></a></td>
 
 <h3><a id="P6">Primary 6</a></h3>
 
-#### 4 Courage
+#### 6 Courage
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -486,7 +486,7 @@ won_min_ting@moe.edu.sg</span></a></td>
 </table>
 
 
-#### 4 Diligence
+#### 6 Diligence
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -515,7 +515,7 @@ won_min_ting@moe.edu.sg</span></a></td>
 </table>
 
 
-#### 4 Honesty
+#### 6 Honesty
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -544,7 +544,7 @@ won_min_ting@moe.edu.sg</span></a></td>
 </table>
 
 
-#### 4 Loyalty
+#### 6 Loyalty
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
