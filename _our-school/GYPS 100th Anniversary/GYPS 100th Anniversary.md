@@ -85,7 +85,7 @@ third_nav_title: GYPS 100th Anniversary
           <img src="/images/gy14.jpg"></a></td>
   </tr>
   <tr>
-    <td><a href = "/gyps-100th-anniversary-publications-of-yesteryear/" target = "_self"> 
+    <td><a href = "/archives/gyps-100th-anniversary-publications-of-yesteryear" target = "_self"> 
           <img src="/images/gy15.jpg"></a></td>
     <td><img src="/images/gif15.gif"></td>
   </tr>
