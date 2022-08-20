@@ -9,3 +9,19 @@ Guangyang Primary School (光洋小学), originally named Kong Yiong School, was
 <img src="/images/history1.jpeg">
 <figcaption>During the Japanese occupation, the school was closed temporarily and reopened in September 1945.</figcaption>
 </figure>
+
+<figure>
+<img src="/images/history2.jpeg">
+<figcaption>GYPS was visited by former Prime Minister, Mr Lee Kuan Yew in 1963.</figcaption>
+</figure>
+
+In 1959, the school took in secondary classes and was named Kong Yiong High School.  
+In 1978, the school became bilingual offering English as well as Chinese as a first and second language. In 1984, the secondary school branch and the primary school branch separated. The primary school branch was converted into a government school in 1986.  
+In 1988, a new logo and school uniform were introduced and the name of the school was changed to its “hanyu pinyin” version, that is GUANGYANG PRIMARY SCHOOL (光洋小学)  
+In January 1993, the school was relocated to 6 Bishan Street 12.
+
+<figure>
+<img src="/images/history3.jpeg">
+<figcaption>The GYPS building at 6 Bishan St 12 between 1993 to 2009. It was demolished and was being redeveloped under PRIME in 2010-2011.</figcaption>
+</figure>
+
