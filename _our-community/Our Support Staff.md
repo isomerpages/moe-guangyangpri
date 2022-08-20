@@ -39,3 +39,11 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+Department Contact
+------------------
+Phone: (+65) 6258 0455
+
+Fax: (+65) 6258 0455
+
+Mail: [gyps@moe.edu.sg](mailto:gyps@moe.edu.sg)
