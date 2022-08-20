@@ -18,23 +18,22 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/sup1.jpeg"></td>
 		<td class="tg-0lax"><h5>Muhammad Roslan (Mr)</h5><span style="font-weight:bold"> </span><br><br>Desktop Engineer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/sup2.jpeg"></td>
     <td class="tg-0lax">Edmund Wong (Mr)<br><br>Desktop Engineer</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/sup3.jpeg"></td>
     <td class="tg-0lax">Mumtaj Begum (Ms) <br><br>Librarian</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">Tan Ah Oon Lisa (Ms) <br><br>Teacher Aide</td>
+    <td class="tg-0lax"><img src="/images/sup4.jpeg">Tan Ah Oon Lisa (Ms) <br><br>Teacher Aide</td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/sup5.jpeg"></td>
     <td class="tg-0lax">Heng Geok Alice (Mdm) <br><br>Office Support</td>
   </tr>
 </tbody>
