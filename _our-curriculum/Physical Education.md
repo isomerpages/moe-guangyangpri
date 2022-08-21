@@ -103,6 +103,4 @@ Please visit our [facebook page](https://www.facebook.com/guangyang.primary) w
 
  <a href = "https://www.facebook.com/guangyang.primary" target = "_self"> 
           <img src="/images/facebook.png" 
-     style="width:5%"></a>
-
-
+     style="width:7%"></a>
