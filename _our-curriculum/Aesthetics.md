@@ -57,3 +57,11 @@ We are implementing a 3-tiered structure catering to different learning experien
 **DIAGRAM B**
 
 ![](/images/diagramb.png)
+
+<h1><u>Music Curriculum</u></h1>
+
+
+The school’s Classroom Music curriculum for all levels is delivered in 4 modules namely: (1) Singing (2) Theory and Composing  (3) Listening and Responding to Music – Cultural Appreciation and (4) Ensemble Playing. Music literacy is developed through reading and performance based conventional and non-conventional notation leading to self-expression and creativity. Pupils will then be shown how theoretical knowledge may be applied in the choreography of dances as well as in the areas of instrumental music and interpretation.
+
+
+
