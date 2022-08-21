@@ -58,39 +58,39 @@ description: ""
 <tbody>
   <tr>
     <td class="tg-0lax"><img src="/images/PICTURE.jpeg"></td>
-		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>TEACHERNAME</h5></span><br><span style="font-weight:700;font-style:inherit">POSITION</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:MAIL" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">MAIL</span></a></td>
+		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Shanthi Deenathayalan (Mdm)</h5></span><br><span style="font-weight:700;font-style:inherit">Department: English</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:shanthi_deenathayalan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">shanthi_deenathayalan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/PICTURE.jpeg"></td>
-		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>TEACHERNAME</h5></span><br><span style="font-weight:700;font-style:inherit">POSITION</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:MAIL" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">MAIL</span></a></td>
+		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Rachel Long (Mrs)</h5></span><br><span style="font-weight:700;font-style:inherit">Department: Science</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:rachel_tan_hsu_sze-ern@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">rachel_tan_hsu_sze-ern@moe.edu.sg</span></a></td>
   </tr>
   <tr>
     <td class="tg-0lax"><img src="/images/PICTURE.jpeg"></td>
-		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>TEACHERNAME</h5></span><br><span style="font-weight:700;font-style:inherit">POSITION</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:MAIL" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">MAIL</span></a></td>
+		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Seet Chia Song (Mr)</h5></span><br><span style="font-weight:700;font-style:inherit">Department: Mother Tongue Language</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:seet_chia_song@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">seet_chia_song@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0lax"><img src="/images/PICTURE.jpeg"></td>
-		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>TEACHERNAME</h5></span><br><span style="font-weight:700;font-style:inherit">POSITION</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:MAIL" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">MAIL</span></a></td>
+		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Johnson Chee John Son (Mr)</h5></span><br><span style="font-weight:700;font-style:inherit">Department: PAM & CCA</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:johnson_chee_john_son@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">johnson_chee_john_son@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0lax"><img src="/images/PICTURE.jpeg"></td>
-		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>TEACHERNAME</h5></span><br><span style="font-weight:700;font-style:inherit">POSITION</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:MAIL" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">MAIL</span></a></td>
+		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Lee Boon Haw Jeremy (Mr)</h5></span><br><span style="font-weight:700;font-style:inherit">Department: ICT & Covering HOD/ Mathematics</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:lee_boon_haw_jeremy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">lee_boon_haw_jeremy@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0lax"><img src="/images/PICTURE.jpeg"></td>
-		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>TEACHERNAME</h5></span><br><span style="font-weight:700;font-style:inherit">POSITION</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:MAIL" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">MAIL</span></a></td>
+		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Muhammad Bin Ali (Mr)</h5></span><br><span style="font-weight:700;font-style:inherit">Department: Year Head</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:muhammad_b_ali@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">muhammad_b_ali@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0lax"><img src="/images/PICTURE.jpeg"></td>
-		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>TEACHERNAME</h5></span><br><span style="font-weight:700;font-style:inherit">POSITION</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:MAIL" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">MAIL</span></a></td>
+		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Norsinah Bte Suadi (Ms)</h5></span><br><span style="font-weight:700;font-style:inherit">Department: School Staff Developer</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:norsinah_suadi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">norsinah_suadi@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0lax"><img src="/images/PICTURE.jpeg"></td>
-		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>TEACHERNAME</h5></span><br><span style="font-weight:700;font-style:inherit">POSITION</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:MAIL" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">MAIL</span></a></td>
+		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Brindha Sankar (Ms)</h5></span><br><span style="font-weight:700;font-style:inherit">Department: Character and Citizenship Education</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:brindha_sankar@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">brindha_sankar@moe.edu.sg</span></a></td>
   </tr>
 	<tr>
     <td class="tg-0lax"><img src="/images/PICTURE.jpeg"></td>
-		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>TEACHERNAME</h5></span><br><span style="font-weight:700;font-style:inherit">POSITION</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:MAIL" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">MAIL</span></a></td>
+		<td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Teo Wei Ping (Ms)</h5></span><br><span style="font-weight:700;font-style:inherit">Department: MRL & Subject Head/ Chinese Language</span><br><br><span style="font-weight:700;font-style:inherit"> </span><a href="mailto:teo_wei_ping@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">teo_wei_ping@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
