@@ -113,15 +113,15 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/TLC1.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>S Nirmala Devi Santhanasamy (Mrs Sam)</h5></span><br><span style="font-weight:700;font-style:inherit">Lead Teacher / Science</span><br><br><a href="mailto:s_nirmala_devi_santhanasamy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">s_nirmala_devi_santhanasamy@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/TLC2.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Lazar Jennifer Selvi (Mdm)</h5></span><br><span style="font-weight:700;font-style:inherit">Senior Teacher / English</span><br><br><a href="mailto:lazar_jennifer_selvi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">lazar_jennifer_selvi@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/TLC3.jpeg"></td>
     <td class="tg-0lax"><span style="font-weight:inherit;font-style:inherit"><h5>Aidah bte Hosni (Mdm)</h5></span><br><span style="font-weight:700;font-style:inherit">Senior Teacher / Malay</span><br><br><a href="mailto:aidah_hosni@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">aidah_hosni@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
