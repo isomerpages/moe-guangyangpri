@@ -64,7 +64,7 @@ We are implementing a 3-tiered structure catering to different learning experien
 The school’s Classroom Music curriculum for all levels is delivered in 4 modules namely: (1) Singing (2) Theory and Composing  (3) Listening and Responding to Music – Cultural Appreciation and (4) Ensemble Playing. Music literacy is developed through reading and performance based conventional and non-conventional notation leading to self-expression and creativity. Pupils will then be shown how theoretical knowledge may be applied in the choreography of dances as well as in the areas of instrumental music and interpretation.
 
   
-![Aesthetics-1-924x652](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Aesthetics-1-924x652-1.png "Aesthetics-1-924x652")
+![](/images/pa1.png)
 
 Co-curricular
 -------------
@@ -79,47 +79,47 @@ The school aims to enhance the Instrumental Experience of pupils through the Co-
 
 Angklung & Kuliantang Ensemble at 2018 SYF Arts Presentation
 
-![Angklung-Kuliantang-924x924](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Angklung-Kuliantang-924x924-1.jpg "Angklung-Kuliantang-924x924")
+![](/images/pa2.jpeg)
 
 Indian Dance Group at 2018 SYF Arts Presentation
 
-![Indian-Dance-924x1271](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Indian-Dance-924x1271-1.jpg "Indian-Dance-924x1271")
+![](/images/pa3.jpeg)
 
 Malay Dance Group at 2018 SYF Arts Presentation
 
-![malay-dance-924x1271](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/malay-dance-924x1271-1.jpg "malay-dance-924x1271")
+![](/images/pa4.jpeg)
 
 Chinese Dance at 2018 SYF Arts Presentation
 
-![Chinese-dance-924x1271](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Chinese-dance-924x1271-1.jpg "Chinese-dance-924x1271")
+![](/images/pa5.jpeg)
 
 GYPS A# Handbell Ensemble at 2018 SYF Arts Presentation
 
-![handbell-924x924](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/handbell-924x924-1.jpg "handbell-924x924")
+![](/images/pa6.jpeg)
 
 GYPS 101st Open House on 27 July 2019
 -------------------------------------
 
-![Aesthetics-2-1200x435](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Aesthetics-2-1200x435-1.png "Aesthetics-2-1200x435")
+![](/images/pa7.png)
 
 #### Primary 4 Cohort Programme – Annual Musical (2019)
 
 Our P4 students confidently presented a theatrical dance performance entitled “Embracing a New Age”. Scripted by the students themselves, it represented the hopes and aspirations of all GYPS students. It depicted the way students learn in a futuristic environment, assisted by androids and robots. Coupled with a mindset of innovation and the courage to test out new inventions, they explored the use of futuristic transportation tools to connect the world. Tapping on their curiosity, they showed us how their knowledge of the life sciences and human DNA can be applied to benefit mankind.
 
-![Aesthetics-3-924x892](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Aesthetics-3-924x892-1.png "Aesthetics-3-924x892")
+![](/images/pa8.png)
 
 Milestone Musical for our 100th Anniversary Celebrations in 2018
 
-![P5-Musical-924x1109](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/P5-Musical-924x1109-1.jpg "P5-Musical-924x1109")
+![](/images/pa10.jpeg)
 
-![P5-Musical-2-924x1109](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/P5-Musical-2-924x1109-1.jpg "P5-Musical-2-924x1109")
+![](/images/pa11.jpeg)
 
 GYPS Strings
 ------------
 
 The Violin and Cello Interest Group is now formalised as a CCA and is known as GYPS Strings. Training sessions are conducted on Fridays 3.30 to 5.30 pm.
 
-![GYPS-Strings-924x718](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/GYPS-Strings-924x718-1.jpg "GYPS-Strings-924x718")
+![](/images/pa12.jpeg)
 
 A# TALENT DEVELOPMENT PROGRAMME
 -------------------------------
@@ -128,21 +128,21 @@ A# TALENT DEVELOPMENT PROGRAMME
 
 The GYPS A# Handchime Ensemble was incepted in 2007 as part of the school’s Talent Development Programme for Music and subsequently made its debut Singapore Youth Festival (SYF) Performance in 2008. Since then, the members have been actively engaged in numerous public performances such as the Orchard Road Christmas Light-up and community events within the Bishan Constituency. In 2009, Handbells were introduced to enhance the members’ musical experiences. Growing from strength to strength, the group was accorded the GOLD Award at the 2010 SYF Central Judging, and subsequently GOLD (with Honours) in 2012. Under the revised SYF Arts Presentation system, the group was accorded a Certification of Distinction in 2014 and 2016. The group was accorded a Certificate of Accomplishment in 2018.
 
-![START-Scheme-1](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/START-Scheme-1.jpg "START-Scheme-1")
+![](/images/pa13.jpeg)
 
-![London-Handbell](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/London-Handbell.jpg "London-Handbell")
+![](/images/pa14.jpeg)
 
 Public Performances
 -------------------
 
 #### Public Performances (2017)
 
-![Public-event-1](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Public-event-1.jpg "Public-event-1")
+![](/images/pa15.jpeg)
 
-![Public-event-2-924x387](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Public-event-2-924x387-1.jpg "Public-event-2-924x387")
+![](/images/pa16.jpeg)
+
 
 A heart-warming and nostalgic concert by our Primary 6 pupils paying tribute to parents and teachers
 
-![P6-Grad-concert-1](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/P6-Grad-concert-1.jpg "P6-Grad-concert-1")
-
-![P6-Grad-concert-2](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/P6-Grad-concert-2.jpg "P6-Grad-concert-2")
+![](/images/pa17.jpeg)
+![](/images/pa18.jpeg)
