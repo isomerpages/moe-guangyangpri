@@ -145,8 +145,7 @@ The pupils then went to the Pongal Exhibition at Hastings Road where they learne
 
 It was truly an enriching experience for pupils and teachers.
 
-![](/images/cce10.jpeg)
-
+![](/images/cce10-min.png)
 #### Interactive Heritage Trail – Kampong Glam
 
 _25 Apr 2018_
