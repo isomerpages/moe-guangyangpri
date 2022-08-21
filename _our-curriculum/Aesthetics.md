@@ -157,7 +157,9 @@ Visual Arts
 
 The objectives of the GYPS Curriculum are achieved through the Primary Art Syllabus Framework in the figure below that encapsulates the key features of
 
-![](/images/va1.jpeg)
+<img src="/images/va1.jpeg" 
+     style="width:45%">
+
 
 the syllabus:
 
@@ -194,7 +196,10 @@ In commemoration of GYPS’s 100th Anniversary in 2018, a public physical and o
 
 Our pupils submitted entries for the Our Estate. Our Home. Art Competition organised by the Bishan-Toa Payoh Town Council. Two of our pupils won prizes and as a result had their work printed in the 2019 Bishan-Toa Payoh Town Council Calendar.
 
-![](/images/va5.jpeg)
+
+<img src="/images/va5.jpeg" 
+     style="width:55%">
+
 
 <a id="3"></a>
 
@@ -220,7 +225,8 @@ Department Highlights
 
 In this Artwork, we imagine many colourful bubbles under the surface of the sea. We can see images of pokeballs, illuminatis, genetic cells and other interesting patterns. It may look like a cave with some awesome rock formations, explosions of a nebula, Martian’s eggs or even cells that we may not have discovered. They may not have a nucleus or anything but we will definitely enhance our imagination and continue to explore the secrets of the world.
 
-![](/images/dh2.jpeg)
+<img src="/images/dh2.jpeg" 
+     style="width:65%">
 
 **Category B (Primary 3 and 4)**
 
@@ -236,7 +242,9 @@ We enjoy doodling our imaginative ideas in circles of different sizes. The circl
 
 In school, we enjoy different types of learning experiences in different spaces such as gardens, library, art room, science laboratory, etc. The four colours represent our multi-racial society. We hope everyone can work together to build a vibrant Singapore that we all can be proud of.
 
-![](/images/dh4.jpeg)
+
+<img src="/images/dh4.jpeg" 
+     style="width:65%">
 
 **Receipients Of Certificate Of Recognition For Category B**  
 “Teams with Open Minds” was exhibited at Scape Park and our Art Team was on-site to showcase their artwork. Congratulations to the GYPS Art Team!
