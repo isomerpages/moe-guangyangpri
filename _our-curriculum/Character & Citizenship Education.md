@@ -117,3 +117,128 @@ Pupils awarded with Gold badges will present an NE story every Mondays during 
 ![](/images/cce7.jpeg)
 
 <a id="2"></a>
+
+Learning Journeys @ GYPS
+------------------------
+
+In GYPS, learning journeys are integrated into our curriculum. Pupils go on learning journeys which allow them to learn more about Singapore and to bring the NE messages alive to them.
+
+Through the NE learning journey, field-based learning and NE Interactive Heritage Trail, the school hopes to enhance pupils’ learning experiences, thus injecting meaning to their learning.
+
+#### School Heritage Champion Awards 2019
+
+![Heritage-2-300x210](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Heritage-2-300x210-1.jpg "Heritage-2-300x210")
+
+Guangyang Primary School has been selected as one of the recipients of the School Heritage Champion Award in 2019 by NHB. It is an award which recognises and applauds schools that are strong supporters and advocates of National Heritage Board’s heritage education initiatives at least for the past 2 years. Well done, Guangyang!
+
+![Heritage-1](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Heritage-1.jpg "Heritage-1")
+
+#### Interactive Heritage Trail – Little India
+
+The primary 5 pupils of Guangyang Primary School embarked on a learning journey to Little India on 16th January 2019. The aim of the learning journey was to exposing pupils to the history of Little India and the customs and rituals of Pongal which is the thanksgiving harvest festival of the Tamil community. This learning journey is an annual event in the school.
+
+The pupils learned about traditional Indian desserts, Indian vegetarian food, henna body art and the cultural significance of flowers and garlands in traditional rituals and ceremonies in Little India.
+
+At the Indian Heritage Centre, pupils tried their hands on traditional Indian games and the art of drawing Kolam.
+
+The pupils then went to the Pongal Exhibition at Hastings Road where they learned about the agricultural traditions of the Tamil community. For many, it was the first time saw a cow and a calf. Following that, they were treated to a cultural dance performance on the stage set up at Campbell Lane for the Pongal Celebrations.
+
+It was truly an enriching experience for pupils and teachers.
+
+![Little-India](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Little-India.png "Little-India")
+
+#### Interactive Heritage Trail – Kampong Glam
+
+_25 Apr 2018_
+
+On 25th April 2018, the P4 pupils went on a heritage trail to Kampong Glam. This was to give the pupils an opportunity to understand what makes Singapore tick and to instil pride in our nation’s achievements. From the trail, our students learnt about the history of Kampong Glam, the pioneers of Kampong Glam, the Malay culture, religion and way of life.
+
+**NE Messages**
+
+**#1: Singapore is our homeland; this is where we belong.**  
+(We treasure our heritage and take pride in shaping our own unique way of life.)[  
+](https://guangyangpri.moe.edu.sg/wp-content/uploads/2016/03/cce02-kampong-glam-2016a.jpg)
+
+Learning about Islam at the Sultan Mosque
+
+![kampong_glam_2018_01_learn_islam](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/kampong_glam_2018_01_learn_islam.jpg "kampong_glam_2018_01_learn_islam")
+
+Bonding with friends over food
+
+![kampong_glam_2018_02_bonding_friend](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/kampong_glam_2018_02_bonding_friend.jpg "kampong_glam_2018_02_bonding_friend")
+
+Finding out about perfumes
+
+![kampong_glam_2018_03_perfumes](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/kampong_glam_2018_03_perfumes.jpg "kampong_glam_2018_03_perfumes")
+
+Using mobile devices to learn more about Kampong Glam
+
+![kampong_glam_2018_04_use_mobile](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/kampong_glam_2018_04_use_mobile.jpg "kampong_glam_2018_04_use_mobile")
+
+Just having a great time!
+
+![kampong_glam_2018_05_great_time](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/kampong_glam_2018_05_great_time.jpg "kampong_glam_2018_05_great_time")
+
+NE Commemoration Days @ GYPS
+----------------------------
+
+#### Total Defence Day
+
+_15 Feb 2019_
+
+Total Defence Day (TDD) was commemorated in Guangyang Primary School on 15th February 2019. The theme for this year’s Total Defence Day is ‘Together We Keep Singapore Strong’. The theme serves to remind all Singaporeans that everyone has a part to contribute to the five pillars of Total Defence.
+
+A week prior to Total Defence Day, pupils were engaged in TDD lessons during Character & Citizenry Education (CCE), Social Studies (SS) and Art periods. Pupils learnt the different aspects of Total Defence and how they could play an active role in keeping Singapore safe. On the week of Total Defence Day, National Education (NE) ambassadors were in-charge of recess booths that allowed pupils to take part in various TDD activities, like jigsaw puzzles, crossword puzzles and  colouring activities etc. A Home Team Roadshow was also organized during recess, to create awareness among pupils on emergency preparedness and staying vigilant at all times.
+
+On Total Defence Day, the highlight of the commemoration was the pre-assembly programme. Our male teachers were dressed in their National Service uniforms, which added colour to the entire event. Our Mother Tongue Language (MTL) Head of Department, Mr Seet Chia Song, delivered the 2019 TDD message. Through Mr Nazirudeen’s powerpoint presentation, pupils learnt the significance and importance of National Service. The assembly ended with the mass singing of the TDD theme song, ‘There’s A Part for Everyone’, led by Mrs Sharon Ng, Mdm Norhafiza, and our NE ambassadors.
+
+At 12.30 pm, pupils proceeded to their form classes where TDD lesson packages were conducted. They learnt about the signals of the public warning system. The upper primary pupils also learnt more about SGSecure. The lower primary pupils then had a Food Rationing Exercise held in their classrooms, while the upper primary pupils had the experience of queuing for their own food rations at the basketball court. The commemoration ended with a post-reflection activity for pupils to pen down their learning takeaways from the event.
+
+![TDD](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/TDD.jpg "TDD")
+
+#### International Friendship Day (IFD)
+
+_8 Apr 2019_
+
+International Friendship Day is a day dedicated to the understanding of Singapore’s relations with neighbouring countries and beyond.  In 2019, the theme is “Connected Communities”.
+
+Aligned to the 2019 theme on Connected Communities, the commemoration activities organised by GYPS provide opportunities for pupils to appreciate and live together with friends with different traditions, languages, cultures and histories. It is important to encourage our pupils to continue to actively deepen the connection with our neighbours by empowering them in this process of celebrating our vibrancy and building our community. Pupils are treated to arts performances (i.e. Violin, community singing for songs from various countries and craft work).
+
+![IFD-924x618](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/IFD-924x618-1.jpg "IFD-924x618")
+
+#### Racial Harmony Day
+
+_19 Jul 2019_
+
+Guangyang Primary School commemorated Racial Harmony Day on 19 July 2019. The theme for this year is ‘The Singapore Connection’. During the Assembly talk, pupils learnt about the importance of preserving racial and religious harmony. They had opportunities to learn about different cultures, speak different languages and eat different types of traditional food as a multi-racial nation.
+
+Pupils were engaged in a variety of activities such as henna painting, playing traditional games eating traditional food and having trishaw rides with friends of different races. They wore ethnic costumes and some of them took part in the Fashion Parade. They enjoyed these activities and related well with their peers in a harmonious way.
+
+![RHD-Write-up-1200x515](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/RHD-Write-up-1200x515-1.jpg "RHD-Write-up-1200x515")
+
+#### National Day
+
+8 August 2019
+
+Guangyang Primary School celebrated our 54th National Day on 8 August 2019. Teacher and pupils came ready for the celebration in red and white. This year’s theme was ‘Our Singapore’.
+
+In the morning the school observed a formal ceremony. The march in by the prefects    bearing the National Flag and the school flag, the singing of the National Anthem patriotically as the flag was being raised and the reciting of the pledge in one voice was truly a remarkable sight.
+
+Following the ceremony we had an exhilarating ACES workout before heading back to class for more fun activities.
+
+The highlight of the day was the highly anticipated National Day Concert. This year 3 Courage, 3 Loyalty, Wushu and Indian Dance members put up fantastic performances. There were 2 game segments where attractive prizes were given away. The celebrations ended on a high note with the singing of our favourite National Day songs – _Home_ and _Our Singapore_.
+
+![National-Day-924x654](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/National-Day-924x654-1.jpg "National-Day-924x654")
+
+Trips for Internationalization Experience
+-----------------------------------------
+
+TIE aims to develop in our pupils’ global awareness and cross-cultural skills and sensitivities, thus preparing them to be global citizens of the 21st century. Through overseas immersion programmes and overseas learning journeys, our pupils also learn to appreciate Singapore and her uniqueness.
+
+#### Penang Cultural Immersion Trip
+
+_14 Aug – 16 Aug 2019_
+
+A group of 47 Primary 5 pupils, accompanied by 6 teachers went on a learning journey to Penang from 14th August to 16th August. The pupils visited the Ramakrishna Ashrama (Orphanage). During the visit, pupils learned more about the residents of the orphanage through lively interactions. Souvenirs were also presented to the residents of the orphanage. The pupils had the opportunity to learn about the rich heritage and culture of Penang through visits to numerous places of interest. During the UNESCO heritage walking tour, pupils visited the oldest Kuan Inn Temple, Sri Mahamariaman Temple, Kapitan Keling Mosque and St. George’s Church, all within close proximity from one another. At the batik factory, they learned about the process of batik making and tried their hand at batik painting. The mural wall art walking trail was an eye-opener for the pupils who were fascinated by the beautiful art displays. The highlight of the trip was the visit to the Pinang Peranakan Mansion. A recreation of a typical 19th century Baba home, the elegantly restored museum displays over 1,000 pieces of antiques and collectibles. Our pupils returned from the learning journey enriched and filled with a deeper appreciation of the different cultures and traditions of the different races
+
+![Penang-Pic-924x1307](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Penang-Pic-924x1307-1.jpg "Penang-Pic-924x1307")
