@@ -145,15 +145,15 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ayh1.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Cheah-Loo Yin Hui (Mrs)</h5></span><br><br><a href="mailto:cheah_loo_hui_hui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">cheah_loo_hui_hui@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ayh2.jpeg"></td>
     <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Vemalan S/O Elangovan</h5></span><br><br><a href="mailto:vemalan_elangovan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">vemalan_elangovan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><img src="/images/ayh3.jpeg"></td>
     <td class="tg-0lax"><span style="font-weight:inherit;font-style:inherit"><h5>Lim-Chew Hua Jie (Mrs)</h5></span><br><br><a href="mailto:chew_hua_jie@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">chew_hua_jie@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
