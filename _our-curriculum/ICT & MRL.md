@@ -41,13 +41,6 @@ The school seeks to expose pupils in the use of ICT in the various subject domai
 </tbody>
 </table>
 
-![](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/ict-approach-circle-277x300.jpg)The ICT Department is guided by its ICT Framework where the core values of the school are emphasized in the learning of ICT skills and cyberwellness lessons.  The learning of ICT skills is underpinned by the development of Social Emotional Learning (SEL) and 21st Century Competencies.
-
-The school seeks to expose pupils in the use of ICT in the various subject domains with the end goals of grooming users who are:  
-– IT-savvy and competent  
-– Safe and responsible  
-– Respectful of self and others
-
 ### Programmes
 
 
