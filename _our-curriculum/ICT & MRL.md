@@ -184,7 +184,11 @@ One of the GYPS Library signature programmes this year is the **‘Drop Everyth
 
 *   enhance logical thinking and concentration
 
-![](/images/ict4.gif)
+
+<img src="/images/ict4.gif" 
+     style="width:25%">
+
+
 Students are also given the opportunities to showcase their reading to the school as part of the DEAL. In Terms 3 and 4, the DEAL sessions will showcase our very own e-audiobooks and read-aloud sessions, specially produced by our students. Through this, it is hoped that students are inspired to a lifelong love for reading.
 
 The GYPS School Library Themes (Terms 2 & 3)
