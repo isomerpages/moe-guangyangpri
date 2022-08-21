@@ -6,7 +6,9 @@ description: ""
 <a href="#1">KEY PROGRAMMES</a> | <a href="#2">DEPARTMENTAL HIGHLIGHTS</a>
 
 
-<h4><a href="1">Department Goals</a></h4>
+<a href="1"></a>
+
+<h4>Department Goals</h4>
 
 To develop pupils who are Confident Persons, Self-Directed Learners, Active Contributors and Concerned Citizens.
 
