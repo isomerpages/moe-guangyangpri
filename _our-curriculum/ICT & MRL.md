@@ -85,3 +85,49 @@ From Primary 1 to 4 – Students learn skills that are directly related to their
   </tr>
 </tbody>
 </table>
+
+#### Lower Primary ICT Lessons: Basic Computer Skills and Touch Typing
+
+From as early as Primary One, pupils are introduced to the basics of using the computer and typing skills. Here, they learn to sit in the correct typing posture, to type with two hands and how to access the typing program on their own.
+
+With an interactive typing programme, pupils learn to type in an enjoyable way. Teachers also encourage pupils to guide one another.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-jxk3{background-color:#F7F7BC;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-dox4{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:top}
+.tg .tg-elxx{background-color:#F7F7BC;color:#3A3A3A;text-align:center;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 713px">
+<colgroup>
+<col style="width: 138px">
+<col style="width: 345px">
+<col style="width: 230px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-jxk3"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">Upper Primary</span></td>
+    <td class="tg-elxx"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">Skills covered</span></td>
+    <td class="tg-elxx"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">Relevance/Assessment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Primary 4</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">• PC log in and changing of password</span><br><span style="font-weight:inherit;font-style:inherit">• Refresher on Microsoft Powerpoint</span><br><span style="font-weight:inherit;font-style:inherit">• Microsoft Excel – create a worksheet, create a graph from data, creation of simple formulas</span><br><span style="font-weight:inherit;font-style:inherit">• Use of newsmaker to create a simple video</span><br><span style="font-weight:inherit;font-style:inherit">• Use of Adobe Spark to create graphics</span><br><span style="font-weight:inherit;font-style:inherit">• Lab etiquette and cyber wellness</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Using Microsoft Excel in Science and Mathematics to tabulate and present data</span><br><br><span style="font-weight:inherit;font-style:inherit">Apply ICT skills in Project Work</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Primary 5</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">• Research skills through usage of Internet search engine</span><br><span style="font-weight:inherit;font-style:inherit">• Photo manipulation and arrangement using Photoshop software</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Create a digital image collage on an Artist’s life</span></td>
+  </tr>
+  <tr>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Primary 6</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">• Capture images of building scapes portraiture using photography</span><br><span style="font-weight:inherit;font-style:inherit">• Photo manipulation and arrangement using Photoshop software</span></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">Create a digital surrealist self portrait</span></td>
+  </tr>
+</tbody>
+</table>
