@@ -115,3 +115,5 @@ NE Ambassadors Training Sessions
 Pupils awarded with Gold badges will present an NE story every Mondays during the morning assembly and at our NE Corner during our Open House.
 
 ![](/images/cce7.jpeg)
+
+<a id="2"></a>
