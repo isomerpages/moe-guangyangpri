@@ -257,6 +257,23 @@ Congratulations to our A# Ringers and Teachers-in-Charge for their participation
 
 #### Upcoming Event:
 
-
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 663px">
+<colgroup>
+<col style="width: 99px">
+<col style="width: 564px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"><img src="/images/aesthetics_2018_syf_wishes.jpeg"></td>
+    <td class="tg-0lax">“We wish all our Performing Arts groups a very successful SYF Arts Presentation”</td>
+  </tr>
+</tbody>
+</table>
