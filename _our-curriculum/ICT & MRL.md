@@ -131,3 +131,103 @@ With an interactive typing programme, pupils learn to type in an enjoyable way.
   </tr>
 </tbody>
 </table>
+
+#### Upper Primary ICT Lessons: PowerPoint Presentation, Photography and Animation
+
+After pupils are introduced to the basics of handling a camera, they also learn to take photographs with more advanced techniques, capturing shots from different angles and focusing on various subjects. Given a task, pupils work in teams to capture different shots of various subject matters.
+
+**Digital Art Classes**
+
+Technology has evolved in the learning of Art.  During digital Art lessons, Upper Primary pupils learn how to create a stop motion animation. Skills like video-editing, photography and inserting audio file are taught. The pupils enjoy using digital Art to express their thoughts, feelings and creativity.
+
+#### P6 Video Editing
+
+Pupils learn to act, film and edit their own videos in this module.
+
+![ICT-New-Pic-2019-924x231](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/ICT-New-Pic-2019-924x231-1.jpg "ICT-New-Pic-2019-924x231")
+
+**Cyber Wellness**
+
+GYPS Cyberwellness website: [**https://sites.google.com/moe.edu.sg/gypscyberwellnesssite/home**](https://sites.google.com/moe.edu.sg/gypscyberwellnesssite/home)
+
+The Cyber Wellness (CW) programme in GYPS aims to raise awareness and equip pupils with sound values and life-long social-emotional competencies so that they can become safe, responsible and respectful users of Information and Communication Technology (ICT).
+
+The Cyber Wellness (CW) curriculum centers on two foundational principles (from the Cyber Wellness Framework), three big ideas and four themes. The three big ideas of Identity, Relationships and Choices are in line with the big ideas of Character and Citizenship Education (CCE).
+
+The main platforms for the delivery of CW lessons are via the weekly Form Teacher Guidance Period (FTGP). Key Cyber Wellness topics are also incorporated into the formal curriculum through subjects such as English and Mother Tongue Languages where appropriate.
+
+The school aims to reach out to GYPS school community and parents as well as to equip GYPS Cyber Wellness Ambassadors (CWA) to identify potential hazards in the cyberspace faced by their peers and provide solutions to address these concerns.
+
+In GYPS, our Cyber Wellness programmes aim to educate our pupils to be safe and responsible online users. Termly assembly talks are conducted by external vendors or our Cyber Wellness Ambassadors on various key topics such as cyber bullying and netiquette. To reflect and consolidate their learning, pupils attend one hour classroom lesson during FTGP period. FTGP Cyber Wellness lesson plans are tailored and to suit the needs of each level.
+
+![CW-8](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/CW-8.jpg "CW-8")
+
+#### Media Resource Library
+
+Dr Seuss says “The more that you read, the more things you will know. The more that you learn, the more places you’ll go.” It has also been said that reading opens one’s mind to endless possibilities. However, the love for reading is one that only few children are engaged in at a very young age.
+
+In view of this, the GYPS library constantly strives to create a positive and conducive learning environment for all pupils to develop their love for reading. The library carefully procures and stocks quality books annually and displays them at a prominent place in the library for easy access to pupils. Older books are replaced with newer ones. To further fuel the pupils’ passion for reading, iREAD books are conveniently placed in every classroom and rotated among the classes for pupils to read in class during their pockets of free time.
+
+To allow pupils more time to borrow books, pupils are also immersed into the world of books  during visits to the library during their weekly library period. Teachers also harness this period to teach and advise pupils on how to select level-appropriate books.
+
+![NK4_9385](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/NK4_9385-scaled.jpg "NK4_9385")
+
+To encourage more pupils to read, Top Readers Awards are given to pupils. The Top readers from each class will be awarded with collar pins and the Top Readers of the level were given a book prize. The book reviews written by the Top Readers were displayed in the library.
+
+The GYPS DEAL!
+--------------
+
+One of the GYPS Library signature programmes this year is the **‘Drop Everything and Listen’**, more affectionately known as the DEAL. The DEAL aims to promote the love of reading to our students. It is carried out every Tuesday morning during the school silent reading programme.  Therefore, our students are encouraged to be early for school and attend the reading programme. The DEAL also aims to provide exposure to different modes of texts. Through DEAL, online resources such as e-audiobooks and videos with creative illustrations are streamed to the students.  The benefits to listening to stories read aloud include the following:
+
+*   improvement in reading, writing and communication skills enhance logical thinking and concentration
+
+*   enhance logical thinking and concentration
+
+![Picture1](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Picture1-169x300.gif "Picture1")
+
+Students are also given the opportunities to showcase their reading to the school as part of the DEAL. In Terms 3 and 4, the DEAL sessions will showcase our very own e-audiobooks and read-aloud sessions, specially produced by our students. Through this, it is hoped that students are inspired to a lifelong love for reading.
+
+The GYPS School Library Themes (Terms 2 & 3)
+--------------------------------------------
+
+As part of the GYPS Library’s innovative ways to entice students to the GYPS school library, captivating themes were introduced in Terms 2 and 3. Tapping on the GYPS Library mascot, Dr Know-It-Owl, the terms’ themes are related to familiar movie titles.
+
+In Term 2, the GYPS library focused on **Dr Know-It-Owl: Far From Home** where students were introduced to writers from all around the globe. The theme was also in line with the school’s Library Week programme of which the tagline was ‘**Dive into the World of Books. Countless Adventures Await You!’**. Throughout the term, students were introduced to, and celebrate the life and work of world-renowned authors, such as Hans Christian Andersen.
+
+Term 3 focuses on **Dr Know-It-Owl: Homecoming** where students are introduced to Singapore local writers such as Low Ying Ping and A.J Low, authors of the Mount Emily series and Sherlock Sam series respectively. This term’s theme focus coincides timely with the National Day period, thus invoking a sense of belonging to the nation.
+
+When visiting the library, students will first be greeted by an array of books by writers from around the globe (in Term 2) and locally (in Term 3) at the entrance of the library, thus inviting them to pick a book and start reading. The Escape Room is also furnished with more books and other information related to the theme.
+
+Through the themes, the GYPS Library committee hopes to continue to instill the love for reading in our students while introducing a variety of writers both locally and internationally.
+
+![Picture3](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Picture3-256x300.png "Picture3")
+
+![Picture4](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Picture4-226x300.png "Picture4")
+
+GYPS READS
+----------
+
+GYPS hosts an annual GYPS READS that aims to bring interesting programmes such as storytelling and sharing of books to our students to promote the love of reading to our students. This year, the tagline for GYPS Reads was ‘**Dive into the World of Books. Countless Adventures Await You!**’. For the week, a series of interesting activities such as Readers’ Theatre by our school leaders, GYPS READS by teachers and our Parent Support Group, a movie screening as well as a special book fair were lined up for the students. Students also had the opportunity to design bookmarks and winning bookmark designs by our students were also printed and distributed to all as a memento.
+
+![Annotation 2022-08-05 092143 1](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Annotation-2022-08-05-092143-1.png "Annotation 2022-08-05 092143 1")
+
+Reading Sessions during Form Teacher Interaction
+------------------------------------------------
+
+Our English and Mother Tongue teachers surprised our students, by collaborating and reading a story in a language that students rarely hear them speaking. Stories were read by our teachers in the English, Mandarin, Malay and Tamil languages.
+
+![Picture5](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Picture5.jpg "Picture5")
+
+“Guest-star” Recess READS
+-------------------------
+
+Our Music and PE teachers, together with our school leaders, also shared their favourite storybooks which inspired them. These stories vary in genre and range from classics to graphic novels and motivational books. This allowed pupils to be exposed to different literature and broadened their general knowledge. Our parent volunteers also read “Little Red Reading Hood” during Lower Primary recess, and “Bach to the rescue” to our Upper Primary students, much to the delight of both our lower and upper primary pupils.
+
+![Annotation 2022-08-05 092143 2](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Annotation-2022-08-05-092143-2.png "Annotation 2022-08-05 092143 2")
+
+Assembly and Book fair
+----------------------
+
+Students also enjoyed a book talk by Singapore's best-selling author, Mr Neil Humphreys. His highly entertaining talk focused on how reading can help to make writing comes alive through interesting characters. Following his talk, a Bookfair was conducted, where students could get autographed copies of his books. Also available were other popular best-selling children's titles, which the students could purchase.
+
+![Annotation 2022-08-05 092143 3](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Annotation-2022-08-05-092143-3.png "Annotation 2022-08-05 092143 3")
