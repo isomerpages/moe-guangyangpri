@@ -3,9 +3,7 @@ title: Our Leaders
 permalink: /our-community/our-leaders
 description: ""
 ---
-<a href="#1">P&VP</a>   
-<a href="#2">HOD</a>   
-<a href="3">TL</a>
+<a href="#1">P&VP</a> | <a href="#2">HOD</a> | <a href="3">TL</a>
 
 <h3><a id="1">Principal and Vice-Principals</a></h3>
 
