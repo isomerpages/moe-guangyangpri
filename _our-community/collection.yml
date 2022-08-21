@@ -2,7 +2,6 @@ collections:
   our-community:
     output: true
     order:
-      - Our Educators/Our Leaders.md
       - Our Educators/Form Teachers.md
       - Our Educators/Allied Educators.md
       - Our Educators/Chinese Language Teachers.md
