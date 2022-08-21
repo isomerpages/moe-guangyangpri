@@ -88,3 +88,21 @@ PAL activities are conducted for 2 hours per week during curriculum time.
 
 ![](/images/pe1.jpeg)
 
+
+<a id="2"></a>
+
+
+CCA Recruitment 2019
+--------------------
+
+This year’s CCA Recruitment took place on the 15 January (Tuesday) at GYPS. In total, 14 CCAs took part in the Recruitment Drive and set up booths showcasing the four categories of CCAs in Guangyang Primary School: Sports & Games, Performing Arts & Clubs and Uniform Groups. The highlight of CCA Recruitment this year was the showcase by Performing Arts CCAs. Members from Chinese Dance, GYPS Strings, Indian Dance and Malay Dance put up a short performance at the beginning of the event and shared what they had learnt during their CCAs.
+
+![](/images/CCA-Recruitment.jpeg)
+
+Please visit our [facebook page](https://www.facebook.com/guangyang.primary) where you can view all media from the events.
+
+ <a href = "https://www.facebook.com/guangyang.primary" target = "_self"> 
+          <img src="/images/facebook.png" 
+     style="width:5%"></a>
+
+
