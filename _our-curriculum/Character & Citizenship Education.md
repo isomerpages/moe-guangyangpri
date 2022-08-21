@@ -129,11 +129,15 @@ Through the NE learning journey, field-based learning and NE Interactive Heritag
 
 #### School Heritage Champion Awards 2019
 
-![](/images/cce8.jpeg)
+<img src="/images/cce8.jpeg" 
+     style="width:45%">
+
 
 Guangyang Primary School has been selected as one of the recipients of the School Heritage Champion Award in 2019 by NHB. It is an award which recognises and applauds schools that are strong supporters and advocates of National Heritage Board’s heritage education initiatives at least for the past 2 years. Well done, Guangyang!
 
-![](/images/cce9.jpeg)
+<img src="/images/cce9.jpeg" 
+     style="width:45%">
+
 
 #### Interactive Heritage Trail – Little India
 
@@ -148,6 +152,8 @@ The pupils then went to the Pongal Exhibition at Hastings Road where they learne
 It was truly an enriching experience for pupils and teachers.
 
 ![](/images/cce10-min.png)
+
+
 #### Interactive Heritage Trail – Kampong Glam
 
 _25 Apr 2018_
