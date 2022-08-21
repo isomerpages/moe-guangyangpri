@@ -2,5 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Aesthetics.md
       - Character & Citizenship Education.md
       - ICT & MRL.md
