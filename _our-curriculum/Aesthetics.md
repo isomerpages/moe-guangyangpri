@@ -48,7 +48,7 @@ A whole-school and broad-based approach is adopted for performing arts as a nich
 
 ![](/images/diagrama.jpeg)
 
-**Learning for Life Programme (LLP)** 
+**<u>Learning for Life Programme (LLP)</u>** 
 
 Recognised and supported by the Ministry of Education, the LLP provides pupils with real-life experiential learning to develop their character and values. This includes inculcating positive attitudes and strengthening 21st century competencies. There is strong emphasis on professional development of teachers to ensure sustainability of the programme in the long term.
 
