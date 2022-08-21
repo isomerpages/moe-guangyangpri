@@ -94,3 +94,35 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+<h3><a id="3">Teacher Leader Council</a></h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 603px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 453px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>S Nirmala Devi Santhanasamy (Mrs Sam)</h5></span><br><span style="font-weight:700;font-style:inherit">Lead Teacher / Science</span><br><br><a href="mailto:s_nirmala_devi_santhanasamy@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">s_nirmala_devi_santhanasamy@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Lazar Jennifer Selvi (Mdm)</h5></span><br><span style="font-weight:700;font-style:inherit">Senior Teacher / English</span><br><br><a href="mailto:lazar_jennifer_selvi@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">lazar_jennifer_selvi@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="font-weight:inherit;font-style:inherit"><h5>Aidah bte Hosni (Mdm)</h5></span><br><span style="font-weight:700;font-style:inherit">Senior Teacher / Malay</span><br><br><a href="mailto:aidah_hosni@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">aidah_hosni@moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
