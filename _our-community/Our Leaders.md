@@ -128,3 +128,33 @@ description: ""
 </table>
 
 <h3><a id="4">Assistant Year Heads</a></h3>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 603px">
+<colgroup>
+<col style="width: 150px">
+<col style="width: 453px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Cheah-Loo Yin Hui (Mrs)</h5></span><br><br><a href="mailto:cheah_loo_hui_hui@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">cheah_loo_hui_hui@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-cly1"><span style="font-weight:inherit;font-style:inherit"><h5>Vemalan S/O Elangovan</h5></span><br><br><a href="mailto:vemalan_elangovan@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">vemalan_elangovan@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"><span style="font-weight:inherit;font-style:inherit"><h5>Lim-Chew Hua Jie (Mrs)</h5></span><br><br><a href="mailto:chew_hua_jie@moe.edu.sg" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit">chew_hua_jie@moe.edu.sg</span></a></td>
+  </tr>
+</tbody>
+</table>
