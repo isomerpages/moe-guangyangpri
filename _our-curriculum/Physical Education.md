@@ -44,3 +44,47 @@ Visit our Co-Curricular Activities website to find out about our clubs and group
 
  <a href = "https://sites.google.com/moe.edu.sg/gyps-cca/home" target = "_self"> 
           <img src="/images/Capture-2.jpeg"></a>
+
+#### Programme for Active Learning (PAL) For Primary 1 & 2
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-elxx{background-color:#F7F7BC;color:#3A3A3A;text-align:center;vertical-align:top}
+.tg .tg-nzmi{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:top}
+.tg .tg-4p8a{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-elxx"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">Level</span></td>
+    <td class="tg-elxx"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">P1</span></td>
+    <td class="tg-elxx"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">P2</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a" rowspan="4"><span style="font-weight:inherit;font-style:inherit">Programmes</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Kidz Sports I</span><br><span style="font-weight:inherit;font-style:inherit">(Sports &amp; Games)</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Kidz Sports II</span><br><span style="font-weight:inherit;font-style:inherit">(Sports &amp; Games)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Let’s Go Out I</span><br><span style="font-weight:inherit;font-style:inherit">(Outdoor Education)</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Let’s Go Out II</span><br><span style="font-weight:inherit;font-style:inherit">(Outdoor Education)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Art Expose I</span><br><span style="font-weight:inherit;font-style:inherit">(Visual Art)</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Art Expose II</span><br><span style="font-weight:inherit;font-style:inherit">(Visual Art)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Drama</span><br><span style="font-weight:inherit;font-style:inherit">(Performing Arts)</span></td>
+    <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">Dance</span><br><span style="font-weight:inherit;font-style:inherit">(Performing Arts)</span></td>
+  </tr>
+</tbody>
+</table>
+
+PAL activities are conducted for 2 hours per week during curriculum time.
+
+![](/images/pe1.jpeg)
+
