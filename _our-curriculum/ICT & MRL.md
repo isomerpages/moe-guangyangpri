@@ -144,7 +144,7 @@ Technology has evolved in the learning of Art.  During digital Art lessons, Upp
 
 Pupils learn to act, film and edit their own videos in this module.
 
-![ICT-New-Pic-2019-924x231](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/ICT-New-Pic-2019-924x231-1.jpg "ICT-New-Pic-2019-924x231")
+![](/images/ict1.jpeg)
 
 **Cyber Wellness**
 
@@ -160,7 +160,7 @@ The school aims to reach out to GYPS school community and parents as well as to 
 
 In GYPS, our Cyber Wellness programmes aim to educate our pupils to be safe and responsible online users. Termly assembly talks are conducted by external vendors or our Cyber Wellness Ambassadors on various key topics such as cyber bullying and netiquette. To reflect and consolidate their learning, pupils attend one hour classroom lesson during FTGP period. FTGP Cyber Wellness lesson plans are tailored and to suit the needs of each level.
 
-![CW-8](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/CW-8.jpg "CW-8")
+![](/images/ict2.jpeg)
 
 #### Media Resource Library
 
@@ -170,7 +170,8 @@ In view of this, the GYPS library constantly strives to create a positive and co
 
 To allow pupils more time to borrow books, pupils are also immersed into the world of books  during visits to the library during their weekly library period. Teachers also harness this period to teach and advise pupils on how to select level-appropriate books.
 
-![NK4_9385](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/NK4_9385-scaled.jpg "NK4_9385")
+![](/images/ict3.jpeg)
+
 
 To encourage more pupils to read, Top Readers Awards are given to pupils. The Top readers from each class will be awarded with collar pins and the Top Readers of the level were given a book prize. The book reviews written by the Top Readers were displayed in the library.
 
@@ -183,8 +184,7 @@ One of the GYPS Library signature programmes this year is the **‘Drop Everyth
 
 *   enhance logical thinking and concentration
 
-![Picture1](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Picture1-169x300.gif "Picture1")
-
+![](/images/ict4.gif)
 Students are also given the opportunities to showcase their reading to the school as part of the DEAL. In Terms 3 and 4, the DEAL sessions will showcase our very own e-audiobooks and read-aloud sessions, specially produced by our students. Through this, it is hoped that students are inspired to a lifelong love for reading.
 
 The GYPS School Library Themes (Terms 2 & 3)
@@ -200,34 +200,32 @@ When visiting the library, students will first be greeted by an array of books b
 
 Through the themes, the GYPS Library committee hopes to continue to instill the love for reading in our students while introducing a variety of writers both locally and internationally.
 
-![Picture3](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Picture3-256x300.png "Picture3")
-
-![Picture4](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Picture4-226x300.png "Picture4")
+![](/images/ict5.png)
 
 GYPS READS
 ----------
 
 GYPS hosts an annual GYPS READS that aims to bring interesting programmes such as storytelling and sharing of books to our students to promote the love of reading to our students. This year, the tagline for GYPS Reads was ‘**Dive into the World of Books. Countless Adventures Await You!**’. For the week, a series of interesting activities such as Readers’ Theatre by our school leaders, GYPS READS by teachers and our Parent Support Group, a movie screening as well as a special book fair were lined up for the students. Students also had the opportunity to design bookmarks and winning bookmark designs by our students were also printed and distributed to all as a memento.
 
-![Annotation 2022-08-05 092143 1](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Annotation-2022-08-05-092143-1.png "Annotation 2022-08-05 092143 1")
+![](/images/ict6.png)
 
 Reading Sessions during Form Teacher Interaction
 ------------------------------------------------
 
 Our English and Mother Tongue teachers surprised our students, by collaborating and reading a story in a language that students rarely hear them speaking. Stories were read by our teachers in the English, Mandarin, Malay and Tamil languages.
 
-![Picture5](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Picture5.jpg "Picture5")
+![](/images/ict7.jpeg)
 
 “Guest-star” Recess READS
 -------------------------
 
 Our Music and PE teachers, together with our school leaders, also shared their favourite storybooks which inspired them. These stories vary in genre and range from classics to graphic novels and motivational books. This allowed pupils to be exposed to different literature and broadened their general knowledge. Our parent volunteers also read “Little Red Reading Hood” during Lower Primary recess, and “Bach to the rescue” to our Upper Primary students, much to the delight of both our lower and upper primary pupils.
 
-![Annotation 2022-08-05 092143 2](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Annotation-2022-08-05-092143-2.png "Annotation 2022-08-05 092143 2")
+![](/images/ict8.png)
 
 Assembly and Book fair
 ----------------------
 
 Students also enjoyed a book talk by Singapore's best-selling author, Mr Neil Humphreys. His highly entertaining talk focused on how reading can help to make writing comes alive through interesting characters. Following his talk, a Bookfair was conducted, where students could get autographed copies of his books. Also available were other popular best-selling children's titles, which the students could purchase.
 
-![Annotation 2022-08-05 092143 3](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/08/Annotation-2022-08-05-092143-3.png "Annotation 2022-08-05 092143 3")
+![](/images/ict9.png)
