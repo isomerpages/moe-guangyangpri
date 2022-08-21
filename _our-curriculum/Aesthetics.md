@@ -146,3 +146,117 @@ A heart-warming and nostalgic concert by our Primary 6 pupils paying tribute to 
 
 ![](/images/pa17.jpeg)
 ![](/images/pa18.jpeg)
+
+
+<a id="2"></a>
+
+Visual Arts
+-----------
+
+#### GYPS Visual Arts Curriculum
+
+The objectives of the GYPS Curriculum are achieved through the Primary Art Syllabus Framework in the figure below that encapsulates the key features of
+
+![](/images/va1.jpeg)
+
+the syllabus:
+
+*   The three **Big Ideas** at the heart of the syllabus framework form the enduring understandings that provide focus for the teaching and learning of art.
+*   The big ideas frame the three Learning Domains of **see**, **express** and **appreciate** that present learning opportunities for students to develop the Key Competencies of observe-inquire, create-innovate, and connect-respond.
+*   Pupils learn to see, express and appreciate through the four key components of the Learning Content – **context**, **artistic processes**, **media** and **visual qualities**.
+*   In the process, pupils acquire knowledge, skills and values that equip them to be active artists and informed audiences.
+
+**The Syllabus 32**
+
+From P1 to P6, pupils will be exposed to 32 selected artworks by Singapore and international master/contemporary artists as well as by students from our schools. To experience art making and art discussion meaningfully, these artworks are organised under three focus areas:
+
+*   Self and Immediate Environment
+*   Singapore Past, Present and Future
+*   The World and Region We Live in
+
+Learning from artworks allows our pupils to develop understanding of the big ideas in art.
+
+These are some of the artworks which pupils will be looking at:
+
+![](/images/va2.jpeg)
+
+![](/images/va3.jpeg)
+
+#### Visual Arts Highlights
+
+**100th Anniversary Art Exhibition**
+
+In commemoration of GYPS’s 100th Anniversary in 2018, a public physical and online art exhibition were organised as part of the celebrations, showcasing a wide range of pupil’s and teacher’s artwork
+
+![](/images/va4.jpeg)
+
+**Our Estate. Our Home Art Competition**
+
+Our pupils submitted entries for the Our Estate. Our Home. Art Competition organised by the Bishan-Toa Payoh Town Council. Two of our pupils won prizes and as a result had their work printed in the 2019 Bishan-Toa Payoh Town Council Calendar.
+
+![](/images/va5.jpeg)
+
+<a id="3"></a>
+
+Department Highlights
+---------------------
+
+#### Singapore Youth Festival @ Esplanade
+
+**‘Melodies’ Series at the Esplanade Concourse on Sunday 2 July 2017**  
+**Handbell and Handchime Category**
+
+21 A# Junior Ringers joined their seniors for this performance at the Esplanade Concourse with a rendition of ‘Trumpet Voluntary’, ‘Colours of the Wind’ and ‘Di Tanjong Katong’. Many thanks to all the parents who turned up to support us.
+
+![](/images/dh1.jpeg)
+
+#### Singapore Youth Festival 2017
+
+#### Visual Art Exhibition
+
+**Category A (Primary 1 and 2)**
+
+**“We Try New Things”**
+
+In this Artwork, we imagine many colourful bubbles under the surface of the sea. We can see images of pokeballs, illuminatis, genetic cells and other interesting patterns. It may look like a cave with some awesome rock formations, explosions of a nebula, Martian’s eggs or even cells that we may not have discovered. They may not have a nucleus or anything but we will definitely enhance our imagination and continue to explore the secrets of the world.
+
+![](/images/dh2.jpeg)
+
+**Category B (Primary 3 and 4)**
+
+**“Teams with Open Minds”**
+
+We enjoy doodling our imaginative ideas in circles of different sizes. The circles represent different groups of people coming together to unleash their creativity and share interesting ideas.
+
+![](/images/dh3.jpeg)
+
+**Category C (Primary 5 and 6)**
+
+**“We Reach Out and Embrace Our Differences”**
+
+In school, we enjoy different types of learning experiences in different spaces such as gardens, library, art room, science laboratory, etc. The four colours represent our multi-racial society. We hope everyone can work together to build a vibrant Singapore that we all can be proud of.
+
+![](/images/dh4.jpeg)
+
+**Receipients Of Certificate Of Recognition For Category B**  
+“Teams with Open Minds” was exhibited at Scape Park and our Art Team was on-site to showcase their artwork. Congratulations to the GYPS Art Team!
+
+![](/images/dh5.jpeg)
+
+#### GYPS A# Handbell in the Ministry of Bellz 10th Annual Concert
+
+GYPS A# Handbell Ringers participated in the Ministry of Bellz 10th Annual Concert (MOB-10) Classic Celebrations – featuring international and foreign artistes, bringing the audience through a world of familiar classical and orchestral music combined with story-telling, ballet cum multi-media and multi-sensory experiences at School of the Arts (SOTA) on Saturday 21 January 2017.
+
+Congratulations to our A# Ringers and Teachers-in-Charge for their participation and achieving the feat of being a part of the LARGEST HANDBELL ENSEMBLE with a total of 290 ringers (breaking the current record) and was inducted once again into the SINGAPORE BOOK OF RECORDS!! Well Done, A# TEAM!!
+
+![](/images/dh6.jpeg)
+
+![](/images/dh7.jpeg)
+
+![](/images/dh8.jpeg)
+
+#### Upcoming Event:
+
+
+
+
