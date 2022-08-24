@@ -21,7 +21,7 @@ description: ""
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href = "https://workspace.google.com/dashboard" target = "_self"> 
+    <td class="tg-0lax"><br><a href = "https://workspace.google.com/dashboard" target = "_self"> 
           <img src="/images/iCONlink.png"></a></td>
     <td class="tg-0lax"><a href = "/files/Student-iCON-Onboarding-Guide.pdf" target = "_self"> 
           <img src="/images/userguide.png"></a></td>
