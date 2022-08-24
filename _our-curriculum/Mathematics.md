@@ -67,3 +67,21 @@ Based on the above 3 prong approach, we seek to
 * build their confidence in asking questions during Mathematics lessons;
 * use Mathematical language to communicate Mathematical ideas and arguments precisely and logically;
 * develop positive attitudes towards Mathematics.
+
+
+### Explore (P1 and P2)
+Opportunities are provided for pupils to explore Mathematical concepts through the use of concrete materials and hands-on activities.
+
+<img src="/images/p1m.jpeg" 
+     style="width:65%">
+
+<img src="/images/p1m2.jpeg" 
+     style="width:65%">
+
+<img src="/images/p1m3.jpeg"
+     style="width:65%">
+
+
+#### Experience (P3 and P4)
+
+Learning experiences are designed to help pupils focus on investigation and making connections to real life situations.
