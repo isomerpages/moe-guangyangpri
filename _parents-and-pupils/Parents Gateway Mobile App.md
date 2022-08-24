@@ -38,3 +38,20 @@ Through this app, parents will receive Announcements (i.e. Letters, notification
   </tr>
 </tbody>
 </table>
+
+
+Please refer to the attached FAQs for more information: [FAQ for Parents Gateway](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/FAQ-for-Parent-Gateway.pdf)
+
+Alternatively, you may visit [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/) for more information.
+
+For instructions to Download and access the App, please refer to the guide: [Instructional Guide For Parents Gateway](/files/Instructional-Guide-for-Parents-Gateway.pdf)
+
+If you have any queries, you may direct them to:
+
+Mr Jeremy Lee
+
+HOD ICT & MRL
+
+[Lee\_boon\_haw\_jeremy@moe.edu.sg](mailto:Lee_boon_haw_jeremy@moe.edu.sg)
+
+We look forward to your kind cooperation.
