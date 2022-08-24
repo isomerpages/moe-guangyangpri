@@ -55,3 +55,42 @@ Parent Support Group Executive Committee 2022
   </tr>
 </tbody>
 </table>
+
+School Advisors
+---------------
+
+<table style="box-sizing: border-box; border-width: 1px 0px 0px 1px; border-style: none; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px 0px 1.5em; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: separate; border-spacing: 0px; width: 549.586px;"><tbody style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: none; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left; width: 226.133px;">Mr Enoch Lau<br style="box-sizing: border-box;">Mrs. Hema Ramasamy</td><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: none; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left; width: 323.453px;"><em style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: italic; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">&nbsp;(Principal)</em><br style="box-sizing: border-box;"><em style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: italic; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">&nbsp;</em><em style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: italic; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;">(Senior Teacher)</em></td></tr></tbody></table>
+
+For further information on GYPS Parent Support Group, you could email PSG email address:
+
+E-mail: [psg.gyps@gmail.com](mailto:psg.gyps@gmail.com)
+
+School Advisor: [hema\_malini\_jeyaraj@moe.edu.sg](mailto:hema_malini_jeyaraj@moe.edu.sg)
+
+Parent Volunteers
+-----------------
+
+_We’ll be most happy to have you join us!_
+
+Interested to join the team of PSG Volunteers?
+
+Please submit this form: [Parent Volunteer Form](https://forms.gle/jqamb8uc4yAHkK9a7)
+
+Parent Connect
+--------------
+
+Year Level Group Chat for GYPS parents
+
+Come and connect with other parents from your child’s year level on Whatsapp hosted by a PSG representative.
+
+If you are interested, please email [psg.gyps@gmail.com](mailto:psg.gyps@gmail.com)
+
+<h1><center>Past Events</center></h1>
+
+#### Library Week
+
+April 2022
+
+Finally with the further lifting of Safety Management Measures, parent volunteers were allowed back into the school.  Our first in-person involvement was for Library Week.  5 parent volunteers helped to share a story to the lower primary and upper primary students during the recess time.  There was a buzz of joy for the children to see parents back in school!
+
+![](/images/psg1.png)
