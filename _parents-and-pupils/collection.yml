@@ -2,6 +2,7 @@ collections:
   parents-and-pupils:
     output: true
     order:
+      - Our Partners/Compliments.md
       - Our Partners/.keep
       - Information for Parents/Forms & Letters.md
       - Information for Parents/P1 Registration FAQ.md
