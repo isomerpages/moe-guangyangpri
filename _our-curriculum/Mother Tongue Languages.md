@@ -62,7 +62,7 @@ The Mother Tongue Languages Department organises fun and exciting activities for
 <a href="#3">MTL Through Drama</a> | <a href="#4">MTL Fortnights</a> | <a href="#5">MTL Cultural Camp</a> | <a href="#6">Chinese New Year</a> | <a href="#7">Hari Raya Puasa</a>
 
 
-<a id="2"></a>
+<a id="3"></a>
 #### Learning Through Drama
 
 Every year, all Primary 3 pupils will go through a drama course comprising of interactive group and individual activities conducted by professional drama coaches. The drama course will revolve around the attainment of confidence in oral communication skills, social skills and concentration. At the end of the course, each class will then put up a drama performance either based on fictional stories with themes such as caring for the environment or is adapted from the texts in their textbook which helps to foster interest in their studies.
@@ -73,7 +73,7 @@ For example, the P3 Malay language students attended a 1 hour lesson every Wedne
 
 ![](/images/d2.png)
 
-<a id="3"></a>
+<a id="4"></a>
 #### MTL Fortnight
 
 This year, the Mother Tongue Languages (MTL) Department had designated two weeks for MTL Fortnight. A wide range of activities related to Mother Tongue languages and their cultures were conducted. To create an immersive environment for the learning of MTL, there were planned activities for different levels of pupils. The activities included recitation of poems, e-card, story-telling, book mark making, and creative writing. During the MTL fortnight showcase on 20 April, pupils were treated to a day filled with joyful and meaningful activities.
@@ -82,4 +82,40 @@ This year, the Mother Tongue Languages (MTL) Department had designated two weeks
 ![](/images/fn2.png)
 ![](/images/fn3.png)
 
+<a id="5"></a>
 
+#### MTL Camp
+
+The annual cultural camp was held on 6th April 2022.  During the 3-hour long camp, P3-P6 students learnt many cultural arts and skills, like folding ketupat, making lanterns and creating characters based on cultural myths. The students also got to experience and learn about their ethnic culture and had a lot of fun.
+
+![](/images/c1.png)
+
+![](/images/c2.png)
+
+<a id="6"></a>
+
+#### Chinese New Year Celebration
+
+Guangyang Primary School ushered in the year of the Tiger with a Chinese New Year Celebration on 31 January 2022. Few weeks before the celebration, P2 and P3 pupils worked on their Chinese New Year colouring during their art lessons. Three top entries from each P2 and P3 classes were selected and the winners received tokens of appreciation and certificates for their creativity. Chinese New Year decorations were also put up in prominent places in the school, which added vibrancy and colour to the premise.
+
+On the day of celebration, pupils and staff were dressed in their ethnic costumes. The form teachers shared with their classes on Chinese New Year celebration in Singapore before watching the concert online via Zoom.
+
+Our Primary 5 pupils were the student emcees for the online Chinese New Year concert. We watched a video and reminisced on our Chinese New Year celebrations in the past decade. Our very own Lion dancers put up a wonderful performance. During the celebration, 2CL3 pupils put up a skit and shared with us the story on the 12 zodiacs. Yvelisse and Jaymin of 6 Courage also shared with the school the story about Nian. Pupils also led the school in singing Chinese New Year songs and dancing the fusion dance.
+
+It was indeed a joy celebrating Chinese New Year together, be it online or in the hall!
+
+![](/images/cny1.png)
+
+<a id="7"></a>
+
+#### Hari Raya Puasa
+
+Hari Raya Aidilfitri came earlier to Guangyang Primary School as the whole school celebrated the joyous occasion on 27 April 2022.
+
+On the day of celebration, students and staff were dressed in their colourful ethnic costumes.  The 3 emcees (Imanni, Qabil and Qayyum) who helmed Hari Raya celebration online last year (2021), welcomed both students and staff to celebrate Hari Raya Aidilfitri in the school hall.
+
+During the concert, the students and staff were presented with skits performed by the talented P4 Malay students (Azman, Aisyah, Anisha and Qayyum).  The skits depicted preparation and the celebration of Hari Raya in the Azman’s household.  The P3 ML students showcased their Hari Raya E-cards.  P2 Malay students added the excitement when they ‘visited’ the Azman’s family and performed a medley of Hari Raya songs.  The school leaders also gave out Hari Raya goodies for well wishes.
+
+It was indeed a joy celebrating Hari Raya Aidilfitri together!
+
+![](/images/hrp.png)
