@@ -7,7 +7,8 @@ third_nav_title: Our Educators
 <a href="#P2">Primary 2</a> | <a href="#P3">Primary 3</a>  | <a href="#P4">Primary 4</a>  | <a href="#P5">Primary 5</a>  | <a href="#P6">Primary 6</a>
 
 
-<h3><a id="P2">Primary 2</a></h3> 
+<a id="P2"></a>
+<h3>Primary 2</h3> 
 
 #### 2 Teamwork
 
@@ -129,7 +130,8 @@ won_min_ting@moe.edu.sg</span></a></td>
 </tbody>
 </table>
 
-<h3><a id="P3">Primary 3</a></h3>
+<a id="P3"></a>
+<h3>Primary 3</h3>
 
 #### 3 Teamwork
 
@@ -216,8 +218,8 @@ won_min_ting@moe.edu.sg</span></a></td>
 </table>
 
 
-
-<h3><a id="P4">Primary 4</a></h3>
+<a id="P4"></a>
+<h3>Primary 4</h3>
 
 #### 4 Honesty
 
@@ -332,7 +334,8 @@ won_min_ting@moe.edu.sg</span></a></td>
 </table>
 
 
-<h3><a id="P5">Primary 5</a></h3>
+<a id="P5"></a>
+<h3>Primary 5</h3>
 
 #### 5 Diligence
 
@@ -421,8 +424,8 @@ zhu_xueshu@moe.edu.sg</span></a></td>
 </table>
 
 
-
-<h3><a id="P6">Primary 6</a></h3>
+<a id="P6"></a>
+<h3>Primary 6</h3>
 
 #### 6 Courage
 
