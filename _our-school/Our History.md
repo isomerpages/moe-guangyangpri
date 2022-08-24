@@ -5,17 +5,16 @@ description: ""
 ---
 Guangyang Primary School (光洋小学), originally named Kong Yiong School, was started by a group of Chinese education enthusiasts on 25 February 1918, offering Chinese as the first language. It was first located next to the Serangoon Post Office. It was moved several times until it finally settled at 993B Yio Chu Kang Road in 1930 where it remained until November 1992.
 
-<figure>
+
 <img src="images/history1.jpeg" 
      style="width:65%">
-<figcaption>During the Japanese occupation, the school was closed temporarily and reopened in September 1945.</figcaption>
-</figure>
+<center>During the Japanese occupation, the school was closed temporarily and reopened in September 1945.</center>
 
-<figure>
+
+
 <img src="images/history2.jpeg" 
      style="width:65%">
-<figcaption>GYPS was visited by former Prime Minister, Mr Lee Kuan Yew in 1963.</figcaption>
-</figure>
+<center>GYPS was visited by former Prime Minister, Mr Lee Kuan Yew in 1963.</center>
 
 In 1959, the school took in secondary classes and was named Kong Yiong High School.  
 In 1978, the school became bilingual offering English as well as Chinese as a first and second language. In 1984, the secondary school branch and the primary school branch separated. The primary school branch was converted into a government school in 1986.  
