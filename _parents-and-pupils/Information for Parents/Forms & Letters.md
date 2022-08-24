@@ -40,7 +40,7 @@ third_nav_title: Information for Parents
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-rxep"><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/06/2022-T3-P6-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 6</span></a></th>
+    <th class="tg-rxep"><a href="/files/2022-T3-P6-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 6</span></a></th>
     <th class="tg-rxep"><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/06/2022-T3-P5-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 5</span></a></th>
     <th class="tg-rxep"><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/06/2022-T3-P4-Assessment-Letter-.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 4</span></a></th>
   </tr>
