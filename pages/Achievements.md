@@ -188,7 +188,7 @@ description: ""
   <tr>
     <td class="tg-hhj3"><span style="font-weight:inherit;font-style:inherit">Advisory Council on Community Relations in Defence (ACCORD)</span></td>
     <td class="tg-owj7"><span style="font-weight:inherit;font-style:inherit"> Total Defence Awards</span></td>
-    <td class="tg-owj7"><a href="/total-defence-awards" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">NS Advocate Awards for Organisations</span></a><br><br><span style="font-weight:inherit;font-style:inherit">– Guangyang Primary School</span></td>
+    <td class="tg-owj7"><a href="/happenings-in-school/total-defence-awards" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">NS Advocate Awards for Organisations</span></a><br><br><span style="font-weight:inherit;font-style:inherit">– Guangyang Primary School</span></td>
   </tr>
 </tbody>
 </table>
