@@ -22,4 +22,4 @@ Steps:
 
 <a href = "https://form.gov.sg/#!/60c705daa6c24a00116bbaea" target = "_self"> 
           <img src="/images/https___gogovsg-768x835.png" 
-     style="width:45%"></a>
+     style="width:25%"></a>
