@@ -120,4 +120,29 @@ Pupils applied Mathematical concepts in authentic setting.
 
 ![](/images/m4.jpeg)
 
+P3 Math Fun Day
 
+![](/images/m5.jpeg)
+
+P4 Math Fun Day
+
+![](/images/m6.jpeg)
+
+P5 Math Fun Day
+
+![](/images/m7.jpeg)
+
+#### Intervention Programmes
+
+**Learning Support Math (LSM)**
+
+The LSM is a specialised early intervention programme for pupils who lack basic numeracy skills. Small group coaching and additional support are designed to cater for the identified pupils from Primary 1 to Primary 2.
+
+**ICAN PROJECT (Improving Confidence and Achievement in Numeracy)**
+
+The ICAN project aims to level up the confidence and achievement of low progress pupils in Mathematics by
+
+* helping pupils to bridge the learning gaps; 
+* developing pupils’ competency in Mathematics with the use of Mathematical language;  
+* providing opportunities for pupils to experience incremental success; 
+* helping pupils to make connection of Mathematics concepts and providing practice as well as review to promote retention of concepts learnt.
