@@ -41,14 +41,14 @@ third_nav_title: Information for Parents
 <thead>
   <tr>
     <th class="tg-rxep"><a href="/files/2022-T3-P6-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 6</span></a></th>
-    <th class="tg-rxep"><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/06/2022-T3-P5-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 5</span></a></th>
-    <th class="tg-rxep"><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/06/2022-T3-P4-Assessment-Letter-.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 4</span></a></th>
+    <th class="tg-rxep"><a href="2022-T3-P5-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 5</span></a></th>
+    <th class="tg-rxep"><a href="2022-T3-P4-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 4</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-rxep"><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/06/2022-T3-P3-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 3</span></a></td>
-    <td class="tg-rxep"><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2022/06/2022-T3-P2-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 2</span></a></td>
+    <td class="tg-rxep"><a href="2022-T3-P3-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 3</span></a></td>
+    <td class="tg-rxep"><a href="2022-T3-P2-Assessment-Letter.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Primary 2</span></a></td>
     <td class="tg-cly1"></td>
   </tr>
 </tbody>
