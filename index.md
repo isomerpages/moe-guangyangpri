@@ -16,7 +16,7 @@ sections:
       title: Contact Us
       subtitle: Reach out to us
       button: View More
-      url: /contact-us/
+      url: /our-school/school-contact-information
       image: /images/map.png
       alt: map
   - infobar:
