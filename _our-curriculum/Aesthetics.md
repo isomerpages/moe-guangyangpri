@@ -46,7 +46,9 @@ A whole-school and broad-based approach is adopted for performing arts as a nich
 
 **DIAGRAM A**
 
-![](/images/diagrama.jpeg)
+<img src="/images/diagrama.jpeg" 
+     style="width:65%">
+
 
 **<u>Learning for Life Programme (LLP)</u>** 
 
@@ -56,7 +58,8 @@ We are implementing a 3-tiered structure catering to different learning experien
 
 **DIAGRAM B**
 
-![](/images/diagramb.png)
+<img src="/images/diagramb.png" 
+     style="width:85%">
 
 <h1><u>Music Curriculum</u></h1>
 
