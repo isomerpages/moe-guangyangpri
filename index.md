@@ -23,5 +23,5 @@ sections:
       title: Follow Us
       description: All Our Socials in One Place
       button: View All Links
-      url: /follow-us/
+      url: /follow-us
 ---
