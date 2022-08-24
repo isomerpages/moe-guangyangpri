@@ -6,7 +6,7 @@ description: ""
 ### School Crest
 
 <img src="/images/schoolcrest.jpeg" 
-     style="width:35%">
+     style="width:25%">
 		 
 
 The crest consists of a shield with the name of the school on the upper section. Below the name is an open book signifying an institution of learning. The school’s core values: Loyalty, Diligence, Courage and Honesty are displayed on the book.
