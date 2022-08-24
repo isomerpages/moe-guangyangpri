@@ -27,11 +27,11 @@ Through this app, parents will receive Announcements (i.e. Letters, notification
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+    <td class="tg-0lax"><a href = "https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG" target = "_self"> 
           <img src="/images/google-play-badge-300x116-1.png"></a></td>
   </tr>
   <tr>
-    <td class="tg-0lax"><a href = "linkhere" target = "_self"> 
+    <td class="tg-0lax"><a href = "https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8" target = "_self"> 
           <img src="/images/Download_on_the_App_Store_Badge_US-UK_blk_092917.png" 
      style="width:85%">
 </a></td>
