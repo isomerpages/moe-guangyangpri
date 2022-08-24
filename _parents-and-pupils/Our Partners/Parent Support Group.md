@@ -35,7 +35,11 @@ Parent Support Group Executive Committee 2022
 .tg .tg-37dp{background-color:#F7F7BC;color:#3A3A3A;text-align:left;vertical-align:middle}
 .tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 405px">
+<colgroup>
+<col style="width: 156px">
+<col style="width: 249px">
+</colgroup>
 <tbody>
   <tr>
     <td class="tg-37dp"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">Chairperson</span></td>
@@ -149,4 +153,3 @@ _20th April 2018_
 Our first parent-child bonding event of 2018 was a memorable one! On 20th April, 20 our students and their parents had a fun afternoon of conversation and hands-on crafting. After a yummy packed lunch, the parent-child pairs, led by PSG member Mdm Chooi Ling, created their own unique hand-made pencil holders. Both students and their parents had an enjoyable time working together on their projects – there was lots of laughter, encouragement and great concentration all around as they created their masterpieces!
 
 ![](/images/psg9.jpeg)
-
