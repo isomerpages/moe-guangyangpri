@@ -5,3 +5,5 @@ date: 2022-07-01
 layout: post
 description: ""
 ---
+<a href = "https://www.syf.gov.sg/art-exhibition/about-the-2021-art-exhibition" target = "_self"> 
+          <img src="/images/SYF-2021-Art-Exhibition.jpeg"></a>
