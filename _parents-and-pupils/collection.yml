@@ -2,6 +2,7 @@ collections:
   parents-and-pupils:
     output: true
     order:
+      - Happenings In School/MOE PAT & OYEA Awards.md
       - Happenings In School/Inspiring English Teacher Award.md
       - Happenings In School/.keep
       - Happenings In School/Total Defence Award.md
