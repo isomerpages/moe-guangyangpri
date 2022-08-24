@@ -85,3 +85,39 @@ Opportunities are provided for pupils to explore Mathematical concepts through t
 #### Experience (P3 and P4)
 
 Learning experiences are designed to help pupils focus on investigation and making connections to real life situations.
+
+![](/images/p3m1.jpeg)
+
+#### Excel (P5 and P6)
+
+Application of Mathematical concepts and skills are emphasised to encourage pupils to explore solving Mathematical problems in multiple ways.
+
+![](/images/p5m1.jpeg)
+
+### Assessment
+
+#### Holistic Assessment – Performance Tasks and Journal Writing
+
+Performance Tasks and Journal Writing are adopted as part of the Holistic Assessment for Primary 1 to Primary 5 pupils.
+
+
+![](/images/m2.jpeg)
+
+Programmes
+----------
+
+#### Enrichment Programme
+
+• International Competitions and Assessment for School (ICAS)  
+• GYPS Learning Day for Primary 3 to Primary 6 in Term 3  
+• School-based Math Fun Day for Primary 1 to Primary 5 in Term 3
+
+![](/images/m3.jpeg)
+
+P1 & P2 Math Fun Day
+
+Pupils applied Mathematical concepts in authentic setting.
+
+![](/images/m4.jpeg)
+
+
