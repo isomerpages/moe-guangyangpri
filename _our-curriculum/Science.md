@@ -31,3 +31,9 @@ It aims to:
 * help pupils appreciate how Science influences people and the environment.
 
 The syllabus has also taken into consideration the desired outcomes of education for our primary pupils as well as the national education emphasis.  This syllabus is based on the Science Curriculum Framework and emphasizes the need for a balance between the acquisition of Science knowledge, process and attitudes.
+
+<img src="/images/sc001_moe_sc_syllabus_chart.jpeg" 
+     style="width:65%">
+
+
+In addition where the topics lend themselves, the technological applications, social implications and the value aspects of Science are also considered.  It also emphasises the broad coverage of fundamental concepts in the natural and physical world.
