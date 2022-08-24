@@ -2,6 +2,7 @@ collections:
   parents-and-pupils:
     output: true
     order:
+      - Happenings In School/Inspiring English Teacher Award.md
       - Happenings In School/.keep
       - Happenings In School/Total Defence Award.md
       - Happenings In School/Teacher Receives President's Award.md
