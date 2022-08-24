@@ -2,6 +2,7 @@ collections:
   parents-and-pupils:
     output: true
     order:
+      - Information for Parents/Forms & Letters.md
       - Information for Parents/P1 Registration FAQ.md
       - Information for Parents/Supporting Singaporean Students.md
       - Information for Parents/Leave of Absence Application.md
