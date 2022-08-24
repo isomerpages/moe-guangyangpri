@@ -22,4 +22,11 @@ sections:
       title: Latest Announcements
       subtitle: Our Updates
       button: View All Announcements
+  - infopic:
+      title: Contact Us
+      subtitle: Reach out to us
+      button: View More
+      url: /contact-us/
+      image: /images/map.png
+      alt: map
 ---
