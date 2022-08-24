@@ -92,3 +92,23 @@ Pupils are provided with differentiated support at various points of instruction
 * International Competitions and Assessments for Schools (ICAS)
 * Storytelling Competitions
 * Speech and Drama
+
+![](/images/e6.jpeg)
+
+### Intervention Programmes
+
+**Learning Support Programme (LSP)**
+
+The LSP is a specialised early intervention programme which aims at providing learning support to pupils who enter Primary 1 with weak English language and literacy skills. Pupils are identified for LSP through a systematic screening process which is carried out at the beginning of Primary 1. The objective of the LSP is to equip pupils with basic literacy skills so that they can access learning in the regular classroom.
+
+**School-based Dyslexia Remediation (SDR)**
+
+SDR is a two year intervention programme for Primary 3 and 4 pupils who are identified through a systematic screening process for dyslexia which is conducted at the end of Primary 2. The programme is conducted in small groups by trained teachers using a reading curriculum designed by MOE reading specialists.
+
+**Reading Remediation Programme (RRP)**
+
+The Reading Remediation Programme is aimed at supporting P3 pupils who face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme enables pupils to master word recognition and spelling strategies. It also exposes them to a range of strategies for reading comprehension which will enable them to better manage their daily learning.
+
+**Tips for Supporting STELLAR Curriculum at Home**
+
+[www.stellarliteracy.sg](https://www.stellarliteracy.sg/)
