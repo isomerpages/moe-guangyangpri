@@ -53,7 +53,37 @@ The Mother Tongue Languages Department organises fun and exciting activities for
 </tbody>
 </table>
 
-<table width="0" style="box-sizing: border-box; border-width: 1px 0px 0px 1px; border-style: solid; border-color: rgba(0, 0, 0, 0.1); border-image: initial; font-size: 15px; font-style: normal; font-weight: 400; margin: 0px 0px 1.5em; outline: 0px; padding: 0px; vertical-align: baseline; border-collapse: separate; border-spacing: 0px; width: 535px; color: rgb(58, 58, 58); font-family: -apple-system, &quot;system-ui&quot;, &quot;Segoe UI&quot;, Roboto, Oxygen-Sans, Ubuntu, Cantarell, &quot;Helvetica Neue&quot;, sans-serif; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 159px;"><tbody style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline;"><tr style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; height: 19px;"><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgb(0, 0, 0); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: middle; text-align: center; width: 131px; height: 19px; background-color: rgb(252, 250, 184);">Upper Primary</td><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgb(0, 0, 0); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: middle; text-align: center; width: 388px; height: 19px; background-color: rgb(252, 250, 184);">&nbsp;Programme</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; height: 44px;"><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgb(0, 0, 0); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left; width: 131px; height: 44px;">&nbsp;Primary 4</td><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgb(0, 0, 0); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left; width: 388px; height: 44px;">• Reading Programme during curriculum<br style="box-sizing: border-box;">• Structured Oral Skills Training</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; height: 47px;"><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgb(0, 0, 0); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left; width: 131px; height: 47px;">&nbsp;Primary 5</td><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgb(0, 0, 0); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left; width: 388px; height: 47px;">• Reading Programme during curriculum<br style="box-sizing: border-box;">• Structured Oral Skills Training</td></tr><tr style="box-sizing: border-box; border: 0px; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 0px; vertical-align: baseline; height: 49px;"><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgb(0, 0, 0); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left; width: 131px; height: 49px;">&nbsp;Primary 6</td><td style="box-sizing: border-box; border-width: 0px 1px 1px 0px; border-style: solid; border-color: rgb(0, 0, 0); border-image: initial; font-size: 15px; font-style: inherit; font-weight: inherit; margin: 0px; outline: 0px; padding: 8px; vertical-align: baseline; text-align: left; width: 388px; height: 49px;">• Reading Programme during curriculum<br style="box-sizing: border-box;">• Structured Oral Skills Training</td></tr></tbody></table>
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-16fh{background-color:#FFF;color:#3A3A3A;font-family:inherit;text-align:left;vertical-align:top}
+.tg .tg-znhh{background-color:#FCFAB8;color:#3A3A3A;font-family:inherit;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-znhh"><span style="font-weight:inherit;font-style:inherit;background-color:#FCFAB8">Upper Primary</span></td>
+    <td class="tg-znhh"><span style="font-weight:inherit;font-style:inherit;background-color:#FCFAB8"> Programme</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> Primary 4</span></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit">• Reading Programme during curriculum</span><br><span style="font-weight:inherit;font-style:inherit">• Structured Oral Skills Training</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> Primary 5</span></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit">• Reading Programme during curriculum</span><br><span style="font-weight:inherit;font-style:inherit">• Structured Oral Skills Training</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> Primary 6</span></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit">• Reading Programme during curriculum</span><br><span style="font-weight:inherit;font-style:inherit">• Structured Oral Skills Training</span></td>
+  </tr>
+</tbody>
+</table>
 
 <a id="2"></a>
 
