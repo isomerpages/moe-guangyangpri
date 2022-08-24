@@ -1,5 +1,0 @@
-collections:
-  happenings-in-school:
-    output: true
-    order:
-      - Total Defence Award.md
