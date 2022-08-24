@@ -2,6 +2,7 @@ collections:
   parents-and-pupils:
     output: true
     order:
+      - Our Partners/Alumni Survey.md
       - Our Partners/FamilyMatters@School.md
       - Our Partners/Partnership with BE Thomson CCC.md
       - Our Partners/Partnership With MDAS.md
