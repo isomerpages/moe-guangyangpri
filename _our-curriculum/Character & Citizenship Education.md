@@ -18,20 +18,19 @@ To develop pupils who are Confident Persons, Self-Directed Learners, Active Con
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-cp11{background-color:#FFF;color:#484848;font-family:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 827px">
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 506px">
-<col style="width: 321px">
+<col style="width: 410px">
+<col style="width: 390px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-0lax"><img src="/images/CCE_Framework_Diagram_2018_800.jpeg"></td>
-    <td class="tg-0lax">The Character and Citizenship Education framework describes the guiding principles and processes of how Guangyang Primary School approaches character development and citizenship education.<br><br>
-The desired outcomes of Character and Citizenship Education for our pupils are <strong>Confident Persons, Self-Directed Learners, Active Contributors and Concerned Citizens.</strong></td>
+    <td class="tg-cp11"><img src="/images/CCE_Framework_Diagram_2018_800.jpeg"></td>
+    <td class="tg-cp11">The Character and Citizenship Education framework describes the guiding principles and processes of how Guangyang Primary School approaches character development and citizenship education.<br><br>The desired outcomes of Character and Citizenship Education for our pupils are <span style="font-weight:600;color:#484848">Confident Persons, Self-Directed Learners, Active Contributors and Concerned Citizens.</span></td>
   </tr>
 </tbody>
 </table>
