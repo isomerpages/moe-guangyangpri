@@ -2,6 +2,7 @@ collections:
   parents-and-pupils:
     output: true
     order:
+      - Happenings In School/Fo Guang Shan National Calligraphy Competition.md
       - Happenings In School/Total Defence Award.md
       - Happenings In School/.keep
       - Important Dates.md
