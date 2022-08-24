@@ -108,9 +108,9 @@ Programmes
 
 #### Enrichment Programme
 
-• International Competitions and Assessment for School (ICAS)  
-• GYPS Learning Day for Primary 3 to Primary 6 in Term 3  
-• School-based Math Fun Day for Primary 1 to Primary 5 in Term 3
+* International Competitions and Assessment for School (ICAS) 
+* GYPS Learning Day for Primary 3 to Primary 6 in Term 3 
+* School-based Math Fun Day for Primary 1 to Primary 5 in Term 3
 
 ![](/images/m3.jpeg)
 
