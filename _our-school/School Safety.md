@@ -11,7 +11,9 @@ Pupils who walk from Bishan MRT or Bus Interchange to school tend to walk along 
 *   Next, cross the traffic light at the Singapore Scout Association.
 *   Thereafter, walk to the traffic light junction near the bus stop outside the school and use the crossing there to reach school.
 
-![](/images/Safety-Pic-1-e1556249335318.jpeg)
+<img src="/images/Safety-Pic-1-e1556249335318.jpeg" 
+     style="width:65%">
+
 
 **Vehicular Safety**
 
