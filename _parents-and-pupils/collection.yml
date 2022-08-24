@@ -2,6 +2,7 @@ collections:
   parents-and-pupils:
     output: true
     order:
+      - Information for Parents/Parents' Briefing 2022.md
       - Information for Parents/.keep
       - Parents Gateway Mobile App.md
       - Student iCON.md
