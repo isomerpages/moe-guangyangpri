@@ -126,3 +126,27 @@ Some of our talented parents also painted lovely designs for the children at the
 _21st – 24th, August 2018_
 
 “A good teacher inspires hope, ignites the imagination, and instils a love of learning”. Our teachers at GYPS are truly a dedicated team who pour their hearts into teaching our children. To recognise their efforts and encourage them, 20 of our Parent Volunteers got together to create a unique gift for each educator this Teachers’ Day. The creative streak in our Parent Volunteers shone through as they created over 70 notebooks with handcrafted beading and decorations as well as beaded keychains for the administrative staff. Here’s wishing all our educators a Happy Teacher’s Day!
+
+![](/images/psg6.jpeg)
+![](/images/psg7.jpeg)
+
+#### NLB ‘Book Telling for Upper Primary Students’ Workshop
+
+_26th April 2018_
+
+On 26th of April, the PSG organised a Parents Workshop on ‘Book Telling for Upper Primary Students’. Over 20 parents took time out of their busy schedules to join us in the school library, as an invited speaker from NLB shared techniques and ideas to make reading fun and engaging for older children. A practical session followed where some participants got to try out their new skills. Everyone left the workshop feeling enthusiastic and inspired to encourage our young ones to read!
+
+Do you have a passion for reading-aloud to children? Join us as library reader! Find out more here:
+
+[PSG Google Sign Up Form](https://docs.google.com/forms/d/e/1FAIpQLSeokU6NZm5w9fPXwcEoC3WhiWnR_JRq0IjcvA9pVcWOjl8tzw/viewform)
+
+![](/images/psg8.jpeg)
+
+#### Parent-Child Bonding
+
+_20th April 2018_
+
+Our first parent-child bonding event of 2018 was a memorable one! On 20th April, 20 our students and their parents had a fun afternoon of conversation and hands-on crafting. After a yummy packed lunch, the parent-child pairs, led by PSG member Mdm Chooi Ling, created their own unique hand-made pencil holders. Both students and their parents had an enjoyable time working together on their projects – there was lots of laughter, encouragement and great concentration all around as they created their masterpieces!
+
+![](/images/psg9.jpeg)
+
