@@ -83,3 +83,64 @@ For Pupils
   </tr>
 </tbody>
 </table>
+
+For Parents
+-----------
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-16fh{background-color:#FFF;color:#3A3A3A;font-family:inherit;text-align:left;vertical-align:top}
+.tg .tg-e5mq{background-color:#FFF;color:#3A3A3A;font-family:inherit;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 791px">
+<colgroup>
+<col style="width: 280px">
+<col style="width: 511px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-e5mq"><span style="font-weight:bold;font-style:inherit">Links</span></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> </span><span style="font-weight:bold;font-style:inherit">Introduction</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://schoolbag.sg/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Schoolbag.sg</span></a></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> MOE’s online newsletter for parents. It contains the latest education news and features from schools and teachers.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://www.facebook.com/moesingapore"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">MOE’s Facebook</span></a></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> —</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://www.moe.gov.sg/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">MOE Singapore</span></a></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> —</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://www.moe.gov.sg/admissions"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">MOE Schools Admissions</span></a></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> Information about </span><a href="https://www.moe.gov.sg/schools/national-exams-timetable/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">PSLE Timetables</span></a><span style="font-weight:inherit;font-style:inherit">, </span><a href="https://www.moe.gov.sg/education/admissions/primary-one-registration/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">P1 Registration</span></a><span style="font-weight:inherit;font-style:inherit">,</span> <a href="https://www.moe.gov.sg/education/admissions/secondary-one-posting/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Sec 1 Posting Exercise</span></a><span style="font-weight:inherit;font-style:inherit">,</span> <a href="https://www.moe.gov.sg/education/admissions/dsa-sec/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">DSA-Sec</span></a><span style="font-weight:inherit;font-style:inherit">, etc.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://www.moe.gov.sg/education/syllabuses/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">MOE Syllabuses</span></a></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> Information about subject syllabuses and approved list of textbooks.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://app.sis.moe.gov.sg/schinfo/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">MOE School Information Service</span></a></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> Information about schools in Singapore.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://www.seab.gov.sg/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Singapore Examinations and Assessment Board (SEAB)</span></a></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> Information about national examinations in Singapore.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://www.hpb.gov.sg/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Health Promotion Board</span></a></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> —</span></td>
+  </tr>
+  <tr>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://www.flickr.com/photos/guangyangps/albums"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">GYPS – Photos of Events</span></a></td>
+    <td class="tg-16fh"><span style="font-weight:inherit;font-style:inherit"> Events photos of our school.</span></td>
+  </tr>
+</tbody>
+</table>
