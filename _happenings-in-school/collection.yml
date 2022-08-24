@@ -1,4 +1,5 @@
 collections:
   happenings-in-school:
     output: true
-    order: []
+    order:
+      - Total Defence Award.md
