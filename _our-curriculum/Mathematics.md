@@ -59,3 +59,11 @@ In GYPS, the focus of our Mathematics programme revolves around exploration, exp
   </tr>
 </tbody>
 </table>
+
+Based on the above 3 prong approach, we seek to
+
+* develop pupils’ competency in Mathematical problem solving skills through engaged learning;
+* develop their ability to use logical thinking and reasoning skills through solving Mathematical problems;
+* build their confidence in asking questions during Mathematics lessons;
+* use Mathematical language to communicate Mathematical ideas and arguments precisely and logically;
+* develop positive attitudes towards Mathematics.
