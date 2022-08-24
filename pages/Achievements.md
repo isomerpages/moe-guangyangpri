@@ -178,17 +178,17 @@ description: ""
   <tr>
     <td class="tg-hhj3"><span style="font-weight:inherit;font-style:inherit"> President of the Republic of Singapore</span></td>
     <td class="tg-owj7"><span style="font-weight:inherit;font-style:inherit"> President’s Award for Teachers 2018</span></td>
-    <td class="tg-owj7"><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2018/09/president_award_2018_cl2_800.jpg"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">President’s Award for Teachers</span></a><br><br><span style="font-weight:inherit;font-style:inherit">– Ms S Nirmala Devi</span></td>
+    <td class="tg-owj7"><a href="(LINK HERE)"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">President’s Award for Teachers</span></a> <br>(LINK DOES NOT WORK)<br><br><span style="font-weight:inherit;font-style:inherit">– Ms S Nirmala Devi</span></td>
   </tr>
   <tr>
     <td class="tg-hhj3"><span style="font-weight:inherit;font-style:inherit">People’s Association</span></td>
     <td class="tg-owj7"><span style="font-weight:inherit;font-style:inherit"> Community Spirit Awards 2018</span></td>
-    <td class="tg-owj7"><a href="https://www.guangyangpri.moe.edu.sg/community-awards/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Excellence Award</span></a><br><br><span style="font-weight:inherit;font-style:inherit">– Guangyang Primary School</span></td>
+    <td class="tg-owj7"><a href="(LINK HERE)" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Excellence Award</span></a><br>(LINK DOES NOT WORK)<br><br><span style="font-weight:inherit;font-style:inherit">– Guangyang Primary School</span></td>
   </tr>
   <tr>
     <td class="tg-hhj3"><span style="font-weight:inherit;font-style:inherit">Advisory Council on Community Relations in Defence (ACCORD)</span></td>
     <td class="tg-owj7"><span style="font-weight:inherit;font-style:inherit"> Total Defence Awards</span></td>
-    <td class="tg-owj7"><a href="https://www.guangyangpri.moe.edu.sg/total-defence-award/" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">NS Advocate Awards for Organisations</span></a><br><br><span style="font-weight:inherit;font-style:inherit">– Guangyang Primary School</span></td>
+    <td class="tg-owj7"><a href="/total-defence-awards" target="_blank" rel="noopener noreferrer"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">NS Advocate Awards for Organisations</span></a><br><br><span style="font-weight:inherit;font-style:inherit">– Guangyang Primary School</span></td>
   </tr>
 </tbody>
 </table>
