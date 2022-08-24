@@ -24,3 +24,34 @@ Mission
 
 Parent Support Group Executive Committee 2022
 ---------------------------------------------
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-37dp{background-color:#F7F7BC;color:#3A3A3A;text-align:left;vertical-align:middle}
+.tg .tg-prnc{background-color:#FFF;color:#3A3A3A;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-37dp"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">Chairperson</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit"> Cze-Ee Lee</span></td>
+  </tr>
+  <tr>
+    <td class="tg-37dp"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC"> Vice Chairperson</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit"> Siew Foong</span></td>
+  </tr>
+  <tr>
+    <td class="tg-37dp"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC"> Advisor</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit"> Lim Caihui</span></td>
+  </tr>
+  <tr>
+    <td class="tg-37dp"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC"> Alumni</span></td>
+    <td class="tg-prnc"><span style="font-weight:inherit;font-style:inherit"> Maria Benu</span></td>
+  </tr>
+</tbody>
+</table>
