@@ -24,11 +24,11 @@ third_nav_title: Our Partners
 <tbody>
   <tr>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2018</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Community-Engagement-Appreciation-2018.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Bishan East-Thomson Constituency Office</span></a></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><a href="/files/Community-Engagement-Appreciation-2018.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Bishan East-Thomson Constituency Office</span></a></td>
   </tr>
   <tr>
     <td class="tg-nzmi"><span style="font-weight:inherit;font-style:inherit">2017</span></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Myfirstskool-Blk-245-Bishan-St-22-Appreciation-2017.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">My First Skool at Blk 245 Bishan St 22</span></a></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><a href="/files/Myfirstskool-Blk-245-Bishan-St-22-Appreciation-2017.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">My First Skool at Blk 245 Bishan St 22</span></a></td>
   </tr>
 </tbody>
 </table>
