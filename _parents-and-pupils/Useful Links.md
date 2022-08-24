@@ -31,7 +31,7 @@ For Pupils
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://vle.learning.moe.edu.sg/login"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Student Learning Space (SLS)</span></a></td>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> An MOE-endorsed online learning platform that contains curriculum-aligned resources and learning tools.</span><br><br><a href="/student-learning-space-faqs"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Student Learning Space (SLS) FAQs</span></a></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> An MOE-endorsed online learning platform that contains curriculum-aligned resources and learning tools.</span><br><br><a href="/parents-and-pupils/Information-for-Parents/student-learning-space-faqs"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Student Learning Space (SLS) FAQs</span></a></td>
   </tr>
   <tr>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://schoolibrary.moe.edu.sg/guangyangpri/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">GYPS Library Catalogue</span></a></td>
