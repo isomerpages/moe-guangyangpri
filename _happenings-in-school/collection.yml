@@ -1,0 +1,4 @@
+collections:
+  happenings-in-school:
+    output: true
+    order: []
