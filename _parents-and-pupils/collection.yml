@@ -2,5 +2,6 @@ collections:
   parents-and-pupils:
     output: true
     order:
+      - Happenings In School/.keep
       - Important Dates.md
       - Useful Links.md
