@@ -19,4 +19,9 @@ sections:
       url: /contact-us/
       image: /images/map.png
       alt: map
+  - infobar:
+      title: Follow Us
+      description: All Our Socials in One Place
+      button: View All Links
+      url: /follow-us/
 ---
