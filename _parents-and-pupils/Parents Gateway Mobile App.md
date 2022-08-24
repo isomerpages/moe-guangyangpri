@@ -40,7 +40,7 @@ Through this app, parents will receive Announcements (i.e. Letters, notification
 </table>
 
 
-Please refer to the attached FAQs for more information: [FAQ for Parents Gateway](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/FAQ-for-Parent-Gateway.pdf)
+Please refer to the attached FAQs for more information: [FAQ for Parents Gateway](/files/FAQ-for-Parent-Gateway.pdf)
 
 Alternatively, you may visit [https://pg.moe.edu.sg/](https://pg.moe.edu.sg/) for more information.
 
