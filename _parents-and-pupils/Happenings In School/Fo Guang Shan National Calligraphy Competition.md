@@ -4,9 +4,6 @@ permalink: /parents-and-pupils/Happenings-In-School/fo-guang-shan
 description: ""
 third_nav_title: Happenings In School
 ---
-Fo Guang Shan National Calligraphy Competition
-----------------------------------------------
-
 <img src="/images/Caligraphy-Competition1.jpeg" 
      style="width:65%">
 
