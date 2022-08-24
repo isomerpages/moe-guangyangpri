@@ -55,3 +55,49 @@ In addition where the topics lend themselves, the technological applications, so
   </tr>
 </tbody>
 </table>
+
+
+#### 2018 GYPS Science Curriculum Implementation Overview
+
+The MOE Primary Science curriculum is organised into two teaching blocks, the Lower Block (for Primary 3 and 4) and the Upper Block (for Primary 5 and 6).  This central curriculum is organised for implementation in Guangyang Primary School as follows:
+
+Upper Block (Primary 3 and 4)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-310r{background-color:#F7F7BC;color:#3A3A3A;text-align:center;vertical-align:middle}
+.tg .tg-4p8a{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-310r"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">School Term</span></td>
+    <td class="tg-310r"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">Primary 3</span></td>
+    <td class="tg-310r"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">Primary 4</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">Term 1</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Diversity of Living and Non-Living things</span><br><span style="font-weight:inherit;font-style:inherit">(General Characteristics and Classification)</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Energy Forms and Uses</span><br><span style="font-weight:inherit;font-style:inherit">(Light)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">Term 2</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Cycles in Plants and Animals</span><br><span style="font-weight:inherit;font-style:inherit">(Life Cycles)</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Cycles in Matter and Water</span><br><span style="font-weight:inherit;font-style:inherit">(Matter)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">Term 3</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Diversity of Materials</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Energy Forms and Uses</span><br><span style="font-weight:inherit;font-style:inherit">(Heat)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">Term 4</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Interactions of Forces</span><br><span style="font-weight:inherit;font-style:inherit">(Magnets)</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Plant Systems</span><br><span style="font-weight:inherit;font-style:inherit">(Plant Parts and Functions)</span><br><span style="font-weight:inherit;font-style:inherit">• Human Systems</span><br><span style="font-weight:inherit;font-style:inherit">(Digestive system)</span></td>
+  </tr>
+</tbody>
+</table>
