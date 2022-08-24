@@ -2,6 +2,7 @@ collections:
   parents-and-pupils:
     output: true
     order:
+      - Information for Parents/Student Learning Space (SLS) FAQs.md
       - Information for Parents/Sexuality Education.md
       - Information for Parents/PSLE Changes 2021.md
       - Information for Parents/Parents' Briefing 2022.md
