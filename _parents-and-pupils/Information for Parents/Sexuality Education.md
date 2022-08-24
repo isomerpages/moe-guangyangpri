@@ -188,3 +188,14 @@ c. Character and Citizenship Education (CCE)
   </tr>
 </tbody>
 </table>
+
+
+#### OVERVIEW OF GUANGYANG PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022
+
+8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9\. Parents who wish to opt their children out of the **Growing Years (GY) programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2021/01/opt-out-form_2021.pdf). A hardcopy of the form, duly completed and signed, is to be submitted to the school office by 25 February 2022.
+
+10\. Parents can contact the school at 6258 0455 / [gyps@moe.edu.sg](mailto:gyps@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+11\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
