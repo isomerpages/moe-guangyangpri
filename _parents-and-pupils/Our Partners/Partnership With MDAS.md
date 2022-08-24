@@ -14,7 +14,9 @@ MDAS works closely with GYPS in providing Values In Action opportunities for pup
 
 Values in Action (VIA) are learning experiences that support pupils’ development as socially responsible citizens who contribute meaningfully to the community. As part of VIA, pupils reflect on their experiences, the values they have put into practice, and how they can continue to contribute meaningfully.
 
-![](/images/mda1.jpeg)
+<img src="/images/mda1.jpeg" 
+     style="width:45%">
+
 
 #### 1\. Awareness Talk by MDAS during Assembly
 
@@ -39,7 +41,8 @@ In GYPS, staff set aside a day to do their part to reach out to the community. T
 
 The school collaborates with other organizations to give talks to the senior citizens on health and safety.
 
-![](/images/mda5.jpeg)
+<img src="/images/mda5.jpeg" 
+     style="width:65%">
 
 
 #### 5\. Basic ICT skills for Senior Citizens
