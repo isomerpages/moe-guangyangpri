@@ -94,3 +94,35 @@ April 2022
 Finally with the further lifting of Safety Management Measures, parent volunteers were allowed back into the school.  Our first in-person involvement was for Library Week.  5 parent volunteers helped to share a story to the lower primary and upper primary students during the recess time.  There was a buzz of joy for the children to see parents back in school!
 
 ![](/images/psg1.png)
+
+#### PSG Launch 2022
+
+24 March 2022
+
+With the Covid pandemic that interrupted our entire lives, most of GYPS PSG’s activities were paused throughout 2020-2021.  Thankfully with things looking more hopeful in 2022, we picked things up again, kicking off with a launch attended by 30 parents on Zoom.   We were addressed by School Principal, Mr Lau and Vice-Principal, Mr Ho.  It was exciting to see parents looking forward to 2022!
+
+![](/images/psg2.jpeg)
+
+#### PVs Read
+
+_2021_
+
+The Covid pandemic halted many programs and one was the PVs Read where students could no longer gather in the library.  But with the creativity of our PSG representatives and use of technology, stories were still shared to the students through pre-recorded videos.  Parent volunteers came into the school studio to film their reading.  These were then screened in the classroom for the children during recess
+
+![](/images/psg3.png)
+
+#### Children’s Day Celebration
+
+_4 October 2018_
+
+One’s love for ice cream surely emerges at an early age and will never quite leave them even as they are all grown up. This is clearly evident during PSG’s first ice-cream distribution on 4th October as the school celebrates Children’s Day. This year, Parent Volunteers got together to distribute more than 700 cups of ice-cream to the students, making sure each and every student got their share. The event saw all staff and students eagerly collect their ice cream and savour them in heavenly delight.
+
+Some of our talented parents also painted lovely designs for the children at the hand printing stations, with many students excitedly choosing their designs and waiting for their turn. PSG sincerely wishes that all children had a good time and a very Happy Children’s Day to all students!
+
+![](/images/psg4.jpeg)
+
+#### Teachers’ Day Gift-Making
+
+_21st – 24th, August 2018_
+
+“A good teacher inspires hope, ignites the imagination, and instils a love of learning”. Our teachers at GYPS are truly a dedicated team who pour their hearts into teaching our children. To recognise their efforts and encourage them, 20 of our Parent Volunteers got together to create a unique gift for each educator this Teachers’ Day. The creative streak in our Parent Volunteers shone through as they created over 70 notebooks with handcrafted beading and decorations as well as beaded keychains for the administrative staff. Here’s wishing all our educators a Happy Teacher’s Day!
