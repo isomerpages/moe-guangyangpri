@@ -78,7 +78,7 @@ For Pupils
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> A fun and colourful website with animation and games for children to learn touch typing</span></td>
   </tr>
   <tr>
-    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><a href="https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/Paint.NET-Plug-in.zip"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Paint.NET Effects Plugins</span></a></td>
+    <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> </span><a href="ZIPFILE LINK HERE"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Paint.NET Effects Plugins </span></a>(File exceeds 10mb)</td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit"> Additional effects plugins files for</span> <a href="https://www.getpaint.net/"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Paint.NET</span></a> <span style="font-weight:inherit;font-style:inherit">software (Freeware)</span></td>
   </tr>
 </tbody>
