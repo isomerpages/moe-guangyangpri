@@ -4,6 +4,8 @@ permalink: /parents-and-pupils/Our-Partners/partnership-with-the-community
 description: ""
 third_nav_title: Our Partners
 ---
+Partnership with the Community
+------------------------------
 
 In line with our strategic thrust to forge collaborative partnership with parents and the community at large, the school named Bishan East – Thomson CCC (BE-Thomson CCC) and MDAS as our external partners. 
 
@@ -17,7 +19,7 @@ Primary 3 to Primary 6 classes are scheduled for the interaction/exercise sessio
 
 Form teachers will follow up by having discussions with the pupils based on the interactions. They Pupils would then submit their reflections.
 
-![be_t_ccc01-interaction-tuesday_800](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/be_t_ccc01-interaction-tuesday_800.jpg "be_t_ccc01-interaction-tuesday_800")
+![](/images/c1.jpeg)
 
 #### 2\. Seniors – Students Interaction Group Chinese New Celebrations
 
@@ -29,23 +31,21 @@ For 2020 our CNY celebrations with our senior citizens took place on 4 February 
 
 _“ Never be so busy as not to think of others.”_ _~_ _Mother Teresa_
 
-![3-2-300x200](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/3-2-300x200-1.jpg "3-2-300x200")
-
-![1-2-300x200](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/1-2-300x200-1.jpg "1-2-300x200")
-
-![7-1-300x200](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/7-1-300x200-1.jpg "7-1-300x200")
+![](/images/cc2.png)
 
 #### 3\. Mass Walk
 
 Senior Citizens take part in the school’s mass walk every year which promotes healthy living.
 
-![ce_t_ccc03-mass-walk_800](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/ce_t_ccc03-mass-walk_800.jpg "ce_t_ccc03-mass-walk_800")
+![](/images/c3.jpeg)
 
 #### 4\. Talks for senior Citizens
 
 The school collaborates with other organizations to give talks to the senior citizens on health and safety.
 
-![OLYMPUS DIGITAL CAMERA](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/senoir-c-talk-450.jpg "OLYMPUS DIGITAL CAMERA")
+<img src="/images/c4.jpeg" 
+     style="width:65%">
+
 
 #### 5\. Basic ICT skills for Senior Citizens
 
@@ -58,4 +58,4 @@ The objective is to start a movement to rekindle the community spirit where resi
 In partnership with Bishan East Grassroots Organisations, GYPS organised the “A Cup From The Heart” community project during the school’s Children’s Day Celebration. The school wanted to make Children’s Day Celebration a special one for the children and to educate them in stepping forward and helping the community at a young age by donating a cup of rice/beverages/instant noodles to the less fortunate.  
 A Cup from the HEART initaitive has benefited many needy residents living in Bishan – Toa Payoh area.
 
-![a cup from the heart](https://www.guangyangpri.moe.edu.sg/wp-content/uploads/2020/11/a-cup-from-the-heart.jpg "a cup from the heart")
+![](/images/c5.jpeg)
