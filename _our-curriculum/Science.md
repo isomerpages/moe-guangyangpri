@@ -5,6 +5,8 @@ description: ""
 ---
 <a href="#1">KEY PROGRAMMES</a> | <a href="#2">DEPARTMENTAL HIGHLIGHTS</a>
 
+<a id="1"></a>
+
 ### Department Goals
 To nurture a vibrant community and maximise the potential of Science learners.
 
@@ -101,3 +103,95 @@ Upper Block (Primary 3 and 4)
   </tr>
 </tbody>
 </table>
+
+Lower Block (Primary 5 and 6)
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-310r{background-color:#F7F7BC;color:#3A3A3A;text-align:center;vertical-align:middle}
+.tg .tg-4p8a{background-color:#FFF;color:#3A3A3A;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-310r"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">School Term</span></td>
+    <td class="tg-310r"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">Primary 5  (including Foundation Science)</span></td>
+    <td class="tg-310r"><span style="font-weight:inherit;font-style:inherit;background-color:#F7F7BC">Primary 6 (including Foundation Science)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">Term 1</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Plant Systems</span><br><span style="font-weight:inherit;font-style:inherit">(Circulatory and Respiratory Systems)</span><br><span style="font-weight:inherit;font-style:inherit">• Human Systems</span><br><span style="font-weight:inherit;font-style:inherit">(Circulatory and Respiratory Systems)</span><br><span style="font-weight:inherit;font-style:inherit">•</span> <span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Cell Systems</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Interaction of Forces</span><br><span style="font-weight:inherit;font-style:inherit">(Frictional Force, Gravitational Force, force in springs)</span><br><span style="font-weight:inherit;font-style:inherit">• Energy forms and Uses</span><br><span style="font-weight:inherit;font-style:inherit">(Photosynthesis)</span><br><span style="font-weight:inherit;font-style:inherit">•</span> <span style="font-weight:inherit;font-style:inherit;text-decoration:underline">Energy Conversion</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">Term 2</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Cycles in Plants and Animals</span><br><span style="font-weight:inherit;font-style:inherit">(Reproduction)</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Interaction within the environment</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">Term 3</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Electrical Systems</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Revision and Preparation for PSLE</span></td>
+  </tr>
+  <tr>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">Term 4</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Cycles in Matter and Water</span><br><span style="font-weight:inherit;font-style:inherit">(Water)</span></td>
+    <td class="tg-4p8a"><span style="font-weight:inherit;font-style:inherit">• Post-PSLE activities</span></td>
+  </tr>
+</tbody>
+</table>
+
+Topics which are underlined are not required for pupils taking Foundation Science.
+
+<a id="2"></a>
+
+### GYPS Learning Day
+
+Pupils engage in discovering new Science knowledge and apply what has been taught in an authentic setting. Components of the GYPS Learning Day include Mathematics, Environment Education, National Education and Collaborative Learning.
+
+#### Primary 1 : Jacob Ballas Children’s Garden
+
+P1 Courage, Diligence, Honesty and Loyalty classes with their teachers went to this magical and educational garden on 30 May 2019.  Pupils completed a set of multi-disciplinary activity sheets as they explored the garden, using the information panels to work out the answers and drawing leaves.
+
+![](/images/sci1.jpeg)
+
+At the same time, they enjoyed the scenery, experienced walking on a zig-zag walkway, crossed a suspension bridge and jumped on a mini-trampoline as well as trying other activities.
+
+![](/images/sci2.jpeg)
+
+#### Primary 2 : Bishan-Ang Mo Kio Park
+
+This learning activity exposes and introduces Primary 2 pupils to the skills of a scientist. The activity, conducted as a Programme for Active Learning (PAL), develops observation skills and allows pupils to apply what they have learnt through the PAL Outdoor Education module.
+
+![](/images/sci3.jpeg)
+
+#### Primary 3 : Botanical Gardens
+
+The learning of Science comes alive for our Primary 3 pupils as they are introduced to the beauty and diversity of nature at the Botanical Gardens. Pupils get to appreciate the local flora and fauna up close and personal.
+
+![](/images/sci4.jpeg)
+
+#### Primary 4 : Gardens by the Bay
+
+The learning journey for our Primary 4 pupils combines authentic learning with ICT through the use of a mobile application designed and created by GYPS teachers.
+
+The interactive mobile learning trail supports self-directed learning (SDL) and collaborative learning (COL) outside the classroom. Through the use of the mobile app, learning Science becomes more fun and engaging for pupils.
+
+![](/images/sci5.jpeg)
+
+#### Primary 5 : Singapore Sports Hub
+
+Science concepts and their applications can be found everywhere. What better place to learn and discover more about Science than the newly constructed Singapore Sports Hub with its beautiful surroundings. National Education, with a focus on Singapore’s sporting heroes, is featured in this learning activity.
+
+![](/images/sci6.jpeg)
+
+#### Primary 6 : Singapore Zoological Gardens
+
+The Singapore Zoological Gardens provides numerous opportunities for pupils to study nature and wildlife in closer detail.  In this learning journey, pupils continue to sharpen their Science inquiry skills and build on their Science knowledge.  Here, they focus on applying Science knowledge learnt from Primary 3 through Primary 6 with special attention paid to interactions within the environment.
+
+![](/images/sci7.jpeg)
+
