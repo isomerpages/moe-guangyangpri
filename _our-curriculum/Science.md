@@ -52,7 +52,7 @@ In addition where the topics lend themselves, the technological applications, so
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-umhc"><a href="science-primary-2014.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Science Syllabus Primary 2014</span></a></td>
+    <td class="tg-umhc"><a href="/files/science-primary-2014.pdf"><span style="font-weight:inherit;font-style:inherit;text-decoration:none;color:#0274BE;background-color:transparent">Science Syllabus Primary 2014</span></a></td>
     <td class="tg-dox4"><span style="font-weight:inherit;font-style:inherit">The 2014 Primary Science Curriculum is offered to pupils who are in Primary 3 in 2014 and thereafter.</span></td>
   </tr>
 </tbody>
@@ -194,4 +194,3 @@ Science concepts and their applications can be found everywhere. What better pla
 The Singapore Zoological Gardens provides numerous opportunities for pupils to study nature and wildlife in closer detail.  In this learning journey, pupils continue to sharpen their Science inquiry skills and build on their Science knowledge.  Here, they focus on applying Science knowledge learnt from Primary 3 through Primary 6 with special attention paid to interactions within the environment.
 
 ![](/images/sci7.jpeg)
-
