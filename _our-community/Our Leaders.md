@@ -5,7 +5,9 @@ description: ""
 ---
 <a href="#1">P&VP</a> | <a href="#2">HOD</a> | <a href="#3">TL</a>
 
-<h3><a id="1">Principal and Vice-Principals</a></h3>
+
+<a id="1"></a>
+<h3>Principal and Vice-Principals</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -37,7 +39,8 @@ description: ""
 </tbody>
 </table>
 
-<h3><a id="2">Heads of Departments</a></h3>
+<a id="2"></a>
+<h3>Heads of Departments</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -93,7 +96,8 @@ description: ""
 </tbody>
 </table>
 
-<h3><a id="3">Teacher Leader Council</a></h3>
+<a id="3"></a>
+<h3>Teacher Leader Council</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -125,7 +129,8 @@ description: ""
 </tbody>
 </table>
 
-<h3><a id="4">Assistant Year Heads</a></h3>
+<a id="4"></a>
+<h3>Assistant Year Heads</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
