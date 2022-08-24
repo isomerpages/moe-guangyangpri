@@ -32,6 +32,5 @@ description: ""
 </table>
 
 		 
-<a href = /files/Student-iCON-Student-EDM-Onboarding-Introducing-Student-iCON.pdf" target = "_self"> 
+<a href = "/files/Student-iCON-Student-EDM-Onboarding-Introducing-Student-iCON.pdf" target = "_self"> 
           <img src="/images/Student-iCON-Student-EDM-Onboarding-Introducing-Student-iCON-2.png"></a>
-
