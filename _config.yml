@@ -1,9 +1,9 @@
-title: Guangyang Primary School
-url: ""
+title: Townsville Primary School
+url: https://townsvillepri.moe.edu.sg
 favicon: /images/schoolcrest.jpeg
 colors:
   primary-color: "#f9ca51"
-  secondary-color: "#1e4397"
+  secondary-color: "#417505"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2ee2i8s6vmjys.amplifyapp.com
 prod: https://master.d2ee2i8s6vmjys.amplifyapp.com
-shareicon: /images/schoolcrest.jpeg
+shareicon: ""
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
