@@ -2,7 +2,7 @@
 layout: homepage
 title: Townsville Primary School
 description: An Isomer site of the Singapore Government
-image: /images/schoolcrest.jpeg
+image: /images/isomer-logo.svg
 permalink: /
 notification: ""
 sections:
@@ -25,4 +25,5 @@ sections:
       button: View All Links
       url: /follow-us
 ---
+
 
