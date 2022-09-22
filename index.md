@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Guangyang Primary School
+title: Townsville Primary School
 description: An Isomer site of the Singapore Government
 image: /images/schoolcrest.jpeg
 permalink: /
@@ -25,3 +25,4 @@ sections:
       button: View All Links
       url: /follow-us
 ---
+
