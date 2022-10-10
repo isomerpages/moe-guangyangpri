@@ -2,6 +2,7 @@ collections:
   our-resources:
     output: true
     order:
+      - Notice for Visitors.md
       - School Vendors.md
       - Our Partners/Parent Support Group.md
       - Our Partners/Alumni Survey.md
