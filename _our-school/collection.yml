@@ -2,7 +2,7 @@ collections:
   our-school:
     output: true
     order:
-      - Our History.md
+      - Our Origins.md
       - Our Vision, Mission, Values.md
       - School Uniform.md
       - School Contact Information.md
