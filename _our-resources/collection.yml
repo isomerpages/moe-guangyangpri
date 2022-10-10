@@ -1,5 +1,5 @@
 collections:
-  parents-and-pupils:
+  our-resources:
     output: true
     order:
       - Our Partners/Parent Support Group.md
