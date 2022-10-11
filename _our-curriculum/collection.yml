@@ -2,11 +2,11 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Co Curricular Activities.md
       - English Language.md
       - Mathematics.md
       - Science.md
       - Mother Tongue Languages.md
       - Physical Education.md
       - Aesthetics.md
+      - Co Curricular Activities.md
       - Character & Citizenship Education.md
