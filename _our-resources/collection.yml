@@ -2,8 +2,8 @@ collections:
   our-resources:
     output: true
     order:
+      - Useful Links.md
+      - School Vendors.md
+      - Notice for Visitors.md
       - School Contact Information.md
       - FAQ.md
-      - Notice for Visitors.md
-      - School Vendors.md
-      - Useful Links.md
