@@ -2,11 +2,11 @@ title: Townsville Primary School
 url: https://townsvillepri.moe.edu.sg
 favicon: /images/schoolcrest.jpeg
 colors:
-  primary-color: "#f9ca51"
-  secondary-color: "#417505"
+  primary-color: "#cf1e25"
+  secondary-color: "#fbb041"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#1475bb"
     - title: media-color-two
       color: "#313148"
     - title: media-color-three
