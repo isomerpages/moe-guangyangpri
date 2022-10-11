@@ -2,9 +2,9 @@ collections:
   our-community:
     output: true
     order:
-      - Our Partners/.keep
       - School Advisory Committee.md
       - Our Steering Committee.md
       - Our Educators/.keep
       - Our Educators/Form Classes.md
       - Our Executive and Admin Staff.md
+      - Our Partners/.keep
