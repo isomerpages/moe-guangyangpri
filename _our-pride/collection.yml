@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Signature Programmes/Thinking Curriculum.md
       - Signature Programmes/.keep
       - Achievements.md
       - Good Stories.md
