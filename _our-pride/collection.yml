@@ -2,7 +2,7 @@ collections:
   our-pride:
     output: true
     order:
-      - Signature Programmes/Infocomm Technology.md
+      - Signature Programmes/InfoComm Technology.md
       - Signature Programmes/Thinking Curriculum.md
       - Signature Programmes/.keep
       - Achievements.md
