@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Signature Programmes/Student Leadership.md
       - Signature Programmes/Learn for Life Programme.md
       - Signature Programmes/InfoComm Technology.md
       - Signature Programmes/Thinking Curriculum.md
