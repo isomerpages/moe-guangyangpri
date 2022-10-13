@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/Financial Assistance.md
       - For Parents/Forms & Letters.md
       - For Parents/Parent Gateway.md
+      - For Parents/Financial Assistance.md
       - For Students/.keep
       - For Students/Student ICON.md
       - For Students/Student Learning Space.md
