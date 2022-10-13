@@ -2,14 +2,14 @@ collections:
   our-resources:
     output: true
     order:
-      - Our Library.md
-      - For Students/Student ICON.md
-      - For Students/Student Learning Space.md
-      - For Students/.keep
+      - For Parents/.keep
       - For Parents/Financial Assistance.md
       - For Parents/Forms & Letters.md
       - For Parents/Parent Gateway.md
-      - For Parents/.keep
+      - For Students/.keep
+      - For Students/Student ICON.md
+      - For Students/Student Learning Space.md
+      - Our Library.md
       - School Vendors.md
       - Notice for Visitors.md
       - School Contact Information.md
