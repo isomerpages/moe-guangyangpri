@@ -9,7 +9,7 @@ third_nav_title: Our Partners
 Lions Befrienders, Community Chest, Ang Mo Kio Family Service Centre, Pathlight</h1>
 
   
-VIA:
+*VIA:*
 
 Objectives: to enrich students’ understanding of and empathy for the less privileged
 
@@ -18,7 +18,7 @@ Programme: Fund Raising Drive, Food Donation Drive 
 Partners: Lions Befrienders
 
 
-VIA:
+*VIA:*
 
 Objectives: to enrich students’ understanding of and empathy for the less privileged
 
@@ -27,7 +27,7 @@ Programme: Fund Raising Drive, Food Donation Drive 
 Partners: Community Chest
 
  
-VIA:
+*VIA:*
 
 Objectives: to provide a platform and opportunity for students to interact with the elderly
 
@@ -36,7 +36,7 @@ Programme: Young Caregiver Programme
 Partners: AMK Family Service Centre
 
 
-VIA: 
+*VIA: *
 
 Objectives: to be more compassionate towards others by caring and sharing
 
