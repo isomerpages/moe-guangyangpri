@@ -1,114 +1,79 @@
 ---
 title: English Language
-permalink: /our-curriculum/english-language
+permalink: /our-curriculum/english-language/
 description: ""
 ---
-### Department Goals
-To nurture passionate learners who are confident and articulate in English.
+<h1 style=color:red;font-size:30px>English Language</h1>
 
-### Approach
+<p style=font-size:20px><strong>Vision</strong></p>
+Every Townsvillite is a:
 
-#### STELLAR
-Strategies for English Language Learning and Reading (STELLAR) is used in designing the English Language curriculum in our school. Through STELLAR, we strongly believe our pupils will develop into wholesome individuals who are confident, curious and have a desire to learn. They will also be able to communicate clearly and work well in teams and across cultures.
-
-The STELLAR programme aims to cultivate the love of reading as well as to build a strong language foundation. It involves using age-appropriate resources and research based teaching strategies to engage our pupils in their learning of the language.
-
-![](/images/e1.jpeg)
-
-![](/images/e2.jpeg)
-
-The key strategies used in the Lower Primary classrooms are as follows:
-
-* **Shared Book Approach (SBA)**
-
-Children read storybooks with the teacher and engage in oral discussions with teacher and peers.
-
-* **Modified Language Experience Approach (MLEA)**
-
-The teacher models writing using pupils’ language. Pupils engage in writing together and in writing independently.
+Confident and effective communicator
+Discerning reader who is self-directed and passionate
 
 
-![](/images/e3.jpeg)
+<p style=font-size:20px><strong>Teaching Approach</strong></p>
+@TVPS we work towards cultivating the learning of the English Language through 3 aspects; the heart, mind and hand. This engaged learning culture is what we engineer here at Townsville.
 
- **Learning Centres (LC)**
+Exposure. Experience. Environment.
 
-The teacher prepares mini lessons based on specific needs of pupils to prepare them for reading and writing activities; eg. grammar, vocabulary, word recognition, decoding skills and spelling.
+*   The 2020 Syllabus was implemented from primary 1 in 2020 with greater emphasis on metacognition, multi-literacies and inquiry through dialogue. This will be achieved through explicit focus on differentiated instruction and assessment for learning
+    
 
-![](/images/e4.jpeg)
+*   The 3Es approach in designing lesson experiences for each STELLAR theme in our curriculum, provides the rich exposure to meaningfully engage our students in building a strong foundation in the areas of listening, speaking, reading, writing and grammar and vocabulary with an increased emphasis on the development of 21st century competencies.
+    
 
-The key strategies used in the Upper Primary classrooms are as follows:
+Strategies for English Language Learning and Reading (STELLAR) is used in designing the English Language curriculum in our school. Through STELLAR, we strongly believe our students will develop into wholesome individuals who are confident, curious and have a desire to learn. They will also be able to communicate clearly and work well in teams and across cultures.
 
-* **Sustained Silent Reading (SSR)**
+The STELLAR programme aims to cultivate the love of reading as well as to build a strong language foundation. It involves using age-appropriate resources and research based teaching strategies to engage our students in their learning of the language.
 
-Pupils read silently without interruption and engage in oral discussions with teacher and peers after reading.
+<p style=font-size:20px><strong>Key Programmes</strong></p>
 
-* **Supported Reading (SR)**
-
-Pupils will read aloud or silently to comprehend a variety of texts at literal, inferential and evaluative levels. It also includes whole study text, grammar and vocabulary studies.
-
-* **Know-Want to know-Learnt (KWL)**
-
-Pupils extract information and relate it to what they already know about the topic. Teachers guide pupils to organise, access and remember information. This enables pupils to understand and follow the logic of information presented in a text.
-
-* **Retelling (RT)**
-
-Pupils are given opportunities to engage in a whole range of important language and cognitive processes including recall of information, main points and characters, text structures and language features.
-
-* **Writing Process Cycle (WPC)**
-
-The teacher models writing using pupil’s language. Pupils engage in writing together and in writing independently.
-
-* **Differentiated Instruction (DI)**
-
-Pupils are provided with differentiated support at various points of instruction to optimise their learning.
-
-![](/images/e5.jpeg)
-
-### English Language Programmes
-
-**Reading and Viewing**
-* Whole School Approach to Reading  
-* NLB and School Library Programmes  
-* Book Flood / Library Week  
-* Reading Activities Card
-
-**Speaking and Representing**
-* Poetry Recitation  
-* Speech and Drama  
-* Oral Practice Package  
-* Book Talks  
-* Storytelling
-
-**Writing and Representing**
-
-* MLEA
-* Writing Packages  
-* Journal Writing 
-* News in Class  
-* Integrated Project Work 
-* Integrated Learning Trails and Experiential Learning
-
-**Enrichment**
-* International Competitions and Assessments for Schools (ICAS)
-* Storytelling Competitions
-* Speech and Drama
-
-![](/images/e6.jpeg)
-
-### Intervention Programmes
+***Intervention Programmes***
 
 **Learning Support Programme (LSP)**
 
-The LSP is a specialised early intervention programme which aims at providing learning support to pupils who enter Primary 1 with weak English language and literacy skills. Pupils are identified for LSP through a systematic screening process which is carried out at the beginning of Primary 1. The objective of the LSP is to equip pupils with basic literacy skills so that they can access learning in the regular classroom.
+The LSP is a specialised early intervention programme which aims at providing learning support to pupils who enter Primary 1 with weak English language and literacy skills. Students are identified for LSP through a systematic screening process which is carried out at the beginning of Primary 1. The objective of the LSP is to equip students with basic literacy skills so that they can access learning in the regular classroom.
 
 **School-based Dyslexia Remediation (SDR)**
 
-SDR is a two year intervention programme for Primary 3 and 4 pupils who are identified through a systematic screening process for dyslexia which is conducted at the end of Primary 2. The programme is conducted in small groups by trained teachers using a reading curriculum designed by MOE reading specialists.
+SDR is a two year intervention programme for Primary 3 and 4 students who are identified through a systematic screening process for dyslexia which is conducted at the end of Primary 2. The programme is conducted in small groups by trained teachers using a reading curriculum designed by MOE reading specialists.
 
 **Reading Remediation Programme (RRP)**
 
-The Reading Remediation Programme is aimed at supporting P3 pupils who face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme enables pupils to master word recognition and spelling strategies. It also exposes them to a range of strategies for reading comprehension which will enable them to better manage their daily learning.
+The Reading Remediation Programme is aimed at supporting P3 and P4 students who face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme enables students to master word recognition and spelling strategies. It also exposes them to a range of strategies for reading comprehension which will enable them to better manage their daily learning.
 
-**Tips for Supporting STELLAR Curriculum at Home**
 
-[www.stellarliteracy.sg](https://www.stellarliteracy.sg/)
+
+***Programmes***
+
+**English Language Talent Superstar (ELTS)**
+
+The English Language Talent Superstar (ELTS) is a platform for students to display and celebrate their learning, progress and prowess of the English Language. Students have complete freedom of choice for their showcase videos. 
+
+Objectives of the programme :
+
+*   explore ICT tools independently
+    
+*   engage in self-directed learning, showcasing their learning, talents and skills to the entire school community
+
+
+**Fun with English Week & Hot News Interactive**
+
+In this digital age, we want our students to be empathetic communicators, discerning readers and creative inquirers and keep the passion for learning the English Language ignited for life. 
+
+What better way… then our EL week HOT News Interactive experiences! 
+
+Activities include:Character Dress Up day, Language games, Research and debate on contemporary issues. Spelling Bee Competition
+
+
+**Speech and Drama**
+
+Speech and drama lessons in the EL curriculum is aimed at growing the confident speaker in each Townsvillite. The programme allows students to express themselves freely and explore their imagination.
+
+Students work on skills like voice projection, articulation and spatial awareness.
+
+
+**Scrabble in Word Study**
+
+Vocabulary lessons in Townsville expose our children to structured play in strengthening their vocabulary knowledge and application. They enjoy using Scrabble, a board game, to work collaboratively in vocabulary building with their peers and then follow up with their teachers to focus on selected words for an in-depth word study.
