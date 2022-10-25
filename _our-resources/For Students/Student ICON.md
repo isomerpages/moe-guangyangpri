@@ -17,4 +17,7 @@ Student iCON is a suite of Google apps that helps to better support your learnin
 
 You can find the [Guide](/files/Student-iCON-Onboarding-Guide2.pdf) & [FAQ](/files/FAQs2.pdf) here.
 
-<p style=font-size:20px><strong></strong></p>
+<p style=font-size:20px><strong>Leaving School?</strong></p>
+
+Back up your Student iCON
+
