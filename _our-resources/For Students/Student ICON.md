@@ -8,8 +8,13 @@ third_nav_title: For Students
 
 Student iCON is a suite of Google apps that helps to better support your learning and collaboration with others.
 
-<p style=font-size:20px><strong>Vision</strong></p>
+![](/images/Annotation%202022-10-25%20145408.png)
+![](/images/Annotation12.png)
 
-<p style=font-size:20px><strong>Teaching Approach</strong></p>
+<p style=font-size:20px><strong>How to log in</strong></p>
 
-<p style=font-size:20px><strong>Key Programmes</strong></p>
+![](/images/Annotation123.png)
+
+You can find the [Guide](/files/Student-iCON-Onboarding-Guide2.pdf) & [FAQ](/files/FAQs2.pdf) here.
+
+<p style=font-size:20px><strong></strong></p>
