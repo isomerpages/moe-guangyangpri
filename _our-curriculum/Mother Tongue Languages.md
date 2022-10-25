@@ -9,7 +9,7 @@ description: ""
 Effective communicator in Mother Tongue, rooted in one’s culture, ready for the future.
 
 <p style=font-size:20px><strong>Teaching Approach</strong></p>
-**How we teach**
+<strong>How we teach</strong>
 
 Using the Gradual Release of Responsibility (GRR) model of instruction with Explicit Direct Instruction through social constructivism. 
 
