@@ -19,5 +19,6 @@ You can find the [Guide](/files/Student-iCON-Onboarding-Guide2.pdf) & [FAQ](/fil
 
 <p style=font-size:20px><strong>Leaving School?</strong></p>
 
-Back up your Student iCON
+![](/images/Picture4.png)
 
+Refer to 
