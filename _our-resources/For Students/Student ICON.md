@@ -21,4 +21,4 @@ You can find the [Guide](/files/Student-iCON-Onboarding-Guide2.pdf) & [FAQ](/fil
 
 ![](/images/Picture4.png)
 
-Refer to 
+Refer to [Guide](/files/iCON_Google%20Takeout_Guide_for_Students%20(rev%20for%202022).pdf) here.
