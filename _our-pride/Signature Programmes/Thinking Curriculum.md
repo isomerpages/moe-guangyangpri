@@ -10,7 +10,7 @@ Our Townsville Thinking Curriculum aims to equip our pupils with thinking tools 
 
 Our Townsville Thinking Toolbox is filled with a varied number of tools such as:
 
-**i. Polya’s UPDC Model
+**i. Polya’s UPDC Model**
 
 ![](https://lh6.googleusercontent.com/OZ06R_MszL5VyWSUlPW2UJnf-nhkKhHy2jEjZ8X4PlZcgP0C_7AqATySTMwZdzcVOpr2yloHq6mcdZ7_wZzkELLIobVx5u7v8UQf34p5i3RSebAPN4lnKOdVzdgKC84bqqsdxmVdH7ZFbKftrxONgSEepDiTKzgNeTxQMl7iGwnGTZ9O4YlHM37EXA)
 
