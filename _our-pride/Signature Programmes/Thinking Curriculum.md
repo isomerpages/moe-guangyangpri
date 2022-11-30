@@ -4,7 +4,7 @@ permalink: /our-pride/Signature-Programmes/thinking-curriculum/
 description: ""
 third_nav_title: Signature Programmes
 ---
-<h2 style=color:red;">Thinking Curriculum</h1>
+<h2 style="color:red;">Thinking Curriculum</h2>
 
 Our Townsville Thinking Curriculum aims to equip our pupils with thinking tools that guide them in their learning journey. We provide them with opportunities to develop their own way of learning as they journey through the various learning experiences and gradually develop their own ability to master their thinking processes effectively.
 
