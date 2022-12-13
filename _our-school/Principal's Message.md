@@ -4,22 +4,16 @@ permalink: /our-community/principals-message/
 description: ""
 ---
 
-Warmest greetings and welcome to Guangyang Primary School!
+```
+**Our School Vision:
+A Vibrant School • Leaders of Character • Learner for Life**
+```
 
-I would first like to thank the past Principal, Mr Vimalenthiran Vijaysingam, for his leadership and service to the school. I am excited and humbled to join the Guangyang family and build on the good work done by past School Leaders and teachers.  
+It is with great excitement and enthusiasm that we embark the year 2023. The merger of Townsville Primary School and Guangyang Primary School has presented us with many possibilities to create an exciting future ahead of us. Building on the strengths of both schools, we remain steadfast to ensure that this school is an institution of vibrant learning, a place where children discover their innate talents and abilities, broaden their horizons and excel to their personal best.
 
-2020 has been an extraordinary year characterised by uncertainty and fear. However, it also brought about opportunities for our students and staff to demonstrate unity, resilience and creativity as we overcame the challenges brought about by COVID-19. Our staff worked tirelessly to ensure the well-being of our students and adopted technological solutions to maintain learning continuity during this period. Our students rose to the challenge by responding quickly to the various modes of learning and the safe management measures upon their return to school. They also supported and showed care and appreciation for one another as well as to the frontline workers such as our school cleaners.
+Guided by our compelling vision, this school provides our students a balanced and well-rounded education. We develop every Townsvillite to their potential, and nurture them into good citizens who take lead to make a difference. We provide platforms and create varied opportunities to ignite the passion and joy of learning in students who take actions to live their passion every day and for the future. You will get to see and feel the vibrancy and heartbeat of our school as you explore our school website.
 
-Moving forward in 2021, we will continue to stay vigilant against COVID-19. At the same time, we will nurture a joy of learning in our students so that they will be intrinsically motivated, love what they are doing in class and enjoy coming to school. To this end, we are committed to provide a learning environment where students feel loved, safe and cared for. Teaching will also be differentiated according to students’ needs, abilities and interest so that all students are engaged and understand the lessons in class. Our assessment practices will not only inform teachers of the student’s learning progress but also serve to recognise students’ diverse skill sets as well as motivate and build confidence in their ability to learn.
+It takes a village to raise a child. We welcome and partner parents and the community to provide the best educational experiences for our children. We want to encourage each and every one to journey with us as we give our children the most enriching and meaningful schooling experience in Townsville Primary School.
 
-Through their 6 years in Guangyang, we aspire for every student to be a/an
-
-*   **Confident leader** who is able to communicate effectively, knows his strengths and areas for growth, and distinguishes right from wrong; 
-*   **Life-long learner** who takes responsibility and reflects on his learning;
-*   **Innovative collaborator** who seeks creative solutions to problems, is able to work effectively in teams, takes initiative and contributes actively; and 
-*   **Gracious citizen** who knows and loves Singapore, shows care for others and the environment, and appreciates the arts. 
-
-These can only be achieved with the strong support of our parents, stakeholders and community partners. We look forward to the continued partnership as we seek to fulfill our school’s mission of _maximising the potential of all learners_.
-
-Mr Enoch Lau  
+Mr Eddie Foo
 Principal
