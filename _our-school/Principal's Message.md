@@ -12,7 +12,7 @@ Guided by our compelling vision, this school provides our students a balanced an
 
 It takes a village to raise a child. We welcome and partner parents and the community to provide the best educational experiences for our children. We want to encourage each and every one to journey with us as we give our children the most enriching and meaningful schooling experience in Townsville Primary School.
 
-<img src="/images/Eddie%20Foo4.jpg" width="100" height="100" >
+![](/images/Eddie%20Foo2.jpg)
 
 Mr Eddie Foo
 
