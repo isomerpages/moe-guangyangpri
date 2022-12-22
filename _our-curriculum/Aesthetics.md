@@ -3,21 +3,20 @@ title: Aesthetics
 permalink: /our-curriculum/aesthetics/
 description: ""
 ---
-<h1 style=color:red;font-size:30px>Aesthetics</h1>
+<h1 style="color:red;font-size:30px">Aesthetics</h1>
 
-<p style=font-size:20px><strong>Vision</strong></p>
-An Artist in Everyone
+<p style="font-size:20px"><strong>Vision</strong></p>An Artist in Everyone
 
 Committed to the development of confident artists with a passion and appreciation for the arts. A healthy community, growing and glowing with passion for Sports and the Arts.
 
 
-<p style=font-size:20px><strong>Teaching Approach</strong></p>
+<p style="font-size:20px"><strong>Teaching Approach</strong></p>
 
 ![](/images/Aesthetic.png)
 
 Using the 3Es approach of Exposure, Extension and Excellence, we aim to cater to the different learning interests and abilities of our students by offering a varied range and levels of experiences. All students are given the  opportunity to develop their skills in art appreciation and expression through our Visual Arts and Music curriculum. At the same time, students may also choose to further extend their learning in the Visual Arts via CCAs and other specialised programs offered by the school.
 
-<p style=font-size:20px><strong>Key Programmes</strong></p>
+<p style="font-size:20px"><strong>Key Programmes</strong></p>
 
 **Medium Exposure Programs**
 
