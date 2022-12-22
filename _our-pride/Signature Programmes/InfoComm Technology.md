@@ -9,7 +9,7 @@ third_nav_title: Signature Programmes
 <h1 style="color:red;font-size:30px">InfoComm Technology (ICT)</h1>
 
 
-<p style=font-size:20px><strong>Department Goal</strong></p>
+<p style="font-size:20px">Department Goal</p>
 
 To groom each pupil in TVPS to be a competent and responsible user of ICT
 
