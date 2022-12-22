@@ -3,7 +3,7 @@ title: Our Library
 permalink: /our-resources/our-library/
 description: ""
 ---
-<h1 style=color:red;font-size:30px>Our Library</h1>
+<h1 style="color:red;font-size:30px">Our Library</h1>
 
 Dr Seuss says “The more that you read, the more things you will know. The more that you learn, the more places you’ll go.” It has also been said that reading opens one’s mind to endless possibilities. However, the love for reading is one that only few children are engaged in at a very young age.
 
