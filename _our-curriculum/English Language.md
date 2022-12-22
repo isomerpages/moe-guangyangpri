@@ -3,16 +3,16 @@ title: English Language
 permalink: /our-curriculum/english-language/
 description: ""
 ---
-<h1 style=color:red;font-size:30px>English Language</h1>
+<h1 style="color:red;font-size:30px">English Language</h1>
 
-<p style=font-size:20px><strong>Vision</strong></p>
-Every Townsvillite is a:
+<p style="font-size:20px"><strong>Vision</strong></p>Every Townsvillite is a:
 
 Confident and effective communicator
 Discerning reader who is self-directed and passionate
 
 
-<p style=font-size:20px><strong>Teaching Approach</strong></p>
+<p style="font-size:20px"><strong>Teaching Approach</strong></p>
+
 @TVPS we work towards cultivating the learning of the English Language through 3 aspects; the heart, mind and hand. This engaged learning culture is what we engineer here at Townsville.
 
 Exposure. Experience. Environment.
@@ -27,7 +27,7 @@ Strategies for English Language Learning and Reading (STELLAR) is used in design
 
 The STELLAR programme aims to cultivate the love of reading as well as to build a strong language foundation. It involves using age-appropriate resources and research based teaching strategies to engage our students in their learning of the language.
 
-<p style=font-size:20px><strong>Key Programmes</strong></p>
+<p style="font-size:20px"><strong>Key Programmes</strong></p>
 
 ***Intervention Programmes***
 
