@@ -6,15 +6,14 @@ third_nav_title: Signature Programmes
 ---
 **_We cannot predict the future of tomorrow, but we know that technology is and always has been a bringer of change. The aim of our ICT programme is to allow pupils to learn to be competent and responsible in the use of current technology to create meaningful products for themselves, building the disposition necessary for the future._**
 
-<h1 style=color:red;font-size:30px>InfoComm Technology (ICT)</h1>
+<h1 style="color:red;font-size:30px">InfoComm Technology (ICT)</h1>
 
 
 <p style=font-size:20px><strong>Department Goal</strong></p>
 
 To groom each pupil in TVPS to be a competent and responsible user of ICT
 
-<p style=font-size:20px><strong>Approach</strong></p>
-
+<p style="font-size:20px"><strong>Approach</strong></p>
 
 
 The ICT Department adopts a holistic approach to the learning of appropriate skills and values towards ICT usage.  Our programmes seek to enable pupils to become competent and responsible users of ICT.
