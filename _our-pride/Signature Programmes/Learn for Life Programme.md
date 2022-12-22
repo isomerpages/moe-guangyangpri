@@ -4,7 +4,7 @@ permalink: /our-pride/Signature-Programmes/learn-for-life-programme/
 description: ""
 third_nav_title: Signature Programmes
 ---
-<h1 style=color:red;font-size:30px>Learning for Life (LLP): iDARE through the Arts</h1>
+<h1 style="color:red;font-size:30px">Learning for Life (LLP): iDARE through the Arts</h1>
 
 
 The Learning for Life Programme (LLP) in Townsville, **iDARE through the Arts**, provides our students with real-life experiential learning to develop their character and values, sense of empathy, joy of learning, cultivate positive attitudes, self-expression and interpersonal skills through Visual and Performing Arts. iDARE represents the school core values - Integrity, Diligence, Aspiration, Respect, Empathy, which the school hopes to develop in the students. 
