@@ -3,14 +3,14 @@ title: Character & Citizenship Education
 permalink: /our-curriculum/character-n-citizenship-education/
 description: ""
 ---
-<h1 style=color:red;font-size:30px>Character & Citizenship Education (CCE)</h1>
+<h1 style="color:red;font-size:30px">Character & Citizenship Education (CCE)</h1>
 
-<p style=font-size:20px><strong>Vision</strong></p>
+<p style="font-size:20px"><strong>Vision</strong></p>
 At Townsville Primary, we believe that values are both caught and taught. The Character and Citizenship Education (CCE) committee puts in place structures, processes and programmes to inculcate and build competencies in our pupils so that they become persons of good character and useful citizens of Singapore.
 
 The total CCE experience includes the academic programmes, CCA, CCE lessons, discipline, practices and student leadership and all other activities that mould a Townsvillite into a person with values and strength of character.
 
-<p style=font-size:20px><strong>Teaching Approach</strong></p>
+<p style="font-size:20px"><strong>Teaching Approach</strong></p>
 
 The Character and Citizenship Education (CCE) Department supports the school mission: A Vibrant School, Leaders of Character and Learners for Life.  
 
@@ -20,7 +20,7 @@ Hence, all our CCE Programmes in TVPS are anchored on building **positive self, 
  
 To ensure a holistic approach to CCE, we have unpacked what we do under the 3 pillars of: **Student Development, Student Leadership, Student Well-Being.**
 
-<p style=font-size:20px><strong>Key Programmes</strong></p>
+<p style="font-size:20px"><strong>Key Programmes</strong></p>
 
 
 The CCE committee operates through four main wings:
@@ -59,4 +59,3 @@ To develop pupils’ leadership potential, dispositions and values through the L
 4\. <strong>Pastoral Care</strong>
 
 Looks into the holistic pupil welfare support primarily in the area of psychological and emotional health, financial support and learning needs of our pupils.
-
