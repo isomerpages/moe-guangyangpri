@@ -4,10 +4,7 @@ permalink: /our-community/Our-Partners/permalink/
 description: ""
 third_nav_title: Our Partners
 ---
-<h1 style=color:red;font-size:30px>Partners-in-action: 
-	
-Lions Befrienders, Community Chest, Ang Mo Kio Family Service Centre, Pathlight</h1>
-
+<h1 style="color:red;font-size:30px">Partners-in-action: Lions Befrienders, Community Chest, Ang Mo Kio Family Service Centre, Pathlight</h1>
   
 *VIA:*
 
