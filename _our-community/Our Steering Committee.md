@@ -37,7 +37,7 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img src="images/Teaching%20Staff/Ms%20Ong%20Chor%20Meng%20(HOD%20Curriculum)2.jpg" style="width:113px; height:150"></td>
+    <td><img src="/images/Teaching%20Staff/Ms%20Ong%20Chor%20Meng%20(HOD%20Curriculum)2.jpg" style="width:113px; height:150"></td>
     <td>Ms Ong Chor Meng</td>
     <td>HOD Curriculum</td>
   </tr>
@@ -144,4 +144,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
