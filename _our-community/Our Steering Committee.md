@@ -24,7 +24,7 @@ aaccb
 </thead>
 <tbody>
   <tr>
-    <td class="tg-06je"><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" width="119" height="158"></td>
+    <td class="tg-06je"><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:50%"></td>
     <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Eddie Foo</span></td>
     <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Principal</span></td>
   </tr>
