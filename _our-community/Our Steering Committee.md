@@ -5,12 +5,9 @@ description: ""
 ---
 ![](/images/Construction.jpg)
 
+<h3>School Leaders</h3>
+
 <table>
-<thead>
-  <tr>
-		<th colspan="3" style="color:#FBB041; text-align: center"><h3>School Leaders</h3></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"></td>
@@ -35,14 +32,9 @@ description: ""
 </tbody>
 </table>
 
-### Head of Department
+<h3>Head of Department</h3>
 
 <table>
-<thead>
-  <tr>
-		<th colspan="3" style="color:#FBB041; text-align: center"><h3>Heads of Department</h3></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td><img src="images/Teaching%20Staff/Ms%20Ong%20Chor%20Meng%20(HOD%20Curriculum)2.jpg" style="width:113px; height:150"></td>
@@ -87,14 +79,9 @@ description: ""
 </tbody>
 </table>
 
-### Year Heads
+<h3>Year Heads</h3>
 
 <table>
-<thead>
-  <tr>
-		<th colspan="3" style="color:#FBB041; text-align: center"><h3>Year Heads</h3></th>
-  </tr>
-</thead>
 <tbody>
   <tr>
     <td><img src="/images/Teaching%20Staff/Mrs%20Debbie%20Lau%20(Year%20Head)2.jpg" style="width:113px; height:150"></td>
@@ -119,5 +106,42 @@ description: ""
 </tbody>
 </table>
 
+<h3>Staff Development</h3>
 
+<table>
+<tbody>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Lek%20Seok%20Buay%20(SSD)2.jpg" style="width:113px; height:150"></td>
+    <td>Ms Cheh Seok Buay</td>
+    <td>School Staff Developer (SSD)</td>
+  </tr>
+</tbody>
+</table>
+
+<h3>Executive & Administrative Staff Managers</h3>
+
+<table>
+<tbody>
+  <tr>
+    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"></td>
+    <td>Mdm Nancy Koh Mei Chin</td>
+    <td>Administrative Manager (AM)</td>
+  </tr>
+  <tr>
+    <td><img src="/images/No%20Photo.jpg" alt="Image"  style="width:113px;height:150"></td>
+    <td>Mdm Candy Heng Cheng Peng</td>
+    <td>Administrative Manager (AM)</td>
+  </tr>
+  <tr>
+    <td><img src="/images/No%20Photo.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mr Samad Bin Surat</td>
+    <td>Operations Manager (OM)</td>
+  </tr>
+  <tr>
+    <td><img src="/images/EAS%20Staff/Lau%20Cheng%20Nam.jpeg" alt="Image" style="width:113px; height:151"></td>
+    <td>Mr Lau Cheng Nam</td>
+    <td>Operations Manager (OM)</td>
+  </tr>
+</tbody>
+</table>
 
