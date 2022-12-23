@@ -263,9 +263,12 @@ third_nav_title: Our Educators
 
 
 <h3>Primary 5 Form Teachers</h3>
+
 <table>
 <thead>
+	<tr>
 		<td colspan="4"><center><b>Empathy 1</b></center></td>
+	</tr>
 </thead>
 <tbody>
   <tr>
@@ -319,6 +322,7 @@ third_nav_title: Our Educators
     <td><img src="/images/Teaching%20Staff/Mrs%20Madhavi%20Chandramohan%20(LH%20TL)2.jpg" style="width:113px; height:150"> </td>
     <td>Ms Madhavi Chandramohan (SH)</td>
   </tr>
+	<tr>
 	<td colspan="4"><center><b>Empathy 7</b></center></td>
   </tr>
   <tr>
@@ -327,6 +331,7 @@ third_nav_title: Our Educators
     <td><img src="/images/Teaching%20Staff/Lim%20Chiu%20Har.jpeg" style="width:113px; height:150"> </td>
     <td>Mdm Lim Chiu Har</td>
   </tr>
+	<tr>
 	<td colspan="4"><center><b>Empathy 8</b></center></td>
   </tr>
   <tr>
@@ -395,6 +400,7 @@ third_nav_title: Our Educators
     <td><img src="/images/Teaching%20Staff/Ms%20Pamela%20Pei%20(LH%20Science)2.jpg" style="width:113px; height:150"> </td>
     <td>Mrs Pamela Chan (LH)</td>
   </tr>
+	<tr>
 	<td colspan="4"><center><b>Excellence 7</b></center></td>
   </tr>
   <tr>
@@ -403,6 +409,7 @@ third_nav_title: Our Educators
     <td><img src="/images/Teaching%20Staff/Mr%20Shane%20Quek%20(SH%20PE)2.jpg" style="width:113px; height:150"> </td>
     <td>Mr Shane Quek (SH)</td>
   </tr>
+	<tr>
 	<td colspan="4"><center><b>Excellence 8</b></center></td>
   </tr>
   <tr>
