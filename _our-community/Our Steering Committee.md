@@ -5,12 +5,10 @@ description: ""
 ---
 ![](/images/Construction.jpg)
 
-<h3>School Leaders</h3>
-
 <table>
 <thead>
   <tr>
-    <th colspan="3" style="color:#FBB041; text-align: center">School Leaders</th>
+		<th colspan="3" style="color:#FBB041; text-align: center"><h3>School Leaders</h3></th>
   </tr>
 </thead>
 <tbody>
@@ -37,65 +35,89 @@ description: ""
 </tbody>
 </table>
 
+### Head of Department
 
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
-.tg .tg-edel{background-color:#FFF;color:#FBB041;text-align:center;vertical-align:top}
-.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-edel" colspan="3"><span style="font-weight:normal;color:#FBB041"><h2>Heads of Department</h2></span></th>
+		<th colspan="3" style="color:#FBB041; text-align: center"><h3>Heads of Department</h3></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-06je"><img src="/images/Teaching%20Staff/Ms%20Ong%20Chor%20Meng%20(HOD%20Curriculum)2.jpg" width="119" height="158"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ms Ong Chor Meng</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">HOD Curriculum</span></td>
+    <td><img src="images/Teaching%20Staff/Ms%20Ong%20Chor%20Meng%20(HOD%20Curriculum)2.jpg" style="width:113px; height:150"></td>
+    <td>Ms Ong Chor Meng</td>
+    <td>HOD Curriculum</td>
   </tr>
   <tr>
-    <td class="tg-06je"><img src="/images/Teaching%20Staff/Shanthi%20Deenathayalan.jpeg" alt="Image" width="119" height="158"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ms Shanthi Deenathayalan</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">HOD English</span></td>
+    <td><img src="/images/Teaching%20Staff/Shanthi%20Deenathayalan.jpeg" style="width:113px;height:150"></td>
+    <td>Ms Shanthi Deenathayalan</td>
+    <td>HOD English</td>
   </tr>
   <tr>
-    <td class="tg-06je"><img src="/images/Teaching%20Staff/Mdm%20Lye%20Choon%20Hwan%20(HOD%20MT)2.jpg" alt="Image" width="119" height="158"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mdm Lye Choon Hwan</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">HOD Mother Tongue Language (MTL)</span></td>
+    <td><img src="/images/Teaching%20Staff/Mdm%20Lye%20Choon%20Hwan%20(HOD%20MT)2.jpg"style="width:113px; height:150"></td>
+    <td>Mdm Lye Choon Hwan</td>
+    <td>HOD Mother Tongue Language (MTL)</td>
   </tr>
   <tr>
-    <td class="tg-06je"><img src="/images/Teaching%20Staff/Mrs%20Lee%20Peck%20Har%20(HOD%20Math)2.jpg" alt="Image" width="119" height="158"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mrs Lee Peck Har</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">HOD Maths</span></td>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Lee%20Peck%20Har%20(HOD%20Math)2.jpg" style="width:113px; height:151"></td>
+    <td>Mrs Lee Peck Har</td>
+    <td>HOD Maths</td>
   </tr>
-  <tr>
-    <td class="tg-06je"><img src="/images/Teaching%20Staff/Rachel%20Long.jpeg" alt="Image" width="119" height="158"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mrs Rachel Long</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">HOD Science</span></td>
+	<tr>
+    <td><img src="/images/Teaching%20Staff/Rachel%20Long.jpeg" style="width:113px; height:151"></td>
+    <td>Mrs Rachel Long</td>
+    <td>HOD Science</td>
   </tr>
-  <tr>
-    <td class="tg-06je"><img src="/images/Teaching%20Staff/Lee%20Boon%20Haw%20Jeremy.jpeg" alt="Image" width="119" height="158"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Jeremy Lee Boon Haw</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">HOD Infocomm Technology (ICT)</span></td>
+	<tr>
+    <td><img src="/images/Teaching%20Staff/Lee%20Boon%20Haw%20Jeremy.jpeg" style="width:113px; height:151"></td>
+    <td>Mr Jeremy Lee Boon Haw</td>
+    <td>HOD Infocomm Technology (ICT)</td>
   </tr>
-  <tr>
-    <td class="tg-06je"><img src="/images/Teaching%20Staff/Johnson%20Chee%20John%20Son.jpeg" alt="Image" width="119" height="158"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Johnson Chee John Son</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">HOD Physical Education, Art &amp; Music (PAM) &amp; Co-Curricular Activities (CCA)</span></td>
+	<tr>
+    <td><img src="/images/Teaching%20Staff/Johnson%20Chee%20John%20Son.jpeg" alt="Image" style="width:113px; height:151"></td>
+    <td>Mr Johnson Chee John Son</td>
+    <td>HOD Physical Education, Art &amp; Music (PAM) &amp; Co-Curricular Activities (CCA)</td>
   </tr>
-  <tr>
-    <td class="tg-06je"><img src="/images/Teaching%20Staff/Brindha%20Sankar.jpeg" alt="Image" width="119" height="158"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Ms Brindha Sankar</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">HOD Character &amp; Citizenship Education (CCE)</span></td>
+	<tr>
+    <td><img src="/images/Teaching%20Staff/Brindha%20Sankar.jpeg" alt="Image" style="width:113px; height:151"></td>
+    <td>Ms Brindha Sankar</td>
+    <td>HOD Character &amp; Citizenship Education (CCE)</td>
   </tr>
 </tbody>
 </table>
+
+### Year Heads
+
+<table>
+<thead>
+  <tr>
+		<th colspan="3" style="color:#FBB041; text-align: center"><h3>Year Heads</h3></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Debbie%20Lau%20(Year%20Head)2.jpg" style="width:113px; height:150"></td>
+    <td>Mrs Debbie Lau</td>
+    <td>YH Lower Primary</td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Muhammad%20Bin%20Ali.jpeg" alt="Image"  style="width:113px;height:150"></td>
+    <td>Mr Muhammad Bin Ali</td>
+    <td>YH Middle Primary</td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Premila%20Onyekachi%20(Year%20Head)2.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mrs Premila Onyekachi</td>
+    <td>YH Upper Primary</td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Mr%20Joe%20Choo%20(AYH)2.jpg" alt="Image" style="width:113px; height:151"></td>
+    <td>Mr Joe Choo</td>
+    <td>Assistant Year Head(AYH)</td>
+  </tr>
+</tbody>
+</table>
+
+
+
