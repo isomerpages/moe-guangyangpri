@@ -6,45 +6,37 @@ description: ""
 ![](/images/Construction.jpg)
 test3
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
-.tg .tg-edel{background-color:#FFF;color:#FBB041;text-align:center;vertical-align:top}
-.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
+<table>
 <thead>
   <tr>
-    <th class="tg-edel" colspan="3"><span style="font-weight:normal;font-style:inherit;color:#FBB041">School Leaders</span></th>
+    <th colspan="3" style="color:#FBB041; text-align: center">School Leaders</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ogew"><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" width="113px" height="150px"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Eddie Foo</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Principal</span></td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"></td>
+    <td>Mr Eddie Foo</td>
+    <td>Principal</td>
   </tr>
   <tr>
-    <td class="tg-ogew"><img src="/images/School%20Leaders/Ms%20Lynette%20Fernandez_VPE2.jpeg" alt="Image" width="113" height="150"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none">Ms Lynette Fernandez</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none">Vice-Principal Education (VPE)</span></td>
+    <td><img src="/images/School%20Leaders/Ms%20Lynette%20Fernandez_VPE2.jpeg" alt="Image" width="113px" height="150"></td>
+    <td>Ms Lynette Fernandez</td>
+    <td>Vice-Principal Education (VPE)</td>
   </tr>
   <tr>
-    <td class="tg-ogew"><img src="/images/School%20Leaders/Sunny%20Ho.jpeg" alt="Image" width="113" height="150"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Sunny Ho</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none">Vice-Principal Education (VPE)</span></td>
+    <td><img src="/images/School%20Leaders/Sunny%20Ho.jpeg" alt="Image" width="113px" height="150"></td>
+    <td>Mr Sunny Ho</td>
+    <td>Vice-Principal Education (VPE)</td>
   </tr>
   <tr>
-    <td class="tg-06je"><img src="/images/School%20Leaders/Martin%20Velan%20Anthony.jpeg" alt="Image" width="113" height="151"></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none">Mr Martin Velan Anthony</span></td>
-    <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none">Vice-Principal Administration (VPA)</span></td>
+    <td><img src="/images/School%20Leaders/Martin%20Velan%20Anthony.jpeg" alt="Image" width="113px" height="151"></td>
+    <td>Mr Martin Velan Anthony</td>
+    <td>Vice-Principal Administration (VPA)</td>
   </tr>
 </tbody>
 </table>
+
+
 
 
 <style type="text/css">
