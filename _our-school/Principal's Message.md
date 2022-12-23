@@ -17,3 +17,6 @@ It takes a village to raise a child. We welcome and partner parents and the comm
 <br><br><br><br><br>
 Mr Eddie Foo,<br>
 Principal
+ 
+ 
+ test 1
