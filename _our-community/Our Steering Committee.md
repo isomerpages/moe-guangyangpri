@@ -19,17 +19,17 @@ test3
     <td>Principal</td>
   </tr>
   <tr>
-    <td><img src="/images/School%20Leaders/Ms%20Lynette%20Fernandez_VPE2.jpeg" alt="Image" width="113px" height="150"></td>
+    <td><img src="/images/School%20Leaders/Ms%20Lynette%20Fernandez_VPE2.jpeg" alt="Image"  style="width:113px;height:150"></td>
     <td>Ms Lynette Fernandez</td>
     <td>Vice-Principal Education (VPE)</td>
   </tr>
   <tr>
-    <td><img src="/images/School%20Leaders/Sunny%20Ho.jpeg" alt="Image" width="113px" height="150"></td>
+    <td><img src="/images/School%20Leaders/Sunny%20Ho.jpeg" alt="Image" style="width:113px; height:150"></td>
     <td>Mr Sunny Ho</td>
     <td>Vice-Principal Education (VPE)</td>
   </tr>
   <tr>
-    <td><img src="/images/School%20Leaders/Martin%20Velan%20Anthony.jpeg" alt="Image" width="113px" height="151"></td>
+    <td><img src="/images/School%20Leaders/Martin%20Velan%20Anthony.jpeg" alt="Image" style="width:113px; height:151"></td>
     <td>Mr Martin Velan Anthony</td>
     <td>Vice-Principal Administration (VPA)</td>
   </tr>
