@@ -4,7 +4,8 @@ permalink: /our-community/our-steering-committee/
 description: ""
 ---
 ![](/images/Construction.jpg)
-test3
+
+<h3>School Leaders</h3>
 
 <table>
 <thead>
