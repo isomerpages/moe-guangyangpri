@@ -97,7 +97,7 @@ In 2017, Townsville Primary School celebrated another milestone with its 35th an
 *   Mrs Liu-Loh Wee Cheng (2012–2016)
     
 *   Mr Victor Tan (2017–2022)
-
+---
 # Ethos
 
 <img src="/images/ethos.png" 
