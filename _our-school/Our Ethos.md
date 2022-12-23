@@ -3,7 +3,7 @@ title: Our Ethos
 permalink: /our-school/our-ethos/
 description: ""
 ---
-### School History
+# School History
 
 <img src="/images/TVPS%20confirmed%20logo-01.png" 
      style="width:30%">
@@ -28,3 +28,78 @@ In 1993, Guangyang Primary School relocated to its current premises at 6 Bishan 
 
 <img src="/images/Origin%20&%20Ethos/GYPS%20pics.png" 
      style="width:50%">
+		 
+### Principals:
+
+*   Mr Liang Pidu (1918–1920)
+    
+*   Mr Huang Yiyuang (1920–1929)
+    
+*   Mdm Zhang Qiangbao (1929–1939)
+    
+*   Mr Wu Fulin (1939–1955)
+    
+*   Mr Zheng Yunwen (1956–1964)
+    
+*   Mr Willian Shen (1965–1983)
+    
+*   Mr Loong (龙厉权) (1984–1985)
+    
+*   Mr Ang Mah Chew (1985–1986)
+    
+*   Mrs Soh Chin Wah (1986 – 1996)
+    
+*   Mr Goh Kian Guan (1996–2003)
+    
+*   Mdm Kit Gek Wah (2004–2009)
+    
+*   Mdm Wu Siew Fong Susan (2009–2013)
+    
+*   Mr Vimalenthiran Vijayasingam (2013–2020)
+    
+*   Mr Enoch Lau (2021-2022)
+    
+-----
+
+<img src="/images/Origin%20&%20Ethos/TVPS%20Original.png" style="width:30%">
+
+<b>Townsville Primary School</b> was established in 1983, originally located at Ang Mo Kio Street 32. In 1985, the school was officially declared open. In 1989, Her Majesty Queen Elizabeth II of Great Britain visited the school.
+
+  
+
+In 2000, the school moved to its present location at 3 Ang Mo Kio Avenue 10. The following year, it merged with Chong Shan Primary School, which had earlier amalgamated with Chong De in 1998. Townsville Primary School’s new campus was officially declared open in 2002. 
+
+  
+
+In 2013, the Ministry of Education granted the school niche status in visual arts under the Programme for School-based Excellence. Through the visual arts programme, Townsville Primary aims to develop students’ communication, critical and creative thinking skills.
+
+  
+In 2017, Townsville Primary School celebrated another milestone with its 35th anniversary in educating and developing students to be future-ready.
+
+<img src="/images/Origin%20&%20Ethos/TVPS%20pics.png" 
+     style="width:50%">
+		 
+
+### Principals:
+
+*   Mr Tan Bee Yong (1982–1983)
+    
+*   Mrs Daisy Tay (1984–1989)
+    
+*   Ms Teo Lian Geok (1989–1995)
+    
+*   Mr Tan Yan Song (1995–2000)
+    
+*   Ms Chiang Wai Leng (2000–2007)
+    
+*   Mr Eugene Ong Kai Tiong (2008–2011)
+    
+*   Mrs Liu-Loh Wee Cheng (2012–2016)
+    
+*   Mr Victor Tan (2017–2022)
+
+# Ethos
+
+<img src="/images/ethos.png" 
+     style="width:70%">
+    
