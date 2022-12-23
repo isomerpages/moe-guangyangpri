@@ -17,7 +17,7 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">School Leaders</span></th>
+    <th class="tg-c3ow" colspan="3"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent"><h2>School Leader</h2></span></th>
   </tr>
 </thead>
 <tbody>
@@ -43,4 +43,3 @@ description: ""
   </tr>
 </tbody>
 </table>
-
