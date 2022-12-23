@@ -341,9 +341,7 @@ third_nav_title: Our Educators
 <h3>Primary 6 Form Teachers</h3>
 <table>
 <thead>
-  <tr>
 		<td colspan="4"><center><b>Excellence 1</b></center></td>
-  </tr>
 </thead>
 <tbody>
   <tr>
