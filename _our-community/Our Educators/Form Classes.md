@@ -199,3 +199,155 @@ third_nav_title: Our Educators
 </tbody>
 </table>
 
+<h3>Primary 4 Form Teachers</h3>
+<table>
+<thead>
+  <tr>
+		<td colspan="4"><center><b>Respect 1</b></center></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Chrisnita%20do%20Baliram.jpeg" style="width:113px; height:150"></td>
+    <td>Ms Chrisnita D/O Baliram</td>
+    <td><img src="/images/Teaching%20Staff/Mdm%20Peh%20Ah%20Lian2.jpg" style="width:113px; height:150"> </td>
+    <td>Mdm Peh Ah Lian</td>
+  </tr>
+  <tr>
+    <td colspan="4"><center><b>Respect 2</b></center></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Elizabeth%20Tan.jpeg" style="width:113px; height:150"> </td>
+    <td>Ms Elizabeth Tan</td>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Latha%20Joseph%20(ST%20TL)2.jpg" style="width:113px; height:150"> </td>
+    <td>Mrs Latha Joseph (ST) </td>
+  </tr>
+  <tr>
+    <td colspan="4"><center><b>Respect 3</b></center></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Mr%20Bernard%20Ng2.jpg" style="width:113px; height:150"> </td>
+    <td>Mr Bernard Ng</td>
+    <td><img src="/images/Teaching%20Staff/Tham%20Yue%20Hao.jpeg" style="width:113px; height:150"> </td>
+    <td>Ms Tham Yue Hao</td>
+  </tr>
+  <tr>
+    <td colspan="4"><center><b>Respect 4</b></center></td>
+  </tr>
+  <tr>
+    <td> <img src="/images/Teaching%20Staff/Mr%20Rajnikanth%20Naidu2.jpg" style="width:113px; height:150"></td>
+    <td>Mr Rajinikanth Naidu</td>
+    <td><img src="/images/Teaching%20Staff/Leng%20Han.jpeg" style="width:113px; height:150"> </td>
+    <td>Ms Leng Han</td>
+  </tr>
+  <tr>
+    <td colspan="4"><center><b>Respect 5</b></center></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Goh%20Jia%20Yee.jpeg" style="width:113px; height:150"> </td>
+    <td>Ms Goh Jia Yee</td>
+    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"> </td>
+    <td>Mdm Goh Siew Kee</td>
+  </tr>
+  <tr>
+    <td colspan="4"><center><b>Respect 6</b></center></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Won%20Min%20Ting.jpeg" style="width:113px; height:150"> </td>
+    <td>Ms Won Min Ting</td>
+    <td><img src="/images/Teaching%20Staff/Ms%20Zhang%20Fujun2.jpg" style="width:113px; height:150"> </td>
+    <td>Mdm Zhang Fujun</td>
+  </tr>
+</tbody>
+</table>
+
+<h3>Primary 5 Form Teachers</h3>
+<table>
+<thead>
+  <tr>
+		<td colspan="4"><center><b>Empathy 1</b></center></td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/May%20Quek.jpeg" style="width:113px; height:150"></td>
+    <td>Mdm May Quek</td>
+    <td><img src="/images/Teaching%20Staff/Mdm%20Shireen%20Chong%20(LH%20CL)2.jpg" style="width:113px; height:150"> </td>
+    <td>Mdm Chong Hui Ling Shireen (LH)</td>
+  </tr>
+  <tr>
+    <td colspan="4"><center><b>Empathy 2</b></center></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Vemalan%20SO%20Elangovan.jpeg" style="width:113px; height:150"> </td>
+    <td>Mr Vemalan S/O Elangovan</td>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Nge%20Yuen%20Ee2.jpg" style="width:113px; height:150"> </td>
+    <td>Mrs Nge Yuen Ee</td>
+  </tr>
+  <tr>
+    <td colspan="4"><center><b>Empathy 3</b></center></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Mohammad%20Hanafee%20Bin%20Osman.jpeg" style="width:113px; height:150"> </td>
+    <td>Mr Mohammad Hanafee B Osman</td>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Chia%20Poh%20Kwang%20Florence%20(ST%20CL)2.jpg" style="width:113px; height:150"> </td>
+    <td>Mrs Chia Poh Kwang Florence (ST)</td>
+  </tr>
+  <tr>
+    <td colspan="4"><center><b>Empathy 4</b></center></td>
+  </tr>
+  <tr>
+    <td> <img src="/images/Teaching%20Staff/Mr%20Rajnikanth%20Naidu2.jpg" style="width:113px; height:150"></td>
+    <td>Mdm Saleha</td>
+    <td><img src="/images/Teaching%20Staff/Leng%20Han.jpeg" style="width:113px; height:150"> </td>
+    <td>Ms Lua Yi Wen</td>
+  </tr>
+  <tr>
+    <td colspan="4"><center><b>Empathy 5</b></center></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Goh%20Jia%20Yee.jpeg" style="width:113px; height:150"> </td>
+    <td>Mrs S Nirmala Devi Santhanasamy (LT)</td>
+    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"> </td>
+    <td>Mdm Junaidah Bte Mohamed Sali</td>
+  </tr>
+  <tr>
+    <td colspan="4"><center><b>Empathy 6</b></center></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Won%20Min%20Ting.jpeg" style="width:113px; height:150"> </td>
+    <td>Mr Lai Chih Wei</td>
+    <td><img src="/images/Teaching%20Staff/Ms%20Zhang%20Fujun2.jpg" style="width:113px; height:150"> </td>
+    <td>Ms Madhavi Chandramohan (SH)</td>
+  </tr>
+	<td colspan="4"><center><b>Empathy 7</b></center></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Won%20Min%20Ting.jpeg" style="width:113px; height:150"> </td>
+    <td>Mr Kelvin Woon</td>
+    <td><img src="/images/Teaching%20Staff/Ms%20Zhang%20Fujun2.jpg" style="width:113px; height:150"> </td>
+    <td>Mdm Lim Chiu Har</td>
+  </tr>
+	<td colspan="4"><center><b>Empathy 8</b></center></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/Won%20Min%20Ting.jpeg" style="width:113px; height:150"> </td>
+    <td>Mdm Mahanom Bte Daing Basok</td>
+    <td><img src="/images/Teaching%20Staff/Ms%20Zhang%20Fujun2.jpg" style="width:113px; height:150"> </td>
+    <td>Mdm Aidah Binte Hosni (ST)</td>
+  </tr>
+</tbody>
+</table>
+
+
+![]()
+![](/images/Teaching%20Staff/Mdm%20Noor%20Saleha2.jpg)
+![](/images/Teaching%20Staff/Lua%20Yi%20Wen.jpeg)
+![](/images/Teaching%20Staff/S%20Nirmala%20Devi%20Santhanasamy.jpeg)
+![](/images/Teaching%20Staff/Junaidah%20Bte%20Mohd%20Sali.jpeg)
+![](/images/Teaching%20Staff/Lai%20Chih%20Wei.jpeg)
+![](/images/Teaching%20Staff/Mrs%20Madhavi%20Chandramohan%20(LH%20TL)2.jpg)
+![](/images/Teaching%20Staff/Mr%20Kelvin%20Woon2.jpg)
+![](/images/Teaching%20Staff/Lim%20Chiu%20Har.jpeg)
+![](/images/Teaching%20Staff/Mahanom%20Daing%20Basok.jpeg)
+![](/images/Teaching%20Staff/Aidah%20Hosni.jpeg)
