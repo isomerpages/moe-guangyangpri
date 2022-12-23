@@ -47,7 +47,7 @@ description: ""
     <td>HOD English</td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Mdm%20Lye%20Choon%20Hwan%20(HOD%20MT)2.jpg"style="width:113px; height:150"></td>
+    <td><img src="/images/Teaching%20Staff/Mdm%20Lye%20Choon%20Hwan%20(HOD%20MT)2.jpg" style="width:113px; height:150"></td>
     <td>Mdm Lye Choon Hwan</td>
     <td>HOD Mother Tongue Language (MTL)</td>
   </tr>
