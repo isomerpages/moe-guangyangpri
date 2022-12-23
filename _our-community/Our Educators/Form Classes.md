@@ -9,7 +9,7 @@ third_nav_title: Our Educators
 <table>
 <thead>
   <tr>
-		<td colspan="4"><center>Integrity 1</center></td>
+		<td colspan="4"><center><b>Integrity 1</b></center></td>
   </tr>
 </thead>
 <tbody>
@@ -20,7 +20,7 @@ third_nav_title: Our Educators
     <td>Mdm Chan Fei Kuan</td>
   </tr>
   <tr>
-    <td colspan="4"><center>Integrity 2</center></td>
+    <td colspan="4"><center><b>Integrity 2</b></center></td>
   </tr>
   <tr>
     <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
@@ -29,7 +29,7 @@ third_nav_title: Our Educators
     <td>Mdm Chua Xingxuan</td>
   </tr>
   <tr>
-    <td colspan="4"><center>Integrity 3</center></td>
+    <td colspan="4"><center><b>Integrity 3</b></center></td>
   </tr>
   <tr>
     <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
@@ -38,7 +38,7 @@ third_nav_title: Our Educators
     <td>Ms Koh Shiew Ling</td>
   </tr>
   <tr>
-    <td colspan="4"><center>Integrity 4</center></td>
+    <td colspan="4"><center><b>Integrity 4</b></center></td>
   </tr>
   <tr>
     <td> <img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"></td>
@@ -47,7 +47,7 @@ third_nav_title: Our Educators
     <td>Ms Valerie Moh</td>
   </tr>
   <tr>
-    <td colspan="4"><center>Integrity 5</center></td>
+    <td colspan="4"><center><b>Integrity 5</b></center></td>
   </tr>
   <tr>
     <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
@@ -56,7 +56,7 @@ third_nav_title: Our Educators
     <td>Mdm Pearl Phua (LH)</td>
   </tr>
   <tr>
-    <td colspan="4"><center>Integrity 6</center></td>
+    <td colspan="4"><center><b>Integrity 6</b></center></td>
   </tr>
   <tr>
     <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
