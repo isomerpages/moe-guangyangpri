@@ -4,7 +4,7 @@ permalink: /our-community/Our-Educators/form-classes/
 description: ""
 third_nav_title: Our Educators
 ---
-<h3>Primary 1</h3>
+<h3>Primary 1 Form Teachers</h3>
 <table>
 <thead>
   <tr>
