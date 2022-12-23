@@ -24,7 +24,7 @@ test3
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ogew"><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" width="113" height="150"></td>
+    <td class="tg-ogew"><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" width="113px" height="150px"></td>
     <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Mr Eddie Foo</span></td>
     <td class="tg-ogew"><span style="font-weight:400;font-style:normal;text-decoration:none;color:#000;background-color:transparent">Principal</span></td>
   </tr>
