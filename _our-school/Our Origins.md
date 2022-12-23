@@ -3,7 +3,6 @@ title: Our Origins
 permalink: /our-school/our-origins/
 description: ""
 ---
-
 <table style="width:544.25pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" width="726" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:40.0pt"><td style="width:544.25pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:40.0pt" colspan="4" width="726"><p class="MsoNormal"><b><span style="font-size:24.0pt;font-family:&quot;Modern Love&quot;;
@@ -36,7 +35,7 @@ description: ""
   color:#1F497D;mso-ansi-language:EN-US">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:2;height:256.9pt"><td style="width:377.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:256.9pt" valign="top" colspan="3" width="504"><p style="text-align:justify;text-justify:inter-ideograph;
-  text-indent:.4in" class="MsoNormal"><img align="left" style="width:25%" src="/images/Origin%20&amp;%20Ethos/GYPS%20Original.png"><span style="font-size:11.0pt;
+  text-indent:.4in" class="MsoNormal"><img src="/images/Origin%20&amp;%20Ethos/GYPS%20Original.png" style="width:25%" ><span style="font-size:11.0pt;
   font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;mso-ansi-language:EN-US"></span></p><p style="margin-right:12.75pt;text-align:justify;text-justify:
   inter-ideograph" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   color:#1F497D;mso-ansi-language:EN-US"><span style="mso-spacerun:yes">&nbsp;</span>Guangyang Primary School</span></b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;
@@ -55,7 +54,8 @@ description: ""
   mso-ansi-language:EN-US">&nbsp;</span></p></td><td style="width:166.5pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:256.9pt" valign="top" width="222"><p class="MsoNormal"><img align="left" src="/images/GYPS%20pics.png" height="312" width="203"><span style="font-family:&quot;Calibri&quot;,sans-serif" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:3;height:215.5pt"><td style="width:544.25pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt;height:256.9pt" valign="top" width="222"><p class="MsoNormal"><img src="/images/Origin%20&%20Ethos/GYPS%20pics.png" 
+><span style="font-family:&quot;Calibri&quot;,sans-serif" lang="EN-SG"></span></p></td></tr><tr style="mso-yfti-irow:3;height:215.5pt"><td style="width:544.25pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0in 5.4pt 0in 5.4pt;height:215.5pt" valign="top" colspan="4" width="726"><p style="margin-left:.25in;text-align:justify;text-justify:
   inter-ideograph" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
@@ -94,13 +94,11 @@ description: ""
        EN-US">Mr Enoch Lau (2021-2022)</span></li></ul><p class="MsoNormal"><span style="font-family:&quot;Calibri&quot;,sans-serif;
   mso-no-proof:yes" lang="EN-SG">&nbsp;</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:179.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="240"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><img align="left" height="338" width="194"><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="240"><p style="text-align:justify;text-justify:inter-ideograph" class="MsoNormal"><img src="/images/Origin%20&%20Ethos/TVPS%20pics.png" ><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;
   mso-ansi-language:EN-US"></span></p></td><td style="width:364.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="486"><p class="MsoNormal"><img alt="Logo, company name
-
-Description automatically generated" align="left" height="88" width="96"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-no-proof:yes" lang="EN-SG"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="margin-right:12.8pt;text-align:justify;text-justify:
+  mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="2" width="486"><p class="MsoNormal"><img src="/images/Origin%20&%20Ethos/TVPS%20Original.png" style="width:25%"><span style="font-family:&quot;Calibri&quot;,sans-serif;mso-no-proof:yes" lang="EN-SG"><span style="mso-spacerun:yes">&nbsp;</span></span></p><p style="margin-right:12.8pt;text-align:justify;text-justify:
   inter-ideograph" class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   color:#1F497D;mso-ansi-language:EN-US">Townsville Primary School</span></b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;
   mso-ansi-language:EN-US"> was established in 1983, originally located at Ang Mo Kio Street 32. In 1985, the school was officially declared open. In 1989, Her Majesty Queen Elizabeth II of Great Britain visited the school.</span></p><p style="text-align:justify;text-justify:inter-ideograph;
