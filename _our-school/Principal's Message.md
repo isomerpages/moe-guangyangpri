@@ -14,7 +14,7 @@ It takes a village to raise a child. We welcome and partner parents and the comm
 
 <p><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" 
      style="width:30%" align="left"></p>
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <p>Mr Eddie Foo,<br>
 Principal</p>
  
