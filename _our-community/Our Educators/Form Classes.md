@@ -297,57 +297,45 @@ third_nav_title: Our Educators
     <td colspan="4"><center><b>Empathy 4</b></center></td>
   </tr>
   <tr>
-    <td> <img src="/images/Teaching%20Staff/Mr%20Rajnikanth%20Naidu2.jpg" style="width:113px; height:150"></td>
+    <td> <img src="/images/Teaching%20Staff/Mdm%20Noor%20Saleha2.jpg" style="width:113px; height:150"></td>
     <td>Mdm Saleha</td>
-    <td><img src="/images/Teaching%20Staff/Leng%20Han.jpeg" style="width:113px; height:150"> </td>
+    <td><img src="/images/Teaching%20Staff/Lua%20Yi%20Wen.jpeg" style="width:113px; height:150"> </td>
     <td>Ms Lua Yi Wen</td>
   </tr>
   <tr>
     <td colspan="4"><center><b>Empathy 5</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Goh%20Jia%20Yee.jpeg" style="width:113px; height:150"> </td>
+    <td><img src="/images/Teaching%20Staff/S%20Nirmala%20Devi%20Santhanasamy.jpeg" style="width:113px; height:150"> </td>
     <td>Mrs S Nirmala Devi Santhanasamy (LT)</td>
-    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"> </td>
+    <td><img src="/images/Teaching%20Staff/Junaidah%20Bte%20Mohd%20Sali.jpeg" style="width:113px; height:150"> </td>
     <td>Mdm Junaidah Bte Mohamed Sali</td>
   </tr>
   <tr>
     <td colspan="4"><center><b>Empathy 6</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Won%20Min%20Ting.jpeg" style="width:113px; height:150"> </td>
+    <td><img src="/images/Teaching%20Staff/Lai%20Chih%20Wei.jpeg" style="width:113px; height:150"> </td>
     <td>Mr Lai Chih Wei</td>
-    <td><img src="/images/Teaching%20Staff/Ms%20Zhang%20Fujun2.jpg" style="width:113px; height:150"> </td>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Madhavi%20Chandramohan%20(LH%20TL)2.jpg" style="width:113px; height:150"> </td>
     <td>Ms Madhavi Chandramohan (SH)</td>
   </tr>
 	<td colspan="4"><center><b>Empathy 7</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Won%20Min%20Ting.jpeg" style="width:113px; height:150"> </td>
+    <td><img src="/images/Teaching%20Staff/Mr%20Kelvin%20Woon2.jpg" style="width:113px; height:150"> </td>
     <td>Mr Kelvin Woon</td>
-    <td><img src="/images/Teaching%20Staff/Ms%20Zhang%20Fujun2.jpg" style="width:113px; height:150"> </td>
+    <td><img src="/images/Teaching%20Staff/Lim%20Chiu%20Har.jpeg" style="width:113px; height:150"> </td>
     <td>Mdm Lim Chiu Har</td>
   </tr>
 	<td colspan="4"><center><b>Empathy 8</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Won%20Min%20Ting.jpeg" style="width:113px; height:150"> </td>
+    <td><img src="/images/Teaching%20Staff/Mahanom%20Daing%20Basok.jpeg" style="width:113px; height:150"> </td>
     <td>Mdm Mahanom Bte Daing Basok</td>
-    <td><img src="/images/Teaching%20Staff/Ms%20Zhang%20Fujun2.jpg" style="width:113px; height:150"> </td>
+    <td><img src="/images/Teaching%20Staff/Aidah%20Hosni.jpeg" style="width:113px; height:150"> </td>
     <td>Mdm Aidah Binte Hosni (ST)</td>
   </tr>
 </tbody>
 </table>
 
-
-![]()
-![](/images/Teaching%20Staff/Mdm%20Noor%20Saleha2.jpg)
-![](/images/Teaching%20Staff/Lua%20Yi%20Wen.jpeg)
-![](/images/Teaching%20Staff/S%20Nirmala%20Devi%20Santhanasamy.jpeg)
-![](/images/Teaching%20Staff/Junaidah%20Bte%20Mohd%20Sali.jpeg)
-![](/images/Teaching%20Staff/Lai%20Chih%20Wei.jpeg)
-![](/images/Teaching%20Staff/Mrs%20Madhavi%20Chandramohan%20(LH%20TL)2.jpg)
-![](/images/Teaching%20Staff/Mr%20Kelvin%20Woon2.jpg)
-![](/images/Teaching%20Staff/Lim%20Chiu%20Har.jpeg)
-![](/images/Teaching%20Staff/Mahanom%20Daing%20Basok.jpeg)
-![](/images/Teaching%20Staff/Aidah%20Hosni.jpeg)
