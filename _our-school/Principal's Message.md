@@ -18,7 +18,3 @@ It takes a village to raise a child. We welcome and partner parents and the comm
 Mr Eddie Foo,<br>
 Principal
 
-<figure>
-<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
-</figure>
