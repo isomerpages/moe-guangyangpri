@@ -101,5 +101,4 @@ In 2017, Townsville Primary School celebrated another milestone with its 35th an
 # Ethos
 
 <img src="/images/ethos.png" 
-     style="width:70%">
-    
+     style="width:80%">
