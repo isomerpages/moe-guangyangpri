@@ -14,54 +14,54 @@ third_nav_title: Our Educators
 </thead>
 <tbody>
   <tr>
-    <td></td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"></td>
     <td>Mr Andrew Leung</td>
-    <td> </td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
     <td>Mdm Chan Fei Kuan</td>
   </tr>
   <tr>
     <td colspan="4"><center>Integrity 2</center></td>
   </tr>
   <tr>
-    <td> </td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
     <td>Mr Tan Yong Zu</td>
-    <td> </td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
     <td>Mdm Chua Xingxuan</td>
   </tr>
   <tr>
     <td colspan="4"><center>Integrity 3</center></td>
   </tr>
   <tr>
-    <td> </td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
     <td>Mdm Lim Siew Hua</td>
-    <td> </td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
     <td>Ms Koh Shiew Ling</td>
   </tr>
   <tr>
     <td colspan="4"><center>Integrity 4</center></td>
   </tr>
   <tr>
-    <td> </td>
+    <td> <img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"></td>
     <td>Mrs Cheah-Loo Yin Hui</td>
-    <td> </td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
     <td>Ms Valerie Moh</td>
   </tr>
   <tr>
     <td colspan="4"><center>Integrity 5</center></td>
   </tr>
   <tr>
-    <td> </td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
     <td>Ms Chan Sui Sui</td>
-    <td> </td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
     <td>Mdm Pearl Phua (LH)</td>
   </tr>
   <tr>
     <td colspan="4"><center>Integrity 6</center></td>
   </tr>
   <tr>
-    <td> </td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
     <td>Mdm Masliza Bt Misri</td>
-    <td> </td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"> </td>
     <td>Mrs Koh Han Ip</td>
   </tr>
 </tbody>
