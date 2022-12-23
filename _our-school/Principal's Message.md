@@ -12,8 +12,13 @@ Guided by our compelling vision, this school provides our students a balanced an
 
 It takes a village to raise a child. We welcome and partner parents and the community to provide the best educational experiences for our children. We want to encourage each and every one to journey with us as we give our children the most enriching and meaningful schooling experience in Townsville Primary School.
 
-![](/images/School%20Leaders/Eddie%20Foo2.jpg)
+<img src="/images/School%20Leaders/Eddie%20Foo2.jpg" 
+     style="width:30%">
 
-Mr Eddie Foo
-
+Mr Eddie Foo,<br>
 Principal
+
+<figure>
+<img src="/images/Heritage%2002%20Tian%20Kee%20Provision%20Shop.jpg">
+<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+</figure>
