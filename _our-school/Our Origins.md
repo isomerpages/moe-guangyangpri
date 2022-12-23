@@ -9,13 +9,13 @@ description: ""
   color:#1F497D;mso-ansi-language:EN-US">School History</span></b><b><span style="font-size:14.0pt;font-family:&quot;Modern Love&quot;;color:#1F497D;mso-ansi-language:
   EN-US"></span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:125.75pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0in 5.4pt 0in 5.4pt" valign="top" width="168"><p class="MsoNormal"><img src="/images/TVPS%20confirmed%20logo-01.png"><span style="font-family:&quot;Calibri&quot;,sans-serif" lang="EN-SG"></span></p></td><td style="width:418.5pt;border-top:none;
+  padding:0in 5.4pt 0in 5.4pt" valign="top" width="168"><p class="MsoNormal"><br><br><br><br><img src="/images/TVPS%20confirmed%20logo-01.png"><span style="font-family:&quot;Calibri&quot;,sans-serif" lang="EN-SG"></span></p></td><td style="width:418.5pt;border-top:none;
   border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" colspan="3" width="558"><p class="MsoNormal"><b><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
   color:#1F497D;mso-ansi-language:EN-US">&nbsp;</span></b></p><p style="margin-right:12.8pt;text-align:justify;text-justify:
   inter-ideograph;text-indent:.4in" class="MsoNormal"><span style="font-size:11.0pt;font-family:
-  &quot;Calibri&quot;,sans-serif;color:#1F497D;mso-ansi-language:EN-US"><img src="/images/TVPS%20confirmed%20logo-01.png" style ="width:50%">In April 2021, MOE announced the merging of our school with Guangyang Primary School/Townsville Primary School. The English name of Townsville Primary School and the Chinese name of Guangyang Primary School (</span><span style="font-size:11.0pt;font-family:DengXian;mso-ascii-font-family:
+  &quot;Calibri&quot;,sans-serif;color:#1F497D;mso-ansi-language:EN-US">In April 2021, MOE announced the merging of our school with Guangyang Primary School/Townsville Primary School. The English name of Townsville Primary School and the Chinese name of Guangyang Primary School (</span><span style="font-size:11.0pt;font-family:DengXian;mso-ascii-font-family:
   Calibri;mso-fareast-theme-font:minor-fareast;mso-hansi-font-family:Calibri;
   mso-bidi-font-family:Calibri;color:#1F497D;mso-ansi-language:EN-US" lang="ZH-CN">光洋小学</span><span style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;color:#1F497D;
   mso-ansi-language:EN-US">) have been retained. In summary, the name in the four official languages is:</span></p><p style="margin-right:12.8pt;text-align:center;
