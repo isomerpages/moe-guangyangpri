@@ -3,8 +3,6 @@ title: Our Steering Committee
 permalink: /our-community/our-steering-committee/
 description: ""
 ---
-![](/images/Construction.jpg)
-
 <h3>School Leaders</h3>
 
 <table>
