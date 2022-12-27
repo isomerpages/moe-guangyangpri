@@ -11,7 +11,7 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 7.30am - 1.30pm
-        description: Closed on Public Holidays
+        description: Closed on Saturdays, Sundays & Public Holidays
     maps_link: https://goo.gl/maps/wREPPXPxqu3Gq2Ap8
     title: Townsville Primary School
 contacts:
