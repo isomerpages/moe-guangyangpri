@@ -1,0 +1,12 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - Our Steering Committee.md
+      - Our Educators/.keep
+      - Our Educators/Form Classes.md
+      - Our Executive and Admin Staff.md
+      - School Advisory Committee.md
+      - Our Partners/.keep
+      - Our Partners/Partners in Action.md
+      - Our Partners/Parent Support Group.md

@@ -1,0 +1,15 @@
+collections:
+  our-resources:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/Forms & Letters.md
+      - For Parents/Parent Gateway.md
+      - For Parents/Financial Assistance.md
+      - For Students/.keep
+      - For Students/Student ICON.md
+      - For Students/Student Learning Space.md
+      - Our Library.md
+      - School Vendors.md
+      - School Contact Information.md
+      - FAQ.md

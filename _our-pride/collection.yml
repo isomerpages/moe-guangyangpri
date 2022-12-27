@@ -1,0 +1,12 @@
+collections:
+  our-pride:
+    output: true
+    order:
+      - Signature Programmes/.keep
+      - Signature Programmes/Thinking Curriculum.md
+      - Signature Programmes/Learn for Life Programme.md
+      - Signature Programmes/Student Leadership.md
+      - Signature Programmes/Programme for Active Learning.md
+      - Signature Programmes/InfoComm Technology.md
+      - Achievements.md
+      - Good Stories.md
