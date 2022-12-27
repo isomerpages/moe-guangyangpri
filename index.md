@@ -17,7 +17,7 @@ sections:
       subtitle: Reach out to us
       button: View More
       url: /our-school/school-contact-information
-      image: /images/map.png
+      image: /images/Townsville Pri Map.png
       alt: map
   - infobar:
       title: Follow Us
