@@ -1,6 +1,6 @@
 title: Townsville Primary School
 url: https://townsvillepri.moe.edu.sg
-favicon: /images/schoolcrest.jpeg
+favicon: /images/TVPS confirmed logo-01.png
 colors:
   primary-color: "#cf1e25"
   secondary-color: "#fbb041"
@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2ee2i8s6vmjys.amplifyapp.com
 prod: https://master.d2ee2i8s6vmjys.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/TVPS confirmed logo-01.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
