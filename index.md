@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/gypshome.gif
+      background: /images/GYPS Banner 2.png
   - resources:
       title: Latest Announcements
       subtitle: Our Updates
@@ -25,6 +25,3 @@ sections:
       button: View All Links
       url: /follow-us
 ---
-
-
-
