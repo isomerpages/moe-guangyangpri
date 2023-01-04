@@ -15,7 +15,7 @@ sections:
   - infopic:
       title: Contact Us
       button: View More
-      url: https://cms.isomer.gov.sg/sites/moe-guangyangpri/contact-us
+      url: /contact-us
       image: /images/Townsville Pri Map.png
       alt: map
   - infobar:
