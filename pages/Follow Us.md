@@ -3,8 +3,10 @@ title: Follow Us
 permalink: /follow-us/
 description: ""
 ---
-**Our Social Media Links**
-![](/images/facebook.png)
+<h2 style="color:red;">Our Social Media Links</h2>
+
+<img src="/images/facebook.png">
+
 [Facebook](https://www.facebook.com/TownsvillePrimarySchool)
 
 Instagram (Coming Soon!)
