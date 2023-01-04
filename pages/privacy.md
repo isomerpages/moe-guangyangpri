@@ -27,4 +27,4 @@ With the implementation of the Personal Data Protection Act (PDPA), we would lik
 
 Photograph(s) and/or video(s) taken by the School will not be used on personal social media channels of our staff.
 
-Any concerns regarding the use of photograph(s) and/or video(s) taken by the school can be directed to us by phone (6258 0455) or e-mail ([gyps@moe.edu.sg](mailto:gyps@moe.edu.sg)).
+Any concerns regarding the use of photograph(s) and/or video(s) taken by the school can be directed to us by phone ([6457 4345](tel:+6564574345)) or e-mail ([Townsvilleps@moe.edu.sg](mailto:Townsvilleps@moe.edu.sg)).
