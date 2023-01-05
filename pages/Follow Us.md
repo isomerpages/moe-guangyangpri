@@ -5,9 +5,7 @@ description: ""
 ---
 <h2 style="color:red;">Our Social Media Links</h2>
 
-<img src="/images/facebook.png">
-
-[Facebook](https://www.facebook.com/TownsvillePrimarySchool)
+<a href="https://www.facebook.com/TownsvillePrimarySchool" target="_blank"><img src="/images/facebook.png" align="left" style="width:25%"></a>
 
 Instagram (Coming Soon!)
 
