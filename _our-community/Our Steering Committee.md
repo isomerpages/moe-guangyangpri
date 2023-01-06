@@ -8,12 +8,12 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:55%"></td>
+    <td><img src="/images/Eddie%20Foo5.jpg" style="width:113px; height:150"></td>
     <td>Mr Eddie Foo</td>
     <td>Principal</td>
   </tr>
   <tr>
-    <td><img src="/images/School%20Leaders/Ms%20Lynette%20Fernandez_VPE2.jpeg" alt="Image"  style="width:55%"></td>
+    <td><img src="/images/School%20Leaders/Ms%20Lynette%20Fernandez_VPE2.jpeg" alt="Image" style="width:113px; height:150"></td>
     <td>Ms Lynette Fernandez</td>
     <td>Vice-Principal Education (VPE)</td>
   </tr>
