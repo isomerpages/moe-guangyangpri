@@ -8,12 +8,12 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:113px; height:150"></td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo2.jpg" style="width:55%"></td>
     <td>Mr Eddie Foo</td>
     <td>Principal</td>
   </tr>
   <tr>
-    <td><img src="/images/School%20Leaders/Ms%20Lynette%20Fernandez_VPE2.jpeg" alt="Image"  style="width:113px;height:150"></td>
+    <td><img src="/images/School%20Leaders/Ms%20Lynette%20Fernandez_VPE2.jpeg" alt="Image"  style="width:55%"></td>
     <td>Ms Lynette Fernandez</td>
     <td>Vice-Principal Education (VPE)</td>
   </tr>
@@ -23,7 +23,7 @@ description: ""
     <td>Vice-Principal Education (VPE)</td>
   </tr>
   <tr>
-    <td><img src="/images/School%20Leaders/Martin%20Velan%20Anthony.jpeg" alt="Image" style="width:113px; height:151"></td>
+    <td><img src="/images/School%20Leaders/Martin%20Velan%20Anthony.jpeg" alt="Image" style="width:113px; height:150"></td>
     <td>Mr Martin Velan Anthony</td>
     <td>Vice-Principal Administration (VPA)</td>
   </tr>
@@ -50,7 +50,7 @@ description: ""
     <td>HOD Mother Tongue Language (MTL)</td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Lee%20Peck%20Har%20(HOD%20Math)2.jpg" style="width:113px; height:151"></td>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Lee%20Peck%20Har%20(HOD%20Math)2.jpg" style="width:113px; height:150"></td>
     <td>Mrs Lee Peck Har</td>
     <td>HOD Maths</td>
   </tr>
@@ -60,17 +60,17 @@ description: ""
     <td>HOD Science</td>
   </tr>
 	<tr>
-    <td><img src="/images/Teaching%20Staff/Lee%20Boon%20Haw%20Jeremy.jpeg" style="width:113px; height:151"></td>
+    <td><img src="/images/Teaching%20Staff/Lee%20Boon%20Haw%20Jeremy.jpeg" style="width:113px; height:150"></td>
     <td>Mr Jeremy Lee Boon Haw</td>
     <td>HOD Infocomm Technology (ICT)</td>
   </tr>
 	<tr>
-    <td><img src="/images/Teaching%20Staff/Johnson%20Chee%20John%20Son.jpeg" alt="Image" style="width:113px; height:151"></td>
+    <td><img src="/images/Teaching%20Staff/Johnson%20Chee%20John%20Son.jpeg" alt="Image" style="width:113px; height:150"></td>
     <td>Mr Johnson Chee John Son</td>
     <td>HOD Physical Education, Art &amp; Music (PAM) &amp; Co-Curricular Activities (CCA)</td>
   </tr>
 	<tr>
-    <td><img src="/images/Teaching%20Staff/Brindha%20Sankar.jpeg" alt="Image" style="width:113px; height:151"></td>
+    <td><img src="/images/Teaching%20Staff/Brindha%20Sankar.jpeg" alt="Image" style="width:113px; height:150"></td>
     <td>Ms Brindha Sankar</td>
     <td>HOD Character &amp; Citizenship Education (CCE)</td>
   </tr>
@@ -97,7 +97,7 @@ description: ""
     <td>YH Upper Primary</td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Mr%20Joe%20Choo%20(AYH)2.jpg" alt="Image" style="width:113px; height:151"></td>
+    <td><img src="/images/Teaching%20Staff/Mr%20Joe%20Choo%20(AYH)2.jpg" alt="Image" style="width:113px; height:150"></td>
     <td>Mr Joe Choo</td>
     <td>Assistant Year Head(AYH)</td>
   </tr>
@@ -121,7 +121,7 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"></td>
+    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150px"></td>
     <td>Mdm Nancy Koh Mei Chin</td>
     <td>Administrative Manager (AM)</td>
   </tr>
@@ -136,7 +136,7 @@ description: ""
     <td>Operations Manager (OM)</td>
   </tr>
   <tr>
-    <td><img src="/images/EAS%20Staff/Lau%20Cheng%20Nam.jpeg" alt="Image" style="width:113px; height:151"></td>
+    <td><img src="/images/EAS%20Staff/Lau%20Cheng%20Nam.jpeg" alt="Image" style="width:113px; height:150"></td>
     <td>Mr Lau Cheng Nam</td>
     <td>Operations Manager (OM)</td>
   </tr>
