@@ -59,7 +59,7 @@ description: ""
     <td>Mrs Rachel Long</td>
     <td>HOD Science</td>
   </tr>
-		<tr>
+	<tr>
     <td><img src="/images/Teaching%20Staff/Lee%20Boon%20Haw%20Jeremy.jpeg" style="width:113px; height:150"></td>
     <td>Mr Jeremy Lee Boon Haw</td>
     <td>HOD Infocomm Technology (ICT)</td>
