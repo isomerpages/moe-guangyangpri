@@ -17,5 +17,5 @@ If you need assistance with SLS assignments, please contact your Form Teacher or
 For further assistance, please refer to the User Guide (<a href="https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/index.html" target="_blank">https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/index.html</a><br>or contact the SLS Help Line below:
 
 Email: helpdesk@sls.ufinity.com <br>
-Tel: (65) 6702 6513 <br>
+Tel: +65 6702 6513 <br>
 Note: If you are a student, the Helpdesk will need to verify your identity using the security questions that you have set up when your account was first activated.
