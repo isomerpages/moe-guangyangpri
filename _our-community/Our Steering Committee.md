@@ -159,7 +159,7 @@ description: ""
 </tbody>
 </table>
 
-<h3>Staff Development</h3>
+<h3>School Steering Committee (Teacher Leaders Guild)</h3>
 
 <table>
 <tbody>
@@ -169,9 +169,34 @@ description: ""
     <td>School Staff Developer (SSD)</td>
   </tr>
 		<tr>
-    <td><img src="/images/Teaching%20Staff/Lee%20Boon%20Haw%20Jeremy.jpeg" style="width:113px; height:150"></td>
-    <td>Mr Jeremy Lee Boon Haw</td>
-    <td>HOD Infocomm Technology (ICT)</td>
+    <td><img src="/images/Teaching%20Staff/S%20Nirmala%20Devi%20Santhanasamy.jpeg" style="width:113px; height:150"></td>
+    <td>Mrs S Nirmala Devi</td>
+    <td>LT Science</td>
+  </tr>
+			<tr>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Usha%20Surendran%20(LT)2.jpg" style="width:113px; height:150"></td>
+    <td>Mrs Usha Surendran</td>
+    <td>LT SEN</td>
+  </tr>
+			<tr>
+    <td><img src="/images/Teaching%20Staff/Aidah%20Hosni.jpeg" style="width:113px; height:150"></td>
+    <td>Mdm Aidah Hosni</td>
+    <td>ST ML</td>
+  </tr>
+			<tr>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Latha%20Joseph%20(ST%20TL)2.jpg" style="width:113px; height:150"></td>
+    <td>Mrs Latha Joseph</td>
+    <td>ST TL</td>
+  </tr>
+			<tr>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Chia%20Poh%20Kwang%20Florence%20(ST%20CL)2.jpg" style="width:113px; height:150"></td>
+    <td>Mrs Florence Chia</td>
+    <td>ST CL</td>
+  </tr>
+			<tr>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Theresa%20Wong%20(ST%20Math)2.jpg" style="width:113px; height:150"></td>
+    <td>Mrs Theresa Wong</td>
+    <td>ST Maths</td>
   </tr>
 </tbody>
 </table>
