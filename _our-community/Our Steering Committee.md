@@ -30,7 +30,7 @@ description: ""
 </tbody>
 </table>
 
-<h3>Head of Department</h3>
+<h3>School Steering Committee (Academic)</h3>
 
 <table>
 <tbody>
@@ -59,28 +59,58 @@ description: ""
     <td>Mrs Rachel Long</td>
     <td>HOD Science</td>
   </tr>
-	<tr>
+		<tr>
     <td><img src="/images/Teaching%20Staff/Lee%20Boon%20Haw%20Jeremy.jpeg" style="width:113px; height:150"></td>
     <td>Mr Jeremy Lee Boon Haw</td>
     <td>HOD Infocomm Technology (ICT)</td>
   </tr>
 	<tr>
+    <td><img src="/images/Teaching%20Staff/Mrs%20Madhavi%20Chandramohan%20(LH%20TL)2.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mrs Madhavi Chandramohan</td>
+    <td>SH ML/TL</td>
+  </tr>
+	<tr>
+    <td><img src="/images/Teaching%20Staff/Vemalan%20SO%20Elangovan.jpeg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mr Vemalan S/O Elangovan</td>
+    <td>SH NE/SS</td>
+  </tr>
+		<tr>
+    <td><img src="/images/Teaching%20Staff/Ms%20Felicia%20Ong%20(LH%20EL%20Internal)2.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Ms Felicia Ong</td>
+    <td>LH EL</td>
+  </tr>
+		<tr>
+    <td><img src="/images/Teaching%20Staff/Mdm%20Shireen%20Chong%20(LH%20CL)2.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Ms Shireen Chong Hui Ling</td>
+    <td>LH CL</td>
+  </tr>
+		<tr>
+    <td><img src="/images/Teaching%20Staff/Ms%20Pearl%20Ang%20(LH%20Math)2.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mrs Pearl Phua</td>
+    <td>LH Maths</td>
+  </tr>
+		<tr>
+    <td><img src="/images/Teaching%20Staff/Ms%20Pamela%20Pei%20(LH%20Science)2.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mrs Pamela Chan</td>
+    <td>LH Science</td>
+  </tr>
+	
+</tbody>
+</table>
+
+<h3>School Steering Committee (Student Development Team)</h3>
+
+<table>
+<tbody>
+		<tr>
     <td><img src="/images/Teaching%20Staff/Johnson%20Chee%20John%20Son.jpeg" alt="Image" style="width:113px; height:150"></td>
     <td>Mr Johnson Chee John Son</td>
     <td>HOD Physical Education, Art &amp; Music (PAM) &amp; Co-Curricular Activities (CCA)</td>
   </tr>
-	<tr>
+		<tr>
     <td><img src="/images/Teaching%20Staff/Brindha%20Sankar.jpeg" alt="Image" style="width:113px; height:150"></td>
     <td>Ms Brindha Sankar</td>
     <td>HOD Character &amp; Citizenship Education (CCE)</td>
-  </tr>
-</tbody>
-</table>
-
-<h3>Year Heads</h3>
-
-<table>
-<tbody>
   <tr>
     <td><img src="/images/Teaching%20Staff/Mrs%20Debbie%20Lau%20(Year%20Head)2.jpg" style="width:113px; height:150"></td>
     <td>Mrs Debbie Lau</td>
@@ -101,6 +131,31 @@ description: ""
     <td>Mr Joe Choo</td>
     <td>Assistant Year Head(AYH)</td>
   </tr>
+	  <tr>
+    <td><img src="/images/Teaching%20Staff/Cheah-Loo%20Yin%20Hui.jpeg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mrs Cheah-Loo Yin Hui</td>
+    <td>Assistant Year Head(AYH)</td>
+  </tr>
+	  <tr>
+    <td><img src="/images/Teaching%20Staff/Lim-Chew%20Hua%20Jie.jpeg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mrs Lim-Chew Hua Jie</td>
+    <td>Assistant Year Head(AYH)</td>
+  </tr>
+	  <tr>
+    <td><img src="/images/Teaching%20Staff/Mdm%20Suzana%20Suah%20(SH%20CCE)2.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mdm Suzana Su'ah</td>
+    <td>SH CCE</td>
+  </tr>
+	  <tr>
+    <td><img src="/images/Teaching%20Staff/Mr%20Vincent%20Poh%20(SH%20Student%20Mgmt)2.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mr Vincent Poh</td>
+    <td>SH SM</td>
+  </tr>
+	  <tr>
+    <td><img src="/images/Teaching%20Staff/Mr%20Shane%20Quek%20(SH%20PE)2.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mr Shane Quek</td>
+    <td>SH PE & Aesthetics</td>
+  </tr>
 </tbody>
 </table>
 
@@ -112,6 +167,11 @@ description: ""
     <td><img src="/images/Teaching%20Staff/Mrs%20Lek%20Seok%20Buay%20(SSD)2.jpg" style="width:113px; height:150"></td>
     <td>Ms Cheh Seok Buay</td>
     <td>School Staff Developer (SSD)</td>
+  </tr>
+		<tr>
+    <td><img src="/images/Teaching%20Staff/Lee%20Boon%20Haw%20Jeremy.jpeg" style="width:113px; height:150"></td>
+    <td>Mr Jeremy Lee Boon Haw</td>
+    <td>HOD Infocomm Technology (ICT)</td>
   </tr>
 </tbody>
 </table>
