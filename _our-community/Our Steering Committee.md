@@ -93,8 +93,7 @@ description: ""
     <td><img src="/images/Teaching%20Staff/Ms%20Pamela%20Pei%20(LH%20Science)2.jpg" alt="Image" style="width:113px; height:150"></td>
     <td>Mrs Pamela Chan</td>
     <td>LH Science</td>
-  </tr>
-	
+  </tr>	
 </tbody>
 </table>
 
@@ -193,7 +192,7 @@ description: ""
     <td>Mrs Florence Chia</td>
     <td>ST CL</td>
   </tr>
-			<tr>
+		<tr>
     <td><img src="/images/Teaching%20Staff/Mrs%20Theresa%20Wong%20(ST%20Math)2.jpg" style="width:113px; height:150"></td>
     <td>Mrs Theresa Wong</td>
     <td>ST Maths</td>
