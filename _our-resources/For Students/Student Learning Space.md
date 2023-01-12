@@ -12,4 +12,6 @@ The SLS is MOE's core platform for teaching and learning and is one of MOE’s k
 SLS Webpage: https://vle.learning.moe.edu.sg/login<br>
 Need assistance with login? [Login Guide](/files/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf)
 
-If you need assistance with SLS assignments, please contact your Form Teacher or contact the school at 
+If you need assistance with SLS assignments, please contact your Form Teacher or contact the school at [+65 6457 4345](tel:+6564574345).
+
+For further assistance, you can refer to the User Guide (or contact the SLS Help Line below: 
