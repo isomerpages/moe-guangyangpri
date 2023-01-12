@@ -201,7 +201,7 @@ description: ""
 </tbody>
 </table>
 
-<h3>Executive & Administrative Staff Managers</h3>
+<h3>School Steering Committee (School Admin Team)</h3>
 
 <table>
 <tbody>
@@ -211,7 +211,7 @@ description: ""
     <td>Administrative Manager (AM)</td>
   </tr>
   <tr>
-    <td><img src="/images/No%20Photo.jpg" alt="Image"  style="width:113px;height:150"></td>
+    <td><img src="/images/EAS%20Staff/Ms%20Heng%20Cheng%20Peng2.jpg" alt="Image"  style="width:113px;height:150"></td>
     <td>Mdm Candy Heng Cheng Peng</td>
     <td>Administrative Manager (AM)</td>
   </tr>
