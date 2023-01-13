@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GYPS Banner 2.png
+      background: /images/Test.jpg
   - resources:
       title: Latest Announcements
       subtitle: Our Updates
