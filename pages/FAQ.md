@@ -1,7 +1,9 @@
 ---
 title: FAQ
-permalink: /faq/
+permalink: /our-school/faq/
+description: ""
 ---
+
 
 ### **FAQ**
 

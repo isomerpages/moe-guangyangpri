@@ -2,7 +2,7 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-1\. This is Guangyang Primary School website.
+1\. This is Townsville Primary School website.
 
 2\. We may use “cookies”, where a small data file is sent to your browser to store and track information about you when you enter our websites. The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites. While this cookie can tell us when you enter our sites and which pages you visit, it cannot read data off your hard disk.
 
@@ -27,4 +27,4 @@ With the implementation of the Personal Data Protection Act (PDPA), we would lik
 
 Photograph(s) and/or video(s) taken by the School will not be used on personal social media channels of our staff.
 
-Any concerns regarding the use of photograph(s) and/or video(s) taken by the school can be directed to us by phone (6258 0455) or e-mail ([gyps@moe.edu.sg](mailto:gyps@moe.edu.sg)).
+Any concerns regarding the use of photograph(s) and/or video(s) taken by the school can be directed to us by phone ([6457 4345](tel:+6564574345)) or e-mail ([Townsvilleps@moe.edu.sg](mailto:Townsvilleps@moe.edu.sg)).

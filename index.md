@@ -7,16 +7,11 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/GYPS Banner 2.png
-  - resources:
-      title: Latest Announcements
-      subtitle: Our Updates
-      button: View All Announcements
+      background: /images/Test.jpg
   - infopic:
       title: Contact Us
-      subtitle: Reach out to us
       button: View More
-      url: /our-school/school-contact-information
+      url: /contact-us
       image: /images/Townsville Pri Map.png
       alt: map
   - infobar:
