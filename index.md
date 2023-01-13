@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Test.jpg
-  - resources:
-      title: Latest Announcements
-      subtitle: Our Updates
-      button: View All Announcements
   - infopic:
       title: Contact Us
       button: View More
