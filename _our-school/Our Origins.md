@@ -60,3 +60,25 @@ description: ""
 
 <p style="text-align: center"><strong>Townsville Primary School</strong> was established in 1983, originally located at Ang Mo Kio Street 32. In 1985, the school was officially declared open. In 1989, Her Majesty Queen Elizabeth II of Great Britain visited the school.<br><br>In 2000, the school moved to its present location at 3 Ang Mo Kio Avenue 10. The following year, it merged with Chong Shan Primary School, which had earlier amalgamated with Chong De in 1998. Townsville Primary School’s new campus was officially declared open in 2002.<br><br>In 2013, the Ministry of Education granted the school niche status in visual arts under the Programme for School-based Excellence. Through the visual arts programme, Townsville Primary aims to develop students’ communication, critical and creative thinking skills.<br><br>In 2017, Townsville Primary School celebrated another milestone with its 35th anniversary in educating and developing students to be future-ready.</p>
 
+<table>
+<tbody>
+  <tr>
+    <td><h5>Principals</h5></td>
+  <tr>
+    <td>Mr Tan Bee Yong (1982–1983)</td>
+    <td>Mrs Daisy Tay (1984–1989)</td>
+  </tr>
+  <tr>
+    <td>Ms Teo Lian Geok (1989–1995)</td>
+    <td>Mr Tan Yan Song (1995–2000))</td>
+  </tr>
+  <tr>
+    <td>Ms Chiang Wai Leng (2000–2007)</td>
+    <td>Mr Eugene Ong Kai Tiong (2008–2011)</td>
+  </tr>
+  <tr>
+    <td>Mrs Liu-Loh Wee Cheng (2012–2016)</td>
+    <td>Mr Victor Tan (2017–2022)</td>
+  </tr>
+</tbody>
+</table>
