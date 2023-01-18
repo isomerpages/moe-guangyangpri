@@ -42,12 +42,12 @@ description: ""
   <tr>
     <td><img style="width:113px;height:150" src="/images/Teaching%20Staff/Shanthi%20Deenathayalan.jpeg"></td>
     <td>Ms Shanthi Deenathayalan</td>
-    <td>HOD English</td>
+    <td>HOD English language</td>
   </tr>
   <tr>
     <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mdm%20Lye%20Choon%20Hwan%20(HOD%20MT)2.jpg"></td>
     <td>Mdm Lye Choon Hwan</td>
-    <td>HOD Mother Tongue Language (MTL)</td>
+    <td>HOD Mother Tongue Languages (MTL)</td>
   </tr>
   <tr>
 		<td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Lee%20Peck%20Har%20(HOD%20Math)2.jpg"></td>
@@ -67,32 +67,32 @@ description: ""
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mrs%20Madhavi%20Chandramohan%20(LH%20TL)2.jpg"></td>
     <td>Mrs Madhavi Chandramohan</td>
-    <td>SH ML/TL</td>
+    <td>Subject Head (SH) Malay Language & Tamil Language</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Vemalan%20SO%20Elangovan.jpeg"></td>
     <td>Mr Vemalan S/O Elangovan</td>
-    <td>SH NE/SS</td>
+    <td>Subject Head(SH) National Education & Social Studies</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Ms%20Felicia%20Ong%20(LH%20EL%20Internal)2.jpg"></td>
     <td>Ms Felicia Ong</td>
-    <td>LH EL</td>
+    <td>Level Head(LH) English Language</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mdm%20Shireen%20Chong%20(LH%20CL)2.jpg"></td>
     <td>Ms Shireen Chong Hui Ling</td>
-    <td>LH CL</td>
+    <td>Level Head(LH) Chinese Language</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Ms%20Pearl%20Ang%20(LH%20Math)2.jpg"></td>
     <td>Mrs Pearl Phua</td>
-    <td>LH Maths</td>
+    <td>Level Head(LH) Maths</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Ms%20Pamela%20Pei%20(LH%20Science)2.jpg"></td>
     <td>Mrs Pamela Chan</td>
-    <td>LH Science</td>
+    <td>Level Head(LH) Science</td>
   </tr>	
 </tbody>
 </table>
@@ -114,17 +114,17 @@ description: ""
   <tr>
     <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Debbie%20Lau%20(Year%20Head)2.jpg"></td>
     <td>Mrs Debbie Lau</td>
-    <td>YH Lower Primary</td>
+    <td>Year Head(YH) Lower Primary</td>
   </tr>
   <tr>
     <td><img style="width:113px;height:150" alt="Image" src="/images/Teaching%20Staff/Muhammad%20Bin%20Ali.jpeg"></td>
     <td>Mr Muhammad Bin Ali</td>
-    <td>YH Middle Primary</td>
+    <td>Year Head(YH) Middle Primary</td>
   </tr>
   <tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mrs%20Premila%20Onyekachi%20(Year%20Head)2.jpg"></td>
     <td>Mrs Premila Onyekachi</td>
-    <td>YH Upper Primary</td>
+    <td>Year Head(YH) Upper Primary</td>
   </tr>
   <tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mr%20Joe%20Choo%20(AYH)2.jpg"></td>
@@ -144,17 +144,17 @@ description: ""
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mdm%20Suzana%20Suah%20(SH%20CCE)2.jpg"></td>
     <td>Mdm Suzana Su'ah</td>
-    <td>SH CCE</td>
+    <td>Subject Head(SH) Character and Citizenship Education</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mr%20Vincent%20Poh%20(SH%20Student%20Mgmt)2.jpg"></td>
     <td>Mr Vincent Poh</td>
-    <td>SH SM</td>
+    <td>Subject Head(SH) Student Management</td>
   </tr>
 	<tr>
 		<td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mr%20Shane%20Quek%20(SH%20PE)2.jpg">
     </td><td>Mr Shane Quek</td>
-    <td>SH PE &amp; Aesthetics</td>
+    <td>Subject Head(SH) PE &amp; Aesthetics</td>
   </tr>
 </tbody>
 </table>
@@ -171,32 +171,32 @@ description: ""
 	<tr>
     <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/S%20Nirmala%20Devi%20Santhanasamy.jpeg"></td>
     <td>Mrs S Nirmala Devi</td>
-    <td>LT Science</td>
+    <td>Lead Teacher(LT) Science</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Usha%20Surendran%20(LT)2.jpg"></td>
     <td>Mrs Usha Surendran</td>
-    <td>LT SEN</td>
+    <td>Lead Teacher(LT) Special Education Needs</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Aidah%20Hosni.jpeg"></td>
     <td>Mdm Aidah Hosni</td>
-    <td>ST ML</td>
+    <td>Senior Teacher(ST) Malay Language</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Latha%20Joseph%20(ST%20TL)2.jpg"></td>
     <td>Mrs Latha Joseph</td>
-    <td>ST TL</td>
+    <td>Senior Teacher(ST) Tamil Language</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Chia%20Poh%20Kwang%20Florence%20(ST%20CL)2.jpg"></td>
     <td>Mrs Florence Chia</td>
-    <td>ST CL</td>
+    <td>Senior Teacher(ST) Chinese Language</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Theresa%20Wong%20(ST%20Math)2.jpg"></td>
     <td>Mrs Theresa Wong</td>
-    <td>ST Maths</td>
+    <td>Senior Teacher(ST) Maths</td>
   </tr>
 </tbody>
 </table>
