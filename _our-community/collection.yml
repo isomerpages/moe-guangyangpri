@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Our Steering Committee.md
+      - Our Educators/Counsellors, Special Education Officers & Allied
+        Educators.md
       - Our Educators/.keep
       - Our Educators/Form Classes.md
       - Our Executive and Admin Staff.md
