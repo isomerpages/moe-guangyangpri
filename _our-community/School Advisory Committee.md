@@ -3,8 +3,6 @@ title: School Advisory Committee
 permalink: /our-community/school-advisory-committee/
 description: ""
 ---
-<h3>Townsville Primary School<br>
-School Advisory Committee</h3>
 
 <table>
 <tbody>
@@ -14,7 +12,7 @@ School Advisory Committee</h3>
     <td>Chairman</td>
   </tr>
   <tr>
-    <td><img src="/images/Eddie%20Foo5.jpg" style="width:113px; height:150"></td>
+    <td><img src="/images/School%20Leaders/Eddie%20Foo5.jpg" style="width:113px; height:150"></td>
     <td>Mr Eddie Foo</td>
     <td>Secretary</td>
   </tr>
