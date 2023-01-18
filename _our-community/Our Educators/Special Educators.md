@@ -7,24 +7,44 @@ third_nav_title: Our Educators
 <table>
 <tbody>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/School%20Leaders/Eddie%20Foo5.jpg"></td>
-    <td>Mr Eddie Foo</td>
-    <td>Principal</td>
+    <td><img style="width:113px; height:150" src="/images/No%20Photo.jpg"></td>
+    <td>Mr Ong Yew Chong</td>
+    <td>Special Educational Needs(SEN) Officer</td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Lynette%20Fernandez2.jpg"></td>
-    <td>Ms Lynette Fernandez</td>
-    <td>Vice-Principal Education (VPE)</td>
+    <td><img style="width:113px; height:150" alt="Image" src="/images/No%20Photo.jpg"></td>
+    <td>Ms Amanda Pan</td>
+    <td>Special Educational Needs(SEN) Office</td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Sunny%20Ho.jpeg"></td>
-    <td>Mr Sunny Ho</td>
-    <td>Vice-Principal Education (VPE)</td>
+    <td><img style="width:113px; height:150" alt="Image" src="/images/No%20Photo.jpg"></td>
+    <td>Ms Josephine Tan</td>
+    <td>Special Educational Needs(SEN) Office</td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Martin%20Velan%20Anthony.jpeg"></td>
-    <td>Mr Martin Velan Anthony</td>
-    <td>Vice-Principal Administration (VPA)</td>
+    <td><img style="width:113px; height:150" alt="Image" src="/images/AED/Tay%20Zhen%20Ping%20Zoe.jpeg"></td>
+    <td>Ms Tay Zhen Ping Zoe</td>
+    <td>Special Educational Needs(SEN) Office</td>
+  </tr>
+	<tr>
+    <td><img style="width:113px; height:150" alt="Image" src="/images/No%20Photo.jpg"></td>
+    <td>Mdm Esther Tan Chor Joo</td>
+    <td>Allied Educator</td>
+  </tr>
+	<tr>
+    <td><img style="width:113px; height:150" alt="Image" src="/images/No%20Photo.jpg"></td>
+    <td>Mdm Ng Guat Ming Mindy</td>
+    <td>Allied Educator</td>
+  </tr>
+	<tr>
+    <td><img style="width:113px; height:150" alt="Image" src="/images/No%20Photo.jpg"></td>
+    <td>Ms Emily Poh</td>
+    <td>School Counsellor</td>
+  </tr>
+	<tr>
+    <td><img style="width:113px; height:150" alt="Image" src="/images/AED/Kavithasri%20do%20Anandan.jpeg"></td>
+    <td>Mdm Kavithasri d/o Anandan</td>
+    <td>School Counsellor</td>
   </tr>
 </tbody>
 </table>
