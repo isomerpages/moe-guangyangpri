@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Our Steering Committee.md
+      - Our Educators/Example Title.md
       - Our Educators/.keep
       - Our Educators/Form Classes.md
       - Our Educators/Counsellors, Special Education Officers & Allied
