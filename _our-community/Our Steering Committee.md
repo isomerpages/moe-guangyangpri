@@ -8,7 +8,7 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/Eddie%20Foo5.jpg"></td>
+    <td><img style="width:113px; height:150" src="/images/School%20Leaders/Eddie%20Foo5.jpg"></td>
     <td>Mr Eddie Foo</td>
     <td>Principal</td>
   </tr>
