@@ -206,7 +206,7 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img style="width:113px; height:150px" src="/images/No%20Photo.jpg"></td>
+    <td><img style="width:113px; height:150" src="/images/No%20Photo.jpg"></td>
     <td>Mdm Nancy Koh Mei Chin</td>
     <td>Administrative Manager (AM)</td>
   </tr>
