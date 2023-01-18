@@ -1,0 +1,4 @@
+collections:
+  form-teachers:
+    output: true
+    order: []
