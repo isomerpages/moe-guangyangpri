@@ -13,9 +13,8 @@ description: ""
 **Mission**: Ignite Learning, Maximise Potential, Nurture the Child
 
 <h3>School Values</h3>
-   
 
-<p style="font-size: 20px; color: red"><strong>iDARE<sup>2</sup></strong></p>
+<h5 style="color:red"><strong>iDARE<sup>2</sup></strong></h5>
 
 **Integrity** - We are honest and always do the right thing<br>
 **Diligence** - We are responsible and always give our best despite difficulties<br>
