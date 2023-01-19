@@ -16,51 +16,62 @@ description: ""
 
 ![](/images/GYPSorigins.png)
 
-<table>
-  <tbody>
-    <tr>
-      <td>
-        <h5>Principals</h5>
-      </td>
-    </tr>
-    <tr>
-      <td>Mr Liang Pidu (1918–1920)</td>
-      <td>Mr Huang Yiyuang (1920–1929)</td>
-    </tr>
-    <tr>
-      <td>Mdm Zhang Qiangbao (1929–1939)</td>
-      <td>Mr Wu Fulin (1939–1955)</td>
-    </tr>
-    <tr>
-      <td>Mr Zheng Yunwen (1956–1964)</td>
-      <td>Mr Willian Shen (1965–1983)</td>
-    </tr>
-    <tr>
-      <td>Mr Loong (龙厉权) (1984–1985)</td>
-      <td>Mr Ang Mah Chew (1985–1986)</td>
-    </tr>
-    <tr>
-      <td>Mdm Zhang Qiangbao (1929–1939)</td>
-      <td>Mr Wu Fulin (1939–1955)</td>
-    </tr>
-    <tr>
-      <td>Mrs Soh Chin Wah (1986 – 1996)</td>
-      <td>Mr Goh Kian Guan (1996–2003)</td>
-    </tr>
-    <tr>
-      <td>Mdm Kit Gek Wah (2004–2009)</td>
-      <td>Mdm Wu Siew Fong Susan (2009–2013)</td>
-    </tr>
-    <tr>
-      <td>Mr Vimalenthiran Vijayasingam (2013–2020)</td>
-      <td>Mr Enoch Lau (2021-2022)</td>
-    </tr>
-  </tbody>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-hobv{background-color:#FFF;color:#FBB041;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-hobv"><span style="font-weight:normal;color:#FBB041">Principals</span></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-06je">Mr Liang Pidu (1918–1920)</td>
+    <td class="tg-06je">Mr Huang Yiyuang (1920–1929)</td>
+  </tr>
+  <tr>
+    <td class="tg-06je">Mdm Zhang Qiangbao (1929–1939)</td>
+    <td class="tg-06je">Mr Wu Fulin (1939–1955)</td>
+  </tr>
+  <tr>
+    <td class="tg-06je">Mr Zheng Yunwen (1956–1964)</td>
+    <td class="tg-06je">Mr Willian Shen (1965–1983)</td>
+  </tr>
+  <tr>
+    <td class="tg-06je">Mr Loong (龙厉权) (1984–1985)</td>
+    <td class="tg-06je">Mr Ang Mah Chew (1985–1986)</td>
+  </tr>
+  <tr>
+    <td class="tg-06je">Mdm Zhang Qiangbao (1929–1939)</td>
+    <td class="tg-06je">Mr Wu Fulin (1939–1955)</td>
+  </tr>
+  <tr>
+    <td class="tg-06je">Mrs Soh Chin Wah (1986 – 1996)</td>
+    <td class="tg-06je">Mr Goh Kian Guan (1996–2003)</td>
+  </tr>
+  <tr>
+    <td class="tg-06je">Mdm Kit Gek Wah (2004–2009)</td>
+    <td class="tg-06je">Mdm Wu Siew Fong Susan (2009–2013)</td>
+  </tr>
+  <tr>
+    <td class="tg-06je">Mr Vimalenthiran Vijayasingam (2013–2020)</td>
+    <td class="tg-06je">Mr Enoch Lau (2021-2022)</td>
+  </tr>
+</tbody>
 </table>
 
 <br>
 <br>
-<hr>
+<br>
 <br>
 
 <img src="/images/Townsville-Logo-HD%20OLD.png" style="width:35%">
