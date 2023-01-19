@@ -2,6 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Our Ethos/.keep
       - Principal's Message.md
       - Our Origins.md
+      - Our Ethos/.keep
