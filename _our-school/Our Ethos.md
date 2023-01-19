@@ -14,7 +14,7 @@ description: ""
 
 <h3>School Values</h3>
 
-<h5 style="color:red"><strong>iDARE<sup>2</sup></strong></h5>
+<h4 style="color:red"><strong>iDARE<sup>2</sup></strong></h4>
 
 **Integrity** - We are honest and always do the right thing<br>
 **Diligence** - We are responsible and always give our best despite difficulties<br>
