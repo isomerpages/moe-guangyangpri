@@ -13,10 +13,9 @@ description: ""
 <img src="/images/schoolcrest.jpeg" style="width:25%">
 
 <p style="text-align: center"><strong>Guangyang Primary School</strong>, originally named Kong Yiong School, was started by a group of Chinese education enthusiasts in 1918. It offered Chinese as the first language. The school was temporarily closed during the Second World War, and reopened in September 1945.<br><br>In 1959, the school offered secondary classes and was renamed Kong Yiong High School. In 1984, the primary and secondary schools were separated, and the primary school became a government school in 1986. In 1988, the name of the school was changed to Guangyang Primary School (光洋小学). <br><br>In 1993, Guangyang Primary School relocated to its current premises at 6 Bishan Street 12. In 2011, Guangyang Primary School completed the PRIME upgrading. In 2018, the school celebrated its 100th anniversary. That same year, Guangyang Primary School was accorded the Learning for Life Programme in Music and Performing Arts, with emphasis on talent and character development.</p>
-
 <table>
 <tbody>
-  <tr>
+	<tr>
     <td><h5>Principals</h5></td>
   <tr>
     <td>Mr Liang Pidu (1918–1920)</td>
@@ -43,13 +42,13 @@ description: ""
     <td>Mr Goh Kian Guan (1996–2003)</td>
   </tr>
   <tr>
-    <td>Mdm Kit Gek Wah (2004–2009)</td>
+		<td>Mdm Kit Gek Wah (2004–2009)</td>
     <td>Mdm Wu Siew Fong Susan (2009–2013)</td>
   </tr>
-  <tr>
+	<tr>
     <td>Mr Vimalenthiran Vijayasingam (2013–2020)</td>
     <td>Mr Enoch Lau (2021-2022)</td>
-  </tr>
+	</tr>
 </tbody>
 </table>
 
