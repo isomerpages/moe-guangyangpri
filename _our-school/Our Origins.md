@@ -13,6 +13,9 @@ description: ""
 <img src="/images/schoolcrest.jpeg" style="width:25%">
 
 <p style="text-align: center"><strong>Guangyang Primary School</strong>, originally named Kong Yiong School, was started by a group of Chinese education enthusiasts in 1918. It offered Chinese as the first language. The school was temporarily closed during the Second World War, and reopened in September 1945.<br><br>In 1959, the school offered secondary classes and was renamed Kong Yiong High School. In 1984, the primary and secondary schools were separated, and the primary school became a government school in 1986. In 1988, the name of the school was changed to Guangyang Primary School (光洋小学). <br><br>In 1993, Guangyang Primary School relocated to its current premises at 6 Bishan Street 12. In 2011, Guangyang Primary School completed the PRIME upgrading. In 2018, the school celebrated its 100th anniversary. That same year, Guangyang Primary School was accorded the Learning for Life Programme in Music and Performing Arts, with emphasis on talent and character development.</p>
+
+![](/images/GYPSorigins.png)
+
 <table>
 <tbody>
 	<tr>
@@ -60,6 +63,8 @@ description: ""
 <img src="/images/Townsville-Logo-HD%20OLD.png" style="width:35%">
 
 <p style="text-align: center"><strong>Townsville Primary School</strong> was established in 1983, originally located at Ang Mo Kio Street 32. In 1985, the school was officially declared open. In 1989, Her Majesty Queen Elizabeth II of Great Britain visited the school.<br><br>In 2000, the school moved to its present location at 3 Ang Mo Kio Avenue 10. The following year, it merged with Chong Shan Primary School, which had earlier amalgamated with Chong De in 1998. Townsville Primary School’s new campus was officially declared open in 2002.<br><br>In 2013, the Ministry of Education granted the school niche status in visual arts under the Programme for School-based Excellence. Through the visual arts programme, Townsville Primary aims to develop students’ communication, critical and creative thinking skills.<br><br>In 2017, Townsville Primary School celebrated another milestone with its 35th anniversary in educating and developing students to be future-ready.</p>
+
+![](/images/TVPSorigins.png)
 
 <table>
 <tbody>
