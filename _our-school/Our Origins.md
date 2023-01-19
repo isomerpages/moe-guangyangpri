@@ -17,42 +17,45 @@ description: ""
 ![](/images/GYPSorigins.png)
 
 <table>
-<tbody>
-	<tr>
-    <td><h5>Principals</h5></td>
-  <tr>
-    <td>Mr Liang Pidu (1918–1920)</td>
-    <td>Mr Huang Yiyuang (1920–1929)</td>
-  </tr>
-  <tr>
-    <td>Mdm Zhang Qiangbao (1929–1939)</td>
-    <td>Mr Wu Fulin (1939–1955)</td>
-  </tr>
-  <tr>
-    <td>Mr Zheng Yunwen (1956–1964)</td>
-    <td>Mr Willian Shen (1965–1983)</td>
-  </tr>
-  <tr>
-    <td>Mr Loong (龙厉权) (1984–1985)</td>
-    <td>Mr Ang Mah Chew (1985–1986)</td>
-  </tr>
-  <tr>
-    <td>Mdm Zhang Qiangbao (1929–1939)</td>
-    <td>Mr Wu Fulin (1939–1955)</td>
-  </tr>
-  <tr>
-    <td>Mrs Soh Chin Wah (1986 – 1996)</td>
-    <td>Mr Goh Kian Guan (1996–2003)</td>
-  </tr>
-  <tr>
-		<td>Mdm Kit Gek Wah (2004–2009)</td>
-    <td>Mdm Wu Siew Fong Susan (2009–2013)</td>
-  </tr>
-	<tr>
-    <td>Mr Vimalenthiran Vijayasingam (2013–2020)</td>
-    <td>Mr Enoch Lau (2021-2022)</td>
-	</tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td>
+        <h5>Principals</h5>
+      </td>
+    </tr>
+    <tr>
+      <td>Mr Liang Pidu (1918–1920)</td>
+      <td>Mr Huang Yiyuang (1920–1929)</td>
+    </tr>
+    <tr>
+      <td>Mdm Zhang Qiangbao (1929–1939)</td>
+      <td>Mr Wu Fulin (1939–1955)</td>
+    </tr>
+    <tr>
+      <td>Mr Zheng Yunwen (1956–1964)</td>
+      <td>Mr Willian Shen (1965–1983)</td>
+    </tr>
+    <tr>
+      <td>Mr Loong (龙厉权) (1984–1985)</td>
+      <td>Mr Ang Mah Chew (1985–1986)</td>
+    </tr>
+    <tr>
+      <td>Mdm Zhang Qiangbao (1929–1939)</td>
+      <td>Mr Wu Fulin (1939–1955)</td>
+    </tr>
+    <tr>
+      <td>Mrs Soh Chin Wah (1986 – 1996)</td>
+      <td>Mr Goh Kian Guan (1996–2003)</td>
+    </tr>
+    <tr>
+      <td>Mdm Kit Gek Wah (2004–2009)</td>
+      <td>Mdm Wu Siew Fong Susan (2009–2013)</td>
+    </tr>
+    <tr>
+      <td>Mr Vimalenthiran Vijayasingam (2013–2020)</td>
+      <td>Mr Enoch Lau (2021-2022)</td>
+    </tr>
+  </tbody>
 </table>
 
 <br>
@@ -67,24 +70,27 @@ description: ""
 ![](/images/TVPSorigins.png)
 
 <table>
-<tbody>
-  <tr>
-    <td><h5>Principals</h5></td>
-  <tr>
-    <td>Mr Tan Bee Yong (1982–1983)</td>
-    <td>Mrs Daisy Tay (1984–1989)</td>
-  </tr>
-  <tr>
-    <td>Ms Teo Lian Geok (1989–1995)</td>
-    <td>Mr Tan Yan Song (1995–2000))</td>
-  </tr>
-  <tr>
-    <td>Ms Chiang Wai Leng (2000–2007)</td>
-    <td>Mr Eugene Ong Kai Tiong (2008–2011)</td>
-  </tr>
-  <tr>
-    <td>Mrs Liu-Loh Wee Cheng (2012–2016)</td>
-    <td>Mr Victor Tan (2017–2022)</td>
-  </tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td>
+        <h5>Principals</h5>
+      </td>
+    </tr>
+    <tr>
+      <td>Mr Tan Bee Yong (1982–1983)</td>
+      <td>Mrs Daisy Tay (1984–1989)</td>
+    </tr>
+    <tr>
+      <td>Ms Teo Lian Geok (1989–1995)</td>
+      <td>Mr Tan Yan Song (1995–2000))</td>
+    </tr>
+    <tr>
+      <td>Ms Chiang Wai Leng (2000–2007)</td>
+      <td>Mr Eugene Ong Kai Tiong (2008–2011)</td>
+    </tr>
+    <tr>
+      <td>Mrs Liu-Loh Wee Cheng (2012–2016)</td>
+      <td>Mr Victor Tan (2017–2022)</td>
+    </tr>
+  </tbody>
 </table>
