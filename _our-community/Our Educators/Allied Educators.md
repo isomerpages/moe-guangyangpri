@@ -1,9 +1,14 @@
 ---
-title: Special Educators
-permalink: /our-community/Our-Educators/permalink/
+title: Allied Educators
+permalink: /our-community/Our-Educators/Allied-Educators/
 description: ""
 third_nav_title: Our Educators
 ---
+
+
+
+
+
 <table>
 <tbody>
   <tr>

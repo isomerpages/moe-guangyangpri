@@ -1,9 +1,10 @@
 ---
 title: "Primary 4: Respect"
-permalink: /our-community/Our-Educators/permalink/
+permalink: /our-community/Our-Educators/Primary-4-Respect/
 description: ""
 third_nav_title: Our Educators
 ---
+
 <table>
 <thead>
   <tr>

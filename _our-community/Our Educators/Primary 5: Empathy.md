@@ -1,9 +1,10 @@
 ---
 title: "Primary 5: Empathy"
-permalink: /our-community/Our-Educators/permalink/
+permalink: /our-community/Our-Educators/Primary-5-Empathy/
 description: ""
 third_nav_title: Our Educators
 ---
+
 <table>
 <thead>
 	<tr>

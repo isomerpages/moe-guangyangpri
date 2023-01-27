@@ -1,9 +1,10 @@
 ---
 title: "Primary 6: Excellence"
-permalink: /our-community/Our-Educators/permalink/
+permalink: /our-community/Our-Educators/Primary-6-Excellence/
 description: ""
 third_nav_title: Our Educators
 ---
+
 <table>
 <thead>
 		<td colspan="4"><center><b>Excellence 1</b></center></td>

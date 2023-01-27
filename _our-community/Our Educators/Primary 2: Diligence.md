@@ -1,9 +1,10 @@
 ---
 title: "Primary 2: Diligence"
-permalink: /our-community/Our-Educators/permalink/
+permalink: /our-community/Our-Educators/Primary-2-Diligence/
 description: ""
 third_nav_title: Our Educators
 ---
+
 <table>
 <thead>
   <tr>

@@ -1,9 +1,10 @@
 ---
 title: "Primary 1: Integrity"
-permalink: /our-community/Our-Educators/form-classes/
+permalink: /our-community/Our-Educators/Primary-1-integrity/
 description: ""
 third_nav_title: Our Educators
 ---
+
 <table>
 <thead>
   <tr>
