@@ -30,7 +30,7 @@ description: ""
 </tbody>
 </table>
 
-<h3>School Steering Committee (Academic)</h3>
+<h3>Academic</h3>
 
 <table>
 <tbody>
@@ -97,7 +97,7 @@ description: ""
 </tbody>
 </table>
 
-<h3>School Steering Committee (Student Development Team)</h3>
+<h3>Student Development Team</h3>
 
 <table>
 <tbody>
@@ -159,7 +159,7 @@ description: ""
 </tbody>
 </table>
 
-<h3>School Steering Committee (Teacher Leaders Guild)</h3>
+<h3>Teacher Leaders Guild</h3>
 
 <table>
 <tbody>
@@ -201,7 +201,7 @@ description: ""
 </tbody>
 </table>
 
-<h3>School Steering Committee (School Admin Team)</h3>
+<h3>School Admin Team</h3>
 
 <table>
 <tbody>
