@@ -9,7 +9,7 @@ description: ""
 
 <h3>Vision & Mission</h3>
 
-**Vision**: A Vibrant School Leaders of Character, Learners for Life
+**Vision**: A Vibrant School Leaders of Character, Learners for Life<br>
 **Mission**: Ignite Learning, Maximise Potential, Nurture the Child
 
 <h3>School Values</h3>
