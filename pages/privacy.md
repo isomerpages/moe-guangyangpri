@@ -20,7 +20,7 @@ permalink: /privacy/
 
 7\. Personal Data Protection Act
 
-With the implementation of the Personal Data Protection Act (PDPA), we would like to inform Parent/Guardians and Visitors of Guangyang Primary School:
+With the implementation of the Personal Data Protection Act (PDPA), we would like to inform Parent/Guardians and Visitors of Townsville Primary School:
 
 *   Photograph(s) and/or video(s) of Students, their Parents/Guardians and our Visitors may be taken by the School during school activities or events. (e.g. Classroom lessons, Co-curriculum Activities, School public events, etc)
 *   Photograph(s) and/or video(s) of Students, their Parents/Guardians and our Visitors may be used or published in School Publications, website, social media channels and other communication channels.
