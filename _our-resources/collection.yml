@@ -2,11 +2,11 @@ collections:
   our-resources:
     output: true
     order:
-      - For Parents/Sexuality Education.md
       - For Parents/.keep
       - For Parents/Forms & Letters.md
       - For Parents/Parent Gateway.md
       - For Parents/Financial Assistance.md
+      - For Parents/Sexuality Education.md
       - For Students/.keep
       - For Students/Student ICON.md
       - For Students/Student Learning Space.md
