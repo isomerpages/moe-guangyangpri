@@ -69,6 +69,6 @@ Please Note:
 
 1. Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-2. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents via Parents Gateway. A copy of the form can be found [here]([](/files/opt%20out%20form%20TVPS.pdf)).
+2. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents via Parents Gateway. A copy of the form can be found [here](/files/opt%20out%20form%20TVPS.pdf).
 
 3. Parents can contact your child’s form teacher at 6457 4345 for discussion or to seek clarification about the school’s Sexuality Education programme.**
