@@ -6,7 +6,7 @@ description: ""
 <table>
 <thead>
   <tr>
-    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"></td>
+    <td><img src="/images/EAS%20Staff/Nancy.jpg" style="width:113px; height:150"></td>
     <td>Mdm Nancy Koh Mei Chin</td>
     <td>Administrative Manager (AM)</td>
   </tr>
@@ -43,7 +43,7 @@ description: ""
     <td>ICT Associate (ICT A)</td>
   </tr>
   <tr>
-    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"></td>
+    <td><img src="/images/EAS%20Staff/Nazariah.jpg" style="width:113px; height:150"></td>
     <td>Mdm Nazariah Ali</td>
     <td>Corporate Support Officer (CSO)</td>
   </tr>
@@ -53,12 +53,12 @@ description: ""
     <td>Corporate Support Officer (CSO)</td>
   </tr>
   <tr>
-    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"></td>
+    <td><img src="/images/EAS%20Staff/Szeto.jpg" style="width:113px; height:150"></td>
     <td>Mdm Szeto May Leng</td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
   <tr>
-    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"></td>
+    <td><img src="/images/EAS%20Staff/Tharani.jpg" style="width:113px; height:150"></td>
     <td>Mdm Tharani</td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
@@ -68,7 +68,7 @@ description: ""
     <td>Operations Support Officer (OSO)</td>
   </tr>
   <tr>
-    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"></td>
+    <td><img src="/images/EAS%20Staff/Rossitah.jpg" style="width:113px; height:150"></td>
     <td>Mdm Rossitah Binte Nordin</td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
