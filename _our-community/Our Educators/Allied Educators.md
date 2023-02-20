@@ -7,7 +7,7 @@ third_nav_title: Our Educators
 <table>
 <tbody>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/AED/Mr%20Ong%20Yew%20Chong2.jpg"></td>
+    <td><img style="width:113px; height:150" src="/images/AED/Yew%20Chong.jpg"></td>
     <td>Mr Ong Yew Chong</td>
     <td>Special Educational Needs(SEN) Officer</td>
   </tr>
