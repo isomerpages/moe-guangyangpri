@@ -3,31 +3,29 @@ title: Gallery
 permalink: /our-pride/Gallery/
 description: ""
 ---
+<h3 style="text-align: center"> 2023 Gallery </h3>
+
 <table>
 <tbody>
   <tr>
-    <td>
+    <td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjArwcQ">
-				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:50%">
+				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:100%"> 1st Day of School 
+				</th>
 			</a>
 		</td>
-    <td>Mr Eddie Foo</td>
-    <td>Principal</td>
-  </tr>
-  <tr>
-    <td><img src="/images/School%20Leaders/Lynette%20Fernandez2.jpg" alt="Image" style="width:113px; height:150"></td>
-    <td>Ms Lynette Fernandez</td>
-    <td>Vice-Principal Education (VPE)</td>
-  </tr>
-  <tr>
-    <td><img src="/images/School%20Leaders/Sunny%20Ho.jpeg" alt="Image" style="width:113px; height:150"></td>
-    <td>Mr Sunny Ho</td>
-    <td>Vice-Principal Education (VPE)</td>
-  </tr>
-  <tr>
-    <td><img src="/images/School%20Leaders/Martin%20Velan%20Anthony.jpeg" alt="Image" style="width:113px; height:150"></td>
-    <td>Mr Martin Velan Anthony</td>
-    <td>Vice-Principal Administration (VPA)</td>
+		    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjArwcQ">
+				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:100%"> 1st Day of School 
+				</th>
+			</a>
+		</td>
+		    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjArwcQ">
+				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:100%"> 1st Day of School 
+				</th>
+			</a>
+		</td>
   </tr>
 </tbody>
 </table>
