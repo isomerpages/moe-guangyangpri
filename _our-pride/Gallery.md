@@ -15,7 +15,7 @@ description: ""
 		</td>
 		<td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjArsUS">
-				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:100%"> CNY Celebration
+				<img src="/images/Gallery/CNY%202023%20Gallery.png" style="width:100%"> CNY Celebration
 			</a>
 		</td>
   </tr>
