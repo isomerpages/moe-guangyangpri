@@ -11,19 +11,11 @@ description: ""
     <td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjArwcQ">
 				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:100%"> 1st Day of School 
-				</th>
 			</a>
 		</td>
-		    <td style="text-align: center"> 
+		<td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjArwcQ">
 				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:100%"> 1st Day of School 
-				</th>
-			</a>
-		</td>
-		    <td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjArwcQ">
-				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:100%"> 1st Day of School 
-				</th>
 			</a>
 		</td>
   </tr>
@@ -31,4 +23,3 @@ description: ""
 </table>
 
 <hr>
-
