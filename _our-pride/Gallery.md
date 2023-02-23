@@ -6,7 +6,11 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:50%"></td>
+    <td>
+			<a href="https://flic.kr/s/aHBqjArwcQ">
+				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:50%">
+			</a>
+		</td>
     <td>Mr Eddie Foo</td>
     <td>Principal</td>
   </tr>
