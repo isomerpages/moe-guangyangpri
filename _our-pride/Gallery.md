@@ -45,5 +45,22 @@ description: ""
 			</a>
 		</td>
   </tr>
+  <tr>
+    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjArwNs">
+				<img src="/images/Gallery/1st%20Day%202022.png" style="width:100%"> 1st Day of School 
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAryTA">
+				<img src="/images/Gallery/CNY%202022.png" style="width:100%"> CNY Celebration
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjArBpQ">
+				<img src="/images/Gallery/Prefects'%20Investiture%202022.png" style="width:100%"> Prefects' Investiture
+			</a>
+		</td>
+  </tr>
 </tbody>
 </table>
