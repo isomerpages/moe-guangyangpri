@@ -85,7 +85,7 @@ description: ""
 <br>
 <hr>
 <p style="text-align: center">View more photos in our Flickr account!!
-	<a href="https://www.flickr.com/photos/guangyangps/albums">
+	<a href="https://www.flickr.com/photos/guangyangps/albums"     target="_blank" rel="noopener noreferrer">
 		<img src="/images/966e09a41a33f89fe18f2ab227336f09.png" style="width:50%">
 	</a>
 </p>
