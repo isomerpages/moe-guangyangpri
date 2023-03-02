@@ -64,18 +64,18 @@ description: ""
   </tr>
   <tr>
     <td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjArwNs">
-				<img src="/images/Gallery/1st%20Day%202022.png" style="width:100%"> 1st Day of School 
+			<a href="https://flic.kr/s/aHBqjArCXy">
+				<img src="/images/Gallery/Rollerblading%202022.png" style="width:100%"> Rollerblading
 			</a>
 		</td>
 		<td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjAryTA">
-				<img src="/images/Gallery/CNY%202022.png" style="width:100%"> CNY Celebration
+			<a href="https://flic.kr/s/aHBqjArCZc">
+				<img src="/images/Gallery/Prefect%20Camp%202022.png" style="width:100%"> Prefect Camp
 			</a>
 		</td>
 		<td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjArBpQ">
-				<img src="/images/Gallery/Prefects'%20Investiture%202022.png" style="width:100%"> Prefects' Investiture
+			<a href="https://flic.kr/s/aHBqjAg95s">
+				<img src="/images/Gallery/Final%20APP%202022.png" style="width:100%"> Farewell APP
 			</a>
 		</td>
   </tr>
