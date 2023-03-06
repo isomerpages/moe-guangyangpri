@@ -3,7 +3,6 @@ title: School Advisory Committee
 permalink: /our-community/school-advisory-committee/
 description: ""
 ---
-
 <table>
 <tbody>
   <tr>
@@ -11,15 +10,20 @@ description: ""
     <td>Mr Peter Lee</td>
     <td>Chairman</td>
   </tr>
+	<tr>
+    <td><img src="/images/SAC/Kenneth%20Tan.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Mr Kenneth Tan</td>
+    <td>Vice Chairman</td>
+  </tr>
   <tr>
     <td><img src="/images/School%20Leaders/Eddie%20Foo5.jpg" style="width:113px; height:150"></td>
     <td>Mr Eddie Foo</td>
     <td>Secretary</td>
   </tr>
   <tr>
-    <td><img src="/images/SAC/Kenneth%20Tan.jpg" alt="Image" style="width:113px; height:150"></td>
-    <td>Mr Kenneth Tan</td>
-    <td>Member</td>
+    <td><img src="/images/SAC/Justina%20Tan.jpg" alt="Image" style="width:113px; height:150"></td>
+    <td>Dr Justina Tan</td>
+    <td>Treasurer</td>
   </tr>
   <tr>
     <td><img src="/images/SAC/Lim%20Tong%20Hai.jpg" alt="Image" style="width:113px; height:150"></td>
@@ -49,11 +53,6 @@ description: ""
   <tr>
     <td><img src="/images/SAC/Alvin%20Low.jpg" alt="Image" style="width:113px; height:150"></td>
     <td>Mr Alvin Low</td>
-    <td>Member</td>
-  </tr>
-  <tr>
-    <td><img src="/images/SAC/Justina%20Tan.jpg" alt="Image" style="width:113px; height:150"></td>
-    <td>Dr Justina Tan</td>
     <td>Member</td>
   </tr>
 </tbody>
