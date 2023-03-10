@@ -18,8 +18,8 @@ description: ""
     <td>Administrative Manager (AM)</td>
   </tr>
   <tr>
-    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"></td>
-    <td>Mr Samad Bin Surat</td>
+    <td><img style="width:113px; height:150" alt="Image" src="/images/EAS%20Staff/Mohammad%20Zhafrie%20Bin%20Jalil.jpeg"></td>
+    <td>Mr Mohammad Zhafrie Bin Jalil</td>
     <td>Operations Manager (OM)</td>
   </tr>
   <tr>
@@ -33,10 +33,6 @@ description: ""
     <td>Admin Executive (AE)</td>
   </tr>
   <tr>
-    <td><img src="/images/EAS%20Staff/Mohammad%20Zhafrie%20Bin%20Jalil.jpeg" style="width:113px; height:150"></td>
-    <td>Mr Mohammad Zhafrie Bin Jalil</td>
-    <td>Admin Executive (AE)</td>
-  </tr>
   <tr>
     <td><img src="/images/EAS%20Staff/Hadi%20Asyaari%20Bin%20Ahmad.jpeg" style="width:113px; height:150"></td>
     <td>Mr Hadi Asyaari Bin Ahmad</td>
