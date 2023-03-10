@@ -156,6 +156,11 @@ description: ""
     </td><td>Mr Shane Quek</td>
     <td>Subject Head(SH) PE &amp; Aesthetics</td>
   </tr>
+	<tr>
+		<td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Ms%20Toh%20Xiao%20Ting2.jpg">
+    </td><td>Toh Xiao Ting</td>
+    <td>Subject Head(SH) Aesthetics</td>
+  </tr>
 </tbody>
 </table>
 
