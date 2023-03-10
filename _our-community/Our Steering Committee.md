@@ -154,7 +154,7 @@ description: ""
 	<tr>
 		<td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mr%20Shane%20Quek%20(SH%20PE)2.jpg">
     </td><td>Mr Shane Quek</td>
-    <td>Subject Head(SH) PE &amp; Aesthetics</td>
+    <td>Subject Head(SH) PE</td>
   </tr>
 	<tr>
 		<td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Ms%20Toh%20Xiao%20Ting2.jpg">
@@ -221,8 +221,8 @@ description: ""
     <td>Administrative Manager (AM)</td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/No%20Photo.jpg"></td>
-    <td>Mr Samad Bin Surat</td>
+    <td><img style="width:113px; height:150" alt="Image" src="/images/EAS%20Staff/Mohammad%20Zhafrie%20Bin%20Jalil.jpeg"></td>
+    <td>Mr Mohammad Zhafrie Bin Jalil</td>
     <td>Operations Manager (OM)</td>
   </tr>
   <tr>
