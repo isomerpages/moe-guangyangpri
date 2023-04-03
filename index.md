@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/test 2 image.jpeg
+      background: /images/Hero Photos/diligence test.jpeg
   - infopic:
       title: Contact Us
       button: View More
