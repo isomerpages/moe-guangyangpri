@@ -33,7 +33,7 @@ description: ""
     <td>Admin Executive (AE)</td>
   </tr>
   <tr>
-  <tr>
+  </tr><tr>
     <td><img src="/images/EAS%20Staff/Hadi%20Asyaari%20Bin%20Ahmad.jpeg" style="width:113px; height:150"></td>
     <td>Mr Hadi Asyaari Bin Ahmad</td>
     <td>ICT Associate (ICT A)</td>
@@ -56,11 +56,6 @@ description: ""
   <tr>
     <td><img src="/images/EAS%20Staff/Tharani.jpg" style="width:113px; height:150"></td>
     <td>Mdm Tharani</td>
-    <td>Operations Support Officer (OSO)</td>
-  </tr>
-  <tr>
-    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"></td>
-    <td>Mr Lee Hiang Boon</td>
     <td>Operations Support Officer (OSO)</td>
   </tr>
   <tr>

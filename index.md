@@ -7,16 +7,16 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Test.jpg
+      background: /images/Hero Photos/homepage banner gif.gif
+  - infobar:
+      title: Follow Us
+      description: All Our Socials in One Place
+      button: View All Links
+      url: /follow-us
   - infopic:
       title: Contact Us
       button: View More
       url: /contact-us
       image: /images/Townsville Pri Map.png
       alt: map
-  - infobar:
-      title: Follow Us
-      description: All Our Socials in One Place
-      button: View All Links
-      url: /follow-us
 ---
