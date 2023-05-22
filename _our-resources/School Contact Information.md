@@ -1,5 +1,5 @@
 ---
 title: School Contact Information
-permalink: /our-school/school-contact-information/
+permalink: /contact-us/
 description: ""
 ---

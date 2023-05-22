@@ -30,7 +30,7 @@ description: ""
 </tbody>
 </table>
 
-<h3>Academic</h3>
+<h3>Academic Team</h3>
 
 <table>
 <tbody>
@@ -67,12 +67,12 @@ description: ""
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mrs%20Madhavi%20Chandramohan%20(LH%20TL)2.jpg"></td>
     <td>Mrs Madhavi Chandramohan</td>
-    <td>Subject Head (SH) Malay Language & Tamil Language</td>
+    <td>Subject Head (SH) Malay Language &amp; Tamil Language</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Vemalan%20SO%20Elangovan.jpeg"></td>
     <td>Mr Vemalan S/O Elangovan</td>
-    <td>Subject Head(SH) National Education & Social Studies</td>
+    <td>Subject Head(SH) National Education &amp; Social Studies</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Ms%20Felicia%20Ong%20(LH%20EL%20Internal)2.jpg"></td>

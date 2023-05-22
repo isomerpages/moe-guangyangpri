@@ -4,7 +4,6 @@ permalink: /our-community/Our-Educators/Primary-4-Respect/
 description: ""
 third_nav_title: Our Educators
 ---
-
 <table>
 <thead>
   <tr>
@@ -51,8 +50,8 @@ third_nav_title: Our Educators
   <tr>
     <td><img src="/images/Teaching%20Staff/Goh%20Jia%20Yee.jpeg" style="width:113px; height:150"> </td>
     <td>Ms Goh Jia Yee</td>
-    <td><img src="/images/No%20Photo.jpg" style="width:113px; height:150"> </td>
-    <td>Mdm Goh Siew Kee</td>
+    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Ms%20Ong%20Chor%20Meng%20(HOD%20Curriculum)2.jpg"></td>
+    <td>Ms Ong Chor Meng</td>
   </tr>
   <tr>
     <td colspan="4"><center><b>Respect 6</b></center></td>
