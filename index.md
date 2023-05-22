@@ -8,6 +8,7 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero Photos/homepage banner gif 2.gif
+  - resources: {}
   - infobar:
       title: Follow Us
       description: All Our Socials in One Place
