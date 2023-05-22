@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Photos/homepage banner gif.gif
+      background: /images/Hero Photos/homepage banner gif 2.gif
   - infobar:
       title: Follow Us
       description: All Our Socials in One Place
