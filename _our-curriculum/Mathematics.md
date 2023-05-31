@@ -14,7 +14,6 @@ In our classrooms, we focus on providing students with learning experiences that
 
 1. **Make Connections**
 
-
 <p style="font-size:20px"><strong>Key Programmes</strong></p>
 
 1\. <strong>Math E2K Programme</strong>
