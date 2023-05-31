@@ -13,6 +13,20 @@ In Townsville, the learning of Math takes into cognizance our learners’ profil
 In our classrooms, we focus on providing students with learning experiences that encompasses the use of the Gradual Release of Responsibility model (GRR). This is done through Explicit Direct Instruction (EDI) and Polya’s UPDC thinking tool to ensure our students’ holistic development.
 
 1. **Make Connections**
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Maths/maths%206.jpg"></td>
+		<td><img src="/images/Maths/maths%207.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Maths/maths%205.jpg"></td>
+    <td><img src="/images/Maths/maths%204.jpg"></td>
+  </tr>
+</tbody>
+</table>
+
 
 <p style="font-size:20px"><strong>Key Programmes</strong></p>
 
