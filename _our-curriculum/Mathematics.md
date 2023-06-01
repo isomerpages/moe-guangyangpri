@@ -37,12 +37,8 @@ Our teachers create opportunities and space for our Townsvillites to explore and
 <tbody>
   <tr>
     <td>
-			<img src="/images/Maths/maths%206.jpg"></td>
-		<td><img src="/images/Maths/maths%207.jpg"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/Maths/maths%205.jpg"></td>
-    <td><img src="/images/Maths/maths%204.jpg"></td>
+			<img src="/images/Maths/maths%208.jpg"></td>
+		<td><img src="/images/Maths/maths%209.jpg"></td>
   </tr>
 </tbody>
 </table>
