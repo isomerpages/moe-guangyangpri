@@ -31,9 +31,25 @@ In our classrooms, we focus on providing students with learning experiences that
 ![](/images/Maths/maths%201.jpg)
 Our teachers create opportunities and space for our Townsvillites to explore and discover the joy of learning. Our lessons are structured accordingly such that the CPA (Concrete to Pictorial to Abstract) Approach is used to develop mathematical concepts. Learning experiences are designed to deepen conceptual understanding and make Mathematics come alive in the day to day classroom.
 
-2. Making Thinking Visible
+2. **Making Thinking Visible**
 
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Maths/maths%206.jpg"></td>
+		<td><img src="/images/Maths/maths%207.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Maths/maths%205.jpg"></td>
+    <td><img src="/images/Maths/maths%204.jpg"></td>
+  </tr>
+</tbody>
+</table>
 
+To develop Townsvillites to become confident problem solvers and effective communicators, students are exposed to reasoning and communication tasks to enhance their knowledge of key mathematical concepts and competencies. Students will be given opportunities to discuss and express their thoughts and ideas in various forms. Teachers scaffold students’ learning through the use of&nbsp; mathematical language.&nbsp;
+
+Anchor tasks are designed to provide an opportunity to activate prior knowledge as it requires students to collaborate and ask questions of each other, and promotes an environment for students to productively struggle and persevere in problem solving.
 
 <p style="font-size:20px"><strong>Key Programmes</strong></p>
 
