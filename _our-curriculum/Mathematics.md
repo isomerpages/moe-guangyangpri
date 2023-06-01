@@ -27,6 +27,9 @@ In our classrooms, we focus on providing students with learning experiences that
 </tbody>
 </table>
 
+![](/images/Maths/maths%202.jpg)
+![](/images/Maths/maths%201.jpg)
+
 
 <p style="font-size:20px"><strong>Key Programmes</strong></p>
 
