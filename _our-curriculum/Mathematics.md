@@ -76,10 +76,34 @@ The E2K Mathematics Programme Singapore is a Mathematics enrichment programme fo
 </tbody>
 </table>
 
-The Financial Literacy Programme spans from term 1 to term 3, and aims to teach our students to be financially literate and to develop healthy financial habits. It believes that no child is too young to start becoming more financially aware, and they can begin to learn simple concept such as needs and wants as early as primary one. It is a level appropriate, spiral programme that equips them with financial literacy knowledge through bite sized information and engaging activities shared through multimodal platforms. We aim for all our Townsville students to graduate with a solid awareness of how to manage their money, and the importance of spending and saving.
+The Financial Literacy Programme spans from term 1 to term 3, and aims to teach our students to be financially literate and to develop healthy financial habits. It believes that no child is too young to start becoming more financially aware, and they can begin to learn simple concept such as needs and wants as early as primary one. It is a level appropriate, spiral programme that equips them with financial literacy knowledge through bite sized information and engaging activities shared through multimodal platforms. We aim for all our Townsville students to graduate with a solid awareness of how to manage their money, and the importance of spending and saving.upport for Mathematics (LSM) 
 
-3\. <strong>Learning Support for Mathematics (LSM) 
-	
-	Programme</strong>
-    
+3\. <strong>Learning Support for Mathematics (LSM) Programme</strong>
 
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Maths/maths%208.jpg"></td>
+		<td><img src="/images/Maths/maths%209.jpg"></td>
+  </tr>
+</tbody>
+</table>
+
+The LSM programme is an early intervention programme for Primary 1 and Primary 2 students who need additional support to acquire basic numeracy skills. Lessons are conducted in small-sized groups so that teachers can provide more customized lessons for the students.
+
+4\. <strong>‘Math Around Us’ Trails</strong>
+
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Maths/maths%208.jpg"></td>
+		<td><img src="/images/Maths/maths%209.jpg"></td>
+  </tr>
+</tbody>
+</table>
+
+The ‘Math Around Us’ Trails are designed to provide opportunities to appreciate mathematics and foster interest in mathematics using real-world examples. Mathematics underpin many aspects of everyday activities, from making sense of information around us to making informed decisions about personal finances. P1 to P5 students see the environment around them from a mathematical perspective where the crafted learning experiences aim to develop the thinking, reasoning, and communication of the explicit application of mathematical concepts and problem-solving skills learnt in the classrooms.
+
+	Programme
