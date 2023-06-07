@@ -12,7 +12,7 @@ In Townsville, the learning of Math takes into cognizance our learners’ profil
 
 In our classrooms, we focus on providing students with learning experiences that encompasses the use of the Gradual Release of Responsibility model (GRR). This is done through Explicit Direct Instruction (EDI) and Polya’s UPDC thinking tool to ensure our students’ holistic development.
 
-1. **Make Connections**
+<p style="font-size:15px">1. <strong>Make Connections</strong></p>
 <table>
 <tbody>
   <tr>
@@ -31,7 +31,7 @@ In our classrooms, we focus on providing students with learning experiences that
 ![](/images/Maths/maths%201.jpg)
 Our teachers create opportunities and space for our Townsvillites to explore and discover the joy of learning. Our lessons are structured accordingly such that the CPA (Concrete to Pictorial to Abstract) Approach is used to develop mathematical concepts. Learning experiences are designed to deepen conceptual understanding and make Mathematics come alive in the day to day classroom.
 
-2. **Making Thinking Visible**
+<p style="font-size:15px">2. <strong>Making Thinking Visible</strong></p>
 
 <table>
 <tbody>
@@ -50,17 +50,36 @@ Anchor tasks are designed to provide an opportunity to activate prior knowledge 
 <p style="font-size:20px"><strong>Key Programmes</strong></p>
 
 1\. <strong>Math E2K Programme</strong>
-    
 
-The E2K programme is an enrichment programme for selected Primary 4 and 5 students who demonstrate strong interest and ability in Mathematics. It aims to develop mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach.
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Maths/maths%208.jpg"></td>
+		<td><img src="/images/Maths/maths%209.jpg"></td>
+  </tr>
+</tbody>
+</table>
+
+The E2K Mathematics Programme Singapore is a Mathematics enrichment programme for selected Primary 4 and 5 pupils who demonstrate interest and ability in Mathematics. It aims to develop in pupils mathematical reasoning skills and deepen their conceptual understanding through an inquiry approach. Pupils will have opportunities to collaborate with their peers and engage in mathematical thinking through resources such as puzzles, games and mathematics explorations which are specially designed for the programme. The rich learning experiences offered by the programme serve to help pupils to develop the habits, attitudes and dispositions mathematicians possess, as well as to gain important 21st century competencies such as critical and inventive thinking and effective communication skills.
 
 
 2\. <strong>Financial Literacy Programme</strong>
     
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Maths/maths%208.jpg"></td>
+		<td><img src="/images/Maths/maths%209.jpg"></td>
+  </tr>
+</tbody>
+</table>
 
-&nbsp;The Financial Literacy Programme is held termly and aims to teach our students to be financially literate and to develop healthy financial habits. This is done by equipping them with financial literacy knowledge through bite sized information and engaging activities shared through multimodal platforms.
+The Financial Literacy Programme spans from term 1 to term 3, and aims to teach our students to be financially literate and to develop healthy financial habits. It believes that no child is too young to start becoming more financially aware, and they can begin to learn simple concept such as needs and wants as early as primary one. It is a level appropriate, spiral programme that equips them with financial literacy knowledge through bite sized information and engaging activities shared through multimodal platforms. We aim for all our Townsville students to graduate with a solid awareness of how to manage their money, and the importance of spending and saving.
 
-3\. <strong>Learning Support for Mathematics (LSM) Programme</strong>
+3\. <strong>Learning Support for Mathematics (LSM) 
+	
+	Programme</strong>
     
 
-The LSM programme is an early intervention programme for Primary 1 and Primary 2 students who need additional support to acquire basic numeracy skills. Lessons are conducted in small-sized groups so that teachers can provide more customized lessons for the students.
