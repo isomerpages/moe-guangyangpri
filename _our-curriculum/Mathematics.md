@@ -55,8 +55,8 @@ Anchor tasks are designed to provide an opportunity to activate prior knowledge 
 <tbody>
   <tr>
     <td>
-			<img src="/images/Maths/maths%208.jpg"></td>
-		<td><img src="/images/Maths/maths%209.jpg"></td>
+			<img src="/images/Maths/maths%2011.jpg"></td>
+		<td><img src="/images/Maths/maths%2013.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -70,8 +70,8 @@ The E2K Mathematics Programme Singapore is a Mathematics enrichment programme fo
 <tbody>
   <tr>
     <td>
-			<img src="/images/Maths/maths%208.jpg"></td>
-		<td><img src="/images/Maths/maths%209.jpg"></td>
+			<img src="/images/Maths/maths%2015.jpg"></td>
+		<td><img src="/images/Maths/maths%2018.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -84,8 +84,8 @@ The Financial Literacy Programme spans from term 1 to term 3, and aims to teach 
 <tbody>
   <tr>
     <td>
-			<img src="/images/Maths/maths%208.jpg"></td>
-		<td><img src="/images/Maths/maths%209.jpg"></td>
+			<img src="/images/Maths/maths%2021.jpg"></td>
+		<td><img src="/images/Maths/maths%2019.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -98,12 +98,10 @@ The LSM programme is an early intervention programme for Primary 1 and Primary 2
 <tbody>
   <tr>
     <td>
-			<img src="/images/Maths/maths%208.jpg"></td>
-		<td><img src="/images/Maths/maths%209.jpg"></td>
+			<img src="/images/Maths/maths%2024.jpg"></td>
+		<td><img src="/images/Maths/maths%2025.jpg"></td>
   </tr>
 </tbody>
 </table>
 
 The ‘Math Around Us’ Trails are designed to provide opportunities to appreciate mathematics and foster interest in mathematics using real-world examples. Mathematics underpin many aspects of everyday activities, from making sense of information around us to making informed decisions about personal finances. P1 to P5 students see the environment around them from a mathematical perspective where the crafted learning experiences aim to develop the thinking, reasoning, and communication of the explicit application of mathematical concepts and problem-solving skills learnt in the classrooms.
-
-	Programme
