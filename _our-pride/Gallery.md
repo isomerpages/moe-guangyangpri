@@ -7,6 +7,40 @@ description: ""
 
 <table>
 <tbody>
+	<tr>
+    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAHHu3" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20hari%20raya%20prize%20winners.png" style="width:100%"> Hari Raya Winners
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAHHor" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20english%20week.png" style="width:100%"> English Week
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAHDq8" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20charawd%20aspiration.png" style="width:100%"> Character Award Aspiration
+			</a>
+		</td>
+	</tr>
+	<tr>
+    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAHHnE" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20eco%20leader%20training.png" style="width:100%"> ECO Leaders Training
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAHJs4" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20p5%20camp.png" style="width:100%"> P5 Camp
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAHHn4" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20international%20friendship%20day.png" style="width:100%"> International Friendship Day
+			</a>
+		</td>
+  </tr>
   <tr>
     <td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHEb7" target="_blank" rel="noopener noreferrer">
