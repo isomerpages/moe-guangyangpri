@@ -5,29 +5,32 @@ description: ""
 ---
 <h3 style="text-align: center"> 2023 Gallery </h3>
 
-<hr><table>
+<table>
 <tbody>
   <tr>
     <td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjArwcQ" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:100%"> 1st Day of School 
+			<a href="https://flic.kr/s/aHBqjAHEb7" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20townsville%20investiture.png" style="width:100%"> Leaders in Townsville Investiture
 			</a>
 		</td>
 		<td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjArsUS" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/CNY%202023%20Gallery.png" style="width:100%"> CNY Celebration
+			<a href="https://flic.kr/s/aHBqjAHJqR" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20mtl%20forthnight.png" style="width:100%"> MTL Fortnight
 			</a>
 		</td>
 		<td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjAvHEx" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20TVPS%20Connects%20T1.png" style="width:100%"> TVPS Connects T1
+			<a href="https://flic.kr/s/aHBqjAHJmY" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20charawd%20diligence.png" style="width:100%"> Character Award Diligence
 			</a>
 		</td>
   </tr>
+</tbody>
+</table>
 
+<br>
+<hr><br><br>
 
-
-</tbody></table><table>
+<table>
 <tbody>
   <tr>
     <td style="text-align: center"> 
