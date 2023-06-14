@@ -5,7 +5,29 @@ description: ""
 ---
 <h3 style="text-align: center"> 2023 Gallery </h3>
 
-<table>
+<hr><table>
+<tbody>
+  <tr>
+    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjArwcQ" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/1st%20Day%20Gallery.png" style="width:100%"> 1st Day of School 
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjArsUS" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/CNY%202023%20Gallery.png" style="width:100%"> CNY Celebration
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAvHEx" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20TVPS%20Connects%20T1.png" style="width:100%"> TVPS Connects T1
+			</a>
+		</td>
+  </tr>
+
+
+
+</tbody></table><table>
 <tbody>
   <tr>
     <td style="text-align: center"> 
