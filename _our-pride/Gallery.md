@@ -9,6 +9,30 @@ description: ""
 <tbody>
 	<tr>
     <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAHDFZ" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20project%20sparkle%20term%202.png" style="width:100%"> Project Sparkle Term 2
+			</a>
+		</td>
+	</tr>
+	<tr>
+    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAHJEU" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20choir%20choral%20exchange.png" style="width:100%"> Choir Choral Exchange
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAHJEt" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20mtl%20culture%20camp.png" style="width:100%"> P4 MTL Culture Camp
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjAHHwN" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/2023%20charawd%20respect.png" style="width:100%"> Character Award Respect
+			</a>
+		</td>
+	</tr>
+	<tr>
+    <td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHHu3" target="_blank" rel="noopener noreferrer">
 				<img src="/images/Gallery/2023%20hari%20raya%20prize%20winners.png" style="width:100%"> Hari Raya Winners
 			</a>
