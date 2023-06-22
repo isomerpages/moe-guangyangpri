@@ -3,8 +3,6 @@ title: Our School Song
 permalink: /our-school/our-school-song/
 description: ""
 ---
-
-
 <p></p><center><h4>We Dare</h4>
 We begin, here in Townsville,<br>
 to learn and to share.<br>
@@ -42,4 +40,5 @@ and we dare to achieve.
 We dare because<br>
 we believe.
 
-[Listen](https://youtu.be/jvVkOvo2n90) to the song  </center><p></p>
+<a href="https://youtu.be/jvVkOvo2n90" target="_blank" rel="noopener noreferrer">
+Listen </a> to the song here.</center>
