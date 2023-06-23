@@ -15,4 +15,4 @@ third_nav_title: For Parents
 <img src="/images/Calendar/2023%20tvps%20sem%202%20school%20calendar%20nov.jpg"><br>
 <img src="/images/Calendar/2023%20tvps%20sem%202%20school%20calendar%20dec.jpg"><br>
 
-To view the whole calendar, click [here](/files/Calendar/2023%20TVPS%20School%20Calendar%20From%20Term%202%20onwards%20(For%20Parents)%20(170323).pdf)
+To view the whole calendar, click [here]([](/files/Calendar/2023%20tvps%20sem%202%20school%20calendar_final%20(230623)%20for%20parents.pdf))
