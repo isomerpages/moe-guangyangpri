@@ -27,7 +27,16 @@ Through the implementation of this syllabus, the Science Department aims to:
     
 The E2K Science Programme for the Primary 4s and 5s offers selected students with the opportunities to engage in scientific investigations to help deepen their understanding of science concepts through an inquiry approach. These experiments help to develop resilience and problem-solving skills through trials and errors.&nbsp;
 
-
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src=""></td>
+		<td><img src="/images/English/english7.jpg"></td>
+		<td><img src="/images/English/english7.jpg"></td>
+  </tr>
+</tbody>
+</table>
 
 	2.  <strong>Learning Experiences</strong>
 	
