@@ -76,7 +76,19 @@ Vocabulary lessons in Townsville expose our children to structured play in stren
 
 Our theme for English week this year is EngAGE 2023 - English Activity and Games Extravaganza 2023. From board games such as chess to online games like Minecraft, our students and teachers came dressed as games or game characters.&nbsp;
 
-
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Maths/maths%206.jpg"></td>
+		<td><img src="/images/Maths/maths%207.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="/images/Maths/maths%205.jpg"></td>
+    <td><img src="/images/Maths/maths%204.jpg"></td>
+  </tr>
+</tbody>
+</table>
 
   
   
@@ -94,4 +106,3 @@ A learning journey to the zoo is part of their English, Social Studies, and PAL 
 Our Head of English Department, Madam Shanthi Deenathayalan, was featured in the Straits Times. She shares some tips on how to improve vocabulary and comprehension skills. She also mentions the importance of making reading a habit for life!
 
 [https://www.straitstimes.com/singapore/parenting-education/psle-preparation-how-to-help-your-child-get-the-most-out-of-revision-in-june](https://www.straitstimes.com/singapore/parenting-education/psle-preparation-how-to-help-your-child-get-the-most-out-of-revision-in-june)
-
