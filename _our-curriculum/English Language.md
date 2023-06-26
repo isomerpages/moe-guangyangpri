@@ -41,7 +41,7 @@ SDR is a two year intervention programme for Primary 3 and 4 students who are id
 
 The Reading Remediation Programme is aimed at supporting P3 and P4 students who face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme enables students to master word recognition and spelling strategies. It also exposes them to a range of strategies for reading comprehension which will enable them to better manage their daily learning.
 
-<strong>Programmes</strong>
+<p style="font-size:20px"><strong>Programmes</strong></p>
 
 <strong>English Language Talent Superstar (ELTS)</strong>
 
@@ -80,26 +80,32 @@ Our theme for English week this year is EngAGE 2023 - English Activity and Games
 <tbody>
   <tr>
     <td>
-			<img src="/images/Maths/maths%206.jpg"></td>
-		<td><img src="/images/Maths/maths%207.jpg"></td>
+			<img src="/images/English/english1.png"></td>
+		<td><img src="/images/English/english2.png"></td>
   </tr>
   <tr>
-    <td><img src="/images/Maths/maths%205.jpg"></td>
-    <td><img src="/images/Maths/maths%204.jpg"></td>
+    <td><img src="/images/English/english3.png"></td>
+    <td><img src="/images/English/english4.png"></td>
+  </tr>
+	<tr>
+    <td><img src="/images/English/english5.png"></td>
   </tr>
 </tbody>
 </table>
-
-  
-  
 
 <strong>Learning Journey to the Zoo</strong>
 
 A learning journey to the zoo is part of their English, Social Studies, and PAL Outdoor Learning curriculum. Students gain valuable knowledge about the various animal species they observe during the excursion. Students also learn the importance of empathy towards animals and the significance of preserving our invaluable wildlife resources!
 
-![](https://lh3.googleusercontent.com/7Brx93Nq9rlleliYruYRowYeETtfXLhmn0FsQJqUAO7bMYmWk40YOUsnZUfAb2sTgoFKWOtRqD8-J8XKr76nSQSrHQWwtWYc80ruUw1e6Cx4CB2hAkzOw_ZznirvcBw_bzmGrSesx-M8-4KQd60k4Tk)
-
-![](https://lh3.googleusercontent.com/GBmej7KwR-3V7HMkqhykPu0qFceub-neL3HyGJtbkVYlKhcW98MdWuCbB7OOtUhJ8_jS7nasPGBfkdeJxngwCNwknSSvQgxvWwoDehMTKgbI9ymbrt2Vtb8Xa0N_np0_D5njbteeLPW5L6ktM69ruYo)
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/English/english6.png"></td>
+		<td><img src="/images/English/english7.jpg"></td>
+  </tr>
+</tbody>
+</table>
 
 <strong>Feature for Straits Times</strong>
 
