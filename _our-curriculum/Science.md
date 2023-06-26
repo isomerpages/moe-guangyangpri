@@ -31,60 +31,50 @@ The E2K Science Programme for the Primary 4s and 5s offers selected students wit
 <tbody>
   <tr>
     <td>
-			<img src=""></td>
-		<td><img src="/images/English/english7.jpg"></td>
-		<td><img src="/images/English/english7.jpg"></td>
+			<img src="/images/Science/science1.jpg"></td>
+		<td><img src="/images/Science/science2.jpg"></td>
+		<td><img src="/images/Science/science3.jpg"></td>
   </tr>
 </tbody>
 </table>
 
 2.  <strong>Learning Experiences</strong>
 	
-The programme aims to help deepen our students' understanding of Science concepts through our daily lives through fun and engaging activities.![](https://lh6.googleusercontent.com/d40ZCkjEs_xeEsd4SA29LHTwDrH7kixLIOseaAduRknysHgobWfiA37S8dTPlJVFsQRdsszy3D72RsHnPGRdyPYtkAH_KZuHe0rs-OICrYgzTSxiKYJ9moq_mPqZ6W-hbgK0yTuQhdSYWDLRZ4mLM1M)
+The programme aims to help deepen our students' understanding of Science concepts through our daily lives through fun and engaging activities.
 
-  
-![](https://lh4.googleusercontent.com/HGZsW3sdvFtzArs9dplSVRzOk2Sqa-rQ6fJw_bvE6_LeCl3SUE0_3vHhP9mfOqOOmixjYRa1nXcuFil2tycH9TABQITF_meQBzf7cQJURVH9fe1Uldsl9WHvgVx1el7vXyXJTguL_j9BPG9x5r2xSUw)![](https://lh6.googleusercontent.com/IDEUYO08J9ortEp4Z6nx65egru6pBwEaTpZGzI51FBVlqXmwgaB2rhBPUNHmWxtZNnGvDbpisF7jwBqiVNd4b5lwG2ELBfFYNupn59lnMYPPA0ghLV5jPam5JTDK4MLlm2FDntYtd0iTBKLG1gPI8Hc)
-
-  
-
-  
-
-  
-![](https://lh5.googleusercontent.com/h7A4F68UPFSRHM4Th8pGyFcUdmPZjgiKULGe00j-ORI8ZvtOa1T93mFhLMzcLdLxQ2zFnGLXyGi-l5nbyb_xT6o-201Z0_vGKajM3EPq5UgY5Br0pXQPL1y5xBaPPklBXMx51mrEErGolo8rNMQYHpM)
-
-  
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="296"></colgroup><tbody><tr style="height:96pt"><td style="border-left:solid #ffffff 1pt;border-right:solid #ffffff 1pt;border-bottom:solid #ffffff 1pt;border-top:solid #ffffff 1pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Primary 3</span></p><p style="line-height:1.2;text-align: justify;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Students grew mushrooms in various parts of the classrooms. They discovered that mushrooms needed&nbsp; certain conditions for them to grow well. They saw how mushrooms disperse their spores and reproduce. These helped to deepen students' understanding of what fungi need to grow.</span></p></td></tr></tbody></table>
-
-  
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Science/science4.jpg"></td>
+		<td><img src="/images/Science/science5.jpg"></td>
+		<td><img src="/images/Science/science6.jpg"></td>
+		<td><img src="/images/Science/science7.jpg"></td>
+  </tr>
+</tbody>
+</table>
 
   
 
-  
+<strong>Primary 3</strong><br>
+Students grew mushrooms in various parts of the classrooms. They discovered that mushrooms needed&nbsp; certain conditions for them to grow well. They saw how mushrooms disperse their spores and reproduce. These helped to deepen students' understanding of what fungi need to grow.  
 
-  
+<strong>Primary 4</strong><br>
+Students tried making their own ice-cream to help them see the effect of how milk loses heat to become a solid!!
 
-  
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Science/science4.jpg"></td>
+		<td><img src="/images/Science/science5.jpg"></td>
+		<td><img src="/images/Science/science6.jpg"></td>
+		<td><img src="/images/Science/science7.jpg"></td>
+  </tr>
+</tbody>
+</table>
 
-Primary 4
-
-  
-
-Students tried making their own ice-cream to help them see the effect of how milk loses heat to become a solid!![](https://lh3.googleusercontent.com/eOdhhVrliPgH_gQ6f9nXUEvs2x0sya95alslOv1jzw7L5gDsQshV1b7BqyIJYdXD1N1CSb0HBl97nFynhN4ux-QTv1cKn8_Eniwk2oW8O1llf8rv7zrhEbzjJMbbzu3SPoiL8cd3Am7eQqPyvNHMumY)
-
-  
-![](https://lh5.googleusercontent.com/IpJ6dLvKlwu5Sv_f4tEd_-MuWNF2NxmGsC0MNyclY-5lUJv9bCIukn4-VO3ALKcQCM6OH7XVvNmAyar5rRkV2K3IcI1FadM0YX9k6PbBA4m8khXx8-EoI_ANcKkpghRvVOp_C-kbGnGGCVfS5Hk01oc)![](https://lh6.googleusercontent.com/9zusMASRUyvWSMgnclCJA87d7W4r7zPxtMbM8vVSS2wHorOeyzkwFeOOUWAdthOxdoeCBPipWI2IeaHHfDcnBBGFkfF6Cw_eJUdlL_9vIzfrBvr-u8oMlKgoe_I4W4kbS42wKWfy3P_6FMhmnzzStAY)![](https://lh5.googleusercontent.com/RXEkq27Fc4bvoIxl0uy3kfPvoqVyvEC_Gfw0v4dF6u6ybzseCA763OjR4_E2-WplpbHEuRZDeA8rUM2YAaDW-n9GwdxsKI12cbKgph0NzLiZbrRN09NgmKP6XDFyu3iYhx_EWmmySgUrLPwIEkoGHoQ)
-
-  
-
-  
-
-  
-
-  
-
-Primary 5
-
+<strong>Primary 5</strong>
   
 ![](https://lh5.googleusercontent.com/n7-yhNn86x6CAPDfhboGX0v-mMADNRxeQ42KtDB83qR99FB1oYOolHxHWuf5LnnvF-dg5ncu3r8lf9wlk89DydD2qyxa90x59LQIKwcoWNUGPRIJnmyE6lzXyJGkBVSB21HGGoX_q-0yZ1BsY4thUow)
 
