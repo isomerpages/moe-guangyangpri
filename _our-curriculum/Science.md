@@ -38,7 +38,7 @@ The E2K Science Programme for the Primary 4s and 5s offers selected students wit
 </tbody>
 </table>
 
-	2.  <strong>Learning Experiences</strong>
+2.  <strong>Learning Experiences</strong>
 	
 The programme aims to help deepen our students' understanding of Science concepts through our daily lives through fun and engaging activities.![](https://lh6.googleusercontent.com/d40ZCkjEs_xeEsd4SA29LHTwDrH7kixLIOseaAduRknysHgobWfiA37S8dTPlJVFsQRdsszy3D72RsHnPGRdyPYtkAH_KZuHe0rs-OICrYgzTSxiKYJ9moq_mPqZ6W-hbgK0yTuQhdSYWDLRZ4mLM1M)
 
