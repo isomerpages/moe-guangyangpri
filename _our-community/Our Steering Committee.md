@@ -8,9 +8,8 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/School%20Leaders/Eddie%20Foo5.jpg"></td>
-    <td>Mr Eddie Foo</td>
-    <td>Principal</td>
+    <td><img src="/images/School%20Leaders/mr%20eddie%20foo.jpg"></td>
+		<td><img src=""></td>
   </tr>
   <tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Lynette%20Fernandez2.jpg"></td>
