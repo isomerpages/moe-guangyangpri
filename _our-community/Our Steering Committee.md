@@ -9,7 +9,7 @@ description: ""
 <tbody>
   <tr>
     <td><img src="/images/School%20Leaders/mr%20eddie%20foo.jpg"></td>
-		<td><img src=""></td>
+		<td><img src="/images/School%20Leaders/ms%20lynette%20fernandez.jpg"></td>
   </tr>
   <tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Lynette%20Fernandez2.jpg"></td>
