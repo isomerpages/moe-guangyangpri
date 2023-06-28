@@ -12,19 +12,8 @@ description: ""
 		<td><img src="/images/School%20Leaders/ms%20lynette%20fernandez.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Lynette%20Fernandez2.jpg"></td>
-    <td>Ms Lynette Fernandez</td>
-    <td>Vice-Principal Education (VPE)</td>
-  </tr>
-  <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Sunny%20Ho.jpeg"></td>
-    <td>Mr Sunny Ho</td>
-    <td>Vice-Principal Education (VPE)</td>
-  </tr>
-  <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Martin%20Velan%20Anthony.jpeg"></td>
-    <td>Mr Martin Velan Anthony</td>
-    <td>Vice-Principal Administration (VPA)</td>
+    <td><img src="/images/School%20Leaders/mr%20sunny%20ho.jpg"></td>
+    <td><img src="/images/School%20Leaders/mr%20martin%20velan%20anthony.jpg"></td>
   </tr>
 </tbody>
 </table>
