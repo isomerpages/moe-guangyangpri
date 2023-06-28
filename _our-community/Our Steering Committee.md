@@ -23,34 +23,28 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Ms%20Ong%20Chor%20Meng%20(HOD%20Curriculum)2.jpg"></td>
+    <td><img src=""></td>
     <td>Ms Ong Chor Meng</td>
-    <td>HOD Curriculum</td>
   </tr>
   <tr>
     <td><img style="width:113px;height:150" src="/images/Teaching%20Staff/Shanthi%20Deenathayalan.jpeg"></td>
     <td>Ms Shanthi Deenathayalan</td>
-    <td>HOD English language</td>
   </tr>
   <tr>
     <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mdm%20Lye%20Choon%20Hwan%20(HOD%20MT)2.jpg"></td>
     <td>Mdm Lye Choon Hwan</td>
-    <td>HOD Mother Tongue Languages (MTL)</td>
   </tr>
   <tr>
 		<td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Lee%20Peck%20Har%20(HOD%20Math)2.jpg"></td>
 		<td>Mrs Lee Peck Har</td>
-    <td>HOD Maths</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:151" src="/images/Teaching%20Staff/Rachel%20Long.jpeg"></td>
     <td>Mrs Rachel Long</td>
-    <td>HOD Science</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Lee%20Boon%20Haw%20Jeremy.jpeg"></td>
     <td>Mr Jeremy Lee Boon Haw</td>
-    <td>HOD Infocomm Technology (ICT)</td>
   </tr>
 	<tr>
     <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mrs%20Madhavi%20Chandramohan%20(LH%20TL)2.jpg"></td>
