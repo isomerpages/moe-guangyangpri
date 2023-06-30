@@ -23,18 +23,18 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img src="/images/Teaching%20Staff/2023_ms%20ong%20chor%20meng.jpg"></td> <td><img src="">
+    <td><img src="/images/Teaching%20Staff/2023_ms%20ong%20chor%20meng.jpg"></td> <td><img src="/images/Teaching%20Staff/2023_mdm%20shanthi%20deenathayalan.jpg">
   </td></tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Shanthi%20Deenathayalan.jpeg" style="width:113px;height:150"></td>
-    <td>Ms Shanthi Deenathayalan</td>
+    <td><img src="/images/Teaching%20Staff/2023_mdm%20lye%20choon%20hwan-final.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20lee%20peck%20har-final.jpg"></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Mdm%20Lye%20Choon%20Hwan%20(HOD%20MT)2.jpg" style="width:113px; height:150"></td>
-    <td>Mdm Lye Choon Hwan</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20rachel%20long.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20rachel%20long.jpg"></td>
   </tr>
   <tr>
-		<td><img src="/images/Teaching%20Staff/Mrs%20Lee%20Peck%20Har%20(HOD%20Math)2.jpg" style="width:113px; height:150"></td>
+		<td><img src="/images/Teaching%20Staff/Mrs%20Lee%20Peck%20Har%20(HOD%20Math)2.jpg"></td>
 		<td>Mrs Lee Peck Har</td>
   </tr>
 	<tr>
