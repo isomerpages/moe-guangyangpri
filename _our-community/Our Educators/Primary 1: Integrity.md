@@ -4,7 +4,6 @@ permalink: /our-community/Our-Educators/Primary-1-integrity/
 description: ""
 third_nav_title: Our Educators
 ---
-
 <table>
 <thead>
   <tr>
@@ -13,27 +12,23 @@ third_nav_title: Our Educators
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Andrew%20Leung.jpeg" style="width:113px; height:150"></td>
-    <td>Mr Andrew Leung</td>
-    <td><img src="/images/Teaching%20Staff/Mdm%20Chan%20Fei%20Kuan2.jpg" style="width:113px; height:150"> </td>
-    <td>Mdm Chan Fei Kuan</td>
+    <td><img src="/images/Teaching%20Staff/2023_mr%20andrew%20leung.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mdm%20chan%20fei%20kuan.jpg"> </td>
   </tr>
   <tr>
     <td colspan="4"><center><b>Integrity 2</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Mr%20Tan%20Yong%20Zu2.jpg" style="width:113px; height:150"> </td>
-    <td>Mr Tan Yong Zu</td>
-    <td><img src="/images/Teaching%20Staff/Chua%20Xingxuan.jpeg" style="width:113px; height:150"> </td>
-    <td>Mdm Chua Xingxuan</td>
+    <td><img src="/images/Teaching%20Staff/2023_mr%20tan%20yong%20zu.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mdm%20chua%20xingxuan.jpg"></td>
   </tr>
   <tr>
     <td colspan="4"><center><b>Integrity 3</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Lim%20Siew%20Hua.jpeg" style="width:113px; height:150"> </td>
+    <td><img src=""> </td>
     <td>Mdm Lim Siew Hua</td>
-    <td><img src="/images/Teaching%20Staff/Ms%20Koh%20Shiew%20Ling2.jpg" style="width:113px; height:150"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20koh%20shiew%20ling.jpg"> </td>
     <td>Ms Koh Shiew Ling</td>
   </tr>
   <tr>
