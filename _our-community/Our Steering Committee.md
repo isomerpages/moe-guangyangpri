@@ -74,7 +74,6 @@ description: ""
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_ms%20toh%20xiao%20ting.jpg"></td>
-    <td><img src="/images/Teaching%20Staff/2023_ms%20toh%20xiao%20ting.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -84,39 +83,19 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Lek%20Seok%20Buay%20(SSD)2.jpg" style="width:113px; height:150"></td>
-    <td>Ms Cheh Seok Buay</td>
-    <td>School Staff Developer (SSD)</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20lek%20seok%20buay.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20s%20nirmala-final.jpg"></td>
   </tr>
 	<tr>
-    <td><img src="/images/Teaching%20Staff/S%20Nirmala%20Devi%20Santhanasamy.jpeg" style="width:113px; height:150"></td>
-    <td>Mrs S Nirmala Devi</td>
-    <td>Lead Teacher(LT) Science</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20usha%20surendran-final.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mdm%20aidah%20binte%20hosni.jpg"></td>
   </tr>
 	<tr>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Usha%20Surendran%20(LT)2.jpg" style="width:113px; height:150"></td>
-    <td>Mrs Usha Surendran</td>
-    <td>Lead Teacher(LT) Special Education Needs</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20latha%20joseph.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20florence%20chia.jpg"></td>
   </tr>
 	<tr>
-    <td><img src="/images/Teaching%20Staff/Aidah%20Hosni.jpeg" style="width:113px; height:150"></td>
-    <td>Mdm Aidah Hosni</td>
-    <td>Senior Teacher(ST) Malay Language</td>
-  </tr>
-	<tr>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Latha%20Joseph%20(ST%20TL)2.jpg" style="width:113px; height:150"></td>
-    <td>Mrs Latha Joseph</td>
-    <td>Senior Teacher(ST) Tamil Language</td>
-  </tr>
-	<tr>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Chia%20Poh%20Kwang%20Florence%20(ST%20CL)2.jpg" style="width:113px; height:150"></td>
-    <td>Mrs Florence Chia</td>
-    <td>Senior Teacher(ST) Chinese Language</td>
-  </tr>
-	<tr>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Theresa%20Wong%20(ST%20Math)2.jpg" style="width:113px; height:150"></td>
-    <td>Mrs Theresa Wong</td>
-    <td>Senior Teacher(ST) Maths</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20theresa%20wong-final.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -126,24 +105,13 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img src="/images/EAS%20Staff/Nancy.jpg" style="width:113px; height:150"></td>
-    <td>Mdm Nancy Koh Mei Chin</td>
-    <td>Administrative Manager (AM)</td>
+    <td><img src="/images/EAS%20Staff/2023_mdm%20nancy%20koh%20mei%20chin.jpg"></td>
+    <td><img src="/images/EAS%20Staff/2023_ms%20candy%20heng%20cheng%20peng.jpg"></td>
   </tr>
   <tr>
-    <td><img src="/images/EAS%20Staff/Ms%20Heng%20Cheng%20Peng2.jpg" alt="Image" style="width:113px;height:150"></td>
-    <td>Mdm Candy Heng Cheng Peng</td>
-    <td>Administrative Manager (AM)</td>
+    <td><img src="/images/EAS%20Staff/2023_mr%20mohammad%20zhafrie%20bin%20jalil-final.jpg"></td>
+    <td><img src="/images/EAS%20Staff/2023_mr%20lau%20cheng%20nam.jpg"></td>
   </tr>
-  <tr>
-    <td><img src="/images/EAS%20Staff/Mohammad%20Zhafrie%20Bin%20Jalil.jpeg" alt="Image" style="width:113px; height:150"></td>
-    <td>Mr Mohammad Zhafrie Bin Jalil</td>
-    <td>Operations Manager (OM)</td>
-  </tr>
-  <tr>
-    <td><img src="/images/EAS%20Staff/Lau%20Cheng%20Nam.jpeg" alt="Image" style="width:113px; height:150"></td>
-    <td>Mr Lau Cheng Nam</td>
-    <td>Operations Manager (OM)</td>
-  </tr>
+
 </tbody>
 </table>
