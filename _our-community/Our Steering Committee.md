@@ -8,24 +8,12 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/School%20Leaders/Eddie%20Foo5.jpg"></td>
-    <td>Mr Eddie Foo</td>
-    <td>Principal</td>
+    <td><img src="/images/School%20Leaders/mr%20eddie%20foo.jpg"></td>
+		<td><img src="/images/School%20Leaders/ms%20lynette%20fernandez.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Lynette%20Fernandez2.jpg"></td>
-    <td>Ms Lynette Fernandez</td>
-    <td>Vice-Principal Education (VPE)</td>
-  </tr>
-  <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Sunny%20Ho.jpeg"></td>
-    <td>Mr Sunny Ho</td>
-    <td>Vice-Principal Education (VPE)</td>
-  </tr>
-  <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/School%20Leaders/Martin%20Velan%20Anthony.jpeg"></td>
-    <td>Mr Martin Velan Anthony</td>
-    <td>Vice-Principal Administration (VPA)</td>
+    <td><img src="/images/School%20Leaders/mr%20sunny%20ho.jpg"></td>
+    <td><img src="/images/School%20Leaders/mr%20martin%20velan%20anthony.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -35,65 +23,28 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Ms%20Ong%20Chor%20Meng%20(HOD%20Curriculum)2.jpg"></td>
-    <td>Ms Ong Chor Meng</td>
-    <td>HOD Curriculum</td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20ong%20chor%20meng.jpg"></td> <td><img src="/images/Teaching%20Staff/2023_mdm%20shanthi%20deenathayalan.jpg">
+  </td></tr>
+  <tr>
+    <td><img src="/images/Teaching%20Staff/2023_mdm%20lye%20choon%20hwan-final.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20lee%20peck%20har-final.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px;height:150" src="/images/Teaching%20Staff/Shanthi%20Deenathayalan.jpeg"></td>
-    <td>Ms Shanthi Deenathayalan</td>
-    <td>HOD English language</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20rachel%20long.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mr%20jeremy%20lee-final.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mdm%20Lye%20Choon%20Hwan%20(HOD%20MT)2.jpg"></td>
-    <td>Mdm Lye Choon Hwan</td>
-    <td>HOD Mother Tongue Languages (MTL)</td>
-  </tr>
-  <tr>
-		<td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Lee%20Peck%20Har%20(HOD%20Math)2.jpg"></td>
-		<td>Mrs Lee Peck Har</td>
-    <td>HOD Maths</td>
+		<td><img src="/images/Teaching%20Staff/2023_ms%20madhavi%20chandramohan.jpg"></td>
+		<td><img src="/images/Teaching%20Staff/2023_mr%20vemalan%20s_o%20elangovan.jpg"></td>
   </tr>
 	<tr>
-    <td><img style="width:113px; height:151" src="/images/Teaching%20Staff/Rachel%20Long.jpeg"></td>
-    <td>Mrs Rachel Long</td>
-    <td>HOD Science</td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20felicia%20ong.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mdm%20shireen%20chong.jpg"></td>
   </tr>
 	<tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Lee%20Boon%20Haw%20Jeremy.jpeg"></td>
-    <td>Mr Jeremy Lee Boon Haw</td>
-    <td>HOD Infocomm Technology (ICT)</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20pearl%20phua-final.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20pamela%20chan.jpg"></td>
   </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mrs%20Madhavi%20Chandramohan%20(LH%20TL)2.jpg"></td>
-    <td>Mrs Madhavi Chandramohan</td>
-    <td>Subject Head (SH) Malay Language &amp; Tamil Language</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Vemalan%20SO%20Elangovan.jpeg"></td>
-    <td>Mr Vemalan S/O Elangovan</td>
-    <td>Subject Head(SH) National Education &amp; Social Studies</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Ms%20Felicia%20Ong%20(LH%20EL%20Internal)2.jpg"></td>
-    <td>Ms Felicia Ong</td>
-    <td>Level Head(LH) English Language</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mdm%20Shireen%20Chong%20(LH%20CL)2.jpg"></td>
-    <td>Ms Shireen Chong Hui Ling</td>
-    <td>Level Head(LH) Chinese Language</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Ms%20Pearl%20Ang%20(LH%20Math)2.jpg"></td>
-    <td>Mrs Pearl Phua</td>
-    <td>Level Head(LH) Maths</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Ms%20Pamela%20Pei%20(LH%20Science)2.jpg"></td>
-    <td>Mrs Pamela Chan</td>
-    <td>Level Head(LH) Science</td>
-  </tr>	
 </tbody>
 </table>
 
@@ -102,64 +53,27 @@ description: ""
 <table>
 <tbody>
 	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Johnson%20Chee%20John%20Son.jpeg"></td>
-    <td>Mr Johnson Chee John Son</td>
-    <td>HOD Physical Education, Art &amp; Music (PAM) &amp; Co-Curricular Activities (CCA)</td>
+    <td><img src="/images/Teaching%20Staff/2023_mr%20johnson%20chee.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20brindha%20sankar-final.jpg"></td>
   </tr>
 	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Brindha%20Sankar.jpeg"></td>
-    <td>Ms Brindha Sankar</td>
-    <td>HOD Character &amp; Citizenship Education (CCE)</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20debbie%20lau.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20cheah-loo%20yin%20hui.jpg"></td>
 	</tr>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Debbie%20Lau%20(Year%20Head)2.jpg"></td>
-    <td>Mrs Debbie Lau</td>
-    <td>Year Head(YH) Lower Primary</td>
+    <td><img src="/images/Teaching%20Staff/2023_mr%20muhammad%20bin%20ali.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mr%20joe%20choo-final.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px;height:150" alt="Image" src="/images/Teaching%20Staff/Muhammad%20Bin%20Ali.jpeg"></td>
-    <td>Mr Muhammad Bin Ali</td>
-    <td>Year Head(YH) Middle Primary</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20premila%20onyekachi.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20lim-chew%20hua%20jie.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mrs%20Premila%20Onyekachi%20(Year%20Head)2.jpg"></td>
-    <td>Mrs Premila Onyekachi</td>
-    <td>Year Head(YH) Upper Primary</td>
+    <td><img src="/images/Teaching%20Staff/2023_mdm%20suzana%20bte%20suah.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mr%20vincent%20poh.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mr%20Joe%20Choo%20(AYH)2.jpg"></td>
-    <td>Mr Joe Choo</td>
-    <td>Assistant Year Head(AYH)</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Cheah-Loo%20Yin%20Hui.jpeg"></td>
-    <td>Mrs Cheah-Loo Yin Hui</td>
-    <td>Assistant Year Head(AYH)</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Lim-Chew%20Hua%20Jie.jpeg"></td>
-    <td>Mrs Lim-Chew Hua Jie</td>
-    <td>Assistant Year Head(AYH)</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mdm%20Suzana%20Suah%20(SH%20CCE)2.jpg"></td>
-    <td>Mdm Suzana Su'ah</td>
-    <td>Subject Head(SH) Character and Citizenship Education</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mr%20Vincent%20Poh%20(SH%20Student%20Mgmt)2.jpg"></td>
-    <td>Mr Vincent Poh</td>
-    <td>Subject Head(SH) Student Management</td>
-  </tr>
-	<tr>
-		<td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Mr%20Shane%20Quek%20(SH%20PE)2.jpg">
-    </td><td>Mr Shane Quek</td>
-    <td>Subject Head(SH) PE</td>
-  </tr>
-	<tr>
-		<td><img style="width:113px; height:150" alt="Image" src="/images/Teaching%20Staff/Ms%20Toh%20Xiao%20Ting2.jpg">
-    </td><td>Toh Xiao Ting</td>
-    <td>Subject Head(SH) Aesthetics</td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20toh%20xiao%20ting.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -169,39 +83,19 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Lek%20Seok%20Buay%20(SSD)2.jpg"></td>
-    <td>Ms Cheh Seok Buay</td>
-    <td>School Staff Developer (SSD)</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20lek%20seok%20buay.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20s%20nirmala-final.jpg"></td>
   </tr>
 	<tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/S%20Nirmala%20Devi%20Santhanasamy.jpeg"></td>
-    <td>Mrs S Nirmala Devi</td>
-    <td>Lead Teacher(LT) Science</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20usha%20surendran-final.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mdm%20aidah%20binte%20hosni.jpg"></td>
   </tr>
 	<tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Usha%20Surendran%20(LT)2.jpg"></td>
-    <td>Mrs Usha Surendran</td>
-    <td>Lead Teacher(LT) Special Education Needs</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20latha%20joseph.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20florence%20chia.jpg"></td>
   </tr>
 	<tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Aidah%20Hosni.jpeg"></td>
-    <td>Mdm Aidah Hosni</td>
-    <td>Senior Teacher(ST) Malay Language</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Latha%20Joseph%20(ST%20TL)2.jpg"></td>
-    <td>Mrs Latha Joseph</td>
-    <td>Senior Teacher(ST) Tamil Language</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Chia%20Poh%20Kwang%20Florence%20(ST%20CL)2.jpg"></td>
-    <td>Mrs Florence Chia</td>
-    <td>Senior Teacher(ST) Chinese Language</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Theresa%20Wong%20(ST%20Math)2.jpg"></td>
-    <td>Mrs Theresa Wong</td>
-    <td>Senior Teacher(ST) Maths</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20theresa%20wong-final.jpg"></td>
   </tr>
 </tbody>
 </table>
@@ -211,24 +105,13 @@ description: ""
 <table>
 <tbody>
   <tr>
-    <td><img style="width:113px; height:150" src="/images/EAS%20Staff/Nancy.jpg"></td>
-    <td>Mdm Nancy Koh Mei Chin</td>
-    <td>Administrative Manager (AM)</td>
+    <td><img src="/images/EAS%20Staff/2023_mdm%20nancy%20koh%20mei%20chin.jpg"></td>
+    <td><img src="/images/EAS%20Staff/2023_ms%20candy%20heng%20cheng%20peng.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px;height:150" alt="Image" src="/images/EAS%20Staff/Ms%20Heng%20Cheng%20Peng2.jpg"></td>
-    <td>Mdm Candy Heng Cheng Peng</td>
-    <td>Administrative Manager (AM)</td>
+    <td><img src="/images/EAS%20Staff/2023_mr%20mohammad%20zhafrie%20bin%20jalil-final.jpg"></td>
+    <td><img src="/images/EAS%20Staff/2023_mr%20lau%20cheng%20nam.jpg"></td>
   </tr>
-  <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/EAS%20Staff/Mohammad%20Zhafrie%20Bin%20Jalil.jpeg"></td>
-    <td>Mr Mohammad Zhafrie Bin Jalil</td>
-    <td>Operations Manager (OM)</td>
-  </tr>
-  <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/EAS%20Staff/Lau%20Cheng%20Nam.jpeg"></td>
-    <td>Mr Lau Cheng Nam</td>
-    <td>Operations Manager (OM)</td>
-  </tr>
+
 </tbody>
 </table>
