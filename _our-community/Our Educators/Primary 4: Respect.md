@@ -35,8 +35,7 @@ third_nav_title: Our Educators
   </tr>
   <tr>
     <td> <img src="/images/Teaching%20Staff/2023_mr%20rajinikanth%20naidu.jpg></td>
-    <td><img src="> </td>
-    <td>Ms Leng Han</td>
+    <td><img src="></td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Respect 5</b></center></td>
