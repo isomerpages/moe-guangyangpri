@@ -4,64 +4,51 @@ permalink: /our-community/Our-Educators/Primary-2-Diligence/
 description: ""
 third_nav_title: Our Educators
 ---
-
 <table>
 <thead>
   <tr>
-		<td colspan="4"><center><b>Diligence 1</b></center></td>
+		<td colspan="2"><center><b>Diligence 1</b></center></td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Mr%20Ang%20Mia%20Kuang%20Marc2.jpg" style="width:113px; height:150"></td>
-    <td>Mr Marc Ang</td>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Usha%20Surendran%20(LT)2.jpg" style="width:113px; height:150"> </td>
-    <td>Mrs Usha Surendran (LT)</td>
+    <td><img src="/images/Teaching%20Staff/2023_mr%20marc%20ang.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20usha%20surendran-final.jpg"> </td>
   </tr>
   <tr>
-    <td colspan="4"><center><b>Diligence 2</b></center></td>
+    <td colspan="2"><center><b>Diligence 2</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Boo%20Heoh%20Pio2.jpg" style="width:113px; height:150"> </td>
-    <td>Mrs Boo Heoh Pio</td>
-    <td><img src="/images/Teaching%20Staff/Ms%20Valarie%20Koh2.jpg" style="width:113px; height:150"> </td>
-    <td>Ms Valarie Koh</td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20boo%20heoh%20pio.jpg"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20valarie%20koh.jpg"> </td>
   </tr>
   <tr>
-    <td colspan="4"><center><b>Diligence 3</b></center></td>
+    <td colspan="2"><center><b>Diligence 3</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Bianca%20Ang%20Hui%20Ying.jpeg" style="width:113px; height:150"> </td>
-    <td>Ms Bianca Ang Hui Ying</td>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Tan%20Sin%20Lin2.jpg" style="width:113px; height:150"> </td>
-    <td>Ms Chan Sin Lin</td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20bianca%20ang%20hui%20ying.jpg"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20chan%20sin%20lin.jpg"> </td>
   </tr>
   <tr>
-    <td colspan="4"><center><b>Diligence 4</b></center></td>
+    <td colspan="2"><center><b>Diligence 4</b></center></td>
   </tr>
   <tr>
-    <td> <img src="/images/Teaching%20Staff/Mrs%20Maggie%20Tan2.jpg" style="width:113px; height:150"></td>
-    <td>Mrs Maggie Tan</td>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Ng%20Soo%20San2.jpg" style="width:113px; height:150"> </td>
-    <td>Mrs Ng Soo San</td>
+    <td> <img src="/images/Teaching%20Staff/2023_mrs%20maggie%20tan.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20ng%20soo%20san.jpg"> </td>
   </tr>
   <tr>
-    <td colspan="4"><center><b>Diligence 5</b></center></td>
+    <td colspan="2"><center><b>Diligence 5</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Ms%20Melissa%20Ng2.jpg" style="width:113px; height:150"> </td>
-    <td>Ms Melissa Ng</td>
-    <td><img src="/images/Teaching%20Staff/Mrs%20Theresa%20Wong%20(ST%20Math)2.jpg" style="width:113px; height:150"> </td>
-    <td>Mrs Theresa Wong (ST)</td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20melissa%20ng.jpg"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20theresa%20wong-final.jpg"> </td>
   </tr>
   <tr>
-    <td colspan="4"><center><b>Diligence 6</b></center></td>
+    <td colspan="2"><center><b>Diligence 6</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Ms%20Toh%20Xiao%20Ting2.jpg" style="width:113px; height:150"> </td>
-    <td>Ms Toh Xiao Ting</td>
-    <td><img src="/images/Teaching%20Staff/Mdm%20Shamsiah%20Bte%20Samsudin2.jpg" style="width:113px; height:150"> </td>
-    <td>Ms Shamsiah Bte Samsudin</td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20toh%20xiao%20ting.jpg"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20shamsiah%20bte%20samsudin.jpg"> </td>
   </tr>
 </tbody>
 </table>
