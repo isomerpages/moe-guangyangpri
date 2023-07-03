@@ -8,42 +8,19 @@ third_nav_title: Our Educators
 <tbody>
   <tr>
     <td><img src="/images/AED/2023_mr%20ong%20yew%20chong-final.jpg"></td>
-    <td><img src=""></td>
+    <td><img src="/images/AED/2023_ms%20amanda%20pan-final.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/AED/Amanda%20Pan.jpg"></td>
-    <td>Ms Amanda Pan</td>
-    <td>Special Educational Needs(SEN) Office</td>
+    <td><img src="/images/AED/2023_ms%20josephine%20tan-final.jpg"></td>
+    <td><img src="/images/AED/2023_ms%20tay%20zhen%20ping%20zoe-final.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/No%20Photo.jpg"></td>
-    <td>Ms Josephine Tan</td>
-    <td>Special Educational Needs(SEN) Office</td>
+    <td><img src="/images/AED/2023_mdm%20esther%20tan%20chor%20joo.jpg"></td>
+    <td><img src="/images/AED/2023_mdm%20ng%20guat%20ming%20mindy.jpg"></td>
   </tr>
   <tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/AED/Tay%20Zhen%20Ping%20Zoe.jpeg"></td>
-    <td>Ms Tay Zhen Ping Zoe</td>
-    <td>Special Educational Needs(SEN) Office</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/AED/Esther%20Tan.jpg"></td>
-    <td>Mdm Esther Tan Chor Joo</td>
-    <td>Allied Educator</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/AED/Mindy%20Ng.jpg"></td>
-    <td>Mdm Ng Guat Ming Mindy</td>
-    <td>Allied Educator</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/AED/Ms%20Emily%20Poh2.jpg"></td>
-    <td>Ms Emily Poh</td>
-    <td>School Counsellor</td>
-  </tr>
-	<tr>
-    <td><img style="width:113px; height:150" alt="Image" src="/images/AED/Kavithasri%20do%20Anandan.jpeg"></td>
-    <td>Mdm Kavithasri d/o Anandan</td>
-    <td>School Counsellor</td>
+    <td><img src="/images/AED/2023_ms%20emily%20poh-final.jpg"></td>
+    <td><img src="/images/AED/2023_mdm%20kavithasri%20d_o%20anandan-final.jpg"></td>
   </tr>
 </tbody>
 </table>
