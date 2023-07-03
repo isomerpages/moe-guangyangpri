@@ -13,7 +13,7 @@ third_nav_title: Our Educators
 <tbody>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20may%20quek.jpg"></td>
-    <td><img src="/images/Teaching%20Staff/2023_mdm%20shireen%20chong.jpg"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20rachel%20long.jpg"> </td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Empathy 2</b></center></td>
