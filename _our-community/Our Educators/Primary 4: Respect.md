@@ -19,27 +19,23 @@ third_nav_title: Our Educators
     <td colspan="2"><center><b>Respect 2</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Elizabeth%20Tan.jpeg"> </td>
+    <td><img src=""></td>
     <td>Ms Elizabeth Tan</td>
-    <td><img style="width:113px; height:150" src="/images/Teaching%20Staff/Mrs%20Latha%20Joseph%20(ST%20TL)2.jpg"> </td>
-    <td>Mrs Latha Joseph (ST) </td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20latha%20joseph.jpg"> </td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Respect 3</b></center></td>
   </tr>
   <tr>
-    <td> </td>
-    <td>Mr Bernard Ng</td>
-    <td><img src="/images/Teaching%20Staff/Tham%20Yue%20Hao.jpeg"> </td>
-    <td>Ms Tham Yue Hao</td>
+    <td><img src="/images/Teaching%20Staff/2023_mr%20bernard%20ng.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20tham%20yue%20hao.jpg"> </td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Respect 4</b></center></td>
   </tr>
   <tr>
-    <td> <img src="/images/Teaching%20Staff/Mr%20Rajnikanth%20Naidu2.jpg"></td>
-    <td>Mr Rajinikanth Naidu</td>
-    <td><img src="/images/Teaching%20Staff/Leng%20Han.jpeg"> </td>
+    <td> <img src="/images/Teaching%20Staff/2023_mr%20rajinikanth%20naidu.jpg></td>
+    <td><img src="> </td>
     <td>Ms Leng Han</td>
   </tr>
   <tr>
