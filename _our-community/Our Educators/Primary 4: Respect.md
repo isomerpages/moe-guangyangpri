@@ -34,14 +34,14 @@ third_nav_title: Our Educators
     <td colspan="2"><center><b>Respect 4</b></center></td>
   </tr>
   <tr>
-    <td> <img src="/images/Teaching%20Staff/2023_mr%20rajinikanth%20naidu.jpg></td>
-    <td><img src="></td>
+		<td><img src="/images/Teaching%20Staff/2023_mr%20rajinikanth%20naidu.jpg"></td>
+		<td><img src="/images/Teaching%20Staff/2023_ms%20leng%20han.jpg"></td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Respect 5</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/Goh%20Jia%20Yee.jpeg"> </td>
+    <td><img src="![](/images/Teaching%20Staff/2023_ms%20goh%20jia%20yee.jpg)"> </td>
     <td>Ms Goh Jia Yee</td>
     <td><img src="/images/Teaching%20Staff/Ms%20Ong%20Chor%20Meng%20(HOD%20Curriculum)2.jpg"></td>
     <td>Ms Ong Chor Meng</td>
@@ -51,9 +51,7 @@ third_nav_title: Our Educators
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/Won%20Min%20Ting.jpeg"> </td>
-    <td>Ms Won Min Ting</td>
-    <td><img src="/images/Teaching%20Staff/Ms%20Zhang%20Fujun2.jpg"> </td>
-    <td>Mdm Zhang Fujun</td>
+    <td><img src="/images/Teaching%20Staff/2023_mdm%20zhang%20fujun.jpg"> </td>
   </tr>
 </tbody>
 </table>
