@@ -54,7 +54,7 @@ third_nav_title: Our Educators
     <td colspan="2"><center><b>Aspiration 7</b></center></td>
   </tr>
   <tr>
-    <td><img src=""> </td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20brindha%20sankar-final.jpg"> </td>
     <td><img src="/images/Teaching%20Staff/2023_ms%20sylvia%20seah.jpg"></td>
   </tr>
 </tbody>
