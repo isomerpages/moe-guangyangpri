@@ -19,7 +19,7 @@ third_nav_title: Our Educators
     <td colspan="2"><center><b>Respect 2</b></center></td>
   </tr>
   <tr>
-    <td><img src="elizabeth"></td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20elizabeth%20tan.jpg"></td>
     <td><img src="/images/Teaching%20Staff/2023_mrs%20latha%20joseph.jpg"> </td>
   </tr>
   <tr>
