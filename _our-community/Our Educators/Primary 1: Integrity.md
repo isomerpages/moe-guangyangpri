@@ -33,7 +33,7 @@ third_nav_title: Our Educators
     <td colspan="2"><center><b>Integrity 4</b></center></td>
   </tr>
   <tr>
-    <td> <img src="/images/Teaching%20Staff/2023_mrs%20cheah-loo%20yin%20hui.jpg"></td>
+    <td> <img src="/images/Teaching%20Staff/mrs%20cheah-loo%20yin%20hui.jpg"></td>
     <td><img src="/images/Teaching%20Staff/2023_ms%20valerie%20moh.jpg"> </td>
   </tr>
   <tr>
