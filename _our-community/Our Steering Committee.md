@@ -35,10 +35,10 @@ description: ""
   </tr>
   <tr>
 		<td><img src="/images/Teaching%20Staff/2023_ms%20madhavi%20chandramohan.jpg"></td>
-		<td><img src="/images/Teaching%20Staff/2023_mr%20vemalan%20s_o%20elangovan.jpg"></td>
+		<td><img src="/images/Teaching%20Staff/mr%20vemalan%20s_o%20elangovan.jpg"></td>
   </tr>
 	<tr>
-    <td><img src="/images/Teaching%20Staff/2023_ms%20felicia%20ong.jpg"></td>
+    <td><img src=""></td>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20shireen%20chong.jpg"></td>
   </tr>
 	<tr>
