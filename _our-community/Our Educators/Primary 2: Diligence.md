@@ -47,7 +47,7 @@ third_nav_title: Our Educators
     <td colspan="2"><center><b>Diligence 6</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/2023_ms%20toh%20xiao%20ting.jpg"> </td>
+    <td><img src="/images/Teaching%20Staff/ms%20toh%20xiao%20ting.jpg"> </td>
     <td><img src="/images/Teaching%20Staff/2023_ms%20shamsiah%20bte%20samsudin.jpg"> </td>
   </tr>
 </tbody>

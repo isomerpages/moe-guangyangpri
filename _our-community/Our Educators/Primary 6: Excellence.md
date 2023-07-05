@@ -53,7 +53,7 @@ third_nav_title: Our Educators
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_ms%20felicia%20ong.jpg"> </td>
-    <td><img src="shane quek"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20lek%20seok%20buay.jpg"> </td>
   </tr>
 	<tr>
 	<td colspan="2"><center><b>Excellence 8</b></center></td>
