@@ -73,8 +73,8 @@ description: ""
     <td><img src="/images/Teaching%20Staff/2023_mr%20vincent%20poh.jpg"></td>
   </tr>
   <tr>
-    <td><img src=""></td>
-		<td><img src=""></td>
+    <td><img src="/images/Teaching%20Staff/mr%20shane%20quek.jpg"></td>
+		<td><img src="/images/Teaching%20Staff/ms%20toh%20xiao%20ting.jpg"></td>
   </tr>
 </tbody>
 </table>
