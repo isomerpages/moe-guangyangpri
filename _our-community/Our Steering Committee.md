@@ -58,7 +58,7 @@ description: ""
   </tr>
 	<tr>
     <td><img src="/images/Teaching%20Staff/2023_mrs%20debbie%20lau.jpg"></td>
-    <td><img src="/images/Teaching%20Staff/2023_mrs%20cheah-loo%20yin%20hui.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/mrs%20cheah-loo%20yin%20hui.jpg"></td>
 	</tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mr%20muhammad%20bin%20ali.jpg"></td>
@@ -66,7 +66,7 @@ description: ""
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mrs%20premila%20onyekachi.jpg"></td>
-    <td><img src="/images/Teaching%20Staff/2023_mrs%20lim-chew%20hua%20jie.jpg"></td>
+    <td><img src="/images/Teaching%20Staff/mrs%20lim-chew%20hua%20jie.jpg"></td>
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20suzana%20bte%20suah.jpg"></td>
@@ -74,7 +74,7 @@ description: ""
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/mr%20shane%20quek.jpg"></td>
-		<td><img src="/images/Teaching%20Staff/ms%20toh%20xiao%20ting.jpg"></td>
+		<td><img src=""></td>
   </tr>
 </tbody>
 </table>
