@@ -17,7 +17,7 @@ description: ""
   </tr>
   <tr>
     <td><img src="/images/EAS%20Staff/2023_ms%20lee%20ping-final.jpg"></td>
-    <td><img src=""></td>
+    <td><img src="/images/EAS%20Staff/2023_mr%20hadi%20asyaari%20bin%20ahmad.jpg"></td>
   </tr>
   <tr>
     <td><img src="/images/EAS%20Staff/2023_mdm%20nazariah%20ali.jpg"></td>
