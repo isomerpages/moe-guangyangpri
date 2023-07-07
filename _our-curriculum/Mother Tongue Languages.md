@@ -31,8 +31,8 @@ Our students are exposed to knowledge beyond their textbooks and experience the 
 <table>
 <tbody>
 	<tr>
-		<td><img src=""></td>
-		<td><img src=""></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue1.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue3.jpg"></td>
 	</tr>
 </tbody>
 </table><table></table>
