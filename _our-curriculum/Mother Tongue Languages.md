@@ -28,7 +28,14 @@ Mother Tongue Fortnight in Townsville is an exciting two weeks where all our stu
 Our students are exposed to knowledge beyond their textbooks and experience the authentic use of the language through these activities.
 
 **Recess Activities during Mother Tongue Fortnight**
-
+<table>
+<tbody>
+	<tr>
+		<td><img src=""></td>
+		<td><img src=""></td>
+	</tr>
+</tbody>
+</table><table></table>
 
 **Mother Tongue Language and Cultural Camp for P4 students**
 
