@@ -80,6 +80,21 @@ Our P1 &amp; P2 students eating Tang Yuan @ Food-tasting session
 </tbody>
 </table>
 
+Our P3s &amp; P4s learned about different forms of Chinese Art and also get a chance to create their own piece of Bean Art.
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue12.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue14.jpg"></td>
+	</tr>
+		<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue16.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue19.jpg"></td>
+	</tr>
+</tbody>
+</table>
+
+
 **Mother Tongue Language and Cultural Camp for P4 students**
 
 This camp is especially organized for our P4 students who take Chinese/Malay/Tamil. It is a day where our students immerse themselves in fun-filled activities designed to enhance our students’ language skills, incorporating the cultural elements.
