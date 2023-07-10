@@ -27,15 +27,29 @@ Mother Tongue Fortnight in Townsville is an exciting two weeks where all our stu
 
 Our students are exposed to knowledge beyond their textbooks and experience the authentic use of the language through these activities.
 
-**Recess Activities during Mother Tongue Fortnight**
+**Recess Activities during Mother Tongue Fortnight**<br>
+Students playing language games and traditional games during recess.
 <table>
 <tbody>
 	<tr>
 		<td><img src="/images/Mother%20Tongue%20Language/mothertongue1.jpg"></td>
 		<td><img src="/images/Mother%20Tongue%20Language/mothertongue3.jpg"></td>
 	</tr>
+		<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue2.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue5.jpg"></td>
+	</tr>
 </tbody>
-</table><table></table>
+</table>
+Movie screening @ TVPS library  &amp; Students buying books @ book fair
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue7.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue9.jpg"></td>
+	</tr>
+</tbody>
+</table>
 
 **Mother Tongue Language and Cultural Camp for P4 students**
 
