@@ -51,6 +51,35 @@ Movie screening @ TVPS library  &amp; Students buying books @ book fair
 </tbody>
 </table>
 
+**Classroom Activities (Chinese Language)**<br>
+Our P1s &amp; P2s learned how to make Tang Yuan after their teachers taught them about the culture behind the eating of Tang Yuan.
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue10.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mmothertongue11.jpg"></td>
+	</tr>
+		<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue15.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue13.jpg"></td>
+	</tr>
+</tbody>
+</table>
+
+Our P1 &amp; P2 students eating Tang Yuan @ Food-tasting session
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue12.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue14.jpg"></td>
+	</tr>
+		<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue16.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue19.jpg"></td>
+	</tr>
+</tbody>
+</table>
+
 **Mother Tongue Language and Cultural Camp for P4 students**
 
 This camp is especially organized for our P4 students who take Chinese/Malay/Tamil. It is a day where our students immerse themselves in fun-filled activities designed to enhance our students’ language skills, incorporating the cultural elements.
