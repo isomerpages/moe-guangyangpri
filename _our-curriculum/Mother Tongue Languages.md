@@ -129,6 +129,20 @@ P4 Malay students doing Batik Painting.
 </tbody>
 </table>
 
+Our Malay students also learn to make kites and origami.
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue30.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue31.jpg"></td>
+	</tr>
+		<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue29.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue32.jpg"></td>
+	</tr>
+</tbody>
+</table>
+
 **Mother Tongue Language and Cultural Camp for P4 students**
 
 This camp is especially organized for our P4 students who take Chinese/Malay/Tamil. It is a day where our students immerse themselves in fun-filled activities designed to enhance our students’ language skills, incorporating the cultural elements.
