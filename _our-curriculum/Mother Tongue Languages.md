@@ -108,6 +108,17 @@ Our P5 &amp; P6 students learned about the great literature of China and made sm
 </tbody>
 </table>
 
+**Classroom Activities (Malay Language)**
+Our P3 &amp; P4 Malay students learning how to weave a Bunga Manggar
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue27.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue26.jpg"></td>
+	</tr>
+</tbody>
+</table>
+
 
 **Mother Tongue Language and Cultural Camp for P4 students**
 
