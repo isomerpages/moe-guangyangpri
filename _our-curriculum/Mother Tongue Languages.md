@@ -94,6 +94,20 @@ Our P3s &amp; P4s learned about different forms of Chinese Art and also get a ch
 </tbody>
 </table>
 
+Our P5 &amp; P6 students learned about the great literature of China and made small books based on the stories they have learned.
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue23.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue21.jpg"></td>
+	</tr>
+		<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue22.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue24.jpg"></td>
+	</tr>
+</tbody>
+</table>
+
 
 **Mother Tongue Language and Cultural Camp for P4 students**
 
