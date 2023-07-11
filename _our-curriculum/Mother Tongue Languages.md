@@ -84,11 +84,11 @@ Our P3s &amp; P4s learned about different forms of Chinese Art and also get a ch
 <table>
 <tbody>
 	<tr>
-		<td><img src="/images/Mother%20Tongue%20Language/mothertongue12.jpg"></td>
-		<td><img src="/images/Mother%20Tongue%20Language/mothertongue14.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue18.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue17.jpg"></td>
 	</tr>
 		<tr>
-		<td><img src="/images/Mother%20Tongue%20Language/mothertongue16.jpg"></td>
+		<td><img src=""></td>
 		<td><img src="/images/Mother%20Tongue%20Language/mothertongue19.jpg"></td>
 	</tr>
 </tbody>
