@@ -119,6 +119,15 @@ Our P3 &amp; P4 Malay students learning how to weave a Bunga Manggar
 </tbody>
 </table>
 
+P4 Malay students doing Batik Painting.
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue25.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue28.jpg"></td>
+	</tr>
+</tbody>
+</table>
 
 **Mother Tongue Language and Cultural Camp for P4 students**
 
