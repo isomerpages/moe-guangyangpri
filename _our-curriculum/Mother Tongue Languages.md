@@ -174,12 +174,44 @@ They also had fun making the fruits that went into their salad.
 </tbody>
 </table>
 
+Our young ones designed their own Kolam.
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue38.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue43.jpg"></td>
+	</tr>
+</tbody>
+</table>
 
+Our P4 Indian students making their own Thoranam.
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue40.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue42.jpg"></td>
+	</tr>
+</tbody>
+</table>
+
+Our upper primary students learn about Epics.
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue41.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue44.jpg"></td>
+	</tr>
+</tbody>
+</table>
 
 **Mother Tongue Language and Cultural Camp for P4 students**
 
-This camp is especially organized for our P4 students who take Chinese/Malay/Tamil. It is a day where our students immerse themselves in fun-filled activities designed to enhance our students’ language skills, incorporating the cultural elements.
-
-**Cultural Ambassador Programme**
-
-The school-based programme focusses on developing students’ presentation and communication skills through exploring cultural topics.
+This camp is especially organized for our P4 students who take Chinese/Malay/Tamil. It is a day where our students immerse themselves in fun-filled activities designed to enhance our students’ language skills, incorporating the cultural elements.sses on developing students’ presentation and communication skills through exploring cultural topics.
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue48.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue46.jpg"></td>
+	</tr>
+</tbody>
+</table>
