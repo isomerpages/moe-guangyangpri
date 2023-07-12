@@ -213,5 +213,12 @@ This camp is especially organized for our P4 students who take Chinese/Malay/Tam
 		<td><img src="/images/Mother%20Tongue%20Language/mothertongue48.jpg"></td>
 		<td><img src="/images/Mother%20Tongue%20Language/mothertongue46.jpg"></td>
 	</tr>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue45.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue47.jpg"></td>
+	</tr>
+	<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue49.jpg"></td>
+	</tr>
 </tbody>
 </table>
