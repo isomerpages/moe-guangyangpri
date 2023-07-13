@@ -3,7 +3,6 @@ title: FAQ
 permalink: /our-school/faq/
 description: ""
 ---
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -16,12 +15,12 @@ description: ""
     <input type="checkbox" id="accordion2">
 			<label for="accordion2"><h5>Q2. When is the side gate open?</h5></label>
     <div>
-      <p>A2: The side gates (Gate B & C) opening hours are as follows:</p>
+      <p>A2: The Back gate (Gate B) opening hours are as follows:</p>
 			<p><strong>Morning:</strong><br><table>
 <tbody>
   <tr>
     <td>Monday – Friday:</td>
-    <td>6.30 am to 7.25 am</td>
+    <td>6.30 am to 7.30 am</td>
   </tr>
 			</tbody>
 			</table></p>
@@ -29,7 +28,7 @@ description: ""
 <tbody>
   <tr>
     <td>Monday – Friday</td>
-    <td>1.30 pm to 2.00 pm</td>
+    <td>1.00 pm to 2.00 pm</td>
   </tr>
 </tbody>
 </table></p>
@@ -41,15 +40,15 @@ description: ""
   </tr>
   <tr>
     <td>Monday</td>
-    <td>4.00 pm to 4.30 pm</td>
+    <td>4.30 pm to 5.30 pm</td>
   </tr>
   <tr>
-    <td>Tuesday</td>
-    <td>3.00 pm to 3.30 pm</td>
+    <td>Tuesday &amp; Wednesday</td>
+    <td>4.00 pm to 5.00 pm</td>
   </tr>
   <tr>
     <td>Thursday</td>
-    <td>3.00 pm to 3.30 pm</td>
+    <td>4.30 pm to 5.30 pm</td>
   </tr>
 </tbody>
 </table></p>
