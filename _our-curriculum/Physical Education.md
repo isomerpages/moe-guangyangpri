@@ -11,7 +11,7 @@ description: ""
 
 The PE programme aims to develop students in the 3 main domains of psychomotor, cognitive and affective.
 
-The lower primary PE programme focuses on the acquisition of fundamental motor skills such as locomotor, non-locomotor and manipulative skills, as well as movement concepts to develop students into effective, efficient and versatile individuals. 
+The lower primary PE programme focuses on the acquisition of fundamental motor skills such as locomotor, non-locomotor and manipulative skills, as well as movement concepts to develop students into effective, efficient and versatile individuals.&nbsp;
 
 In the upper primary, the PE programme extends into the acquisition and development of combination skills, sequences of movements and application of game concepts across different sports and games.
 
@@ -21,7 +21,7 @@ In the upper primary, the PE programme extends into the acquisition and developm
     
 *   Dance
     
-*   Games & Sports
+*   Games &amp; Sports
     
 *   Gymnastics
     
@@ -33,9 +33,12 @@ In the upper primary, the PE programme extends into the acquisition and developm
 
 <p style="font-size:20px"><strong>Key Programmes</strong></p>
 
-Sports Carnival
+<u>P5 &amp; P6 Swimsafer Programme</u>
 
-1.  The Sports Carnival takes place on the eve of Children’s Day annually, and also coincides with the end of the PSLE exams. Students from the upper primary levels get the chance to try out novel games such as Kinball, Archery Tag, Human Foosball and Bouncy Soccer, while students in the lower primary level compete against each other in fun and engaging telematches. All in all, it is a day of enjoyment and excitement for the students as they celebrate Children’s Day.
+The P5 &amp; P6 Swimafer took place in Term 1 and Term 2 this year at Yio Chu Kang Swimming Complex and Sengkang Swimming Complex respectively. Through the 8 weeks programme, students learnt about different swimming techniques, first aid skills related to swimming and developed swimming confidence conducted by carefully selected Swimming Coaches.
+
+
+
 
 2.  Sports Education Program (SEP)
 
