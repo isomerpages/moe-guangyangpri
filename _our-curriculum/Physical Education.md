@@ -28,6 +28,18 @@ In the upper primary, the PE programme extends into the acquisition and developm
 <u>P5 &amp; P6 Swimsafer Programme</u>
 
 The P5 &amp; P6 Swimafer took place in Term 1 and Term 2 this year at Yio Chu Kang Swimming Complex and Sengkang Swimming Complex respectively. Through the 8 weeks programme, students learnt about different swimming techniques, first aid skills related to swimming and developed swimming confidence conducted by carefully selected Swimming Coaches.
+<table>
+<tbody>
+	<tr>
+		<td><img src=""></td>
+		<td><img src=""></td>
+	</tr>
+		<tr>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue2.jpg"></td>
+		<td><img src="/images/Mother%20Tongue%20Language/mothertongue5.jpg"></td>
+	</tr>
+</tbody>
+</table>
 
 **Sports Education Program (SEP)**
 
