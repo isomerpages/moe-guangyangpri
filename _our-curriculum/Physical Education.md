@@ -8,7 +8,6 @@ description: ""
 <p style="font-size:20px"><strong>Vision</strong></p>To nurture pupils who are physically fit and adopt a healthy lifestyle.
 
 <p style="font-size:20px"><strong>Teaching Approach</strong></p>
-
 The PE programme aims to develop students in the 3 main domains of psychomotor, cognitive and affective.
 
 The lower primary PE programme focuses on the acquisition of fundamental motor skills such as locomotor, non-locomotor and manipulative skills, as well as movement concepts to develop students into effective, efficient and versatile individuals.&nbsp;
@@ -16,19 +15,12 @@ The lower primary PE programme focuses on the acquisition of fundamental motor s
 In the upper primary, the PE programme extends into the acquisition and development of combination skills, sequences of movements and application of game concepts across different sports and games.
 
 7 Learning Areas in Physical Education:
-
 *   Athletics (From P3 onwards)
-    
-*   Dance
-    
-*   Games &amp; Sports
-    
-*   Gymnastics
-    
-*   Outdoor Education
-    
-*   Physical Health and Fitness
-    
+*   Dance    
+*   Games &amp; Sports    
+*   Gymnastics    
+*   Outdoor Education    
+*   Physical Health and Fitness   
 *   Swimming (P4)
 
 <p style="font-size:20px"><strong>Key Programmes</strong></p>
@@ -37,10 +29,7 @@ In the upper primary, the PE programme extends into the acquisition and developm
 
 The P5 &amp; P6 Swimafer took place in Term 1 and Term 2 this year at Yio Chu Kang Swimming Complex and Sengkang Swimming Complex respectively. Through the 8 weeks programme, students learnt about different swimming techniques, first aid skills related to swimming and developed swimming confidence conducted by carefully selected Swimming Coaches.
 
-
-
-
-2.  Sports Education Program (SEP)
+**Sports Education Program (SEP)**
 
 The Sports Education Program (SEP) aims to expose students to a variety of sports not included in the PE syllabus. It is conducted once a year for each level as part of the post-exam activities to encourage students to learn beyond classroom PE lessons. The SEP helps generate interest in students and teaches them basic skills required to play the various sports.
 
