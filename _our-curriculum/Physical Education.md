@@ -31,12 +31,12 @@ The P5 &amp; P6 Swimafer took place in Term 1 and Term 2 this year at Yio Chu Ka
 <table>
 <tbody>
 	<tr>
-		<td><img src=""></td>
-		<td><img src=""></td>
+		<td><img src="/images/Physical%20Education/physicaled1.jpg"></td>
+		<td><img src="/images/Physical%20Education/physicaled2.jpg"></td>
 	</tr>
 		<tr>
-		<td><img src="/images/Mother%20Tongue%20Language/mothertongue2.jpg"></td>
-		<td><img src="/images/Mother%20Tongue%20Language/mothertongue5.jpg"></td>
+		<td><img src="/images/Physical%20Education/physicaled4.jpg"></td>
+		<td><img src=""></td>
 	</tr>
 </tbody>
 </table>
