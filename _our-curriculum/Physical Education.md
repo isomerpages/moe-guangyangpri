@@ -71,10 +71,11 @@ Recess Play resume this year with the relaxation of Safe Management Measures. St
 <table>
 <tbody>
 	<tr>
-		<td><img src="/images/Physical%20Education/physicaled9.jpg"></td>
-		</tr><tr>
-		<td><img src="/images/Physical%20Education/physicaled7.jpg"></td>
-		<td><img src="/images/Physical%20Education/physicaled8.jpg"></td>
+		<td><center><img src="/images/Physical%20Education/physicaled9.jpg"></center></td>
+	</tr>
+	<tr>
+		<td><img src="/images/Physical%20Education/physicaled71.png"></td>
+		<td><img src="/images/Physical%20Education/physicaled10.png"></td>
 	</tr>
 </tbody>
 </table>
