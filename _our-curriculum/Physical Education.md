@@ -79,3 +79,33 @@ Recess Play resume this year with the relaxation of Safe Management Measures. St
 	</tr>
 </tbody>
 </table>
+
+**Sports Education Program (SEP)**
+
+The Sports Education Program (SEP) aims to expose students to a variety of sports not included in the PE syllabus. It is conducted once a year for each level as part of the post-exam activities to encourage students to learn beyond classroom PE lessons. The SEP helps generate interest in students and teaches them basic skills required to play the various sports.
+
+Some examples of SEP conducted include:
+
+*   Inline Skating
+*   Archery
+*   Tchoukball    
+*   Golf
+    
+
+<u>Jump Jam</u>
+
+The Jump Jam Programme is conducted once a term with the aim of promoting a healthy and active lifestyle among students and staff. Each session will last for approximately 15 minutes, with different genres of music used, from the latest and popular upbeat pop and hip-hop tunes to soothing and calming Asian rhythms. Selected students were also given the opportunity to lead the school during the sessions. The Jump Jam Programme enabled everyone, from students to School Leaders, to exercise together in a fun and exciting manner.
+
+*Jump Jam during our Start It RIght Programme*
+<table>
+<tbody>
+	<tr>
+		<td><img src="/images/Physical%20Education/physicaled11.jpg"></td>
+		<td><img src="/images/Physical%20Education/physicaled12.jpg"></td>
+	</tr>
+		<tr>
+		<td><img src="/images/Physical%20Education/physicaled13.jpg"></td>
+		<td><img src="/images/Physical%20Education/physicaled14.jpg"></td>
+	</tr>
+</tbody>
+</table>
