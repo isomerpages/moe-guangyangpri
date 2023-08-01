@@ -14,7 +14,7 @@ Committed to the development of confident artists with a passion and appreciatio
 
 ![](/images/Aesthetic.png)
 
-Using the 3Es approach of Exposure, Extension and Excellence, we aim to cater to the different learning interests and abilities of our students by offering a varied range and levels of experiences. All students are given the  opportunity to develop their skills in art appreciation and expression through our Visual Arts and Music curriculum. At the same time, students may also choose to further extend their learning in the Visual Arts via CCAs and other specialised programs offered by the school.
+Using the 3Es approach of Exposure, Extension and Excellence, we aim to cater to the different learning interests and abilities of our students by offering a varied range and levels of experiences. All students are given the&nbsp; opportunity to develop their skills in art appreciation and expression through our Visual Arts and Music curriculum. At the same time, students may also choose to further extend their learning in the Visual Arts via CCAs and other specialised programs offered by the school.
 
 <p style="font-size:20px"><strong>Key Programmes</strong></p>
 
@@ -22,22 +22,23 @@ Using the 3Es approach of Exposure, Extension and Excellence, we aim to cater to
 
 One of the key aims of our art curriculum is to offer a wide range of experiences to our students. These experiences include working with and experimenting with a variety of art mediums, learning their properties and allowances for art making and expression. To enhance the learning of our students, we bring in experts or knowledgeable others to teach certain mediums. Currently, we run medium exposure programs for Printmaking and Ceramics for our P3 and P4 students respectively.
 
- **Museum Based Learning**
- 
-Museum Based Learning is a core learning experience of the Primary art curriculum aimed to develop an appreciation for the arts through an authentic setting and context.  It consists of pre-, during- and post-visit experiences to one of the local art museums/exhibitions. Students will be invited to hone their art discussion skills, making connections between artwork and their own experiences.
+**Museum Based Learning**
+
+Museum Based Learning is a core learning experience of the Primary art curriculum aimed to develop an appreciation for the arts through an authentic setting and context.&nbsp; It consists of pre-, during- and post-visit experiences to one of the local art museums/exhibitions. Students will be invited to hone their art discussion skills, making connections between artwork and their own experiences.
 
 **Digital Art**
 
 Our students are part of the Digital Generation and as such our curriculum also weaves in Digital mediums into art making and expression. Through our upper primary digital art program, our students get to explore the many possibilities of using various online applications to create visual imagery, whilst at the same time honing their digital skills.
 
-
 **Fused Glass**
 
 The P5 students go through a series of lessons on using glass as a unique art material. They learn the safety aspect of handling glass and the process of fusing glass into art pieces.
 
+
 **Art Exhibitions**
 
 A showcase at year-end of our students’ artworks features 2-dimensional and 3-dimensional art pieces chosen from each level, displaying the students’ accumulative learning during the year. We celebrate our students’ efforts and excellence, while giving them the encouragement to further pursue their interest and talent in Art.
+
 
 **Music Busking**
 
