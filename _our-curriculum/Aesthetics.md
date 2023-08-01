@@ -39,10 +39,33 @@ The P5 students go through a series of lessons on using glass as a unique art ma
 
 A showcase at year-end of our students’ artworks features 2-dimensional and 3-dimensional art pieces chosen from each level, displaying the students’ accumulative learning during the year. We celebrate our students’ efforts and excellence, while giving them the encouragement to further pursue their interest and talent in Art.
 
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Aesthetics/aesthetics1.jpg"></td>
+		<td><img src="/images/Aesthetics/aesthetics2.jpg"></td>
+  </tr>
+</tbody>
+</table>
+
 
 **Music Busking**
 
 Music Busking is a biannual event that serves as a platform for our students to showcase their musical interests to their peers during recess. Using the 3E approach, exposure is provided to everyone and budding performers get to have first-hand experience and strive for excellence during the performance.
+
+*Student displaying their Musical Talents through the Music Busking*
+
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/Aesthetics/aesthetics3.png"></td>
+		<td><img src="/images/Aesthetics/aesthetics4.png"></td>
+  </tr>
+</tbody>
+</table>
+
 
 **Talent Competitions**
 
