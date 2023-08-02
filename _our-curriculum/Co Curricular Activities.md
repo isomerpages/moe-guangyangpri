@@ -25,8 +25,43 @@ Townsville Primary School offers CCA from the following options:
 <p style="font-size:20px"><strong>Our CCAs</strong></p>
 Sports and Games:
 
+*   Badminton
+    
+*   Basketball&nbsp;
+    
+*   Football&nbsp;
+    
+*   Floorball
+    
+*   Taekwondo
+    
+
 Visual and Performing Arts:
 
+*   A# Handbell
+    
+*   Angklung &amp; Kulintang&nbsp;
+    
+*   Choir
+    
+*   International Dance
+    
+*   Visual Art Club
+    
+
 Clubs and Societies:
-  
+
+*   Media Club
+    
+*   Robotics Club
+    
+*   Science &amp; Environment Club
+    
+*   Weiqi Club
+    
+
 Uniformed Groups:
+
+*   Boys’ Brigade
+    
+*   Girls’ Brigade

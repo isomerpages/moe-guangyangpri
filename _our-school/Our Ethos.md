@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/Logo%20Explainations.png)
 
-<h3>Vision & Mission</h3>
+<h3>Vision &amp; Mission</h3>
 
 **Vision**: A Vibrant School Leaders of Character, Learners for Life<br>
 **Mission**: Ignite Learning, Maximise Potential, Nurture the Child
