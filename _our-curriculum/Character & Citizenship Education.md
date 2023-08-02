@@ -128,11 +128,11 @@ In Townsville Primary, it is our belief that every student can be developed as a
   </tr>
   <tr>
     <td>
-			<img src=""></td>
-		<td><img src="/images/CCE/charcitied14.jpg"></td>
+			<img src="/images/CCE/charcitied15.jpg"></td>
+		<td><img src="/images/CCE/charcitied16.jpg"></td>
   </tr><tr>
-		<td><i>Leaders in Townsville Investiture for Student Leader Council</i></td>
-		<td><i>Training session for PSLs</i></td>
+		<td><i>Training session for Student Leaders</i></td>
+		<td><i>Training session for CCA Leaders</i></td>
   </tr>
 </tbody>
 </table>
