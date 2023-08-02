@@ -44,6 +44,7 @@ To inculcate the school values within our students and equip them with essential
 
 *Our students in actions:*
 
+
 2\. **National Education (NE)**
 
 To instill in students a sense of identity, cultivate the instinct for survival as a nation and confidence in our nation’s future. National Education also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.
