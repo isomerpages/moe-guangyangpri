@@ -112,7 +112,30 @@ The 4 NE events, Total Defence Day, International Friendship Day, Racial Harmony
 
 3\. **Student Leadership Development**&nbsp;
 
-To develop pupils’ leadership potential, dispositions and values through the LiT (Leaders In Townsville) programme.&nbsp;
+In Townsville Primary, it is our belief that every student can be developed as a leader and every student should be developed as a leader. The Student Leadership committee aims to develop students’ leadership potential, dispositions and values through the LiT (Leaders In Townsville) programme.
+
+<img src="/images/CCE/charcitied9.png" style="width:50%">
+
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/CCE/charcitied11.png"></td>
+		<td><img src="/images/CCE/charcitied14.jpg"></td>
+  </tr><tr>
+		<td><i>Leaders in Townsville Investiture for Student Leader Council</i></td>
+		<td><i>Training session for PSLs</i></td>
+  </tr>
+  <tr>
+    <td>
+			<img src=""></td>
+		<td><img src="/images/CCE/charcitied14.jpg"></td>
+  </tr><tr>
+		<td><i>Leaders in Townsville Investiture for Student Leader Council</i></td>
+		<td><i>Training session for PSLs</i></td>
+  </tr>
+</tbody>
+</table>
 
 4\. <strong>Pastoral Care</strong>
 
