@@ -74,10 +74,10 @@ To inculcate the school values within our students and equip them with essential
   <tr>
     <td>
 			<img src="/images/CCE/charcitied2.jpg"></td>
-		<td><img src="/images/CCE/charcitied12.png"></td>
+		<td><img src="/images/CCE/charcitied13.JPG" style="width:50%"></td>
   </tr>
   <tr>
-		<td style="text-align: center" colspan="2"><i>VIA: Recess Integration with Pathlight School</i></td>
+		<td style="text-align: center" colspan="2"><i>Character Award</i></td>
   </tr>
 </tbody>
 </table>
@@ -87,6 +87,28 @@ To inculcate the school values within our students and equip them with essential
 To instill in students a sense of identity, cultivate the instinct for survival as a nation and confidence in our nation’s future. National Education also emphasises on cultivating a sense of belonging and emotional rootedness to Singapore.
 
 The 4 NE events, Total Defence Day, International Friendship Day, Racial Harmony Day and National Day, are commemorated by customising NE-focused lessons that are integrated into the Social Studies and CCE lessons. In addition, National Education is pervasively implemented through cohort-based learning journeys.
+
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/CCE/charcitied3.jpg"></td>
+		<td><img src="/images/CCE/charcitied10.jpg"></td>
+  </tr><tr>
+		<td><i>Total Defence Day</i></td>
+		<td><i>International Friendship Day</i></td>
+  </tr>
+  <tr>
+    <td>
+			<img src="/images/CCE/charcitied7.png"></td>
+		<td><img src="/images/CCE/charcitied8.png"></td>
+  </tr>
+  <tr>
+    <td><i>Racial Harmony Day</i></td>
+		<td><i>National Day</i></td>
+  </tr>
+</tbody>
+</table>
 
 3\. **Student Leadership Development**&nbsp;
 
