@@ -42,8 +42,31 @@ To inculcate the school values within our students and equip them with essential
     
 *   Values-in-action (VIA) activities
 
-*Our students in actions:*
-
+***Our students in actions:***
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/CCE/charcitied6.jpg"></td>
+		<td><img src="/images/CCE/charcitied5.jpg"></td>
+  </tr>
+  <tr>
+		<td><i>VIA: Project Sparkle</i></td>
+  </tr>
+</tbody>
+</table>
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/CCE/charcitied1.png"></td>
+		<td><img src=""></td>
+  </tr>
+  <tr>
+		<td><i>VIA: Project Sparkle</i></td>
+  </tr>
+</tbody>
+</table>
 
 2\. **National Education (NE)**
 
