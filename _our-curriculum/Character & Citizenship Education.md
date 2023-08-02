@@ -51,19 +51,33 @@ To inculcate the school values within our students and equip them with essential
 		<td><img src="/images/CCE/charcitied5.jpg"></td>
   </tr>
   <tr>
-		<td><i>VIA: Project Sparkle</i></td>
+		<td style="text-align: center" colspan="2"><i>VIA: Project Sparkle</i></td>
   </tr>
 </tbody>
 </table>
+
 <table>
 <tbody>
   <tr>
     <td>
 			<img src="/images/CCE/charcitied1.png"></td>
-		<td><img src=""></td>
+		<td><img src="/images/CCE/charcitied12.png"></td>
   </tr>
   <tr>
-		<td><i>VIA: Project Sparkle</i></td>
+		<td style="text-align: center" colspan="2"><i>VIA: Recess Integration with Pathlight School</i></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<tbody>
+  <tr>
+    <td>
+			<img src="/images/CCE/charcitied2.jpg"></td>
+		<td><img src="/images/CCE/charcitied12.png"></td>
+  </tr>
+  <tr>
+		<td style="text-align: center" colspan="2"><i>VIA: Recess Integration with Pathlight School</i></td>
   </tr>
 </tbody>
 </table>
