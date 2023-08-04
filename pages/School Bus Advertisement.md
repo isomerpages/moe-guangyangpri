@@ -9,36 +9,27 @@ To apply, please refer to the Service Requirements and the Application Procedure
 
 **Service Requirements**
 
-1.&nbsp; &nbsp; &nbsp; &nbsp; \[Call for Proposal\]\[AK(1\]&nbsp;<br>
-2.&nbsp; &nbsp; &nbsp; &nbsp; \[Agreement for Appointment of School Bus Operator\]\[AK(2\]&nbsp;
+1. <a href="https://drive.google.com/file/d/1r0dJgIsyF-k-vYTqJfMcOz_45cSbwImv/view?usp=drive_link">Call for Proposal</a>
+2. <a href="https://drive.google.com/file/d/11entn9AfGKSKh3jP3ETINhvnG_Xfy1AH/view?usp=drive_link">Agreement for Appointment of School Bus Operatorl</a>
 
 **Application Procedure**
 
-1\. Complete the \[Call for Proposal - Annex A\]\[AK(3\]&nbsp;<br>
-2\. Submit the completed Call for Proposal – Annex A by closing date, 10 May 2023\[SYS(4\] , to the School’s General Office.
+1\. Complete the <a href="https://drive.google.com/file/d/1r0dJgIsyF-k-vYTqJfMcOz_45cSbwImv/view?usp=drive_link">Call for Proposal - Annex A</a>
 
-Address: 3 Ang Mo Kio Ave 10, Singapore 569730<br>
-Contact No: 6457 4345<br>
-Email: [Townsvilleps@moe.edu.sg](mailto:Townsvilleps@moe.edu.sg)
-<br>Contact Person: Mdm Nancy Koh Mei Chin
+2\. Submit the completed Call for Proposal – Annex A by closing date, **16 Aug 2023**, to the School’s General Office.
 
-**How to get there?**
+Address &amp; Contact:<br>
+3 Ang Mo Kio Ave 10, Singapore 569730<br>
+64574345<br>
+[Townsvilleps@moe.edu.sg](mailto:Townsvilleps@moe.edu.sg)<br>
+Contact Person: Mdm Koh Mei Chin
 
-**Nearest MRT**: Ang Mo Kio MRT - 20 minutes walking distance
+**How to get there**<br>
+*Please enter by the school's front gate along Ang Mo Kio Ave 10.*
 
-**Bus number**:<br>
-From Ang Mo Kio MRT - 50, 262, 135, 24, 22 ,159, 162, 853 (Back Gate)<br>
-From Bishan MRT - 55 (Front Gate)
+Nearest MRT: Ang Mo Kio MRT – 15 minutes walking distance
 
-Please enter by the front gate.
-* * *
+Bus number: 
+From Ang Mo Kio MRT: 50, 135, 262, 853, 22, 24, 162, 159 (Back Gate)<br>
+From Bishan MRT: 55 (Front Gate)
 
-&nbsp;\[AK(1\]School to upload PDF here
-
-&nbsp;\[AK(2\]School to upload PDF here
-
-&nbsp;\[AK(3\]School to upload PDF here
-
-&nbsp;\[SYS(4\]School to update Closing Date
-
-&nbsp;\[AK(5\]School to update details
