@@ -32,4 +32,3 @@ Nearest MRT: Ang Mo Kio MRT – 15 minutes walking distance
 Bus number: 
 From Ang Mo Kio MRT: 50, 135, 262, 853, 22, 24, 162, 159 (Back Gate)<br>
 From Bishan MRT: 55 (Front Gate)
-
