@@ -10,11 +10,11 @@ To apply, please refer to the Service Requirements and the Application Procedure
 **Service Requirements**
 
 1. <a href="https://drive.google.com/file/d/1r0dJgIsyF-k-vYTqJfMcOz_45cSbwImv/view?usp=drive_link">Call for Proposal</a>
-2. <a href="https://drive.google.com/file/d/11entn9AfGKSKh3jP3ETINhvnG_Xfy1AH/view?usp=drive_link">Agreement for Appointment of School Bus Operatorl</a>
+2. <a href="https://drive.google.com/file/d/11entn9AfGKSKh3jP3ETINhvnG_Xfy1AH/view?usp=drive_link">Agreement for Appointment of School Bus Operator</a>
 
 **Application Procedure**
 
-1\. Complete the <a href="https://drive.google.com/file/d/1r0dJgIsyF-k-vYTqJfMcOz_45cSbwImv/view?usp=drive_link">Call for Proposal - Annex A</a>
+1\. Complete the <a href="https://drive.google.com/file/d/1dCYXI_if58U_uKzt61VH8UmAF4NcHGbb/view?usp=drive_link">Call for Proposal - Annex A</a>
 
 2\. Submit the completed Call for Proposal – Annex A by closing date, **16 Aug 2023**, to the School’s General Office.
 
