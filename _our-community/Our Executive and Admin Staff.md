@@ -34,7 +34,6 @@ description: ""
   </tr>
   <tr>
     <td><img src="/images/EAS%20Staff/2023_mdm%20siti%20zaidah%20binte%20adam.jpg" style="width:65%"></td>
-    <td><img src="/images/EAS%20Staff/2023_mdm%20krishna%20susilah.jpg" style="width:65%"></td>
   </tr>  
 </tbody>
 </table>
