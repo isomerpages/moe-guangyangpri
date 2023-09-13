@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Photos/homepage banner gif 2.gif
+      background: /images/Hero Photos/homepage banner gif.gif
   - resources: {}
   - infobar:
       title: Follow Us
