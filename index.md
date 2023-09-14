@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Photos/homepage banner gif 2.gif
+      background: /images/Hero Photos/homepage banner gif.gif
   - resources: {}
   - infobar:
       title: Follow Us
@@ -20,8 +20,4 @@ sections:
       url: /contact-us
       image: /images/Townsville Pri Map.png
       alt: map
-  - infobar:
-      title: Bus Vendor Advertisement
-      button: More Info
-      url: https://www.townsvillepri.moe.edu.sg/school-bus-ad/
 ---
