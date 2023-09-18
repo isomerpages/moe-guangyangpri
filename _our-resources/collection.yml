@@ -2,7 +2,7 @@ collections:
   our-resources:
     output: true
     order:
-      - For Parents/Term Letters to Parents.md
+      - For Parents/Letters to Parents.md
       - For Parents/School Calendar.md
       - For Parents/.keep
       - For Parents/Parent Gateway.md
