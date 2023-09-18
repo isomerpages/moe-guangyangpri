@@ -8,6 +8,10 @@ notification: ""
 sections:
   - hero:
       background: /images/Hero Photos/homepage banner gif.gif
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
   - infobar:
       title: Follow Us
       description: All Our Socials in One Place
