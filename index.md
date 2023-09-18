@@ -9,7 +9,7 @@ sections:
   - hero:
       background: /images/Hero Photos/homepage banner gif.gif
   - resources:
-      title: Resources
+      title: Announcements
       subtitle: Add a preview and link to your Resource Room
       id: resources
   - infobar:
