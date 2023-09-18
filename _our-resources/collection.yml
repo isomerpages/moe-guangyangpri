@@ -2,8 +2,9 @@ collections:
   our-resources:
     output: true
     order:
-      - For Parents/School Calendar.md
       - For Parents/.keep
+      - For Parents/School Calendar.md
+      - For Parents/Letters to Parents.md
       - For Parents/Parent Gateway.md
       - For Parents/Financial Assistance.md
       - For Parents/Sexuality Education.md
