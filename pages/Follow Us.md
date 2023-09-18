@@ -7,7 +7,7 @@ description: ""
 
 <a href="https://www.facebook.com/TownsvillePrimarySchool" target="_blank"><img src="/images/facebook.png" style="width:25%"></a>
 
-<a href="https://www.instagram.com/townsvilleprimaryschool/" target="_blank"><img src="/images/Soon%20Instagram_Glyph_Gradient.png" style="width:23%"></a>
+<a href="https://www.instagram.com/townsvilleprimaryschool/" target="_blank"><img src="/images/Instagram_Glyph_Gradient.png" style="width:23%"></a>
 
 <a href="https://www.youtube.com/channel/UCOjvAvnhLhKg2xtkVOOnyhQ/" target="_blank"><img src="/images/yt_icon_rgb.png" style="width:30%"></a>
 
