@@ -15,7 +15,8 @@ Proprietary Rights
 
 **Privacy Policy**
 
-5\. Click here to review this [Privacy Statement](https://www.guangyangpri.moe.edu.sg/privacy-policy/).  
+5\. Click here to review this [Privacy Statement](  
+https://townsvillepri.moe.edu.sg/privacy/).  
 
 **Restrictions on Use of Materials**
 
