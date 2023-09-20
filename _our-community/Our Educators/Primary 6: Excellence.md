@@ -31,7 +31,7 @@ third_nav_title: Our Educators
     <td colspan="2"><center><b>Excellence 4</b></center></td>
   </tr>
   <tr>
-    <td> <img src="/images/Teaching%20Staff/2023_mr%20ben%20sng.jpg" style="width:65%"></td>
+    <td> <img src="/images/Teaching%20Staff/mr%20ben%20sng.jpg" style="width:65%"></td>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20yuen%20hooi%20shing.jpg" style="width:65%"> </td>
   </tr>
   <tr>
