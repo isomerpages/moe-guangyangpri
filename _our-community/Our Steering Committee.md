@@ -62,7 +62,7 @@ description: ""
 	</tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mr%20muhammad%20bin%20ali.jpg" style="width:65%"></td>
-    <td><img src="/images/Teaching%20Staff/2023_mr%20joe%20choo-final.jpg" style="width:65%"></td>
+    <td><img src="/images/Teaching%20Staff/mr%20joe%20choo-final.jpg" style="width:65%"></td>
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mrs%20premila%20onyekachi.jpg" style="width:65%"></td>
@@ -70,11 +70,14 @@ description: ""
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20suzana%20bte%20suah.jpg" style="width:65%"></td>
-    <td><img src="/images/Teaching%20Staff/2023_mr%20vincent%20poh.jpg" style="width:65%"></td>
+    <td><img src="/images/Teaching%20Staff/mr%20vincent%20poh.jpg" style="width:65%"></td>
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/mr%20shane%20quek.jpg" style="width:65%"></td>
 		<td><img src="/images/Teaching%20Staff/ms%20toh%20xiao%20ting.jpg" style="width:65%"></td>
+  </tr>
+	<tr>
+    <td><img src="/images/Teaching%20Staff/mr%20ben%20sng.jpg" style="width:65%"></td>
   </tr>
 </tbody>
 </table>
