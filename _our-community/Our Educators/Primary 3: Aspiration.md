@@ -33,7 +33,7 @@ third_nav_title: Our Educators
     <td colspan="2"><center><b>Aspiration 4</b></center></td>
   </tr>
   <tr>
-    <td> <img src="/images/Teaching%20Staff/2023_mr%20joe%20choo-final.jpg" style="width:65%"></td>
+    <td> <img src="/images/Teaching%20Staff/mr%20joe%20choo-final.jpg" style="width:65%"></td>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20lye%20choon%20hwan-final.jpg" style="width:65%"> </td>
   </tr>
   <tr>
@@ -47,7 +47,7 @@ third_nav_title: Our Educators
     <td colspan="2"><center><b>Aspiration 6</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/2023_mr%20vincent%20poh.jpg" style="width:65%"> </td>
+    <td><img src="/images/Teaching%20Staff/mr%20vincent%20poh.jpg" style="width:65%"> </td>
     <td><img src="/images/Teaching%20Staff/2023_mrs%20katherine%20cheong.jpg" style="width:65%"> </td>
   </tr>
 	 <tr>

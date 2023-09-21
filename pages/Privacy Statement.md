@@ -1,6 +1,7 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+description: ""
 ---
 1\. This is Townsville Primary School website.
 

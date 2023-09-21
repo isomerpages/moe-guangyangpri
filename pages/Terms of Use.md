@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+description: ""
 ---
 1\. Thank you for visiting Townsville Primary School Website. By accessing and using this Website, you shall be deemed to have accepted to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Website.
 
@@ -15,7 +16,8 @@ Proprietary Rights
 
 **Privacy Policy**
 
-5\. Click here to review this [Privacy Statement](https://www.guangyangpri.moe.edu.sg/privacy-policy/).  
+5\. Click here to review this [Privacy Statement](  
+https://townsvillepri.moe.edu.sg/privacy/).  
 
 **Restrictions on Use of Materials**
 
