@@ -70,7 +70,7 @@ description: ""
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20suzana%20bte%20suah.jpg" style="width:65%"></td>
-    <td><img src="/images/Teaching%20Staff/mr%20vincent%20poh.jpg" style="width:65%"></td>
+    <td><img src="" style="width:65%"></td>
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/mr%20shane%20quek.jpg" style="width:65%"></td>
