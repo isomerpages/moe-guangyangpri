@@ -39,6 +39,6 @@ and we dare to achieve.
    
 We dare because<br>
 we believe.<br>
-<a href="https://youtu.be/jvVkOvo2n90">Listen</a> to the song here:
+<a href="https://youtu.be/jvVkOvo2n90">Listen</a> to the song here
 
 </center>
