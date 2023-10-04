@@ -38,9 +38,7 @@ our colours high above.<br>
 and we dare to achieve.
    
 We dare because<br>
-we believe.
+we believe.<br>
+<a href="https://youtu.be/jvVkOvo2n90">Listen</a> to the song here:
 
-Listen to the song here:
-https://youtu.be/jvVkOvo2n90
 </center>
-
