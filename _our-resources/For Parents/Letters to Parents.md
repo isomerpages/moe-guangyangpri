@@ -8,6 +8,8 @@ third_nav_title: For Parents
 
 Here you can find letters to parents sent throughout the year.
 
+[End of Year Letter to Parents](https://drive.google.com/file/d/1aap2bvVJJPHCgFMKxwY-JjwgjAPSzhF6/view?usp=drive_link)
+
 [Term 4 Letter from Principal](https://drive.google.com/file/d/15yV9K5wZnaIdKCwGQKXnLXyZ0D-PdwkO/view?usp=drive_link)
 
 [Notification on HBL 24 and 25 July](https://drive.google.com/file/d/1YgEh8aZZ2RdOxjTwfZEfhvfZzwTYVHlm/view?usp=drive_link)
