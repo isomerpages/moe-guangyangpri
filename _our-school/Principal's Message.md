@@ -4,7 +4,7 @@ permalink: /our-community/principals-message/
 description: ""
 ---
 **Our School Vision:
-A Vibrant School • Leaders of Character • Learner for Life**
+A Vibrant School • Leaders of Character • Learners for Life**
 
 It is with great excitement and enthusiasm that we embark the year 2023. The merger of Townsville Primary School and Guangyang Primary School has presented us with many possibilities to create an exciting future ahead of us. Building on the strengths of both schools, we remain steadfast to ensure that this school is an institution of vibrant learning, a place where children discover their innate talents and abilities, broaden their horizons and excel to their personal best.
 
@@ -13,6 +13,6 @@ Guided by our compelling vision, this school provides our students a balanced an
 It takes a village to raise a child. We welcome and partner parents and the community to provide the best educational experiences for our children. We want to encourage each and every one to journey with us as we give our children the most enriching and meaningful schooling experience in Townsville Primary School.
 
 <p><img align="left" style="width:30%" src="/images/School%20Leaders/Eddie%20Foo2.jpg"></p>
-<br clear = left>
+<br clear="left">
 Mr Eddie Foo,<br>
 Principal
