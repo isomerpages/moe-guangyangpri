@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Photos/homepage banner gif.gif
+      background: /images/Hero Photos/hero banner 3.gif
   - resources:
       title: Announcements
       subtitle: Add a preview and link to your Resource Room

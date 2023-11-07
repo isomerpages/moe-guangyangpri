@@ -2,11 +2,12 @@
 title: School Vendors
 permalink: /our-school/school-vendors/
 description: ""
+variant: markdown
 ---
 <h1 style="color:red;font-size:30px">Our Vendors</h1>
 
 <p style="font-size:20px"><strong>Bookshop Vendor Contact</strong></p>
-<strong>Pacific Bookstorest</strong>
+<strong>Pacific Bookstores</strong>
 
 Website: https://www.pacificbookstores.com / https://www.pacificeshop.com
 
