@@ -10,7 +10,6 @@ sections:
       background: /images/Hero Photos/hero banner 3.gif
   - resources:
       title: Announcements
-      subtitle: Add a preview and link to your Resource Room
       id: resources
   - infobar:
       title: Follow Us
