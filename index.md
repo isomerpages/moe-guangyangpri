@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Photos/hero banner 3.gif
+      background: /images/Hero Photos/homepage banner gif.gif
   - resources:
       title: Announcements
       id: resources

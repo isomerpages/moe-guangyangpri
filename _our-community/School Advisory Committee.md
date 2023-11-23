@@ -2,6 +2,7 @@
 title: School Advisory Committee
 permalink: /our-community/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 <table>
 <tbody>
@@ -15,7 +16,7 @@ description: ""
   </tr>
   <tr>
     <td><img src="/images/SAC/2023_mr%20alvin%20low.jpg" style="width:65%"></td>
-    <td><img src="/images/SAC/2023_mr%20chris%20yeo.jpg" style="width:65%"></td>
+		<td><img src="/images/SAC/2023_ms%20wendy%20chua.jpg" style="width:65%"></td>
   </tr>
   <tr>
     <td><img src="/images/SAC/2023_mr%20lim%20tong%20hai.jpg" style="width:65%"></td>
@@ -23,7 +24,6 @@ description: ""
   </tr>
   <tr>
     <td><img src="/images/SAC/2023_ms%20moh%20ai%20wei.jpg" style="width:65%"></td>
-    <td><img src="/images/SAC/2023_ms%20wendy%20chua.jpg" style="width:65%"></td>
   </tr>
 </tbody>
 </table>
