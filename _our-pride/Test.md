@@ -1,6 +1,6 @@
 ---
 title: Test
 permalink: /our-pride/test/
-variant: tiptap
+variant: markdown
 description: ""
 ---
