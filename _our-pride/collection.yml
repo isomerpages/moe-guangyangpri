@@ -2,7 +2,6 @@ collections:
   our-pride:
     output: true
     order:
-      - Test.md
       - Signature Programmes/.keep
       - Signature Programmes/Thinking Curriculum.md
       - Signature Programmes/Learn for Life Programme.md
