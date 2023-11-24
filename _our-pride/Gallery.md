@@ -10,8 +10,8 @@ variant: markdown
 <tbody>
 	<tr>
     <td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjAHDFZ" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20project%20sparkle%20term%202.png" style="width:100%"> Project Sparkle Term 2
+			<a href="https://flic.kr/s/aHBqjB4qPg" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23_Townsville_Celebrates.png" style="width:100%"> Townsville Celebrates Awardees
 			</a>
 		</td>
 	</tr>
