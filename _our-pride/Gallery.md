@@ -24,33 +24,21 @@ variant: markdown
 <table>
 <tbody>
 	<tr>
-    <td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjAHDFZ" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20project%20sparkle%20term%202.png" style="width:100%"> Project Sparkle Term 2
-			</a>
-		</td>
-	</tr>
-	<tr>
-    <td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjAHJEU" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20choir%20choral%20exchange.png" style="width:100%"> Choir Choral Exchange
-			</a>
-		</td>
 		<td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHJEt" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20mtl%20culture%20camp.png" style="width:100%"> P4 MTL Culture Camp
+				<img src="/images/Gallery/23S3/Term2Prosprk23.png" style="width:100%"> Project Sparkle T2
 			</a>
 		</td>
 		<td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHHwN" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20charawd%20respect.png" style="width:100%"> Character Award Respect
+				<img src="/images/Gallery/23S3/tvpstar23.png" style="width:100%"> TVPStar
 			</a>
 		</td>
 	</tr>
 	<tr>
     <td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHHu3" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20hari%20raya%20prize%20winners.png" style="width:100%"> Hari Raya Winners
+				<img src="" style="width:100%"> Hari Raya Winners
 			</a>
 		</td>
 		<td style="text-align: center"> 
@@ -78,23 +66,6 @@ variant: markdown
 		<td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHHn4" target="_blank" rel="noopener noreferrer">
 				<img src="/images/Gallery/2023%20international%20friendship%20day.png" style="width:100%"> International Friendship Day
-			</a>
-		</td>
-  </tr>
-  <tr>
-    <td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjAHEb7" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20townsville%20investiture.png" style="width:100%"> Leaders in Townsville Investiture
-			</a>
-		</td>
-		<td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjAHJqR" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20mtl%20forthnight.png" style="width:100%"> MTL Fortnight
-			</a>
-		</td>
-		<td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjAHJmY" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20charawd%20diligence.png" style="width:100%"> Character Award Diligence
 			</a>
 		</td>
   </tr>
