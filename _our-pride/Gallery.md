@@ -43,29 +43,24 @@ variant: markdown
 		</td>
 		<td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHHor" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20english%20week.png" style="width:100%"> English Week
+				<img src="/images/Gallery/23S3/HeritGames23.png" style="width:100%"> Heritage Games
 			</a>
 		</td>
 		<td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHDq8" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20charawd%20aspiration.png" style="width:100%"> Character Award Aspiration
+				<img src="/images/Gallery/23S3/NEshow23.png" style="width:100%"> NE Show
 			</a>
 		</td>
 	</tr>
 	<tr>
     <td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHHnE" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20eco%20leader%20training.png" style="width:100%"> ECO Leaders Training
+				<img src="/images/Gallery/23S3/CharAwdExcel23.png" style="width:100%"> Character Award Excellence
 			</a>
 		</td>
 		<td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHJs4" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20p5%20camp.png" style="width:100%"> P5 Camp
-			</a>
-		</td>
-		<td style="text-align: center"> 
-			<a href="https://flic.kr/s/aHBqjAHHn4" target="_blank" rel="noopener noreferrer">
-				<img src="/images/Gallery/2023%20international%20friendship%20day.png" style="width:100%"> International Friendship Day
+				<img src="/images/Gallery/23S3/CharAwdEmpt23.png" style="width:100%"> Character Award Empathy
 			</a>
 		</td>
   </tr>
