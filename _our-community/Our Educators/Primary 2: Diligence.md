@@ -3,7 +3,7 @@ title: "Primary 2: Diligence"
 permalink: /our-community/our-educators/primary-2-diligence/
 description: ""
 third_nav_title: Our Educators
-variant: tiptap
+variant: markdown
 ---
 <table>
 <thead>
@@ -41,15 +41,15 @@ variant: tiptap
     <td colspan="2"><center><b>Integrity 5</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/2023_ms%20chan%20sui%20sui.jpg" style="width:65%"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20bianca%20ang%20hui%20ying.jpg" style="width:65%"> </td>
     <td><img src="/images/Teaching%20Staff/2023_mrs%20pearl%20phua-final.jpg" style="width:65%"> </td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Integrity 6</b></center></td>
   </tr>
   <tr>
+		<td><img src="/images/Teaching%20Staff/2023_mrs%20koh%20han%20ip.jpg" style="width:65%"></td>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20masliza%20bt%20misri.jpg" style="width:65%"> </td>
-    <td><img src="/images/Teaching%20Staff/2023_mrs%20koh%20han%20ip.jpg" style="width:65%"></td>
   </tr>
 </tbody>
 </table>
