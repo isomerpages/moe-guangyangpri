@@ -38,7 +38,7 @@ variant: markdown
 	<tr>
     <td style="text-align: center"> 
 			<a href="https://flic.kr/s/aHBqjAHHu3" target="_blank" rel="noopener noreferrer">
-				<img src="" style="width:100%"> Hari Raya Winners
+				<img src="/images/Gallery/23S3/NatDay23.png" style="width:100%"> National Day Celebration
 			</a>
 		</td>
 		<td style="text-align: center"> 
