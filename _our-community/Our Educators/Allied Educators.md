@@ -1,8 +1,9 @@
 ---
 title: Allied Educators
-permalink: /our-community/Our-Educators/Allied-Educators/
+permalink: /our-community/our-educators/allied-educators/
 description: ""
 third_nav_title: Our Educators
+variant: tiptap
 ---
 <table>
 <tbody>

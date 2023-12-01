@@ -1,6 +1,6 @@
 ---
 title: Gallery
-permalink: /our-pride/Gallery/
+permalink: /our-pride/gallery/
 description: ""
 variant: markdown
 ---
@@ -14,7 +14,90 @@ variant: markdown
 				<img src="/images/Gallery/23_Townsville_Celebrates.png" style="width:100%"> Townsville Celebrates Awardees
 			</a>
 		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4xFF" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23_Townsville_Celebrates.png" style="width:100%"> Townsville Celebrates Event
+			</a>
+		</td>
 	</tr>
+	<tr>
+    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4qK3" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S4/p6camp23.png" style="width:100%"> P6 Camp
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4txE" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S4/p5cele23.png" style="width:100%"> P5 Celebrates
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4tr2" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S4/r6birds23.png" style="width:100%"> Children's Day LJs 
+			</a>
+		</td>
+	</tr>
+	<tr>
+    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4oJL" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S4/t4recyld23.png" style="width:100%"> Recycling Drive
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4oLQ" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S4/p2terra23.png" style="width:100%"> P2 Terrarium Building
+			</a>
+		</td>
+	</tr>
+</tbody>
+</table>
+
+<br>
+<hr><br><br>
+
+<table>
+<tbody>
+	<tr>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4xpt" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S3/Term2Prosprk23.png" style="width:100%"> Project Sparkle T2
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4oJa" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S3/tvpstar23.png" style="width:100%"> TVPStar
+			</a>
+		</td>
+	</tr>
+	<tr>
+    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4s8r" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S3/NatDay23.png" style="width:100%"> National Day Celebration
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4s5f" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S3/HeritGames23.png" style="width:100%"> Heritage Games
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4s2Q" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S3/NEshow23.png" style="width:100%"> NE Show
+			</a>
+		</td>
+	</tr>
+	<tr>
+    <td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4tgN" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S3/CharAwdExcel23.png" style="width:100%"> Character Award Excellence
+			</a>
+		</td>
+		<td style="text-align: center"> 
+			<a href="https://flic.kr/s/aHBqjB4quJ" target="_blank" rel="noopener noreferrer">
+				<img src="/images/Gallery/23S3/CharAwdEmpt23.png" style="width:100%"> Character Award Empathy
+			</a>
+		</td>
+  </tr>
 </tbody>
 </table>
 
