@@ -3,7 +3,7 @@ title: "Primary 6: Excellence"
 permalink: /our-community/our-educators/primary-6-excellence/
 description: ""
 third_nav_title: Our Educators
-variant: tiptap
+variant: markdown
 ---
 <table>
 <thead>
@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20may%20quek.jpg" style="width:65%"></td>
-    <td><img src="/images/Teaching%20Staff/2023_mrs%20rachel%20long.jpg" style="width:65%"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20joycelyn%20ng.jpg" style="width:65%"> </td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Empathy 2</b></center></td>
@@ -28,7 +28,7 @@ variant: tiptap
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mr%20mohd%20hanafee%20b%20osman.jpg" style="width:65%"> </td>
-    <td><img src="/images/Teaching%20Staff/2023_mrs%20florence%20chia.jpg" style="width:65%"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20kang%20xin%20yuan.jpg" style="width:65%"> </td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Empathy 4</b></center></td>
@@ -55,7 +55,7 @@ variant: tiptap
 	<td colspan="4"><center><b>Empathy 7</b></center></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/2023_mr%20kelvin%20woon.jpg" style="width:65%"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_mdm%20suzana%20bte%20suah.jpg" style="width:65%"> </td>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20lim%20chiu%20har.jpg" style="width:65%"> </td>
   </tr>
 	<tr>
@@ -63,7 +63,7 @@ variant: tiptap
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20mahanom%20bte%20daing%20basok.jpg" style="width:65%"> </td>
-    <td><img src="/images/Teaching%20Staff/2023_mdm%20aidah%20binte%20hosni.jpg" style="width:65%"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_mr%20lim%20boon%20hai.jpg" style="width:65%"> </td>
   </tr>
 </tbody>
 </table>
