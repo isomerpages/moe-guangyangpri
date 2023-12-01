@@ -8,7 +8,7 @@ variant: markdown
 <table>
 <thead>
   <tr>
-		<td colspan="2"><center><b>Integrity 1</b></center></td>
+		<td colspan="2"><center><b>Diligence 1</b></center></td>
   </tr>
 </thead>
 <tbody>
@@ -17,35 +17,35 @@ variant: markdown
     <td><img src="/images/Teaching%20Staff/2023_mdm%20chan%20fei%20kuan.jpg" style="width:65%"> </td>
   </tr>
   <tr>
-    <td colspan="2"><center><b>Integrity 2</b></center></td>
+    <td colspan="2"><center><b>Diligence 2</b></center></td>
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mr%20tan%20yong%20zu.jpg" style="width:65%"></td>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20chua%20xingxuan.jpg" style="width:65%"></td>
   </tr>
   <tr>
-    <td colspan="2"><center><b>Integrity 3</b></center></td>
+    <td colspan="2"><center><b>Diligence 3</b></center></td>
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20lim%20siew%20hua.jpg" style="width:65%"> </td>
     <td><img src="/images/Teaching%20Staff/2023_ms%20koh%20shiew%20ling.jpg" style="width:65%"> </td>
   </tr>
   <tr>
-    <td colspan="2"><center><b>Integrity 4</b></center></td>
+    <td colspan="2"><center><b>Diligence 4</b></center></td>
   </tr>
   <tr>
     <td> <img src="/images/Teaching%20Staff/mrs%20cheah-loo%20yin%20hui.jpg" style="width:65%"></td>
     <td><img src="/images/Teaching%20Staff/2023_ms%20valerie%20moh.jpg" style="width:65%"> </td>
   </tr>
   <tr>
-    <td colspan="2"><center><b>Integrity 5</b></center></td>
+    <td colspan="2"><center><b>Diligence 5</b></center></td>
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_ms%20bianca%20ang%20hui%20ying.jpg" style="width:65%"> </td>
     <td><img src="/images/Teaching%20Staff/2023_mrs%20pearl%20phua-final.jpg" style="width:65%"> </td>
   </tr>
   <tr>
-    <td colspan="2"><center><b>Integrity 6</b></center></td>
+    <td colspan="2"><center><b>Diligence 6</b></center></td>
   </tr>
   <tr>
 		<td><img src="/images/Teaching%20Staff/2023_mrs%20koh%20han%20ip.jpg" style="width:65%"></td>
