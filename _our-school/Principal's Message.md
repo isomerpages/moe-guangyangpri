@@ -15,7 +15,7 @@ Embedded within our ethos are the values that define us — encapsulated in iDAR
 
 Together, as a community driven by these values, we not only prepare our students for academic success but also equip them to thrive in a diverse and ever-evolving world. Our commitment remains steadfast in providing a nurturing environment that fosters intellectual curiosity, emotional intelligence and social responsibility.
 
-I am immensely proud of our students, staff and parents who collectively contribute to the vibrant tapestry that is Townsville Primary School. As we embark on this journey together, let us continue to uphold these values and work collaboratively towards a future where each individual realises their fullest potential.
+I am immensely proud of our students, staff and parents who collectively contribute to the vibrant tapestry that is Townsville Primary School. As we embark on this journey together, let us continue to uphold these values and work collaboratively towards a future where each individual realizes their fullest potential.
 
 <p><img align="left" style="width:30%" src="/images/School%20Leaders/Eddie%20Foo2.jpg"></p>
 <br clear="left">
