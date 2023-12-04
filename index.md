@@ -15,7 +15,7 @@ sections:
       title: Follow Us
       description: All Our Socials in One Place
       button: View All Links
-      url: /follow-us
+      url: /contact-us/
   - infopic:
       title: Contact Us
       button: View More
