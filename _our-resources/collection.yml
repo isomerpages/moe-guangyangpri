@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/School Calendar.md
+      - For Parents/School Schedule.md
       - For Parents/Letters to Parents.md
       - For Parents/Parent Gateway.md
       - For Parents/Sexuality Education.md
