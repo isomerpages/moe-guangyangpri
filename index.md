@@ -12,7 +12,7 @@ sections:
       title: Announcements
       id: resources
   - infopic:
-      title: Contact & Follow Us
+      title: Connect with Us
       button: View More
       url: /contact-us
       image: /images/Townsville Pri Map.png
