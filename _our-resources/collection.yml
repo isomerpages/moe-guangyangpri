@@ -2,7 +2,6 @@ collections:
   our-resources:
     output: true
     order:
-      - Our Library.md
       - For Parents/.keep
       - For Parents/School Calendar.md
       - For Parents/Letters to Parents.md
@@ -12,5 +11,6 @@ collections:
       - For Students/Student ICON.md
       - For Students/Student Learning Space.md
       - School Vendors.md
+      - Our Library.md
       - School Contact Information.md
       - FAQ.md
