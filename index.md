@@ -11,13 +11,8 @@ sections:
   - resources:
       title: Announcements
       id: resources
-  - infobar:
-      title: Follow Us
-      description: All Our Socials in One Place
-      button: View All Links
-      url: /contact-us/
   - infopic:
-      title: Contact Us
+      title: Contact Us & Follow Us
       button: View More
       url: /contact-us
       image: /images/Townsville Pri Map.png
