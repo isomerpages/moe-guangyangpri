@@ -25,4 +25,5 @@ sections:
       url: /contact-us
       image: /images/Townsville Pri Map.png
       alt: map
+      description: Our Address, E-mail, Socials & more!
 ---
