@@ -8,6 +8,14 @@ notification: ""
 sections:
   - hero:
       background: /images/Homepage Banner Photos/main homepage banner gif.gif
+      key_highlights:
+        - title: For Parents
+          description: Information & Apps for Parents
+          url: ""
+        - title: For Students
+          description: Activities & Apps for Students
+          url: ""
+      title: Townsville Primary School
   - resources:
       title: Announcements
       id: resources
