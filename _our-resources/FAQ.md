@@ -2,6 +2,7 @@
 title: FAQ
 permalink: /our-school/faq/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
   <li>
