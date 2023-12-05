@@ -14,7 +14,7 @@ sections:
           url: https://townsvillepri.moe.edu.sg/our-resources/for-parents/school-calendar/
         - title: For Students
           description: Activities & Apps for Students
-          url: ""
+          url: /our-resources/for-students/student-icon/
       title: Townsville Primary School
   - resources:
       title: Announcements
