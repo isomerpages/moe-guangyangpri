@@ -16,5 +16,18 @@ third_nav_title: For Parents
 			<br>
 			<a href="https://apps.apple.com/us/app/classdojo/id552602056">iOS</a>
 2) Create a Parent's Account
-<img src="/images/For%20Parents/ClassDojo_1.jpg" style="width: 50%">
-3) 
+<img src="/images/For%20Parents/ClassDojo_1.jpg" style="width:50%">
+3) Find your Child's Teacher
+<table>
+<tbody>
+  <tr>
+    <td><img src="/images/For%20Parents/ClassDojo_2.jpg" style="width:50%"></td>
+		<td><img src="/images/For%20Parents/ClassDojo_3.jpg" style="width:50%"></td>
+  </tr>
+	  <tr>
+    <td><img src="/images/For%20Parents/ClassDojo_4.jpg" style="width:50%"></td>
+  </tr>
+</tbody>
+</table>
+
+For further help, click <a href="https://classdojo.zendesk.com/hc/en-us">here</a>
