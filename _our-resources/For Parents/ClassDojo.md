@@ -16,4 +16,5 @@ third_nav_title: For Parents
 			<br>
 			<a href="https://apps.apple.com/us/app/classdojo/id552602056">iOS</a>
 2) Create a Parent's Account
-<img style="width: 50%">/images/For%20Parents/ClassDojo_1.jpg
+<img src="/images/For%20Parents/ClassDojo_1.jpg" style="width: 50%">
+3) 
