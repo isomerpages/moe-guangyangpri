@@ -17,6 +17,8 @@ Website: https://www.pacificbookstores.com / https://www.pacificeshop.com
 
 <strong>SFX Transport Pte Ltd</strong>
 <br>
+SFX Transport Pte Ltd is the appointed vendor for the provision of daily school bus services for the students with effect from 1 January 2024. If you intend to engage the bus services, please contact SFX Transport Pte Ltd:
+<br>
 Email : school@sfxtransport.com.sg
 <br>
 Contact Numbers : 6282 0262 / 9182 8858 / 9622 0262
@@ -32,6 +34,8 @@ To Apply, please fill this form: [Application Form](https://drive.google.com/fil
 <p style="font-size:20px"><strong>Student Care Centre Contact</strong></p>
 
 <strong>Nascans</strong>
+<br>
+The school-based Student Care Centre (SCC) provider, Nascans, had started its operations on Tuesday, 2 January 2024.If you intend to enrol your children in the SCC in 2024, please contact Nascans directly:
 <br>
 Email : [tvscc@nascans.com](mailto:tvscc@nascans.com)<br>
 Contact : 8787 0578
