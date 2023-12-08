@@ -5,7 +5,6 @@ description: ""
 third_nav_title: For Parents
 variant: markdown
 ---
-
 <img src="/images/For%20Parents/2022_parents_gateway_logo.png" style="width:30%">
 
 <h3>What is Parents Gateway?</h3>
