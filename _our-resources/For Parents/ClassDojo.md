@@ -6,7 +6,7 @@ description: ""
 third_nav_title: For Parents
 ---
 ![](/images/For%20Parents/Classdojo.png)
-<strong>ClassDojo</strong> is a messaging tool to help our community stay connected, inside the classroom and out. Townsville Primary School uses this Application to connect to our parents (without having to share your phone number). 
+<strong>ClassDojo</strong> is a messaging tool to help our community stay connected, inside the classroom and out. Townsville Primary School uses this Application to connect to our parents (without having to share their phone number). 
 
 <h5>How to use</h5>
 
