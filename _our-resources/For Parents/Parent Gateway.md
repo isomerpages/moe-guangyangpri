@@ -27,4 +27,4 @@ Get access to all your children’s school announcements and consent forms from 
 				<img src="/images/School%20&amp;%20Extra%20Logos/Download_on_the_App_Store_Badge_US-UK_blk_092917.png" style="width:20%"> </a>
 
 <h5>Need help?</h5>
-Read the FAQ here: https://pg.moe.edu.sg/faq
+Read the FAQ here: <a href="https://pg.moe.edu.sg/faq" target="_blank" rel="noopener noreferrer">https://pg.moe.edu.sg/faq</a>
