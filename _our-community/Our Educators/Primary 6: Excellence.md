@@ -14,7 +14,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20may%20quek.jpg" style="width:65%"></td>
-    <td><img src="/images/Teaching%20Staff/2023_mrs%20joycelyn%20ng.jpg" style="width:65%"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20kang%20xin%20yuan.jpg" style="width:65%"> </td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Excellence 2</b></center></td>
@@ -28,7 +28,7 @@ variant: markdown
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mr%20mohd%20hanafee%20b%20osman.jpg" style="width:65%"> </td>
-    <td><img src="/images/Teaching%20Staff/2023_mrs%20kang%20xin%20yuan.jpg" style="width:65%"> </td>
+    <td><img src="/images/Teaching%20Staff/2023_mrs%20joycelyn%20ng.jpg" style="width:65%"> </td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Excellence 4</b></center></td>
