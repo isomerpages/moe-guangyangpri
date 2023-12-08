@@ -2,24 +2,28 @@
 layout: homepage
 title: Townsville Primary School
 description: An Isomer site of the Singapore Government
-image: /images/TVPS confirmed logo-01.png
+image: /images/School & Extra Logos/TVPS confirmed logo-01.png
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Hero Photos/homepage banner gif.gif
+      background: /images/Homepage/main homepage banner gif.gif
+      key_highlights:
+        - title: For Parents
+          description: Information & Apps for Parents
+          url: https://townsvillepri.moe.edu.sg/our-resources/for-parents/school-calendar/
+        - title: For Students
+          description: Activities & Apps for Students
+          url: /our-resources/for-students/student-icon/
+      title: Townsville Primary School
   - resources:
       title: Announcements
       id: resources
-  - infobar:
-      title: Follow Us
-      description: All Our Socials in One Place
-      button: View All Links
-      url: /follow-us
   - infopic:
-      title: Contact Us
+      title: Connect with Us
       button: View More
       url: /contact-us
       image: /images/Townsville Pri Map.png
       alt: map
+      description: Our Address, E-mail, Socials & more!
 ---

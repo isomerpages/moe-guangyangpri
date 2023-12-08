@@ -2,13 +2,14 @@
 title: FAQ
 permalink: /our-school/faq/
 description: ""
+variant: markdown
 ---
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
 		<label for="accordion1"><h5>Q1. What are the operating hours of the General Office?</h5></label>
     <div>
-      <p>A1: The counter at the General Office is manned from 7.00 am to 5.00 pm, Monday to Friday.</p>
+      <p>A1: The counter at the General Office is manned from 7.00 am to 5.00 pm, Monday to Friday. Please enter by the front gate when visiting the school and get a visirtors pass.</p>
     </div>
 	</li>  
 	  <li>

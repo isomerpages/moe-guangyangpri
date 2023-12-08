@@ -1,7 +1,8 @@
 ---
 title: Follow Us
-permalink: /follow-us/
+permalink: /contact-us/
 description: ""
+variant: tiptap
 ---
 <h2 style="color:red;">Our Social Media Links</h2>
 

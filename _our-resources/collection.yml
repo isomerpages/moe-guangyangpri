@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/School Calendar.md
+      - For Parents/School Schedule.md
       - For Parents/Letters to Parents.md
-      - For Parents/Parent Gateway.md
-      - For Parents/Financial Assistance.md
+      - For Parents/Parents Gateway.md
+      - For Parents/ClassDojo.md
       - For Parents/Sexuality Education.md
       - For Students/.keep
-      - For Students/Student ICON.md
+      - For Students/Student iCON.md
       - For Students/Student Learning Space.md
-      - Our Library.md
       - School Vendors.md
+      - Our Library.md
       - School Contact Information.md
       - FAQ.md
