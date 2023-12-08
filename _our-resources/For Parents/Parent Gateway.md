@@ -21,10 +21,10 @@ Get access to all your children’s school announcements and consent forms from 
 *   Discover curated parenting resources to better support your children in their education journey.
 
 <h5>Download the app here</h5>
-
-[Android](https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG&amp;gl=US&amp;pli=1)
-
-[iOS](https://apps.apple.com/sg/app/parents-gateway/id1267198708)
+			<a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG&amp;gl=US&amp;pli=1" target="_blank" rel="noopener noreferrer">
+				<img src="/images/School%20&amp;%20Extra%20Logos/google-play-badge-300x116-1.png" style="width:25%"> </a>
+			<a href="https://apps.apple.com/sg/app/parents-gateway/id1267198708" target="_blank" rel="noopener noreferrer">
+				<img src="/images/School%20&amp;%20Extra%20Logos/Download_on_the_App_Store_Badge_US-UK_blk_092917.png" style="width:20%"> </a>
 
 <h5>Need help?</h5>
 Read the FAQ here: https://pg.moe.edu.sg/faq
