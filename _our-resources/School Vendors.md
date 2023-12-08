@@ -8,8 +8,8 @@ variant: markdown
 
 <p style="font-size:20px"><strong>Bookshop Vendor Contact</strong></p>
 <strong>Pacific Bookstores</strong>
-
-Website: https://www.pacificbookstores.com / https://www.pacificeshop.com
+<br>
+Website: <a href="https://www.pacificbookstores.com">https://www.pacificbookstores.com</a> / <a href="https://www.pacificeshop.com">https://www.pacificeshop.com</a> 
 
 <hr>
 
