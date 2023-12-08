@@ -12,11 +12,15 @@ third_nav_title: For Parents
 
 1) Download the Application here:
 			<br>
-			<a href="https://play.google.com/store/apps/details?id=com.classdojo.android&amp;pli=1">Android</a>
+			<a href="https://play.google.com/store/apps/details?id=com.classdojo.android&amp;pli=1" target="_blank" rel="noopener noreferrer">
+				<img src="/images/School%20&amp;%20Extra%20Logos/google-play-badge-300x116-1.png" style="width:25%"> </a>
 			<br>
-			<a href="https://apps.apple.com/us/app/classdojo/id552602056">iOS</a>
+			<a href="https://play.google.com/store/apps/details?id=com.classdojo.android&amp;pli=1" target="_blank" rel="noopener noreferrer">
+				<img src="/images/School%20&amp;%20Extra%20Logos/Download_on_the_App_Store_Badge_US-UK_blk_092917.png" style="width:20%"> </a>
+<br>
 2) Create a Parent's Account
 <img src="/images/For%20Parents/ClassDojo_1.jpg" style="width:50%">
+<br>
 3) Find your Child's Teacher
 <table>
 <tbody>
