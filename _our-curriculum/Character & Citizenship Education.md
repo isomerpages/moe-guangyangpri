@@ -8,7 +8,7 @@ variant: markdown
 
 A resilient and responsible Townsvillite; a compassionate and active member of the community.<hr><br>
 
-<strong>Teaching Approach</strong>
+<h4>Teaching Approach</h4>
 
 The CCE curriculum is based on the three big ideas of Identity, Relationships and Choices. It involves the teaching and learning of core values and social-emotional competencies with a focus on developing a sense of purpose in our students.
 
