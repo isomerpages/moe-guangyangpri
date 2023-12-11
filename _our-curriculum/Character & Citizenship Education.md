@@ -40,7 +40,7 @@ Through the SEE approach, students learn to recognise and clarify their values t
 
 There are several learning platforms where CCE is enacted with intentionality. These include CCE lessons during curriculum time, planned student development learning experiences beyond the classroom, teachable moments during other subject lessons and learning opportunities beyond school.<br>
 
-1.  CCE Lessons
+1.  <u>CCE Lessons</u>
     
 
 A dedicated curriculum time for the explicit teaching and learning of values and social-emotional competencies, as well as engaging and building relationships with our students:
@@ -51,23 +51,17 @@ A dedicated curriculum time for the explicit teaching and learning of values and
 
 &nbsp;
 
-2.  Student Development Experiences (SDEs)
+2.  <u>Student Development Experiences (SDEs)</u>
     
 
 SDEs are programmes and activities that contribute towards the holistic development of our students in physical, aesthetic, intellectual, moral, and social domains:
 
 ● &nbsp; &nbsp; &nbsp; Co-Curricular Activities;<br>
-
 ● &nbsp; &nbsp; &nbsp; Cohort Learning Journeys;<br>
-
 ● &nbsp; &nbsp; &nbsp; Education and Career Guidance Experiences;<br>
-
 ● &nbsp; &nbsp; &nbsp; National Education;<br>
-
 ● &nbsp; &nbsp; &nbsp; Outdoor Adventure Learning Cohort Camps;<br>
-
 ● &nbsp; &nbsp; &nbsp; Student Leadership Development Programmes; and<br>
-
 ● &nbsp; &nbsp; &nbsp; Values in Action<br>
 
 
