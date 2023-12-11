@@ -14,7 +14,6 @@ The CCE curriculum is based on the three big ideas of Identity, Relationships an
 
 
 These fundamentals are taught and applied in the six curriculum content areas of CCE:
-
 1.  National Education
     
 2.  Sexuality Education
@@ -26,26 +25,18 @@ These fundamentals are taught and applied in the six curriculum content areas of
 5.  Cyber Wellness
     
 6.  Family Education
-    
-
-<br>&nbsp;
 
 At Townsville, CCE is an ongoing, lifelong journey that unfolds through diverse experiences. Teachers use the SEE approach to craft and support these experiences to facilitate effective learning and attain the CCE's learning outcomes. These experiences are carefully tailored to suit the needs and interests of our students, optimizing their relevance through genuine and meaningful ties to real-world situations.
 
-SEE Approach
+<strong><u>SEE Approach</u></strong>
 
-1.  Stories and scenarios<br>
-    
-2.  Explicit skills instruction<br>
-    
-3.  Experiential learning<br>
-    
-
-<br>
+1.  <u>S</u>tories and scenarios<br>
+2.  <u>E</u>xplicit skills instruction<br>
+3.  <u>E</u>xperiential learning<br>
 
 Through the SEE approach, students learn to recognise and clarify their values through the process of perspective taking and reflections. Students will be equipped with important social and emotional skills to assist them in navigating various life circumstances and guide them in making responsible decisions. Most importantly, students will undergo a cycle of participating, reflecting, thinking, and acting to internalise their learning experiences.
 
-Key Programmes
+<strong>Key Programmes</strong>
 
 There are several learning platforms where CCE is enacted with intentionality. These include CCE lessons during curriculum time, planned student development learning experiences beyond the classroom, teachable moments during other subject lessons and learning opportunities beyond school.<br>
 
@@ -55,9 +46,7 @@ There are several learning platforms where CCE is enacted with intentionality. T
 A dedicated curriculum time for the explicit teaching and learning of values and social-emotional competencies, as well as engaging and building relationships with our students:
 
 ● &nbsp; &nbsp; &nbsp; CCE (FTGP)<br>
-
 ● &nbsp; &nbsp; &nbsp; CCE (MTL)<br>
-
 ● &nbsp; &nbsp; &nbsp; PAL (P1 and P2)<br>
 
 &nbsp;
