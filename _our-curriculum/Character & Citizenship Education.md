@@ -76,40 +76,37 @@ SDEs are programmes and activities that contribute towards the holistic developm
 
 
 
-3.  School-based Initiatives
+3.  <u>School-based Initiatives</u>
     
 
 At Townsville, students also undergo uniquely designed experiences to foster a caring and enabling school environment for learning:
 
-Project Sparkle
+<strong>Project Sparkle</strong>
 
 Under the supervision of Eco Student Leaders, students develop a sense of responsibility and care for their environment through daily cleaning and adopting sustainable practices in school. At the end of each term, a thorough wipe down and clean-up of the classrooms are done to ensure the class is ready for the following term.
 
 
 
-NE Assembly Programmes
+<strong>NE Assembly Programmes</strong>
 
 Through NE Commemorative Days such as Total Defence Day and National Day, students learn about Singapore’s important milestones and how they can play their part to keep Singapore a diverse, unified, and resilient country. Mass assembly programmes serve as platforms to educate and remind students on the different national values required to ensure Singapore’s peace and stability.
 
-Weekly SIR &amp; KIR Programme
+<strong>Weekly SIR &amp; KIR Programme</strong>
 
 The Start-It-Right (SIR) and Keep-It-Right (KIR) are structured in students’ weekly timetables where the school’s IDARE2 values and Student’s Creed are taught explicitly. Through case studies, discussion and reflections, students are guided through the process of responsible decision making that is anchored on the values and expected behaviours.
 
 
 
-Positive Teacher - Student Relationships
+<strong>Positive Teacher - Student Relationships</strong>
 
 During the weekly Form Teacher (FT) interaction sessions, FTs engage students individually to check in on their well-being. These sessions also serve as a safe and conducive channel for students to share their challenges and concerns with their teachers, and for teachers to keep a lookout for potential issues amongst our students.
 
-4.  Other Subjects
+4.  <u>Other Subjects</u>
     
 
 Besides linking CCE learning outcomes to content knowledge in other subject areas, the learning of values and social-emotional competencies can also occur through teachable moments.
 
-5.  Personal Applications
+5.  <u>Personal Applications</u>
     
 
 Students are taught to reflect on their character growth as a lifelong process to develop the habit of self-reflection and gratitude. CCE provides the knowledge and skills to help our students make sense of their life experiences and the language to express their learning and development.
-
-  
-**
