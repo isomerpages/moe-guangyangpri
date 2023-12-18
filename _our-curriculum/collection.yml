@@ -2,11 +2,11 @@ collections:
   our-curriculum:
     output: true
     order:
-      - English Language/Speech & Drama.md
+      - English Language/.keep
+      - English Language/English Language.md
       - English Language/Intervention Programmes.md
       - English Language/English Language Talent Superstar.md
-      - English Language/English Language.md
-      - English Language/.keep
+      - English Language/Speech & Drama.md
       - Mathematics.md
       - Science.md
       - Mother Tongue Languages.md
