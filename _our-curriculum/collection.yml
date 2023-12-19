@@ -2,7 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
-      - English Language/Personal Development.md
+      - English Language/Professional Development.md
       - English Language/Featured @ The Straits Times.md
       - English Language/.keep
       - English Language/English Language.md
