@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - English Language/.keep
-      - English Language/Vision.md
+      - English Language/English Language.md
       - English Language/Intervention Programmes.md
       - English Language/English Language Talent Superstar.md
       - English Language/Speech & Drama.md
