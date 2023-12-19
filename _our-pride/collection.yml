@@ -2,6 +2,7 @@ collections:
   our-pride:
     output: true
     order:
+      - Signature Programmes/Leaders In Townsville.md
       - Signature Programmes/.keep
       - Signature Programmes/Thinking Curriculum.md
       - Signature Programmes/Learn for Life Programme.md
