@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mathematics/E2K Programme.md
       - Mathematics/Learning Support for Mathermatics.md
       - Mathematics/Mathematics.md
       - Mathematics/.keep
