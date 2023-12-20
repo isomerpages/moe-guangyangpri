@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - Mathematics/Math Competitions.md
       - Mathematics/Math Around Us.md
       - Mathematics/Financial Literacy.md
       - Mathematics/E2K Programme.md
