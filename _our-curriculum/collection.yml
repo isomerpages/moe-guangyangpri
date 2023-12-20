@@ -2,13 +2,13 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Mathematics/Math Competitions.md
-      - Mathematics/Math Around Us.md
-      - Mathematics/Financial Literacy.md
-      - Mathematics/E2K Programme.md
-      - Mathematics/Learning Support for Mathermatics.md
-      - Mathematics/Mathematics.md
       - Mathematics/.keep
+      - Mathematics/Mathematics.md
+      - Mathematics/Learning Support for Mathermatics.md
+      - Mathematics/E2K Programme.md
+      - Mathematics/Math Competitions.md
+      - Mathematics/Financial Literacy.md
+      - Mathematics/Math Around Us.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Intervention Programmes.md
