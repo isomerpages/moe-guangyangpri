@@ -23,7 +23,7 @@ sections:
       title: Connect with Us
       button: View More
       url: /contact-us
-      image: /images/Townsville Pri Map.png
+      image: /images/Homepage/Connect_With_Us.JPG
       alt: map
       description: Our Address, E-mail, Socials & more!
 ---

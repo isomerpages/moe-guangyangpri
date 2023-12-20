@@ -1,0 +1,8 @@
+---
+title: Internationalisation
+permalink: /our-curriculum/english-language/internationalisation/
+variant: tiptap
+description: ""
+third_nav_title: English Language
+---
+<h3><strong>Internationalisation with Singapore National Academy, Indonesia</strong></h3><p>With the emphasis on developing 21st century competencies of global awareness, cross-culture skills and sensitivities, our school embarked on a cultural exchange programme with Singapore National Academy, Indonesia as part of our internationalisation experience.</p><p>From 18th September (Monday) to 20th September (Wednesday), 22 students and 3 teachers joined us for this cultural exchange. The objectives were to:</p><ul data-tight="true" class="tight"><li><p>provide students with the opportunity to interact with students from different cultures</p></li><li><p>develop a sense of awareness and appreciation of Singapore’s progress and development</p></li></ul><p>Our P4 and P5 students were paired up with their Indonesian friends in this cultural exchange programme. They had the opportunity to mix and mingle with their Indonesian friends and learn more about the vibrant Indonesian culture. Through this, our students also nurtured a global awareness and deep appreciation for Singapore’s incredible journey of progress and development.</p><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/enginternational_1.png"></div><p></p>
