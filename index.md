@@ -15,7 +15,6 @@ sections:
         - title: For Students
           description: Activities & Apps for Students
           url: /our-resources/for-students/student-icon/
-      title: Townsville Primary School
   - resources:
       title: Announcements
       id: resources
