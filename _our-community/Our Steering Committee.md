@@ -75,7 +75,6 @@ variant: markdown
     <td><img src="/images/Teaching%20Staff/mr%20ben%20sng.jpg" style="width:65%"></td>
   </tr>
   <tr>
-    <td><img src="/images/Teaching%20Staff/mr%20shane%20quek.jpg" style="width:65%"></td>
 		<td><img src="/images/Teaching%20Staff/ms%20toh%20xiao%20ting.jpg" style="width:65%"></td>
   </tr>
 </tbody>
@@ -109,7 +108,7 @@ variant: markdown
   </tr>
   <tr>
     <td><img src="/images/EAS%20Staff/2023_mr%20mohammad%20zhafrie%20bin%20jalil-final.jpg" style="width:65%"></td>
-    <td><img src="/images/EAS%20Staff/2023_mr%20lau%20cheng%20nam.jpg" style="width:65%"></td>
+    <td><img src="/images/EAS%20Staff/2023_mr%20hadi%20asyaari%20bin%20ahmad.jpg" style="width:65%"></td>
   </tr>
 
 </tbody>
