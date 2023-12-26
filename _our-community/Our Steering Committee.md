@@ -24,8 +24,9 @@ variant: markdown
 <table>
 <tbody>
   <tr>
-    <td><img src="/images/Teaching%20Staff/2023_ms%20ong%20chor%20meng.jpg" style="width:65%"></td> <td><img src="/images/Teaching%20Staff/2023_mdm%20shanthi%20deenathayalan.jpg" style="width:65%">
-  </td></tr>
+    <td><a src="/images/School%20Leaders/mr%20sunny%20ho.jpg" style="width:65%"></a></td>
+    <td><img src="/images/Teaching%20Staff/2023_ms%20ong%20chor%20meng.jpg" style="width:65%"></td>
+	</tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mdm%20lye%20choon%20hwan-final.jpg" style="width:65%"></td>
     <td><img src="/images/Teaching%20Staff/2023_mrs%20lee%20peck%20har-final.jpg" style="width:65%"></td>
