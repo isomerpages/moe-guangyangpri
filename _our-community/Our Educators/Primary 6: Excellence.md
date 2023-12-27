@@ -45,7 +45,7 @@ variant: markdown
     <td><img src="/images/Teaching%20Staff/2023_mdm%20junaidah%20bte%20mohd%20sali.jpg" style="width:65%"> </td>
   </tr>
   <tr>
-    <td colspan="2"><center><b>Empathy 6</b></center></td>
+    <td colspan="2"><center><b>Excellence 6</b></center></td>
   </tr>
   <tr>
     <td><img src="/images/Teaching%20Staff/2023_mr%20lai%20chih%20wei.jpg" style="width:65%"> </td>
