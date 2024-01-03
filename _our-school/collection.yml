@@ -1,0 +1,8 @@
+collections:
+  our-school:
+    output: true
+    order:
+      - Principal's Foreword.md
+      - Our Origins.md
+      - Our Ethos.md
+      - Our School Song.md

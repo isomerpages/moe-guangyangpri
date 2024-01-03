@@ -1,0 +1,18 @@
+collections:
+  our-community:
+    output: true
+    order:
+      - Our Steering Committee.md
+      - Our Educators/.keep
+      - "Our Educators/Primary 1: Integrity.md"
+      - "Our Educators/Primary 2: Diligence.md"
+      - "Our Educators/Primary 3: Aspiration.md"
+      - "Our Educators/Primary 4: Respect.md"
+      - "Our Educators/Primary 5: Empathy.md"
+      - "Our Educators/Primary 6: Excellence.md"
+      - Our Educators/Allied Educators.md
+      - Our Executive and Admin Staff.md
+      - School Advisory Committee.md
+      - Our Partners/.keep
+      - Our Partners/Partners in Action.md
+      - Our Partners/Parent Support Group.md

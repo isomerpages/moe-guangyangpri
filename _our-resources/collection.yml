@@ -1,0 +1,16 @@
+collections:
+  our-resources:
+    output: true
+    order:
+      - For Parents/.keep
+      - For Parents/School Schedule.md
+      - For Parents/Parents Gateway.md
+      - For Parents/ClassDojo.md
+      - For Parents/Sexuality Education.md
+      - For Students/.keep
+      - For Students/Student iCON.md
+      - For Students/Student Learning Space.md
+      - School Vendors.md
+      - Our Library.md
+      - School Contact Information.md
+      - FAQ.md
