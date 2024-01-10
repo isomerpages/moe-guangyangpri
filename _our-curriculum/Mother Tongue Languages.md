@@ -2,6 +2,7 @@
 title: Mother Tongue Languages
 permalink: /our-curriculum/mother-tongue-languages/
 description: ""
+variant: markdown
 ---
 <h1 style="color:red;font-size:30px">Mother Tongue Languages</h1>
 
@@ -19,7 +20,7 @@ Using the Gradual Release of Responsibility (GRR) model of instruction with Expl
 
 21st CC skills which include social knowledge, care for society, global awareness and humanistic values which includes moral values and traditional culture.&nbsp;
 
-Thinking framework which includes UPDC （Understand-Plan-Do-Check), 5W1H, Mind-mapping, Think-Pair-Share, PEEL.
+Thinking framework which includes 5W1H, Mind-mapping, Think-Pair-Share, PEEL.
 
 <p style="font-size:20px">Key Programmes</p>Mother Tongue Fortnight
 
