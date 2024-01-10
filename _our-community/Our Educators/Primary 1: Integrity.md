@@ -45,7 +45,7 @@ variant: markdown
     <td><a href="mailto: siti_wazirah_daud@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20wazirah%20covas.jpg" style="width:65%"></a></td>
   </tr>
 	<tr>
-		<td><a href="mailto: Tan_Pei_Ming_Elizabeth@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_ms%20elizabeth%20tan.jpg" style="width:65%"> </a></td>
+		<td><a href="mailto: Tan_Pei_Ming_Elizabeth@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_ms%20elizabeth%20tan.jpg" style="width:65%"></a></td>
 	</tr>
 </tbody>
 </table>
