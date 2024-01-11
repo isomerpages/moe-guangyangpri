@@ -46,3 +46,5 @@ variant: markdown
   </tr>
 </tbody>
 </table>
+
+*Click on the photos for their E-mails.
