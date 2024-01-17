@@ -2,8 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
-      - MT/Mother Tongue Languages.md
-      - MT/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
+      - Mother Tongue Languages/.keep
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Intervention Programmes.md
