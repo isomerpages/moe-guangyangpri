@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - MT/Mother Tongue Languages.md
       - MT/.keep
       - English Language/.keep
       - English Language/English Language.md
