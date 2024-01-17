@@ -2,8 +2,8 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Science 2/Science.md
-      - Science 2/.keep
+      - Science/Science.md
+      - Science/.keep
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Intervention Programmes.md
