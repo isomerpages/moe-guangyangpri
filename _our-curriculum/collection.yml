@@ -2,9 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - Mother Tongue Languages/.keep
-      - Mother Tongue Languages/Mother Tongue Languages.md
-      - Mother Tongue Languages/Mother Tongue Fortnight.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Intervention Programmes.md
@@ -20,6 +17,9 @@ collections:
       - Mathematics/Math Competitions.md
       - Mathematics/Financial Literacy.md
       - Mathematics/Math Around Us.md
+      - Mother Tongue Languages/.keep
+      - Mother Tongue Languages/Mother Tongue Languages.md
+      - Mother Tongue Languages/Mother Tongue Fortnight.md
       - Science/.keep
       - Science/Science.md
       - Science/SciQuest.md
