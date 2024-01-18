@@ -2,6 +2,7 @@
 title: Aesthetics
 permalink: /our-curriculum/aesthetics/
 description: ""
+variant: markdown
 ---
 <h1 style="color:red;font-size:30px">Aesthetics</h1>
 
@@ -12,7 +13,7 @@ Committed to the development of confident artists with a passion and appreciatio
 
 <p style="font-size:20px"><strong>Teaching Approach</strong></p>
 
-![](/images/Aesthetic.png)
+![](/images/Aesthetics/Aesthetic.png)
 
 Using the 3Es approach of Exposure, Extension and Excellence, we aim to cater to the different learning interests and abilities of our students by offering a varied range and levels of experiences. All students are given the&nbsp; opportunity to develop their skills in art appreciation and expression through our Visual Arts and Music curriculum. At the same time, students may also choose to further extend their learning in the Visual Arts via CCAs and other specialised programs offered by the school.
 
