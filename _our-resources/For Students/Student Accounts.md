@@ -7,11 +7,9 @@ third_nav_title: For Students
 ---
 <h1>Student MOE Identity Management System (MIMS)</h1>
 <p></p>
-<p>MIMS is the primary mode for students to log in to MOE ICT tools. School
-Laptops, Student iCON and Student Learning Space (SLS) now require a MIMS
-account to log in.</p>
-<p></p>
-<p></p>
+<p>MIMS replaces IAMS 2.0 as the primary mode for students to log in to MOE
+ICT tools. School Laptops, Student iCON and Student Learning Space (SLS)
+now require a MIMS account to log in.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/For Students/MIMS_Image_1.png">
 </div>
@@ -54,14 +52,12 @@ on page 21)</p>
 </div>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
+<p></p>
+<h4>Forgetting the Password</h4>
+<p>Visit the <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a> and
+click Forgot Password and go through the "Forget Password" process. Alternatively,
+if in school, inform the Form Teacher.</p>
+<p></p>
 <p></p>
