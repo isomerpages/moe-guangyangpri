@@ -5,11 +5,17 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<h1>Student iCON</h1>
-<p>Student iCON is a suite of Google apps that helps to better support your
-learning and collaboration with others.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/icon.png">
+</div>
+<p><strong>Student iCON</strong> is a Google workspace catered for MOE. It
+has Google Tools that helps to better support your learning and collaboration
+with others.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Google_Workspace.png">
+</div>
+<p></p>
 <h4><strong>How to log in</strong></h4>
-<p>Click on the image for the log in link.</p>
 <p>You can find the log in <a href="/files/Student-iCON-Onboarding-Guide2.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide</a> &amp; <a href="/files/FAQs2.pdf" rel="noopener noreferrer nofollow" target="_blank">FAQ</a> here.</p>
 <p>Please <strong>DO NOT</strong> add a phone number or link your account to
 your Google App for the 2-step Authentication. It is to ease the log in
