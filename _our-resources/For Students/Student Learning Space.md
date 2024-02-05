@@ -14,8 +14,10 @@ variant: tiptap
 MOE’s key initiatives to transform the learning experiences of Singaporean
 students through the purposeful use of technology to enable students to
 engage in different learning modes.</p>
-<p>SLS Webpage: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
-</p>
+<h4>How to Log In?</h4>
+<p>Visit the <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a> Webpage
+and log in using MIMS.</p>
+<p></p>
 <p></p>
 <p>If you need assistance with SLS assignments, please contact your Form
 Teacher or contact the school at <a href="tel:+6564574345" rel="noopener noreferrer nofollow" target="_blank">+65 6457 4345</a>.</p>
