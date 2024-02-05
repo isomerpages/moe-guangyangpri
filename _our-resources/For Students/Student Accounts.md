@@ -19,10 +19,7 @@ of the year and placed on <strong><u>page 21</u></strong> in the <strong><u>Stud
 <table>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Student_iCOn_button.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-resources/for-students/student-icon/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Student_iCOn_button.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -146,10 +143,11 @@ if in school, inform the Form Teacher.</p>
 </table>
 <p></p>
 <h3>Changing Passwords</h3>
-<p>Changing passwords is a yearly exercise. Normally, the ICT Admins will
-do a school wide reset. Alternatively, if required to change a password,
-visit the <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a> and
-go through the "Change Password" process.</p>
+<p>Changing passwords is a yearly exercise. The ICT Admins will do a school
+wide reset and students must attempt a log in to the MIMS Portal and will
+be asked to change their passwords. Alternatively, if required to change
+a password, visit the <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a> and go through the "Change
+Password" process.</p>
 <table>
 <tbody>
 <tr>
@@ -197,6 +195,8 @@ on page 21)</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>5) Create new MIMS Password.</p>
+<p></p>
+<p>(Write down in Student Handbook)</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -216,6 +216,6 @@ on page 21)</p>
 </table>
 <h3>Further Assistance</h3>
 <p>If further assistance is required:</p>
-<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/Learning/SLS%20Support%20for%20HBL/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Forget Password Guide</a>
+<p><a href="https://www.chijkatongconvent.moe.edu.sg/files/Learning/SLS%20Support%20for%20HBL/mims_sspr_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Forget Password Guide</a> 
 <br>Contact class Form Teacher</p>
 <p></p>
