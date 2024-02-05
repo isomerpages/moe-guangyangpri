@@ -89,7 +89,8 @@ with others.</p>
 <p>There are 3 ways to access iCON. From the <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>, <a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">this Link</a> or
 <a href="https://www.google.com/" rel="noopener noreferrer nofollow" target="_blank">Google</a>. Visit any link and log in with the MIMS Log ID &amp; Password.
 The guide below is for logging in from Google. *Note: Complete the steps
-in the Student Accounts page before attempting to log in to iCON.</p>
+in the <a href="/our-resources/for-students/student-accounts/" rel="noopener noreferrer nofollow" target="_blank">Student Accounts</a> page
+before attempting to log in to iCON.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Students/MIMS_Image_2.png">
 </div>
@@ -154,6 +155,6 @@ in user.</p>
 </tbody>
 </table>
 <h4>Forget Password</h4>
-<p>Visit the Student Accounts page and follow the "Forget Password" steps
-there.</p>
+<p>Visit the <a href="/our-resources/for-students/student-accounts/" rel="noopener noreferrer nofollow" target="_blank">Student Accounts</a> page
+and follow the "Forget Password" steps there.</p>
 <p></p>
