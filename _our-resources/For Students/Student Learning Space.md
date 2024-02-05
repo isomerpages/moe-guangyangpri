@@ -5,4 +5,21 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<h3></h3><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/For Students/SLS logo.png"></div><h3>What is SLS?</h3><p>The SLS is MOE's core platform for teaching and learning and is one of MOE’s key initiatives to transform the learning experiences of Singaporean students through the purposeful use of technology to enable students to engage in different learning modes.</p><p>SLS Webpage: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a><br>Need assistance with login? <a href="/files/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf" rel="noopener noreferrer nofollow" target="_blank">Login Guide</a><br></p><p>If you need assistance with SLS assignments, please contact your Form Teacher or contact the school at <a href="tel:+6564574345" rel="noopener noreferrer nofollow" target="_blank">+65 6457 4345</a>.</p><p>For further assistance, please refer to the User Guide (<a href="https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/index.html" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/index.html</a>) or contact the SLS Help Line below:</p><p>Email:&nbsp;<a href="helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com </a><br>Tel: +65 6702 6513 <br>Note: If you are a student, the Helpdesk will need to verify your identity using the security questions that you have set up when your account was first activated.</p>
+<h3></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Students/SLS logo.png">
+</div>
+<h3>What is SLS?</h3>
+<p>The SLS is MOE's core platform for teaching and learning and is one of
+MOE’s key initiatives to transform the learning experiences of Singaporean
+students through the purposeful use of technology to enable students to
+engage in different learning modes.</p>
+<p>SLS Webpage: <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/login</a>
+</p>
+<p></p>
+<p>If you need assistance with SLS assignments, please contact your Form
+Teacher or contact the school at <a href="tel:+6564574345" rel="noopener noreferrer nofollow" target="_blank">+65 6457 4345</a>.</p>
+<p>For further assistance, please refer to the User Guide (<a href="https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/index.html" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/index.html</a>)
+or contact the SLS Help Line below:</p>
+<p>Email:&nbsp;<a href="helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com </a>
+<br>Tel: +65 6702 6513</p>
