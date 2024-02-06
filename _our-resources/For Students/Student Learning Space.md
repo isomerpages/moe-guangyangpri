@@ -21,23 +21,29 @@ before attempting to log in to SLS.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1) Go to the SLS Webpage and "Login with MIMS". Will be transferred to
+MIMS Portal for Login.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Screenshot_2024_02_06_101005.png">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>2) Log in with MIMS ID &amp; Password.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Screenshot_2024_02_05_134725.png">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<h4>Forgetting the Password</h4>
+<p>Visit</p>
 <p></p>
 <p>If you need assistance with SLS assignments, please contact your Form
 Teacher or contact the school at <a href="tel:+6564574345" rel="noopener noreferrer nofollow" target="_blank">+65 6457 4345</a>.</p>
