@@ -21,10 +21,7 @@ of the year and placed on <strong><u>page 21</u></strong> in the <strong><u>Stud
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-resources/for-students/student-icon/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Student_iCOn_button.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/SLS_Button.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-resources/for-students/student-learning-space/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/SLS_Button.png"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://www.chijkatongconvent.moe.edu.sg/files/Learning/SLS%20Support%20for%20HBL/mims_sspr_guide.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Guide_button.png"></a>
 </td>
