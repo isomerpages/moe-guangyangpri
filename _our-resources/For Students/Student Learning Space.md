@@ -5,7 +5,6 @@ description: ""
 third_nav_title: For Students
 variant: tiptap
 ---
-<h3></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/For Students/SLS logo.png">
 </div>
