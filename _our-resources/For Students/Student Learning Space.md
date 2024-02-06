@@ -15,7 +15,28 @@ students through the purposeful use of technology to enable students to
 engage in different learning modes.</p>
 <h4>How to Log In?</h4>
 <p>Visit the <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a> Webpage
-and log in using MIMS.</p>
+and log in using MIMS. *Note: Complete the steps in the <a href="/our-resources/for-students/student-accounts/" rel="noopener noreferrer nofollow" target="_blank">Student Accounts</a> page
+before attempting to log in to SLS.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p>If you need assistance with SLS assignments, please contact your Form
