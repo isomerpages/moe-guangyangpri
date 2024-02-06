@@ -15,7 +15,8 @@ students through the purposeful use of technology to enable students to
 engage in different learning modes.</p>
 <h4>How to Log In?</h4>
 <p>Visit the <a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">SLS</a> Webpage
-and log in using MIMS. *Note: Complete the steps in the <a href="/our-resources/for-students/student-accounts/" rel="noopener noreferrer nofollow" target="_blank">Student Accounts</a> page
+and log in using the MIMS ID &amp; Password. *Note: Complete the steps
+in the <a href="/our-resources/for-students/student-accounts/" rel="noopener noreferrer nofollow" target="_blank">Student Accounts</a> page
 before attempting to log in to SLS.</p>
 <table>
 <tbody>
@@ -42,9 +43,11 @@ MIMS Portal for Login.</p>
 </tr>
 </tbody>
 </table>
-<h4>Forgetting the Password</h4>
-<p>Visit</p>
+<h4>Forget Password</h4>
+<p>Visit the <a href="/our-resources/for-students/student-accounts/" rel="noopener noreferrer nofollow" target="_blank">Student Accounts</a> page
+and follow the "Forget Password" steps there.</p>
 <p></p>
+<h4>Further Assistance</h4>
 <p>If you need assistance with SLS assignments, please contact your Form
 Teacher or contact the school at <a href="tel:+6564574345" rel="noopener noreferrer nofollow" target="_blank">+65 6457 4345</a>.</p>
 <p>For further assistance, please refer to the User Guide (<a href="https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/index.html" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/index.html</a>)
