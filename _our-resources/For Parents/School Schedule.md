@@ -13,7 +13,7 @@ variant: markdown
 </h4><h4>Term 1 Calendar</h4>
 
 
-<img src="/images/Calendar/2024_January_T1.jpg"><br>
-<img src="/images/Calendar/2024_February_T1.jpg"><br>
-<img src="/images/Calendar/2024_March_T1.jpg"><br>
-<img src="/images/Calendar/2024_April_T1.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_T2_School_Calendar_March.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_T2_School_Calendar_April.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_T2_School_Calendar_May.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_T2_School_Calendar_June.jpg"><br>
