@@ -14,7 +14,7 @@ variant: markdown
 <tbody>
   <tr>
     <td><a href="mailto: ng_ho_lam_bernard@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20bernard%20ng.jpg" style="width:65%"></a></td>
-		<td><a><img src="" style="width:65%"></a></td>
+		<td><a href="mailto: eliza_abdul_rashid@moe.edu.sg"><img src="/images/Teaching%20Staff/Ms_Eliza_Bte_Abdul_Rashid.jpg" style="width:65%"></a></td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Aspiration 2</b></center></td>
