@@ -28,7 +28,7 @@ variant: markdown
   </tr>
   <tr>
     <td><a href="mailto: law_polly@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20polly%20chin.jpg" style="width:65%"></a></td>
-		<td><a><img src="/images/Teaching%20Staff/2023_mrs%20boo%20heoh%20pio.jpg" style="width:65%"></a></td>
+		<td><a href="mailto: goh_xiao_ping@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20boo%20heoh%20pio.jpg" style="width:65%"></a></td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Respect 4</b></center></td>
