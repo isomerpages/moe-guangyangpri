@@ -121,21 +121,13 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: latha_devi@moe.edu.sg"><img style="width:65%" height="auto" width="100%" src="/images/Teaching%20Staff/2023_mrs%20latha%20joseph.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: tan_maggie@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Teaching Staff/Mrs_Maggie_Tan_2.jpg"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: teh_wei_ming_john@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Teaching Staff/Mr_John_Teh_Wei_Ming_2.jpg"></a>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: siti_wazirah_daud@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Teaching Staff/Mrs_Wazirah_Covas_2.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: teh_wei_ming_john@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Teaching Staff/Mr_John_Teh_Wei_Ming_2.jpg"></a>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: siti_wazirah_daud@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/Teaching Staff/Mrs_Wazirah_Covas_2.jpg"></a>
 </td>
 </tr>
 </tbody>
