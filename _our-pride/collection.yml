@@ -2,7 +2,6 @@ collections:
   our-pride:
     output: true
     order:
-      - NS Mark 2024.md
       - Signature Programmes/.keep
       - Signature Programmes/Thinking Curriculum.md
       - Signature Programmes/Learn for Life Programme.md
@@ -10,3 +9,4 @@ collections:
       - Signature Programmes/InfoComm Technology.md
       - Signature Programmes/Leaders In Townsville.md
       - Gallery.md
+      - NS Mark 2024.md
