@@ -13,7 +13,10 @@ variant: markdown
 </h4><h4>Term 2 Calendar</h4>
 
 
-<img src="/images/Calendar/2024_TVPS_T2_School_Calendar_March.jpg"><br>
-<img src="/images/Calendar/2024_TVPS_T2_School_Calendar_April.jpg"><br>
-<img src="/images/Calendar/2024_TVPS_T2_School_Calendar_May.jpg"><br>
-<img src="/images/Calendar/2024_TVPS_T2_School_Calendar_June.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Jun.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Jul.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Aug.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Sept.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Oct.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Nov.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Dec.jpg"><br>
