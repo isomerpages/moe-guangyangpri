@@ -13,10 +13,10 @@ variant: markdown
 </h4><h4>Semester 2 Calendar</h4>
 
 
-<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Jun.jpg"><br>
-<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Jul.jpg"><br>
-<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Aug.jpg"><br>
-<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Sept.jpg"><br>
-<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Oct.jpg"><br>
-<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Nov.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Revised_Jun.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Revised_Jul.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Revised_Aug.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Revised_Sept.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Revised_Oct.jpg"><br>
+<img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Revised_Nov.jpg"><br>
 <img src="/images/Calendar/2024_TVPS_SEM_2_School_Calendar_Dec.jpg"><br>
