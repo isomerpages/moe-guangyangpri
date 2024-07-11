@@ -2,8 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - CCE/Character & Citizenship Education.md
-      - CCE/.keep
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Intervention Programmes.md
@@ -31,3 +29,5 @@ collections:
       - Physical Education.md
       - Aesthetics.md
       - Co Curricular Activities.md
+      - CCE/.keep
+      - CCE/Character & Citizenship Education.md
