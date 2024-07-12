@@ -14,6 +14,8 @@ strength of our people and underscores the importance of every citizen
 rallying together to share our future and uplift those around us. On top
 of experiencing the mesmerising spectacle and jubilant atmosphere of the
 NDP, our students gained a deeper appreciation for Singapore and its history.</p>
+<p></p>
+<p>More Photos here</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
