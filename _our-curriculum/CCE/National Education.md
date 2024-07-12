@@ -15,7 +15,8 @@ rallying together to share our future and uplift those around us. On top
 of experiencing the mesmerising spectacle and jubilant atmosphere of the
 NDP, our students gained a deeper appreciation for Singapore and its history.</p>
 <p></p>
-<p>More Photos here</p>
+<p>More Photos in our <a href="https://www.townsvillepri.moe.edu.sg/our-pride/gallery/" rel="noopener noreferrer nofollow" target="_blank">Gallery</a>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
