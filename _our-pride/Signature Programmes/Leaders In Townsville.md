@@ -92,14 +92,11 @@ to their community.</p>
 </table>
 <p>Read the Student Leader President's message <a href="/student-leaders-president/" rel="noopener noreferrer nofollow" target="_blank">Here.</a>
 </p>
-<p><strong><u>Student Leaders' Investiture 2024</u></strong>
+<p><strong><a href="/student-leaders-investiture-2024/" rel="noopener noreferrer nofollow" target="_blank">Student Leaders' Investiture 2024</a></strong>
 </p>
 <p>The school held the Student Leaders Investiture on 8 July 2024. The student
 leaders were officially inducted and introduced to the Townsville family.
-The investiture marks an important milestone for the student leaders as
-they were presented with collar pins and certificates to signify the beginning
-of their learning as members of the Student Leaders Council. Visit the
-page here.</p>
+Visit the page <a href="/student-leaders-investiture-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p><strong><u>Peer Support Leaders</u></strong>
 </p>
 <p>Peer Support Leaders show care and concern to their classmates and support
