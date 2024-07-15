@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://flic.kr/s/aHBqjB4qPg
+external: https://flic.kr/s/aHBqjB4qPg
 ---
