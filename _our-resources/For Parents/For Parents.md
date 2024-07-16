@@ -57,7 +57,7 @@ supporting your child.</p>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-resources/for-parents/sexuality-education/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/Main Page Parents/sxed_pic.png"></a>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-resources/for-parents/sexuality-education/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/Main Page Parents/TPU_pic.png"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-community/our-partners/parent-support-group/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/Main Page Parents/TPU_pic.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
