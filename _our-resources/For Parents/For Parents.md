@@ -5,8 +5,7 @@ variant: tiptap
 description: For Parents Home Page
 third_nav_title: For Parents
 ---
-<p><strong>Welcome to the Parent's Resources page of Townsville Primary School.</strong>
-</p>
+<h4><strong>Welcome to the Parent's Resources page of Townsville Primary School.</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
