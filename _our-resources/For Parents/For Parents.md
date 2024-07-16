@@ -51,10 +51,7 @@ supporting your child.</p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-resources/for-parents/parents-gateway/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/Main Page Parents/prtsgte.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/Main Page Parents/Clsdjo.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-resources/for-parents/classdojo/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/For Parents/Main Page Parents/Clsdjo.png"></a>
 </th>
 </tr>
 <tr>
