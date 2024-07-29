@@ -26,10 +26,7 @@ third_nav_title: For Students
 </th>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Main Page Students/sls_pic.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-resources/for-students/student-learning-space/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Main Page Students/sls_pic.png"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
