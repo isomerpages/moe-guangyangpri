@@ -18,10 +18,7 @@ third_nav_title: For Students
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Main Page Students/dispil_pic.png">
-</div>
+<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-resources/for-students/discipline-philosophy/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Main Page Students/dispil_pic.png"></a>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
