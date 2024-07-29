@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: For Parents
           description: Information & Apps for Parents
-          url: https://townsvillepri.moe.edu.sg/our-resources/for-parents/school-calendar/
+          url: /for-parents/
         - title: For Students
           description: Activities & Apps for Students
-          url: /our-resources/for-students/student-accounts/
+          url: /for-students/
   - resources:
       title: Announcements
       id: resources
