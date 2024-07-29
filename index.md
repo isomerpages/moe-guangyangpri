@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: For Parents
           description: Information & Apps for Parents
-          url: /our-resources/for-parents/
+          url: /for-parents/
         - title: For Students
           description: Activities & Apps for Students
           url: /for-students/
