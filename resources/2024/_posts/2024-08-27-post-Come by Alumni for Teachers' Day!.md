@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<h3>Townsville Primary School welcomes all Alumni to the school on 29 August 2024, Thursday for Teachers' Day!</h3>
+<p></p>
