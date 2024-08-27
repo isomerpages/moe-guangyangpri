@@ -21,7 +21,7 @@ variant: markdown
   </tr>
   <tr>
     <td><a href="mailto: rajinikanth_naidu_s@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20rajinikanth%20naidu.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: poh_choon_sian@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20zhang%20fujun.jpg" style="width:65%"></a></td>
+    <td><a href="mailto:"><img src="" style="width:65%"></a></td>
   </tr>
   <tr>
     <td colspan="2"><center><b>Aspiration 3</b></center></td>
