@@ -16,7 +16,11 @@ with others.</p>
 </div>
 <h4>Available Apps</h4>
 <p>iCON gives access to these tools:</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -86,7 +90,7 @@ with others.</p>
 </table>
 <p>To Learn more about each tool, visit the <a href="https://support.google.com/a/answer/1047213?hl=en" rel="noopener noreferrer nofollow" target="_blank">Google Help Center</a>.</p>
 <h4><strong>How to log in</strong></h4>
-<p>There are 3 ways to access iCON. From the <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a>, <a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">this Link</a> or
+<p>There are 3 ways to access iCON. From the <a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">iCON Login</a>, <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a> or
 <a href="https://www.google.com/" rel="noopener noreferrer nofollow" target="_blank">Google</a>. Visit any link and log in with the MIMS Log ID &amp; Password.
 The guide below is for logging in from Google. *Note: Complete the steps
 in the <a href="/our-resources/for-students/student-accounts/" rel="noopener noreferrer nofollow" target="_blank">Student Accounts</a> page
@@ -103,7 +107,11 @@ process into School Devices.</p>
 phone number or account from the Google App 2-Step Verification.</p>
 <p><strong><u>Log In Instructions</u></strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
