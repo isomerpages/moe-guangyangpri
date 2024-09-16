@@ -8,6 +8,10 @@ image: ""
 variant: tiptap
 ---
 <h4><strong>TVPStar Celebrates a Decade of Talent with "Our Teachers, Our Inspiration"</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Aesthetics/TVPStar/DSC_1911.jpg">
+</div>
 <p>We are thrilled to announce that TVPStar has reached its tenth edition!
 This year’s theme, “Our Teachers, Our Inspiration,” was a heartfelt tribute
 to our dedicated educators who inspire and motivate our students every
@@ -28,3 +32,5 @@ performances.</p>
 <p>We extend our deepest gratitude to our teachers and parents for their
 unwavering support, which made this celebration possible.</p>
 <p>Thank you for being part of this memorable occasion!</p>
+<p></p>
+<p>Photos of the event <a href="https://flic.kr/s/aHBqjBFM4P" rel="noopener nofollow" target="_blank">here</a>!</p>
