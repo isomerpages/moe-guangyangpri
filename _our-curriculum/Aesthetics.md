@@ -72,6 +72,8 @@ Music Busking is a biannual event that serves as a platform for our students to 
 
 Since 2015, TVPStar has always served as a platform for Townsvillites to show their appreciation towards their teachers through their talents in the performing arts during Teachers’ Day Celebration. Interested participants are encouraged to register and participate in the audition. Finalists are then selected and put up their best performance on the actual day. The show ends after a prize presentation and our finalists are presented with a trophy and certificate of award.
 
+You can read about our latest TVPStar [here](/tvpstar-teacher-s-day-2024/)!
+
 **Art and Music Scheme (AMIS) Instructor Programme**
 
 Incorporated into our Music curriculum, AMIS programme invites external practitioners to deliver interesting music progammes. It aims to provide exposure to our students to new instrument and digital music programmes as an innovative way of learning music.
