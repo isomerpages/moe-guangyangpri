@@ -18,7 +18,8 @@ objectives: (a) Engage parents actively and positively in school activities;
 (b) Support non-teaching activities/events in the school; and (c) Serve
 as a 2-way communication channel between parents and the school.</p>
 <p>TPU coordinates PV participation in school programmes (e.g. Reading Programmes),
-events as well as organises workshops and activities for parents.</p>
+events as well as organises workshops and activities for parents. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfSQtUJgavMVlKKP8IK4S7bYdaKdMkW41Jv2fOk5HpTPDYb-Q/viewform" rel="noopener nofollow" target="_blank">Join us Today!</a>
+</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -113,4 +114,5 @@ events as well as organises workshops and activities for parents.</p>
 </table>
 <p><strong>Join us Today!</strong>
 </p>
+<p></p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSfSQtUJgavMVlKKP8IK4S7bYdaKdMkW41Jv2fOk5HpTPDYb-Q/viewform"><img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Parent Support Group/WhatsApp_Image_2024_11_15_at_10_19_30_AM.jpg"></a>
 <p></p>
