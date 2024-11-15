@@ -8,6 +8,8 @@ variant: markdown
 
 <p style="font-size:20px"><strong>Bookshop Vendor Contact</strong></p>
 <strong>Pacific Bookstores</strong>
+
+Bookshop Operating Hours: 8.30am to 3pm (except PH and weekends and school holidays)
 <br>
 Website: <a href="https://www.pacificbookstores.com">https://www.pacificbookstores.com</a> / <a href="https://www.pacificeshop.com">https://www.pacificeshop.com</a> 
 
