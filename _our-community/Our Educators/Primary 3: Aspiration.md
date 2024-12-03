@@ -3,48 +3,79 @@ title: "Primary 3: Aspiration"
 permalink: /our-community/our-educators/primary-3-aspiration/
 description: ""
 third_nav_title: Our Educators
-variant: markdown
+variant: tiptap
 ---
-<table>
-<thead>
-  <tr>
-		<td colspan="2"><center><b>Aspiration 1</b></center></td>
-  </tr>
-</thead>
+<h4>Form Teachers</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td><a href="mailto: ng_ho_lam_bernard@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20bernard%20ng.jpg" style="width:65%"></a></td>
-		<td><a href="mailto: eliza_abdul_rashid@moe.edu.sg"><img src="/images/Teaching%20Staff/Ms_Eliza_Bte_Abdul_Rashid.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Aspiration 2</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: rajinikanth_naidu_s@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20rajinikanth%20naidu.jpg" style="width:65%"></a></td>
-    <td><a href="mailto:"><img src="" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Aspiration 3</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: chan_sin_lin@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_ms%20chan%20sin%20lin.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: ang_mia_kuang_marc@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20marc%20ang.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Aspiration 4</b></center></td>
-  </tr>
-  <tr>
-		<td><a href="mailto: v_usha_devi@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20usha%20surendran-final.jpg" style="width:65%"></a></td>
-		<td><a href="mailto: sng_rong_long_ben@moe.edu.sg"><img src="/images/Teaching%20Staff/mr%20ben%20sng.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Aspiration 5</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: kelvin_woon_wei_shen@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20kelvin%20woon.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: chua_sock_eng_theresa@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20theresa%20wong-final.jpg" style="width:65%"></a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Aspiration 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="hafizah_ismadi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hafizah Ismadi (LvlMgr/P4)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="cheh_seok_buay@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Cheh Seok Buay (SSD)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Aspiration 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="m_nachiappan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr M Nachiappan</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="law_polly@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Polly Chin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Aspiration 3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="seah_jia_ying_sylvia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Sylvia Seah Jia Ying</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="s_nirmala_devi_santhanasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs S Nirmala Devi Santhanasamy (LT)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Aspiration 4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="won_min_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Won Min Ting</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chan_sui_sui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Sui Sui (PT)</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-*Click on the photos for their E-mails.
+<p></p>
