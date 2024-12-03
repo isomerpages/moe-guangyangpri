@@ -3,69 +3,127 @@ title: "Primary 6: Excellence"
 permalink: /our-community/our-educators/primary-6-excellence/
 description: ""
 third_nav_title: Our Educators
-variant: markdown
+variant: tiptap
 ---
-<table>
-<thead>
-	<tr>
-		<td colspan="2"><center><b>Excellence 1</b></center></td>
-	</tr>
-</thead>
+<h4>Form teachers</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td><a href="mailto: quek_mei_yin_may@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20may%20quek.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: soh_xin_yuan@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20kang%20xin%20yuan.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Excellence 2</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: vemalan_elangovan@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20vemalan%20s_o%20elangovan.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: tham_yuen_ee@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20nge%20yuen%20ee.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Excellence 3</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: mohammad_hanafee_b_osman@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20mohd%20hanafee%20b%20osman.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: ng_joycelyn@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20joycelyn%20ng.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Excellence 4</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: noor_saleha_johari@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20saleha.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: lua_yi_wen@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_ms%20lua%20yi%20wen.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Excellence 5</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: s_nirmala_devi_santhanasamy@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20s%20nirmala-final.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: junaidah_mohamed_sali@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20junaidah%20bte%20mohd%20sali.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Excellence 6</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: lai_chih_wei@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20lai%20chih%20wei.jpg" style="width:65%"></a></td>
-		<td><a href="mailto: madhavi_chandramohan@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_ms%20madhavi%20chandramohan.jpg" style="width:65%"></a></td>
-  </tr>
-	<tr>
-	<td colspan="4"><center><b>Excellence 7</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: suzana_suah@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20suzana%20bte%20suah.jpg" style="width:65%"> </a></td>
-    <td><a href="mailto: lim_chiu_har@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20lim%20chiu%20har.jpg" style="width:65%"> </a></td>
-  </tr>
-	<tr>
-	<td colspan="2"><center><b>Excellence 8</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: mahanom_daing_basok@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20mahanom%20bte%20daing%20basok.jpg" style="width:65%"> </a></td>
-    <td><a href="mailto: lim_boon_hai@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20lim%20boon%20hai.jpg" style="width:65%"> </a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Excellence 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="ling_hui_khim@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Ling Hui Khim (CAJT)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="leng_han@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Leng Han</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Excellence 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="quek_kuan_hiong_benjamin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Benjamin Quek</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="latha_devi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Latha Joseph (ST) </a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Excellence 3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="priscilla_carmel_rajadurai@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Priscilla Carmel</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="goh_jia_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Goh Jia Yee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Excellence 4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="hema_malini_jeyaraj@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Hema Ramasamy </a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lye_choon_hwan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lye Choon Hwan (HOD MTL)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Excellence 5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="lee_boon_haw_jeremy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jeremy Lee (HOD ICT)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="diana_baharudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Diana Bte Baharudin</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Excellence 6</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="pei_cihui_pamela@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Pamela Chan (LH/SC)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lazar_jennifer_selvi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lazar Jennifer Selvi</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Excellence 7</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="" rel="noopener nofollow" target="_blank">Mr Andy See</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="junaidah_mohamed_sali@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Junaidah Bte Mohamed Sali</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-*Click the photos for their E-mail.
+<p></p>
