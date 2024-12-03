@@ -1,0 +1,4 @@
+collections:
+  write-ups-2024:
+    output: true
+    order: []
