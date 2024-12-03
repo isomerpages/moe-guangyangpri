@@ -200,7 +200,8 @@ memories together.</p>
 event, a special occasion designed to help our youngest students settle
 in and feel at home. The event gave our new P1 students the chance to explore
 their classrooms, meet their teachers, and begin to make new friends.</p>
-<p>Visit the Page here for more:</p>
+<p>Visit the Page here for more: <a href="https://townsvillepri.moe.edu.sg/p1-orientation-2024/" rel="noopener noreferrer nofollow" target="_blank">https://townsvillepri.moe.edu.sg/p1-orientation-2024/</a>
+</p>
 <p><u>Jump Jam</u>
 </p>
 <p>The Jump Jam Programme is conducted once a term with the aim of promoting
