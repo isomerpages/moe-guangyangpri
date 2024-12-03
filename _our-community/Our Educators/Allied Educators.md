@@ -5,4 +5,45 @@ description: ""
 third_nav_title: Our Educators
 variant: tiptap
 ---
-<table><tbody><tr><th rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="mailto: ong_yew_chong@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AED Staff/2023_mr ong yew chong-final.jpg"></a></th><th rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="mailto: Tan_Yan_Siew_Josephine@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AED Staff/2023_ms josephine tan-final.jpg"></a></th></tr><tr><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="mailto: tay_zhen_ping@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AED Staff/2023_ms tay zhen ping zoe-final.jpg"></a></td><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="mailto: amanda_pan_jiayi@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AED Staff/2023_ms amanda pan-final.jpg"></a></td></tr><tr><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="mailto: ng_guat_ming@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AED Staff/2023_mdm ng guat ming mindy.jpg"></a></td><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="mailto: tan_chor_joo@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AED Staff/2023_mdm esther tan chor joo.jpg"></a></td></tr><tr><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="mailto: Poh_Chye_Poh@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AED Staff/2023_ms emily poh-final.jpg"></a></td><td rowspan="1" colspan="1"><p></p><a class="isomer-image-wrapper" href="mailto: kavithasri_anandan@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AED Staff/2023_mdm kavithasri d_o anandan-final.jpg"></a></td></tr></tbody></table><p>*Click the photos for their E-mail.</p>
+<h4>Special Education Needs Officers &amp; Counselors </h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Amanda Pan (SENO) (PT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Josephine Tan (SENO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tay Zhen Ping Zoe (SENO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Yew Chong (SENO) (PT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Esther Tan Chor Joo (AED/T&amp;L)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Ng Guat Ming Mindy (AED/T&amp;L) (PT)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Emily Poh (SC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Kavithasri d/o Anandan (SSC)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
