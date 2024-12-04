@@ -6,8 +6,9 @@ third_nav_title: Our Educators
 variant: tiptap
 ---
 <h4>Form Teachers</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -17,6 +18,9 @@ variant: tiptap
 <p><strong>Aspiration 1</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -24,14 +28,20 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="cheh_seok_buay@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Cheh Seok Buay (SSD)</a>
+<p><a href="cheh_seok_buay@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Lek Seok Buay (SSD)</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Aspiration 2</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -43,11 +53,17 @@ variant: tiptap
 <p><a href="law_polly@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Polly Chin</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Aspiration 3</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -59,11 +75,18 @@ variant: tiptap
 <p><a href="s_nirmala_devi_santhanasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs S Nirmala Devi Santhanasamy (LT)</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="chan_sui_sui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Sui Sui (PT)</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Aspiration 4</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -72,8 +95,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chan_sui_sui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Sui Sui (PT)</a>
+<p><a href="chan_sui_sui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Arun</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
