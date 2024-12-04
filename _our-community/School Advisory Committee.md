@@ -15,15 +15,11 @@ variant: markdown
     <td><img src="/images/SAC%20Members/2023_dr%20justina%20tan.jpg" style="width:65%"></td>
   </tr>
   <tr>
-    <td><img src="/images/SAC%20Members/2023_mr%20alvin%20low.jpg" style="width:65%"></td>
-		<td><img src="/images/SAC%20Members/2023_ms%20wendy%20chua.jpg" style="width:65%"></td>
+    <td><img src="/images/SAC%20Members/2023_ms%20wendy%20chua.jpg" style="width:65%"></td>
+		<td><img src="/images/SAC%20Members/2023_mr%20lim%20tong%20hai.jpg" style="width:65%"></td>
   </tr>
   <tr>
-    <td><img src="/images/SAC%20Members/2023_mr%20lim%20tong%20hai.jpg" style="width:65%"></td>
     <td><img src="/images/SAC%20Members/2023_mr%20toh%20kok%20wee.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/SAC%20Members/2023_ms%20moh%20ai%20wei.jpg" style="width:65%"></td>
   </tr>
 </tbody>
 </table>
