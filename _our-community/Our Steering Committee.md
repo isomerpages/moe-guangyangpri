@@ -12,7 +12,7 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: Townsvilleps@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/School Leaders/mr eddie foo.jpg"></a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: Townsvilleps@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/School Leaders/eddie_foo_edited.jpg"></a>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: Townsvilleps@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/School Leaders/ms lynette fernandez.jpg"></a>
 </td>
