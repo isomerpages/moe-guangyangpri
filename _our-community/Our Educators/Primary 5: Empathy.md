@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="ng_joycelyn@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Joycelyn Ng</a>
+<p><a href="chan_fei_kuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Fei Kuan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -121,7 +121,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="chan_fei_kuan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Fei Kuan</a>
+<p><a href="ng_joycelyn@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Joycelyn Ng</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
