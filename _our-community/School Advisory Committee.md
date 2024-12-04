@@ -11,7 +11,7 @@ variant: markdown
     <td><img src="/images/SAC%20Members/2023_mr%20kenneth%20tan.jpg" style="width:65%"></td>
   </tr>
 	<tr>
-    <td><img src="/images/SAC%20Members/2023_mr%20eddie%20foo.jpg" style="width:65%"></td>
+    <td><img src="/images/School%20Leaders/eddie_foo_edited.jpg" style="width:65%"></td>
     <td><img src="/images/SAC%20Members/2023_dr%20justina%20tan.jpg" style="width:65%"></td>
   </tr>
   <tr>
