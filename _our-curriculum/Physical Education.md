@@ -194,6 +194,14 @@ this 2 hour program, laughing and cheering each other on, forging unforgettable
 memories together.</p>
 <p>View the Page here: <a href="https://townsvillepri.moe.edu.sg/p6-dragon-boating/" rel="noopener noreferrer nofollow" target="_blank">https://townsvillepri.moe.edu.sg/p6-dragon-boating/</a>
 </p>
+<p><u>P4 Sports Education Programme (SEP) - Inline Skating</u>
+</p>
+<p>The excitement was palpable as during the Primary 1 (2025) Orientation
+event, a special occasion designed to help our youngest students settle
+in and feel at home. The event gave our new P1 students the chance to explore
+their classrooms, meet their teachers, and begin to make new friends.</p>
+<p>Visit the Page here for more: <a href="https://townsvillepri.moe.edu.sg/p1-orientation-2024/" rel="noopener noreferrer nofollow" target="_blank">https://townsvillepri.moe.edu.sg/p1-orientation-2024/</a>
+</p>
 <p><u>Jump Jam</u>
 </p>
 <p>The Jump Jam Programme is conducted once a term with the aim of promoting

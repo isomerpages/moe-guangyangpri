@@ -2,28 +2,60 @@
 title: School Advisory Committee
 permalink: /our-community/school-advisory-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td><img src="/images/SAC%20Members/2023_mr%20peter%20lee.jpg" style="width:65%"></td>
-    <td><img src="/images/SAC%20Members/2023_mr%20kenneth%20tan.jpg" style="width:65%"></td>
-  </tr>
-	<tr>
-    <td><img src="/images/SAC%20Members/2023_mr%20eddie%20foo.jpg" style="width:65%"></td>
-    <td><img src="/images/SAC%20Members/2023_dr%20justina%20tan.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/SAC%20Members/2023_mr%20alvin%20low.jpg" style="width:65%"></td>
-		<td><img src="/images/SAC%20Members/2023_ms%20wendy%20chua.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/SAC%20Members/2023_mr%20lim%20tong%20hai.jpg" style="width:65%"></td>
-    <td><img src="/images/SAC%20Members/2023_mr%20toh%20kok%20wee.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/SAC%20Members/2023_ms%20moh%20ai%20wei.jpg" style="width:65%"></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/SAC Members/2023_mr peter lee.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC Members/2023_mr kenneth tan.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/School Leaders/eddie_foo_edited.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC Members/2023_dr justina tan.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/SAC Members/2023_mr lim tong hai.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAC Members/2023_ms wendy chua.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 83%;" height="auto" width="100%" alt="" src="/images/SAC Members/2023_mr toh kok wee.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>

@@ -2,36 +2,62 @@
 title: Our Executive and Admin Staff
 permalink: /our-community/our-executive-and-admin-staff/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-<thead>
-  <tr>
-    <td><img src="/images/EAS%20Staff/2023_mdm%20nancy%20koh%20mei%20chin.jpg" style="width:65%"></td>
-    <td><img src="/images/EAS%20Staff/2023_ms%20candy%20heng%20cheng%20peng.jpg" style="width:65%"></td>
-  </tr>
-</thead>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td><img src="/images/EAS%20Staff/2023_mr%20mohammad%20zhafrie%20bin%20jalil-final.jpg" style="width:65%"></td>
-    <td><img src="/images/EAS%20Staff/2023_ms%20lee%20ping-final.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/EAS%20Staff/2023_mr%20hadi%20asyaari%20bin%20ahmad.jpg" style="width:65%"></td>
-    <td><img src="/images/EAS%20Staff/2023_mdm%20nazariah%20ali.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/EAS%20Staff/2023_mdm%20suzana%20bte%20suja.jpg" style="width:65%"></td>
-    <td><img src="/images/EAS%20Staff/2023_mdm%20szeto%20may%20leng.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-    <td><img src="/images/EAS%20Staff/2023_mdm%20tharani.jpg" style="width:65%"></td>
-    <td><img src="/images/EAS%20Staff/2023_mr%20jumadi%20bin%20pahmu.jpg" style="width:65%"></td>
-  </tr>
-  <tr>
-  </tr><tr>
-    <td><img src="/images/EAS%20Staff/2023_mdm%20rossitah%20binte%20nordin.jpg" style="width:65%"></td>
-    <td><img src="/images/EAS%20Staff/2023_mdm%20siti%20zaidah%20binte%20adam.jpg" style="width:65%"></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nancy Koh Mei Chin (AM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Candy Heng Cheng Peng (AM)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Mohammad Zhafrie Bin Jalil (OM)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Hadi Asyaari Bin Ahmad (ICT Mgr)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Lee Ping (AE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Nazariah Ali (CSO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Suzana Bte Suja (CSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Zaidah Binte Adam (OSO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Jumadi Bin Pahmu (OSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Szeto May Leng (OSO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tharani (OSO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Sudha (OSO)</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>

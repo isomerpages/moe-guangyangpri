@@ -3,62 +3,95 @@ title: "Primary 4: Respect"
 permalink: /our-community/our-educators/primary-4-respect/
 description: ""
 third_nav_title: Our Educators
-variant: markdown
+variant: tiptap
 ---
-<table>
-<thead>
-  <tr>
-		<td colspan="2"><center><b>Respect 1</b></center></td>
-  </tr>
-</thead>
+<h4>Form Teachers</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td><a href="mailto: teh_wei_ming_john@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20john%20teh%20wei%20ming.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: sukumaran_k_nair@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20sukumaran.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Respect 2</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: hafizah_ismadi@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20hafizah.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: ong_jia_ling@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20ong%20jia%20ling.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Respect 3</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: law_polly@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20polly%20chin.jpg" style="width:65%"></a></td>
-		<td><a href="mailto: goh_xiao_ping@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20boo%20heoh%20pio.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Respect 4</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: karen_anne_silva@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mrs%20karen%20anne.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: irdawati_mohd_ariffin@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20irdawati.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Respect 5</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: m_nachiappan@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mr%20nachiappan.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: choy_peizhi@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_mdm%20christine%20choy.jpg" style="width:65%"></a></td>
-  </tr>
-  <tr>
-    <td colspan="2"><center><b>Respect 6</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: won_min_ting@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_ms%20won%20min%20ting.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: chew_hua_jie@moe.edu.sg"><img src="/images/Teaching%20Staff/mrs%20lim-chew%20hua%20jie.jpg" style="width:65%"></a></td>
-  </tr>
-	 <tr>
-    <td colspan="2"><center><b>Respect 7</b></center></td>
-  </tr>
-  <tr>
-    <td><a href="mailto: farahiyah_dina_osman@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_ms%20farahiyah%20dina.jpg" style="width:65%"></a></td>
-    <td><a href="mailto: seah_jia_ying_sylvia@moe.edu.sg"><img src="/images/Teaching%20Staff/2023_ms%20sylvia%20seah.jpg" style="width:65%"></a></td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Respect 1</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="ng_ho_lam_bernard@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Bernard Ng</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="eliza_abdul_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Eliza Bte Abdul Rashid (PT)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Respect 2</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="rajinikanth_naidu_s@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Rajinikanth Naidu</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="noor_saleha_johari@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Noor Saleha Bte Johari</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Respect 3</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="karen_anne_silva@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Karen Anne Chan Lai Fun</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tham_yuen_ee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Nge Yuen Ee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Respect 4</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="usha_rani_subramaniam@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Usha Surendran (LT/SEN)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="moh_tzer_huey_valerie@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Valerie Moh (CAJT)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Respect 5</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="kelvin_woon_wei_shen@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Woon (LvlMgr/P3)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="chua_sock_eng_theresa@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Theresa Wong (ST/MA)</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-*Click on the photo for their E-mail.
+<p></p>
