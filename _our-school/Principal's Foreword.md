@@ -17,7 +17,7 @@ Let us come together to make this year an extraordinary chapter in the lives of 
 
 Here’s to a year where we dream big and create a brighter future – together.
 
-<p><img align="left" style="width:30%" src="/images/School%20Leaders/Mr_Foo_2.jpg"></p>
+<p><img align="left" style="width:30%" src="/images/School%20Leaders/Mr_Foo_2025_foreword.jpg"></p>
 <br clear="left">
 Mr Eddie Foo,<br>
 Principal
