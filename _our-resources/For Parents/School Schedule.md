@@ -126,5 +126,13 @@ variant: tiptap
 </table>
 <p></p>
 <h4>Term 1 Calendar</h4>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/Jan_2025_TVPS_School_Calendar_SLs.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/Feb_2025_TVPS_School_Calendar_SLs.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/Mar_2025_TVPS_School_Calendar_SLs.jpg">
+</div>
 <p></p>
