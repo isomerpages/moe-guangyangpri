@@ -57,7 +57,9 @@ and using these skills in conjunction with their learning of the English
 Language.</p>
 <p><strong>Primary 2</strong>
 </p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/22.jpg">
+</div>
 <ul>
 <li>
 <p>Google Classroom assignments - Retrieving and submitting assignments</p>
