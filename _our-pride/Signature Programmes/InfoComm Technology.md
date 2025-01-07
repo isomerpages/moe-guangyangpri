@@ -28,8 +28,15 @@ Production skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Framework_2024.jpg">
 </div>
 <h4><strong>From Primary 1 to Primary 3 - We build the foundations for ICT use.</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/4.jpg">
+</div>
 <p><strong>Primary 1</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/3.jpg">
+</div>
 <ul>
 <li>
 <p>Logins and passwords</p>
@@ -50,6 +57,7 @@ and using these skills in conjunction with their learning of the English
 Language.</p>
 <p><strong>Primary 2</strong>
 </p>
+<p></p>
 <ul>
 <li>
 <p>Google Classroom assignments - Retrieving and submitting assignments</p>
@@ -67,6 +75,9 @@ continually work on their work. At the end of Primary 2 students submit
 a written work of their own to their teachers via google classroom.</p>
 <p><strong>Primary 3</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/1.jpg">
+</div>
 <ul>
 <li>
 <p>Google Documents - collaborative aspects, sharing and editing</p>
