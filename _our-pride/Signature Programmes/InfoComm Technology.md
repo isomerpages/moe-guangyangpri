@@ -24,9 +24,6 @@ Learning Space, Student Icon; and also build basic competencies in the
 use of collaborative tools, Data Collection tools, and Presentation and
 Production skills.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Framework_2024.jpg">
-</div>
 <h4><strong>From Primary 1 to Primary 3 - We build the foundations for ICT use.</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
