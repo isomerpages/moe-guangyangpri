@@ -56,8 +56,6 @@ Singapore’s future.</p>
 <p></p>
 <p><strong><u>Total Defence Day</u></strong>
 </p>
-<p>Caption: TDD activities</p>
-<p>Photos: NE 1 to 6</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -65,12 +63,70 @@ Singapore’s future.</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<p>TDD Activities</p>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_6.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Caption: Power disruption simulation</p>
+<p>Photos: NE 7 to 9</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Power disruption simulation</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_7.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -90,9 +146,6 @@ Singapore’s future.</p>
 </tr>
 </tbody>
 </table>
-<p>Caption: Power disruption simulation</p>
-<p>Photos: NE 7 to 9</p>
-<p></p>
 <p><strong><u>International Friendship Day</u></strong>
 </p>
 <p>Caption: IFD activities</p>
