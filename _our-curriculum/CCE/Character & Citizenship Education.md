@@ -391,7 +391,35 @@ Learning (MBL).</p>
 </p>
 <p>Caption: P5 LJ to Indian Heritage Centre</p>
 <p>Photos: P5 IHC 1 to 5</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>P5 LJ to Indian Heritage Centre</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>P6: Asian Civilisation Museum</u></strong>
 </p>
 <p>Caption: P6 LJ to Asian Civilisation Museum</p>
