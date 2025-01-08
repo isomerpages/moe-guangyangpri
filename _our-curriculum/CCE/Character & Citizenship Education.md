@@ -344,7 +344,43 @@ Learning (MBL).</p>
 </p>
 <p>Caption: P4 LJ to Geylang Serai Heritage Gallery</p>
 <p>Photos: P4 Geylang Serai 1 to 6</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>P4 LJ to Geylang Serai Heritage Gallery</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>P5: Indian Heritage Centre</u></strong>
 </p>
 <p>Caption: P5 LJ to Indian Heritage Centre</p>
