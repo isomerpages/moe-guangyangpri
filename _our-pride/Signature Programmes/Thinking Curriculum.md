@@ -134,6 +134,7 @@ the graph.</p>
 <p></p>
 <p></p>
 <p></p>
+<h4>Applied Learning Programme (ALP)</h4>
 <p>The school’s Applied Learning Programme (ALP), “iDARE<sup>2</sup> to be
 a Critical, Adaptive and Inventive Thinker”, is designed to develop our
 students’ ability to think critically, adapt to emerging and evolving circumstances
@@ -146,15 +147,21 @@ and invent creative solutions.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW1__Students_on_KWL.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW2__Students_working_on_SURE.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW3__5W1H_Artefact.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -167,7 +174,104 @@ we aim to foster habits of critical, adaptive and inventive thinking into
 the daily learning experiences of our students. With the use of thinking
 tools, our students attain their own mastery in developing their thinking
 processes and strengthening their thinking-to-learn behaviours.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW4__Teacher_prompting.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW5__Mindmap_Artefact.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW6__Students_discussing_their_Mindmaps.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW7__Understand_Plan_Artefact.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW8__Teacher_prompting.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Through the integration of different subject disciplines via our curated
 Curriculum Infusion lessons and a 6-year Interdisciplinary Project Work
 (Project IGNITE) plan, our students are empowered to navigate and respond
 effectively to real-world challenges with creative and critical thought.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW9__Students_on_KWL.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW10__Teacher_prompting.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW11__Student_with_Poster_Presentation.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW12__Students_practising_PEEL.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW13__Students_during_Celebration_of_Learning.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW14__Celebration_of_Learning.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW15__Students_working_on_Poster_Presentation.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
