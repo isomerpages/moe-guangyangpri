@@ -293,7 +293,53 @@ Learning (MBL).</p>
 </p>
 <p>Caption: P4 LJ to Kreta Ayer Heritage Gallery</p>
 <p>Photos: P4 Kreta Ayer 1 to 5</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>P4 LJ to Kreta Ayer Heritage Gallery</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer__1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer__2_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer__4_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong><u>P4 LJ: Geylang Serai Heritage Gallery</u></strong>
 </p>
 <p>Caption: P4 LJ to Geylang Serai Heritage Gallery</p>
