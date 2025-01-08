@@ -13,326 +13,187 @@ of the community.</p>
 <p>The CCE curriculum is based on the three big ideas of Identity, Relationships
 and Choices. It involves the teaching and learning of core values and social-emotional
 competencies with a focus on developing a sense of purpose in our students.</p>
-<p>These fundamentals are taught and applied in the six curriculum content
-areas of CCE:</p>
-<ol>
-<li>
-<p>National Education</p>
-</li>
-<li>
-<p>Sexuality Education</p>
-</li>
-<li>
-<p>Mental Health</p>
-</li>
-<li>
-<p>Education and Career Guidance</p>
-</li>
-<li>
-<p>Cyber Wellness</p>
-</li>
-<li>
-<p>Family Education</p>
-</li>
-</ol>
-<p>At Townsville, CCE is an ongoing, lifelong journey that unfolds through
-diverse experiences. Teachers use the SEE approach to craft and support
-these experiences to facilitate effective learning and attain the CCE's
-learning outcomes. These experiences are carefully tailored to suit the
-needs and interests of our students, optimizing their relevance through
-genuine and meaningful ties to real-world situations.</p>
+<p>At Townsville, teachers use the SEE approach to create key Student Development
+Experiences to provide students with varied and authentic opportunities
+to learn, apply and demonstrate good values, good character, social-emotional
+competencies and citizenship dispositions.</p>
 <p><strong><u>SEE Approach</u></strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><u>S</u>tories and scenarios
-<br>
-</p>
+<p><u>S</u>tories and scenarios</p>
 </li>
 <li>
-<p><u>E</u>xplicit skills instruction
-<br>
-</p>
+<p><u>E</u>xplicit skills instruction</p>
 </li>
 <li>
-<p><u>E</u>xperiential learning
-<br>
-</p>
+<p><u>E</u>xperiential learning</p>
 </li>
 </ol>
-<p>Through the SEE approach, students learn to recognise and clarify their
-values through the process of perspective taking and reflections. Students
-will be equipped with important social and emotional skills to assist them
-in navigating various life circumstances and guide them in making responsible
+<p>Students learn to recognise and clarify their values through the process
+of perspective taking and reflections. They will be equipped with skills
+to navigate various life circumstances and guide them in making responsible
 decisions. Most importantly, students will undergo a cycle of participating,
 reflecting, thinking, and acting to internalise their learning experiences.</p>
-<h4><strong>Key Programmes</strong></h4>
-<p>There are several learning platforms where CCE is enacted with intentionality.
-These include CCE lessons during curriculum time, planned student development
-learning experiences beyond the classroom, teachable moments during other
-subject lessons and learning opportunities beyond school.
-<br>
+<p><strong><u>Signature Programmes (to create a subfolder for each programme, under “CCE”)</u></strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong><u>CCE Lessons</u></strong>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Education Commemorative
+Days</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cohort Learning Journeys</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Values in Action</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Education and Career
+Guidance</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SIR/KIR programme</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Sparkle</p>
+<hr>
+<h4><strong><u>NE Commemorative Days</u></strong></h4>
+<p>NE Commemorative Days (Total Defence Day, International Friendship Day,
+Racial Harmony Day, National Day) have been identified as important points
+in Singapore’s history. NE commemorative activities provide learning experiences
+for students to deepen their appreciation of our shared past, gain an understanding
+of Singapore’s current realities, and develop the will to act on creating
+Singapore’s future.</p>
+<p></p>
+<p><strong><u>Total Defence Day</u></strong>
 </p>
-</li>
-</ol>
-<p>A dedicated curriculum time for the explicit teaching and learning of
-values and social-emotional competencies, as well as engaging and building
-relationships with our students:</p>
-<p>● &nbsp; &nbsp; &nbsp; CCE (FTGP)
-<br>● &nbsp; &nbsp; &nbsp; CCE (MTL)
-<br>● &nbsp; &nbsp; &nbsp; PAL (P1 and P2)
-<br><u>P2 PAL: Terrarium Building</u>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/1.JPG">
-</div>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p><strong><u>Student Development Experiences (SDEs)</u></strong>
-</p>
-</li>
-</ol>
-<p>SDEs are programmes and activities that contribute towards the holistic
-development of our students in physical, aesthetic, intellectual, moral,
-and social domains:</p>
-<p>● &nbsp; &nbsp; &nbsp; Co-Curricular Activities;
-<br>● &nbsp; &nbsp; &nbsp; Cohort Learning Journeys;
-<br>● &nbsp; &nbsp; &nbsp; Education and Career Guidance Experiences;
-<br>● &nbsp; &nbsp; &nbsp; National Education;
-<br>● &nbsp; &nbsp; &nbsp; Outdoor Adventure Learning Cohort Camps;
-<br>● &nbsp; &nbsp; &nbsp; Student Leadership Development Programmes; and
-<br>● &nbsp; &nbsp; &nbsp; Values in Action</p>
-<table style="minWidth: 25px">
+<p>Caption: TDD activities</p>
+<p>Photos: NE 1 to 6</p>
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Cohort Learning Journeys</h4>
+<p></p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P6 @ Asian Civilisation Museum</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P4 @ Geylang Serai Heritage Gallery</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/3.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>P4 @ Kreta Ayer Heritage Gallery</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/4.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>NE Show</strong>
-</p>
-<p></p><a class="isomer-image-wrapper" href="/national-education/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/NE Show/IMG_E1561.jpg"></a>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
 <th rowspan="1" colspan="1">
-<h4>Total Defence Day</h4>
+<p></p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/5.JPG">
-</div>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4>Racial Harmony Day</h4>
-</th>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/6.jpg">
-</div>
 </td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<h4>National Day</h4>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/7.JPG">
-</div>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Recess Integration</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Integration Programme with Pathlight School</strong>
+<p>Caption: Power disruption simulation</p>
+<p>Photos: NE 7 to 9</p>
+<p></p>
+<p><strong><u>International Friendship Day</u></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/8.JPG">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<h4><strong>Community Engagement</strong></h4>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Engagement Programme with Lion’s Befriender</strong>
+<p>Caption: IFD activities</p>
+<p>Photos: NE 10 to 11</p>
+<p></p>
+<p><strong><u>Racial Harmony Day</u></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/9.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
+<p>Caption: RHD activities</p>
+<p>Photos: NE 13 to 17</p>
+<p></p>
+<p><strong><u>National Day</u></strong>
 </p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p><strong><u>School-based Initiatives</u></strong>
+<p>Caption: National Day Celebrations</p>
+<p>Photos: NE 18 to 24</p>
+<p></p>
+<h4><strong><u>Cohort Learning Journeys</u></strong></h4>
+<p>Cohort LJs provide all students with opportunities to explore their Singaporean
+identity through the arts, culture and heritage. These cohort LJs have
+been specially curated for students’ formative years for the development
+of citizenship dispositions and national identity. They complement the
+national Art, Music, Character and Citizenship Education and Social Studies
+curricula. Cohort LJs consist of the Primary 5 NE Show and Museum-Based
+Learning (MBL).</p>
+<p></p>
+<p><strong><u>P4 LJ: Kreta Ayer Heritage Gallery</u></strong>
 </p>
-</li>
-</ol>
-<p>At Townsville, students also undergo uniquely designed experiences to
-foster a caring and enabling school environment for learning:</p>
-<p><strong>Project Sparkle</strong>
+<p>Caption: P4 LJ to Kreta Ayer Heritage Gallery</p>
+<p>Photos: P4 Kreta Ayer 1 to 5</p>
+<p></p>
+<p><strong><u>P4 LJ: Geylang Serai Heritage Gallery</u></strong>
 </p>
-<p>Under the supervision of Eco Student Leaders, students develop a sense
-of responsibility and care for their environment through daily cleaning
-and adopting sustainable practices in school. At the end of each term,
-a thorough wipe down and clean-up of the classrooms are done to ensure
-the class is ready for the following term.</p>
-<p><u>Recycling Drive</u>
+<p>Caption: P4 LJ to Geylang Serai Heritage Gallery</p>
+<p>Photos: P4 Geylang Serai 1 to 6</p>
+<p></p>
+<p><strong><u>P5: Indian Heritage Centre</u></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/10.jpg">
-</div>
-<p><u>Keeping Our Classrooms Clean</u>
+<p>Caption: P5 LJ to Indian Heritage Centre</p>
+<p>Photos: P5 IHC 1 to 5</p>
+<p></p>
+<p><strong><u>P6: Asian Civilisation Museum</u></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/11.JPG">
-</div>
-<p><strong>NE Assembly Programmes</strong>
+<p>Caption: P6 LJ to Asian Civilisation Museum</p>
+<p>Photos: P6 ACM 1 to 6</p>
+<p></p>
+<p><strong><u>P5 NE Show</u></strong>
 </p>
-<p>Through NE Commemorative Days such as Total Defence Day and National Day,
-students learn about Singapore’s important milestones and how they can
-play their part to keep Singapore a diverse, unified, and resilient country.
-Mass assembly programmes serve as platforms to educate and remind students
-on the different national values required to ensure Singapore’s peace and
-stability.</p>
-<p><strong>Weekly SIR &amp; KIR Programme</strong>
+<p>Caption: NE show at Padang</p>
+<p>Photos: NE Show 1 to 7</p>
+<p></p>
+<h4><strong><u>Values in Action</u></strong></h4>
+<p>VIA is a learning experience that develops students as active and socially
+responsible citizens. VIA provides opportunities for students to demonstrate
+the values they learn and contribute meaningfully at home, school and community.
+VIA learning experiences are scaffolded through developmentally appropriate
+activities: Lower primary students progressively take responsibility for
+their own spaces in class and at home, while upper primary students can
+take action to make a difference to their school and the community.</p>
+<p></p>
+<p>Caption: P4 VIA – Adopting a school compound</p>
+<p>Photos: P4 VIA 1 to 5</p>
+<p></p>
+<p>Caption: P5 VIA – Recess integration with Pathlight School</p>
+<p>Photos: P5 VIA 1 to 6</p>
+<p></p>
+<p>Caption: P6 VIA – VIA @ Ren Ci (AMK)</p>
+<p>Photos: P6 VIA 1 to 4</p>
+<p></p>
+<h4><strong><u>Education and Career Guidance</u></strong></h4>
+<p>ECG experiences equip students with the necessary knowledge, skills and
+values to make informed decisions at each key education stage for successful
+transition from school to further education or work. At Townsville, ECG
+experiences raise students’ awareness of the different education and career
+pathways that are suited to their values, interests, personality and skills.</p>
+<p><strong>&nbsp;</strong>
 </p>
+<p><strong><u>ECG Day</u></strong>
+</p>
+<p>Caption: ECG day offers students an understanding of different career
+paths and the dedication required to pursue their goals, sparking curiosity
+and motivation to explore their own potential.</p>
+<p>Photos: ECG 1 to 4</p>
+<p></p>
+<h4><strong><u>SIR/KIR Programme</u></strong></h4>
 <p>The Start-It-Right (SIR) and Keep-It-Right (KIR) are structured in students’
-weekly timetables where the school’s IDARE2 values and Student’s Creed
+weekly timetables where the school’s iDARE2 values and Student’s Creed
 are taught explicitly. Through case studies, discussion and reflections,
 students are guided through the process of responsible decision making
-that is anchored on the values and expected behaviours.</p>
-<p><u>SIR: Setting Tone and Expectations</u>
+that is anchored on values and expected behaviours.</p>
+<p></p>
+<p><strong><u>SIR/KIR</u></strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/12.jpg">
-</div>
-<p><u>KIR: Reinforcing what was taught</u>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/13.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/14.jpeg">
-</div>
-<p><strong>Positive Teacher - Student Relationships</strong>
-</p>
-<p>During the weekly Form Teacher (FT) interaction sessions, FTs engage students
-individually to check in on their well-being. These sessions also serve
-as a safe and conducive channel for students to share their challenges
-and concerns with their teachers, and for teachers to keep a lookout for
-potential issues amongst our students.</p>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p><u>Other Subjects</u>
-</p>
-</li>
-</ol>
-<p>Besides linking CCE learning outcomes to content knowledge in other subject
-areas, the learning of values and social-emotional competencies can also
-occur through teachable moments.</p>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p><u>Personal Applications</u>
-</p>
-</li>
-</ol>
-<p>Students are taught to reflect on their character growth as a lifelong
-process to develop the habit of self-reflection and gratitude. CCE provides
-the knowledge and skills to help our students make sense of their life
-experiences and the language to express their learning and development.</p>
+<p>Caption: Start it Right, Keep it Right!</p>
+<p>Photos: SIR 1 to 4</p>
+<p></p>
+<h4><strong><u>Project Sparkle</u></strong></h4>
+<p>The Project Sparkle project focuses on developing in students the values
+of responsibility, respect and care for environment. Students can show
+care for their own shared spaces through daily cleaning and adopting sustainability
+practices in school and at home. At the end of each term, a thorough wipe
+down and clean-up of the classrooms are done to ensure the class is ready
+for the following term.</p>
+<p></p>
+<p>Caption: Cleaning up to make our classrooms sparkle!</p>
+<p>Photos: PS 1 to 6</p>
