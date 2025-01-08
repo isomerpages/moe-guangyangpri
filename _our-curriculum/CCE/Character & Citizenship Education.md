@@ -170,8 +170,6 @@ Singapore’s future.</p>
 <p></p>
 <p><strong><u>Racial Harmony Day</u></strong>
 </p>
-<p>Caption: RHD activities</p>
-<p>Photos: NE 13 to 17</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -291,8 +289,6 @@ Learning (MBL).</p>
 <p></p>
 <p><strong><u>P4 LJ: Kreta Ayer Heritage Gallery</u></strong>
 </p>
-<p>Caption: P4 LJ to Kreta Ayer Heritage Gallery</p>
-<p>Photos: P4 Kreta Ayer 1 to 5</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -342,8 +338,6 @@ Learning (MBL).</p>
 </table>
 <p><strong><u>P4 LJ: Geylang Serai Heritage Gallery</u></strong>
 </p>
-<p>Caption: P4 LJ to Geylang Serai Heritage Gallery</p>
-<p>Photos: P4 Geylang Serai 1 to 6</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -357,26 +351,38 @@ Learning (MBL).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Geylang_Serai__1_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer__2_.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Geylang_Serai__3_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Geylang_Serai__4_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Geylang_Serai__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Geylang_Serai__6_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
