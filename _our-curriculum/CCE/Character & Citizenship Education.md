@@ -532,7 +532,6 @@ Learning (MBL).</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/NE_Show__6_.jpg">
 </div>
@@ -558,13 +557,102 @@ VIA learning experiences are scaffolded through developmentally appropriate
 activities: Lower primary students progressively take responsibility for
 their own spaces in class and at home, while upper primary students can
 take action to make a difference to their school and the community.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>P4 VIA – Adopting a school compound</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
-<p>Caption: P4 VIA – Adopting a school compound</p>
-<p>Photos: P4 VIA 1 to 5</p>
-<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Caption: P5 VIA – Recess integration with Pathlight School</p>
 <p>Photos: P5 VIA 1 to 6</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>P5 VIA – Recess integration with Pathlight School</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA_5.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Caption: P6 VIA – VIA @ Ren Ci (AMK)</p>
 <p>Photos: P6 VIA 1 to 4</p>
 <p></p>
