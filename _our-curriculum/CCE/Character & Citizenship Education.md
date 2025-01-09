@@ -703,8 +703,39 @@ pathways that are suited to their values, interests, personality and skills.</p>
 <p>Caption: ECG day offers students an understanding of different career
 paths and the dedication required to pursue their goals, sparking curiosity
 and motivation to explore their own potential.</p>
-<p>Photos: ECG 1 to 4</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong><u>SIR/KIR Programme</u></strong></h4>
 <p>The Start-It-Right (SIR) and Keep-It-Right (KIR) are structured in students’
 weekly timetables where the school’s iDARE2 values and Student’s Creed
@@ -714,9 +745,43 @@ that is anchored on values and expected behaviours.</p>
 <p></p>
 <p><strong><u>SIR/KIR</u></strong>
 </p>
-<p>Caption: Start it Right, Keep it Right!</p>
-<p>Photos: SIR 1 to 4</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Start it Right, Keep it Right!</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIR_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIR_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIR_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIR_4.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong><u>Project Sparkle</u></strong></h4>
 <p>The Project Sparkle project focuses on developing in students the values
 of responsibility, respect and care for environment. Students can show
