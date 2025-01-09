@@ -5,4 +5,21 @@ variant: tiptap
 description: ""
 third_nav_title: English Language
 ---
-<h3><strong>Learning Support Programme (LSP)</strong></h3><p></p><p>The LSP is a specialised early intervention programme which aims at providing learning support to pupils who enter Primary 1 with weak English language and literacy skills. Students are identified for LSP through a systematic screening process which is carried out at the beginning of Primary 1. The objective of the LSP is to equip students with basic literacy skills so that they can access learning in the regular classroom.</p><h3><strong>School-based Dyslexia Remediation (SDR)</strong></h3><p></p><p>SDR is a two year intervention programme for Primary 3 and 4 students who are identified through a systematic screening process for dyslexia which is conducted at the end of Primary 2. The programme is conducted in small groups by trained teachers using a reading curriculum designed by MOE reading specialists.</p><p></p><h3><strong>Reading Remediation Programme (RRP)</strong></h3><p></p><p>The Reading Remediation Programme is aimed at supporting P3 and P4 students who face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme enables students to master word recognition and spelling strategies. It also exposes them to a range of strategies for reading comprehension which will enable them to better manage their daily learning.</p><p><br></p>
+<h4><strong>Learning Support Programme (LSP)</strong></h4>
+<p>Learning Support Programme focuses on equipping students with the basic
+literacy skills that will enable them to then access learning in the regular
+classroom.</p>
+<h4><strong>School-based Dyslexia Remdiation (SDR)</strong></h4>
+<p>School-based Dyslexia Remdiation is a specialised literacy remediation
+programme for Primary 3 and Primary 4 students with dyslexia. The programme
+aims to enable these students to become strategic decoders and spellers,
+flexible in the independent use of different strategies for reading, spelling
+and comprehension.</p>
+<h4><strong>Reading Remediation Programme (RRP)</strong></h4>
+<p>Reading Remediation Programme is an additional literacy support programme
+implemented from Primary 3 to Primary 5 to support students with reading
+difficulties who do&nbsp;not&nbsp;have dyslexia. The programme will&nbsp;help
+students level up their literacy skills so they can cope with the demands
+of the mainstream curriculum.&nbsp;
+<br>
+</p>
