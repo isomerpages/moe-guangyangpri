@@ -5,4 +5,28 @@ variant: tiptap
 description: ""
 third_nav_title: English Language
 ---
-<p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engspeech_drama__6_.jpg"></div><p><strong>Speech and drama</strong> lessons in the EL curriculum is aimed at growing the confident speaker in each Townsvillite. The programme allows students to express themselves freely and explore their imagination.</p><p></p><p>Students work on skills like voice projection, articulation and spatial awareness.</p><table><tbody><tr><th rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engspeech_drama__7_.jpg"></div></th><th rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engspeech_drama__5_.jpg"></div></th><th rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engspeech_drama__4_.jpg"></div></th></tr><tr><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engspeech_drama__3_.jpg"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engspeech_drama__2_.jpg"></div></td><td rowspan="1" colspan="1"><p></p><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engspeech_drama__1_.jpg"></div></td></tr><tr><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td><td rowspan="1" colspan="1"><p></p></td></tr></tbody></table><p><br></p>
+<p><strong>Eng-li-cious: Character Dress-Up Day, Spelling Bee</strong>
+</p>
+<p>Eng-li-cious, Towsnville’s English Week, promotes a love for English Language.
+During the event, students get to strengthen their command of the English
+language through engaging activities and games.</p>
+<p>Highlights of the events include language games such as Spelling Bees,
+Word Scramble Challenges, and Tongue Twisters which make learning English
+enjoyable.</p>
+<p><strong><u>Spelling Bee</u></strong>
+</p>
+<p>The annual Spelling Bee encourages students to expand their vocabulary
+and sharpen their spelling skills. It combines fun and friendly competition,
+motivating students to enhance their language abilities in an engaging
+way.</p>
+<p><strong><u>Character Dress-Up Day</u></strong>
+</p>
+<p>Character Dress-Up Day also happens during Eng-li-cious. Students get
+to dress up as their favourite characters from books, movies, or games,
+bringing those characters to life. This day adds lots of fun, vibrancy
+and creativity to the school environment. As students dress up as the different
+characters related to the theme, they get a chance to share their interests
+with their friends and learn from one another.</p>
+<p>
+<br>
+</p>
