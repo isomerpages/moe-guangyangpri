@@ -67,7 +67,7 @@ in their learning of the language.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/english-language/intervention-programmes/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/enginternational.png"></a>
-<p><strong><a href="/our-curriculum/english-language/intervention-programmes/" rel="noopener noreferrer nofollow" target="_blank">Intervention Programmes</a></strong>
+<p><strong><a href="/our-curriculum/english-language/intervention-programmes/" rel="noopener noreferrer nofollow" target="_blank">Internationalisation</a></strong>
 </p>
 </td>
 <th rowspan="1" colspan="1">
