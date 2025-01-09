@@ -61,7 +61,7 @@ in their learning of the language.</p>
 </p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/english-language/speech-and-drama/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engspeech.png"></a>
-<p><a href="/our-curriculum/english-language/speech-and-drama/" rel="noopener noreferrer nofollow" target="_blank">Speech &amp; Drama</a>
+<p><a href="/our-curriculum/english-language/eng-li-cious/" rel="noopener noreferrer nofollow" target="_blank">Eng-li-cious</a>
 </p>
 </th>
 </tr>
