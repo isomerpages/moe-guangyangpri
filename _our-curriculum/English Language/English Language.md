@@ -53,7 +53,7 @@ in their learning of the language.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/english-language/intervention-programmes/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engintervention.png"></a>
-<p><a href="/our-curriculum/english-language/intervention-programmes/" rel="noopener noreferrer nofollow" target="_blank">Intervention Programmes</a>
+<p><a href="/our-curriculum/english-language/enrichment-support-programmes/" rel="noopener noreferrer nofollow" target="_blank">Enrichment &amp; Support Programmes</a>
 </p>
 </th>
 <th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/english-language/elts/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engELTS2023.png"></a>
