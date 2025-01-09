@@ -489,8 +489,6 @@ Learning (MBL).</p>
 </table>
 <p><strong><u>P5 NE Show</u></strong>
 </p>
-<p>Caption: NE show at Padang</p>
-<p>Photos: NE Show 1 to 7</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
