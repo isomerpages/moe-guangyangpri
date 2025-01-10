@@ -30,37 +30,23 @@ day to day classroom.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Maths/maths%206.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Maths/maths%207.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Maths/maths%205.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Maths/maths%204.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/maths%202.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/maths%201.jpg">
-</div>
 <p>Our teachers create opportunities and space for our Townsvillites to explore
 and discover the joy of learning. Our lessons are structured accordingly
 such that the CPA (Concrete to Pictorial to Abstract) Approach is used
