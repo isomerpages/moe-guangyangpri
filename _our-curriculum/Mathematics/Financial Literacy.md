@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Mathematics
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/Financial_Literacy_Display.jpg">
+</div>
 <p><strong>Financial Literacy</strong> at Townsville: Building a Solid Foundation</p>
 <p>At Townsville, we believe it's never too early to start learning about
 money management. Our six-year Financial Literacy programme is carefully
@@ -48,82 +51,49 @@ the tools they need for a lifetime of financial success.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__1_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__4_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__2_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__2_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__3_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__3_.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__4_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__1_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__5_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__5_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__6_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__7_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__7_.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__6_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__8_.jpeg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__9_.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__10_.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__11_.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Financial Literacy/FLphotos__12_.jpeg">
-</div>
 </td>
 </tr>
 </tbody>
