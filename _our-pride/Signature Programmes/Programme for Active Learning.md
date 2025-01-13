@@ -64,14 +64,14 @@ in life, helping them to become well-rounded and responsible individuals.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/PAL Photos/4__PAL_Students_in_Action.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/PAL Photos/5__PAL_Students_in_Action.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/PAL Photos/5__PAL_Students_in_Action.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/PAL Photos/4__PAL_Students_in_Action.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
