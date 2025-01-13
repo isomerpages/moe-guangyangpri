@@ -5,4 +5,52 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
-<h1>Programme for Active Learning&nbsp; (PAL)</h1><p>PAL is an integral part of the curriculum for all Primary 1 and 2 students. The programme offers&nbsp; hands-on and experiential learning through the following four domains: Sports &amp; Games, Outdoor Education, Visual Arts, and Performing Arts.</p><p>PAL provides opportunities for students to discover new interests, develop character and enables them to develop social-emotional competencies.</p><p>The PAL modules aim for students to develop confidence in what they do, develop a sense of curiosity and positive attitude towards learning and enjoy group experiences and teamwork.</p><p></p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="" src="/images/Signature Programmes/PAL.png"></div><p></p>
+<h1>Programme for Active Learning&nbsp; (PAL)</h1>
+<p>The Programme for Active Learning (PAL) is an important part of the curriculum
+for Primary 1 and 2 students. It focuses on building socio-emotional competencies
+(SEC) that help students grow personally and socially.</p>
+<p>Through PAL, students:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to show respect</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build confidence</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Develop curiosity and
+a positive attitude towards learning</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gain a better awareness
+of themselves and others</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learn to manage relationships
+and work well with others</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible decisions</p>
+<p>These skills are essential for students to succeed both in school and
+in life, helping them to become well-rounded and responsible individuals.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
