@@ -48,30 +48,21 @@ approach encourages pupils to:</p>
 <p>The E2K programme goes beyond traditional mathematics education, preparing
 pupils not just for academic success, but for the challenges of an increasingly
 complex world.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/maths 9.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/E2K/E2K__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/maths 4.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/maths 11.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/E2K/E2K__2_.jpg">
 </div>
 </th>
 </tr>
