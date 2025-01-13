@@ -5,8 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Mathematics
 ---
-<p><strong><em>Financial Literacy</em></strong> at Townsville: Building a
-Solid Foundation</p>
+<p><strong>Financial Literacy</strong> at Townsville: Building a Solid Foundation</p>
 <p>At Townsville, we believe it's never too early to start learning about
 money management. Our six-year Financial Literacy programme is carefully
 structured to provide students with a comprehensive understanding of key
