@@ -2,5 +2,6 @@ collections:
   write-ups-2024:
     output: true
     order:
+      - Mother Tongue Fortnight.md
       - P1 Orientation 2024.md
       - Primary 4 Inline Skating.md
