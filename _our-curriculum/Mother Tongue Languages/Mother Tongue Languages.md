@@ -31,7 +31,15 @@ learning journey.</p>
 <p>At Townsville Primary School, we are committed to shaping confident, capable
 learners who are not only proficient in their Mother Tongue but also rooted
 in cultural values, prepared for a rapidly changing world.</p>
-<h4></h4>
+<p><strong>MT lesson in TVPS is fun, lively and engaging</strong>
+</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engagement through EdTech
+Tools</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Various learning experiences
+such as role play, show &amp; tell, group work etc</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning about culture
+&amp; values (Festivals, MTLF)</p>
+<p>(Refer to folder “MT lesson in TVPS” for photos)</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -39,13 +47,27 @@ in cultural values, prepared for a rapidly changing world.</p>
 </colgroup>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Mother Tongue Fortnight</strong>
-</p><a class="isomer-image-wrapper" href="/our-curriculum/mother-tongue-languages/mother-tongue-fortnight/"><img style="width: 100%" height="auto" width="100%" src="/images/Mother%20Tongue%20Language/mothertongue9.jpg"></a>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Culture Camp</strong>
-</p><a class="isomer-image-wrapper" href="/our-curriculum/mother-tongue-languages/cultural-camp/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/mothertongue48.jpg"></a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
