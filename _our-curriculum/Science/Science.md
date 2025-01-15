@@ -32,7 +32,20 @@ and ethics to be young scientists;</p>
 </li>
 </ul>
 <h3><strong>Key Programmes</strong></h3>
-<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-curriculum/science/earth-guardians/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SciQuest" src="/images/Science/SciQuest/2024_07_11_13_17_15.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SciQuest</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -42,12 +55,14 @@ and ethics to be young scientists;</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>SciQuest</strong>
-</p><a class="isomer-image-wrapper" href="/our-curriculum/science/sciquest/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Sciupdates__2_.jpg"></a>
-<p></p>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/2024_07_11_13_17_15.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Earth Guardians Programme</strong>
-</p><a class="isomer-image-wrapper" href="/our-curriculum/science/earth-guardians/"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Science/Sciupdates__5_.jpg"></a>
+</p><a class="isomer-image-wrapper" href="/our-curriculum/science/earth-guardians/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Earth Guardians Program/2024_03_04_12_47_02.jpg"></a>
 </td>
 </tr>
 <tr>
