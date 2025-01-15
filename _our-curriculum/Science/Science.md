@@ -32,48 +32,17 @@ and ethics to be young scientists;</p>
 </li>
 </ul>
 <h3><strong>Key Programmes</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/science/sciquest/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SciQuest" src="/images/Science/SciQuest/2024_07_11_13_17_15.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SciQuest</div><div class="isomer-card-link">Discover Science!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/science/sciquest/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SciQuest" src="/images/Science/SciQuest/2024_07_11_13_17_15.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SciQuest</div><div class="isomer-card-link">Discovering Science!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/science/earth-guardians/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Earth Guardians Programme" src="/images/Science/Earth Guardians Program/2024_03_04_12_47_02.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Earth Guardians Programme</div>
+<div class="isomer-card-link">Stewards of our home.</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/science/e2k/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/science/e2k/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Science E2K" src="/images/Science/E2K Photos/WhatsApp_Image_2025_01_13_at_10_22_00_AM.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Science E2K</div><div class="isomer-card-link">Exploring Science!</div></div></a>
 </div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>SciQuest</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/2024_07_11_13_17_15.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Earth Guardians Programme</strong>
-</p><a class="isomer-image-wrapper" href="/our-curriculum/science/earth-guardians/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Earth Guardians Program/2024_03_04_12_47_02.jpg"></a>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Science E2K</strong>
-</p><a class="isomer-image-wrapper" href="/our-curriculum/science/e2k/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Sciupdates__3_.jpeg"></a>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
