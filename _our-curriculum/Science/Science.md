@@ -32,7 +32,7 @@ and ethics to be young scientists;</p>
 </li>
 </ul>
 <h3><strong>Key Programmes</strong></h3>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="/our-curriculum/science/earth-guardians/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SciQuest" src="/images/Science/SciQuest/2024_07_11_13_17_15.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SciQuest</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/science/sciquest/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SciQuest" src="/images/Science/SciQuest/2024_07_11_13_17_15.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SciQuest</div><div class="isomer-card-link">Discover Science!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
