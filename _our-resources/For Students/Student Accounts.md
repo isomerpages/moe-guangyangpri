@@ -11,12 +11,17 @@ third_nav_title: For Students
 ICT tools. School Laptops, Student iCON and Student Learning Space (SLS)
 now require a MIMS account to log in.</p>
 <p>Student Log In ID &amp; Passwords are distributed to students at the beginning
-of the year and placed on <strong><u>page 21</u></strong> in the <strong><u>Student Handbook</u></strong>.</p>
+of the year and placed on <strong><u>page 17</u></strong> in the <strong><u>Student Handbook</u></strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/For Students/MIMS_Image_1.png">
 </div>
 <p></p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-resources/for-students/student-icon/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/For Students/Student_iCOn_button.png"></a>
@@ -32,7 +37,11 @@ of the year and placed on <strong><u>page 21</u></strong> in the <strong><u>Stud
 <p>Visit the <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a> and
 set up the Security Questions. This enables the Self Password Reset in
 the event of a forgotten password.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -84,7 +93,11 @@ on page 21)</p>
 <p>Visit the <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a> and
 click Forgot Password and go through the "Forget Password" process. Alternatively,
 if in school, inform the Form Teacher.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -145,7 +158,11 @@ wide reset and students must attempt a log in to the MIMS Portal and will
 be asked to change their passwords. Alternatively, if required to change
 a password, visit the <a href="https://idp.mims.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a> and go through the "Change
 Password" process.</p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
