@@ -179,7 +179,7 @@ identity, making the learning journey both meaningful and unforgettable.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Learning about traditional Batik Painting</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -187,15 +187,37 @@ identity, making the learning journey both meaningful and unforgettable.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Culture &amp; Values/Learning_about_traditional_Batik_Painting.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="2">
+<p><strong>Students' work - Designing traditional costume</strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Culture &amp; Values/Students__work___Designing_traditional_costume_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Culture &amp; Values/Students__work___Designing_traditional_costume_4.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Culture &amp; Values/Students__work___Designing_traditional_costume_3.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
