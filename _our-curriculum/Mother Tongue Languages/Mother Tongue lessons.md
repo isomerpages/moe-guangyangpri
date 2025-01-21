@@ -171,4 +171,36 @@ the vibrant Mother Tongue Language Fortnight, students not only acquire
 language skills but also develop a profound appreciation for their cultural
 roots. These engaging lessons foster pride, respect, and a deep sense of
 identity, making the learning journey both meaningful and unforgettable.</p>
-<p>(Refer to folder “Culture &amp; Values” for photos)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
