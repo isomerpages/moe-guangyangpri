@@ -21,24 +21,45 @@ connection to their cultural heritage and building essential language skills.</p
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
+<th rowspan="1" colspan="2">
+<p>Students teaming up to learn and succeed through online games</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/EdTech Tools/Students_teaming_up_to_learn_and_succeed_through_online_games_2.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/EdTech Tools/Students_teaming_up_to_learn_and_succeed_through_online_games_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Learning made fun with online games</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/EdTech Tools/Leveraging_on_Technology_for_learning_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/EdTech Tools/Leveraging_on_Technology_for_learning_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/EdTech Tools/Learning_made_fun_with_online_games.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
