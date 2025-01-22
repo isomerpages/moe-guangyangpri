@@ -43,7 +43,7 @@ in cultural values, prepared for a rapidly changing world.</p>
 <div class="isomer-card-title">Department Programmes</div>
 <div class="isomer-card-link">Read More!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Support Programme" src="/images/Mother Tongue Language/MTSP Strive/Class_Activity_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Support Programmes</div><div class="isomer-card-link">Read More!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/support-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Support Programme" src="/images/Mother Tongue Language/MTSP Strive/Class_Activity_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Support Programmes</div><div class="isomer-card-link">Read More!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
