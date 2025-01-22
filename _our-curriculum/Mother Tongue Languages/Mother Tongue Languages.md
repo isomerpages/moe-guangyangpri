@@ -33,7 +33,7 @@ learners who are not only proficient in their Mother Tongue but also rooted
 in cultural values, prepared for a rapidly changing world.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fun MTL Lessons" src="/images/Mother Tongue Language/MT Lessons in TVPS/Role_Play_in_class.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fun Mother Tongue Language Lessons</div><div class="isomer-card-link">Read More!</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/department-programmes/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Department Programme" src="/images/Mother Tongue Language/mothertongue49.jpg">
