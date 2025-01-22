@@ -306,26 +306,44 @@ connect classroom learning with real-world cultural expressions. &nbsp;</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Watching a play from Journey to the West</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Experiencing on Stage</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/P3 LJ/Watching_a_play_from_Journey_to_the_West.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/P3 LJ/Experiencing_on_stage.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Interaction with Performers</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Engrossed in the Performance</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/P3 LJ/Interaction_with_performers.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/P3 LJ/Engrossed_in_the_performance.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -337,7 +355,78 @@ will take part in the "Play in Mandarin" programme. This initiative enriches
 their learning experience through an engaging stage performance paired
 with complementary enrichment activities, nurturing both linguistic skills
 and cultural appreciation.</p>
-<p>(refer to “P1 LJ” folder for photos)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>Watching a Chinese Performance</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/P1 Learning Journey/Watching_a_Chinese_Performance_3.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/P1 Learning Journey/Watching_a_Chinese_Performance_2.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/P1 Learning Journey/Watching_a_Chinese_Performance_1.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Learning about the story</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/P1 Learning Journey/Learning_about_the_story.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Engaged in Dramatic Movement</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/P1 Learning Journey/Engaged_in_dramatic_movement_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/P1 Learning Journey/Engaged_in_dramatic_movement_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&nbsp;</p>
 <p><strong>Conversation Chinese &amp; Malay</strong>
 </p>
@@ -347,4 +436,69 @@ to a third language. In these sessions, they learn to greet one another,
 introduce themselves in a new language, and explore the food, traditions,
 costumes, and festivals of another culture. These experiences deepen their
 appreciation of Singapore’s rich multicultural heritage.</p>
-<p>(refer to “CCM” folder for photos)</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Classroom activities</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Learning about Traditional Costumes</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Conversation CM/Classroom_activity.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Conversation CM/Learning_about_traditional_costumes.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Learn through play</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Conversation CM/Learn_through_play.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Playing Traditional Games</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Conversation CM/Playing_traditional_games_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Conversation CM/Playing_traditional_games_1.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
