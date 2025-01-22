@@ -67,7 +67,7 @@ knowledge in a meaningful and enjoyable way.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Looking for reading materials at the Book Fair </strong>
+<p><strong>Looking for reading materials at the Book Fair</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -133,7 +133,7 @@ knowledge in a meaningful and enjoyable way.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Learning about Traditional Food </strong>
+<p><strong>Learning about Traditional Food</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,6 +201,111 @@ way.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<p>Students Rehearsing</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Students Rehearsing Lines</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Language and Culture Camp/Students_rehearsing.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Language and Culture Camp/Students_rehearsing_lines.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Students rehearsing lines from Journey to the West</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Student with the mask they designed</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Language and Culture Camp/Students_rehearsing_lines_from_Journey_to_the_West.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Language and Culture Camp/Student_with_the_mask_they_designed.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Students Performing</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Language and Culture Camp/Students_putting_up_performance_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Language and Culture Camp/Students_putting_up_performance_1.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Characters of the drama Naragasuran</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Language and Culture Camp/Characters_of_the_drama_Naragasuran_2.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Language and Culture Camp/Characters_of_the_drama_Naragasuran_3.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Language and Culture Camp/Characters_of_the_drama_Naragasuran_1.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>P3 Learning Journey to Theatre Performance</strong>
+</p>
+<p>Our school provides Primary 3 students taking Chinese Language with an
+authentic and immersive experience by attending a theatre performance each
+year. This initiative enhances their understanding and appreciation of
+the Chinese language and culture, offering a meaningful opportunity to
+connect classroom learning with real-world cultural expressions. &nbsp;</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
@@ -225,15 +330,6 @@ way.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>P3 Learning Journey to Theatre Performance</strong>
-</p>
-<p>Our school provides Primary 3 students taking Chinese Language with an
-authentic and immersive experience by attending a theatre performance each
-year. This initiative enhances their understanding and appreciation of
-the Chinese language and culture, offering a meaningful opportunity to
-connect classroom learning with real-world cultural expressions. &nbsp;</p>
-<p>&nbsp;(refer to “P3 LJ to Chinese Theatre Performance” for photos)</p>
 <p><strong>P1 Learning Journey to Theatre Performance</strong>
 </p>
 <p>All Primary 1 students studying Chinese Language as their Mother Tongue
