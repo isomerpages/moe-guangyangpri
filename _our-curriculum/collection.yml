@@ -4,9 +4,9 @@ collections:
     order:
       - English Language/.keep
       - English Language/English Language.md
-      - English Language/Intervention Programmes.md
+      - English Language/Enrichment & Support Programmes.md
       - English Language/English Language Talent Superstar.md
-      - English Language/Speech & Drama.md
+      - English Language/Eng li cious.md
       - English Language/Internationalisation.md
       - English Language/Featured @ The Straits Times.md
       - English Language/Professional Development.md
@@ -19,8 +19,10 @@ collections:
       - Mathematics/Math Around Us.md
       - Mother Tongue Languages/.keep
       - Mother Tongue Languages/Mother Tongue Languages.md
-      - Mother Tongue Languages/Mother Tongue Fortnight.md
-      - Mother Tongue Languages/Cultural Camp.md
+      - Mother Tongue Languages/Mother Tongue lessons.md
+      - Mother Tongue Languages/Department Programmes.md
+      - Mother Tongue Languages/Support Programmes.md
+      - Mother Tongue Languages/Partnership with External Organizations.md
       - Science/.keep
       - Science/Science.md
       - Science/SciQuest.md

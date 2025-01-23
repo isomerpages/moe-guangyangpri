@@ -2,5 +2,7 @@ collections:
   write-ups-2024:
     output: true
     order:
+      - Cultural Camp.md
+      - Mother Tongue Fortnight.md
       - P1 Orientation 2024.md
       - Primary 4 Inline Skating.md

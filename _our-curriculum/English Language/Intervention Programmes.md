@@ -1,8 +1,0 @@
----
-title: Intervention Programmes
-permalink: /our-curriculum/english-language/intervention-programmes/
-variant: tiptap
-description: ""
-third_nav_title: English Language
----
-<h3><strong>Learning Support Programme (LSP)</strong></h3><p></p><p>The LSP is a specialised early intervention programme which aims at providing learning support to pupils who enter Primary 1 with weak English language and literacy skills. Students are identified for LSP through a systematic screening process which is carried out at the beginning of Primary 1. The objective of the LSP is to equip students with basic literacy skills so that they can access learning in the regular classroom.</p><h3><strong>School-based Dyslexia Remediation (SDR)</strong></h3><p></p><p>SDR is a two year intervention programme for Primary 3 and 4 students who are identified through a systematic screening process for dyslexia which is conducted at the end of Primary 2. The programme is conducted in small groups by trained teachers using a reading curriculum designed by MOE reading specialists.</p><p></p><h3><strong>Reading Remediation Programme (RRP)</strong></h3><p></p><p>The Reading Remediation Programme is aimed at supporting P3 and P4 students who face consistent difficulty in reading in the English Language despite having completed the Learning Support Programme in P1 and P2. The programme enables students to master word recognition and spelling strategies. It also exposes them to a range of strategies for reading comprehension which will enable them to better manage their daily learning.</p><p><br></p>
