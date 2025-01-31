@@ -5,17 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: CCE
 ---
-<p><strong>NE Show 2024</strong>
-</p>
-<p>On Saturday, 29 June, our Primary 5 students attended the National Education
-(NE) Show at the Padang. The theme for this year’s National Day Parade
-(NDP) is “Together, As One United People” which highlights the collective
-strength of our people and underscores the importance of every citizen
-rallying together to share our future and uplift those around us. On top
-of experiencing the mesmerising spectacle and jubilant atmosphere of the
-NDP, our students gained a deeper appreciation for Singapore and its history.</p>
+<h4><strong><u>NE Commemorative Days</u></strong></h4>
+<p>NE Commemorative Days (Total Defence Day, International Friendship Day,
+Racial Harmony Day, National Day) have been identified as important points
+in Singapore’s history. NE commemorative activities provide learning experiences
+for students to deepen their appreciation of our shared past, gain an understanding
+of Singapore’s current realities, and develop the will to act on creating
+Singapore’s future</p>
 <p></p>
-<p>More Photos in our <a href="https://www.townsvillepri.moe.edu.sg/our-pride/gallery/" rel="noopener noreferrer nofollow" target="_blank">Gallery</a>
+<p><strong><u>Total Defence Day</u></strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -24,46 +22,21 @@ NDP, our students gained a deeper appreciation for Singapore and its history.</p
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE Show/IMG_E1561.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE Show/IMG_E1495.jpg">
-</div>
+<th rowspan="1" colspan="2">
+<p>TDD Activities</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE Show/IMG_E1478.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE Show/IMG_E1510.jpg">
-</div>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE Show/IMG_E1501.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE Show/WhatsApp_Image_2024_07_02_at_8_44_28_PM.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE Show/IMG_20240629_WA0027.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
