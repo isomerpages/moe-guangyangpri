@@ -35,7 +35,7 @@ of perspective taking and reflections. They will be equipped with skills
 to navigate various life circumstances and guide them in making responsible
 decisions. Most importantly, students will undergo a cycle of participating,
 reflecting, thinking, and acting to internalise their learning experiences.</p>
-<p><strong><u>Signature Programmes (to create a subfolder for each programme, under “CCE”)</u></strong>
+<p><strong><u>Signature Programmes</u></strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; National Education Commemorative
 Days</p>
