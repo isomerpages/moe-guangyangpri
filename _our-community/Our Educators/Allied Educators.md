@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Educators
 variant: tiptap
 ---
-<h4>Special Education Needs Officers &amp; Counselors </h4>
+<h4>Special Education Needs Officers &amp; Counselors</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
