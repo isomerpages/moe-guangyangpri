@@ -73,8 +73,7 @@ Learning (MBL).</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong><u>P4 LJ: Geylang Serai Heritage Gallery</u></strong>
-</p>
+<p>P6 LJ to Asian Civilisation Museum</p>
 </th>
 </tr>
 <tr>
@@ -127,8 +126,7 @@ Learning (MBL).</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong><u>P5: Indian Heritage Centre</u></strong>
-</p>
+<p>P6 LJ to Asian Civilisation Museum</p>
 </th>
 </tr>
 <tr>
@@ -168,4 +166,43 @@ Learning (MBL).</p>
 </tbody>
 </table>
 <p></p>
+<p><strong><u>P6: Asian Civilisation Museum</u></strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
+<p>P6 LJ to Asian Civilisation Museum</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
