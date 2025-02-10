@@ -102,4 +102,7 @@ events as well as organises workshops and activities for parents. <a href="https
 </table>
 <p><strong>Join us Today!</strong>
 </p><a class="isomer-image-wrapper" href="https://docs.google.com/forms/d/e/1FAIpQLSfSQtUJgavMVlKKP8IK4S7bYdaKdMkW41Jv2fOk5HpTPDYb-Q/viewform"><img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Parent Support Group/WhatsApp_Image_2024_11_15_at_10_19_30_AM.jpg"></a>
+<h4><strong>New TPU Events!</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/tpu-parents-for-parents-gathering/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="TPU Parents for Parents Gathering" src="/images/Parent Support Group/TPU_Parents_for_Parents2_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">TPU Parents for Parents Gathering</div><div class="isomer-card-link">Join the Gathering today!</div></div></a>
+</div>
 <p></p>
