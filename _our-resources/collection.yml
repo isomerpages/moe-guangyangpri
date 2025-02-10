@@ -2,8 +2,8 @@ collections:
   our-resources:
     output: true
     order:
-      - For Parents/For Parents.md
       - For Parents/.keep
+      - For Parents/For Parents.md
       - For Parents/School Schedule.md
       - For Parents/Parents Gateway.md
       - For Parents/ClassDojo.md
