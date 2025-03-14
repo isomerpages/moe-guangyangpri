@@ -87,7 +87,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="" rel="noopener nofollow" target="_blank">Mr Andy See</a>
+</p>
 </td>
 </tr>
 <tr>
