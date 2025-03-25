@@ -6,14 +6,15 @@ third_nav_title: Our Educators
 variant: tiptap
 ---
 <h4>Form teachers</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Excellence 1</strong>
 </p>
 </td>
@@ -27,9 +28,12 @@ variant: tiptap
 <p><a href="mailto: leng_han@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Leng Han</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Excellence 2</strong>
 </p>
 </td>
@@ -43,9 +47,12 @@ variant: tiptap
 <p><a href="mailto: latha_devi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Latha Joseph (ST)</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Excellence 3</strong>
 </p>
 </td>
@@ -59,9 +66,12 @@ variant: tiptap
 <p><a href="mailto: goh_jia_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Goh Jia Yee</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Excellence 4</strong>
 </p>
 </td>
@@ -75,9 +85,12 @@ variant: tiptap
 <p><a href="mailto: lye_choon_hwan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lye Choon Hwan (HOD MTL)</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Excellence 5</strong>
 </p>
 </td>
@@ -91,9 +104,12 @@ variant: tiptap
 <p><a href="mailto: diana_baharudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Diana Bte Baharudin</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Excellence 6</strong>
 </p>
 </td>
@@ -107,9 +123,12 @@ variant: tiptap
 <p><a href="mailto: lazar_jennifer_selvi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lazar Jennifer Selvi</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="3">
 <p><strong>Excellence 7</strong>
 </p>
 </td>
@@ -120,7 +139,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:" rel="noopener nofollow" target="_blank">Mr Gillan Yeo</a>
+<p><a href="mailto:" rel="noopener nofollow" target="_blank">Mr Gillan MDYeo</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: junaidah_mohamed_sali@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Junaidah</a>
 </p>
 </td>
 </tr>
