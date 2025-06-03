@@ -23,15 +23,15 @@ variant: tiptap
 <p>Mr Mohammad Zhafrie Bin Jalil (OM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Hadi Asyaari Bin Ahmad (ICT Mgr)</p>
+<p>Mr G Kernabalan (OM)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Ping (AE)</p>
+<p>Mr Hadi Asyaari Bin Ahmad (ICT Mgr)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazariah Ali (CSO)</p>
+<p>Ms Lee Ping (AE)</p>
 </td>
 </tr>
 <tr>
@@ -39,15 +39,15 @@ variant: tiptap
 <p>Mdm Suzana Bte Suja (CSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zaidah Binte Adam (OSO)</p>
+<p>Mdm Nazariah Ali (CSO)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Jumadi Bin Pahmu (OSO)</p>
+<p>Mdm Siti Zaidah Binte Adam (OSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Szeto May Leng (OSO)</p>
+<p>Mr Jumadi Bin Pahmu (OSO)</p>
 </td>
 </tr>
 <tr>
@@ -55,7 +55,15 @@ variant: tiptap
 <p>Mdm Tharani (OSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sudha (OSO)</p>
+<p>Mdm Szeto May Leng (OSO)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Meharunnisa Begum A Johabar Ali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Mazila Jamadi (OSO)</p>
 </td>
 </tr>
 </tbody>
