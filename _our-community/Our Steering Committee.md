@@ -221,7 +221,15 @@ variant: tiptap
 <p>Mr Mohd Zhafrie (Operations Manager)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Mr G Kernabalan (Operations Manager)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Hadi Asyaari (ICT Manager)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
