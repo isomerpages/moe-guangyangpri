@@ -46,8 +46,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: m_nachiappan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr M Nachiappan</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: law_polly@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Polly Chin</a>
