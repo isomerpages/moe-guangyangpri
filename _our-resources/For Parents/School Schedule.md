@@ -126,34 +126,32 @@ variant: tiptap
 </table>
 <p></p>
 <h4>Term 3 Calendar</h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_VP2_June.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_June.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_VP2_July.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_VP2_July2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_Jul1.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_VP2_Aug.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_Aug.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_VP2_Sept.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_Sep.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_VP2_Oct.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_Oct.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_VP2_Nov.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_Nov.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_VP2_Dec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_SEM_2_TVPS_School_Calendar_Dec.jpg">
 </div>
 <p></p>
