@@ -88,8 +88,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: sng_rong_long_ben@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Ben Sng (Subject Head Project Work)</a>
-</p>
+<p></p>
 </td>
 </tr>
 </tbody>
