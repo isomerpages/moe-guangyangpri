@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Meharunnisa Begum A Johabar Ali (OSO)</p>
+<p>Mdm Meharunnisa Begum A Johabar Ali (Admin Asst)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Mazila Jamadi (OSO)</p>
