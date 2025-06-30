@@ -63,8 +63,7 @@ of responsibility to school, community and nation.</p>
 <p>Boys’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A# Handbell</p>
-<p>Instrumental Ensemble</p>
+<p>A# Handbell Instrumental Ensemble</p>
 </td>
 </tr>
 <tr>
@@ -78,8 +77,7 @@ of responsibility to school, community and nation.</p>
 <p>Girls’ Brigade</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Angklung &amp; Kulintang</p>
-<p>Instrumental Ensemble</p>
+<p>Angklung &amp; Kulintang Instrumental Ensemble</p>
 </td>
 </tr>
 <tr>
@@ -112,4 +110,8 @@ of responsibility to school, community and nation.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular Activities/CCA_Policy.png">
+</div>
 <p></p>
