@@ -34,10 +34,14 @@ and seek permission from the CCA Teacher (Overall-In-Charge) before submitting
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular Activities/CCA_FAQ.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular Activities/CCA_Withdrawal___Change_Form.png">
+</div>
 </td>
 </tr>
 </tbody>
