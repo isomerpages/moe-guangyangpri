@@ -4,7 +4,7 @@ permalink: /townsville-primary-cca-policy/
 variant: tiptap
 description: ""
 ---
-<h2><strong><u>Townsville Co-Curricular Activities Policy</u></strong></h2>
+<h4><strong><u>Townsville Co-Curricular Activities Policy</u></strong></h4>
 <p>Our school is guided by a CCA Policy in operationalising our CCA so that
 the desired learning outcomes are realised. Our CCA Policy is as follows:</p>
 <p></p>
