@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 <h4 style="text-align:center">Townsville Primary School (光洋小学)
-<br>A Vibrant School • Leaders of Character • Learner for Life</h4>
+<br>A Vibrant School • Leaders of Character • Learners for Life</h4>
 
 As we step into this new year, brimming with possibilities and aspirations, I am filled with excitement and gratitude for the journey ahead with the Townsville Primary School (TVPS) community. Together, we will embark on a purposeful pursuit of excellence, growth and meaningful connections for every child entrusted to our care.
 
