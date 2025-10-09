@@ -110,5 +110,5 @@ of responsibility to school, community and nation.</p>
 </tr>
 </tbody>
 </table>
-<p></p><a class="isomer-image-wrapper" href="https://townsvillepri.moe.edu.sg/townsville-primary-cca-policy/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular Activities/CCA_Policy.png"></a>
+<p></p><a class="isomer-image-wrapper" href="https://townsvillepri.moe.edu.sg/townsville-primary-cca-policy/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular Activities/Button.png"></a>
 <p></p>
