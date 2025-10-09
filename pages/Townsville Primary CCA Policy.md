@@ -35,19 +35,7 @@ and seek permission from the CCA Teacher (Overall-In-Charge) before submitting
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://townsvillepri.moe.edu.sg/cca-frequently-asked-questions/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular Activities/CCA_FAQ.png"></a>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular Activities/CCA_Withdrawal___Change_Form.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Will be available between 6 October, 0800hrs, (Monday) to 24 October 2025,
-2359hrs (Friday)</p>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/tvpswithdrawal-changeofccaapplicationform"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular Activities/CCA_Withdrawal___Change_Form.png"></a>
 </td>
 </tr>
 </tbody>
