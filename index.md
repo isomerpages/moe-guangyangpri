@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Homepage/main homepage banner gif.gif
+      background: /images/Homepage/Oct_2025_Homepage.gif
       key_highlights:
         - title: For Parents
           description: Information & Apps for Parents
