@@ -12,7 +12,7 @@ variant: tiptap
 <p></p>
 <p>Thank you for watching our Livestream of Townsville Celebrates!</p>
 <p>Visit our Flickr account for photos of the event and the awardees!</p>
-<p><a href="https://flic.kr/s/aHBqjCBZrv" rel="noopener nofollow" target="_blank">Event Photos</a>
+<p><strong><a href="https://flic.kr/s/aHBqjCBZrv" rel="noopener nofollow" target="_blank">Event Photos</a></strong>
 </p>
-<p><a href="https://flic.kr/s/aHBqjCC9He" rel="noopener nofollow" target="_blank">Awardee Photos</a>
+<p><strong><a href="https://flic.kr/s/aHBqjCC9He" rel="noopener nofollow" target="_blank">Awardee Photos</a></strong>
 </p>
