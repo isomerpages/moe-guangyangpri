@@ -52,7 +52,7 @@ physical well-being. Through character education, counselling and wellness
 programmes, we create a safe, caring environment where students feel seen,
 supported and ready to flourish.</p>
 <p></p>
-<h3>School Values</h3>
+<h3><u>School Values</u></h3>
 <h3><strong>iDARE</strong>2</h3>
 <p><strong>Integrity</strong> - We are honest and always do the right thing
 <br><strong>Diligence</strong> - We are responsible and always give our best
