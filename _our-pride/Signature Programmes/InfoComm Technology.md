@@ -6,6 +6,9 @@ third_nav_title: Signature Programmes
 variant: tiptap
 ---
 <h3>ICT Committee Goal</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/ICT_2026_1.png">
+</div>
 <p>In alignment with the school's vision - <strong>A Vibrant School Leaders of Character, Learners for Life</strong>,
 the Infocomm Technology Curriculum aims to produce Digitally Empowered,
 Future-ready Learners and Innovators. This takes point from the Ministry
