@@ -26,7 +26,7 @@ just as consumers of technology but as creators with technology.</p>
 in learning</p>
 </li>
 <li>
-<p>Technology-enabled creators, collaborators and connectors<strong>e.</strong>
+<p>Technology-enabled creators, collaborators and connectors<strong>.</strong>
 </p>
 </li>
 </ul>
