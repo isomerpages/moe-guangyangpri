@@ -42,7 +42,33 @@ These techniques enable them to capture more visually engaging images.</p>
 artwork. This platform provides opportunities for peer feedback and encourages
 students to appreciate diverse perspectives within the learning community.</p>
 <p></p>
-<p></p>
+<p><strong>Use of ICT in Music</strong>
+</p>
+<p>In Music, students explore digital tools to express their musical creativity.
+Using GarageBand, they compose original music pieces by experimenting with
+rhythm, melody, and various instrumental layers. This digital approach
+allows students to develop a deeper understanding of musical elements while
+encouraging them to produce and share their own compositions confidently.</p>
+<p>
+<br><strong>Coding for Fun</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/20251009_100401_0__1_.jpg">
+</div>
+<p>The Code For Fun (CFF) Enrichment Programme is a national-mandated programme
+that is offered to Primary 6 students in TVPS. Through this 10-hour standardised
+curriculum, students are exposed to coding and computational thinking and
+their applications to daily lives. Students will undergo sessions that
+allow them to understand basic programming concepts and develop logical
+thinking and problem-solving skills. They are given opportunities to apply
+their knowledge gained through an activity where they will individually
+programme a dance using their Sphero robotic kits. Students are also introduced
+to basic concepts of emerging technologies such as Artificial Intelligence
+and cybersecurity concepts.</p>
+<p>Coding for Fun is the finale programme that exposes students to programming.</p>
+<p>
+<br>
+</p>
 <p>
 <br>
 </p>
