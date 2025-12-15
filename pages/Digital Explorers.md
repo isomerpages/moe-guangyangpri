@@ -15,9 +15,8 @@ engaging activities, they develop digital literacy that empowers them to
 become self-directed learners who can independently seek information, solve
 problems, and express ideas using technology. This foundational programme
 builds curiosity and confidence for lifelong learning in our digital world.</p>
-<h4><strong>Developing Technology Skills</strong></h4>
-<p>&nbsp;<strong>Primary 1</strong>
-</p>
+<h3><strong>Developing Technology Skills</strong></h3>
+<h4>&nbsp;<strong>Primary 1</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/ICT_2026_2.png">
 </div>
@@ -36,8 +35,7 @@ for their future digital literacy. These foundational ICT skills ensure
 our students are well-equipped to engage confidently and safely with technology
 as they progress through their educational journey.</p>
 <p></p>
-<p><strong>Primary 2</strong>
-</p>
+<h4><strong>Primary 2</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/4.jpg">
 </div>
@@ -55,8 +53,7 @@ to Google Slides, where they created short presentations to showcase their
 English writing. These digital tools helped develop both their technical
 skills and their ability to communicate and express ideas creatively.</p>
 <p></p>
-<p><strong>Primary 3</strong>
-</p>
+<h4><strong>Primary 3</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/ICT_2026_3_png.jpg">
 </div>
