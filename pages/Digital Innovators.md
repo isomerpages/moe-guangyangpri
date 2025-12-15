@@ -22,7 +22,7 @@ and approach challenges with an innovative mindset.</p>
 <p>As part of the Digital Innovators programme, our students leverage technology
 to enhance creativity and expression in the Arts curriculum.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/ICT_2026_4_png.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/ICT_2026_5_png.jpg">
 </div>
 <p>In Primary 5, students learn how to conceptualise and plan their ideas
 through storyboarding. They imagine and illustrate their visions of the
@@ -32,7 +32,7 @@ physically manipulating objects within a frame and playing the images back
 in sequence, students gain hands-on experience in digital storytelling
 and animation.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/ICT_2026_5_png.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/ICT_2026_4_png.jpg">
 </div>
 <p>In Primary 6, students develop essential photography skills, including
 applying the framing, depth of field, leading lines, and the use of shadows.
