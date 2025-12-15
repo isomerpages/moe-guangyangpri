@@ -49,6 +49,66 @@ generate creative solutions to real-world challenges.</p>
 </tr>
 </tbody>
 </table>
+<p>Grounded in the <strong>Townsville Thinking Curriculum</strong>, the programme
+infuses habits of critical, adaptive and inventive thinking into their
+everyday learning.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW5__Mindmap_Artefact.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW6__Students_discussing_their_Mindmaps.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW8__Teacher_prompting.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW9__Students_on_KWL.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW10__Teacher_prompting.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW9_1_KWL_Artefact.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW5_1_Mindmap_Artefact.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Thinking Curriculum/PW7__Understand_Plan_Artefact.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
 <br>
 </p>
