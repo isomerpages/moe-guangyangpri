@@ -5,6 +5,19 @@ description: ""
 third_nav_title: Signature Programmes
 variant: tiptap
 ---
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/digital-explorers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Signature Programmes/Infocomm/3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Explorers</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/digital-innovators/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Signature Programmes/Infocomm/20251009_100401_0__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Digital Innovators</div>
+<div class="isomer-card-link">Click here to learn more!</div>
+</div>
+</a>
+</div>
 <h2>ICT Committee Goal</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Infocomm/ICT_2026_1.png">
@@ -48,4 +61,17 @@ in learning</p>
 </a>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/digital-explorers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Signature Programmes/Infocomm/3.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Digital Explorers</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/digital-innovators/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Signature Programmes/Infocomm/20251009_100401_0__1_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Digital Innovators</div>
+<div class="isomer-card-link">Click here learn more!</div>
+</div>
+</a>
+</div>
 <p></p>
