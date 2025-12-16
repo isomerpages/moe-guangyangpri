@@ -29,32 +29,43 @@ Learning (MBL).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer_2026_2_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer_2026_5_.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer_2026_4_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer_2026_3_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer_2026_1_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Cohort LJ/P4_Kreta_Ayer_2026_6_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong><u>P4 LJ: Geylang Serai Heritage Gallery</u></strong>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
