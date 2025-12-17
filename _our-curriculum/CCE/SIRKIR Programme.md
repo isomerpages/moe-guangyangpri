@@ -28,24 +28,24 @@ decision making that is anchored on values and expected behaviours.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIR_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIRKIR_2026__4_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIR_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIRKIR_2026__3_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIR_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIRKIR_2026__1_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIR_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/SIRKIR/SIRKIR_2026__2_.jpg">
 </div>
 </td>
 </tr>
