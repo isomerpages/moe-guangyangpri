@@ -30,14 +30,14 @@ and motivation to explore their own potential.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/Edu___Career_GD_2026__5_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/Edu___Career_GD_2026__4_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/Edu___Career_GD_2026__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/Edu___Career_GD_2026__5_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
