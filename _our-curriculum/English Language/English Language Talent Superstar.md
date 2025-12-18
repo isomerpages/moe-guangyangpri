@@ -5,11 +5,14 @@ variant: tiptap
 description: ""
 third_nav_title: English Language
 ---
-<p>The English Language Talent Superstar&nbsp;is a platform for students
-to display and celebrate their learning, progress and prowess of the English
-Language. Students have complete freedom of choice for their showcase videos.</p>
-<p>&nbsp;Objectives of the programme :</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; explore ICT tools independently</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; engage in self-directed
-learning, showcasing their learning, talents and skills to the entire school
-community</p>
+<p>The <strong>English Language Talent Superstar</strong> is a platform for
+students to showcase and celebrate their learning, progress and strengths
+in the English Language. Students have full freedom to create their own
+showcase videos, allowing them to express their individuality and creativity.</p>
+<h4><strong>Objectives of the programme:</strong></h4>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Encourage students to explore
+and use ICT tools independently</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Promote self-directed learning
+as students share their learning, talents, and skills with the school community</p>
+<p><a href="https://sites.google.com/moe.edu.sg/tvps-elts-2025/home" rel="noopener nofollow" target="_blank">https://sites.google.com/moe.edu.sg/tvps-elts-2025/home</a>
+</p>
