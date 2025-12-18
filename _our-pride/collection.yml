@@ -2,7 +2,6 @@ collections:
   our-pride:
     output: true
     order:
-      - Innergy Awards.md
       - Signature Programmes/.keep
       - Signature Programmes/Thinking Curriculum.md
       - Signature Programmes/Learn for Life Programme.md
@@ -11,3 +10,4 @@ collections:
       - Signature Programmes/Leaders In Townsville.md
       - Gallery.md
       - NS Mark 2024.md
+      - Innergy Awards.md
