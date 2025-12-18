@@ -143,8 +143,7 @@ English Language</p>
 </div>
 <p></p>
 <h4><strong>Accolades</strong></h4>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>Townsville Primary is proud to be recognised for excellence and innovation
 in English Language teaching. Our work has been featured in The Straits
 Times, highlighting our efforts in creating engaging and meaningful learning
@@ -162,5 +161,15 @@ experiences.</p>
 <div class="isomer-card-link">Click here to learn more!</div>
 </div>
 </a>
+</div>
+<p></p>
+<h4><strong>Professional Development</strong></h4>
+<p>At Townsville, teachers engage in ongoing professional development to
+strengthen their expertise in the English Language curriculum and enhance
+classroom practices. Through regular workshops, collaborative learning
+and training, our teachers stay updated with current pedagogies so they
+can provide meaningful and engaging learning experiences for our students.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/professional-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Professional Development</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 </div>
 <p></p>
