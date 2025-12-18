@@ -5,6 +5,8 @@ description: ""
 third_nav_title: English Language
 variant: tiptap
 ---
+<p></p>
+<p></p>
 <h2>Vision</h2>
 <p>Every Townsvillite is a:</p>
 <p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confident and
