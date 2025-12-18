@@ -5,46 +5,47 @@ description: ""
 third_nav_title: English Language
 variant: tiptap
 ---
-<p></p>
-<p></p>
-<h2>Vision</h2>
-<p>Every Townsvillite is a:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Confident and
-effective communicator</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Discerning reader
-who is self-directed and passionate</p>
-<h4>Teaching Approach</h4>
-<p>At Townsville, we work towards cultivating the learning of the English
-Language through 3 aspects; the heart, mind and hand. This engaged learning
-culture is what we engineer here at Townsville.</p>
-<p>The 2020 Syllabus was implemented with greater emphasis on:</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; metacognition</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; multi-literacies</p>
-<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; inquiry through
-dialogue</p>
-<p><strong>Designing the curriculum</strong>
-</p>
-<p>Strategies for English Language Learning and Reading (STELLAR) is used
-in designing the English Language curriculum in our school. Through STELLAR,
-we strongly believe our students will develop into wholesome individuals
-who are confident and curious, having a great desire to learn. They will
-also be able to communicate clearly and work well with in groups and across
-cultures.</p>
-<p><strong>Exposure. Experience. Environment.</strong>
-</p>
-<ul data-tight="true" class="tight">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Main_Page_2026__1_.jpg">
+</div>
+<h2><strong>Vision</strong></h2>
+<p>Every <strong>Townsvillite</strong> is a:</p>
+<p>-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Confident and effective communicator</p>
+<p>-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Discerning reader who is self-directed
+and passionate</p>
+<h3><strong>Teaching Approach</strong></h3>
+<p>At Townsville, we believe that learning English happens through the heart,
+mind and hand. This means we help students enjoy the language, think deeply
+and use their skills confidently in authentic situations. This is the engaged
+learning culture we build for every child.</p>
+<p>With the 2020 English Language Syllabus, we place stronger emphasis on:</p>
+<ul>
 <li>
-<p>The 3Es approach in designing lesson experiences for each STELLAR theme
-in our curriculum provides the rich exposure to meaningfully engage our
-students in building a strong foundation in the areas of listening, speaking,
-reading, writing and grammar and vocabulary with an increased emphasis
-on the development of 21st century competencies.</p>
+<p><strong>Metacognition</strong> – helping students understand how they learn,
+so they can plan, monitor and improve their work.</p>
+</li>
+<li>
+<p><strong>Multi-literacies</strong> – teaching students to read, view and
+create different types of texts, including digital and visual ones.</p>
+</li>
+<li>
+<p><strong>Inquiry through dialogue</strong> – encouraging students to ask
+questions, discuss ideas and learn through meaningful conversation.</p>
 </li>
 </ul>
-<p>In addition, the STELLAR programme aims to cultivate the love of reading
-as well as to build a strong language foundation. It involves using age-appropriate
-resources and research based teaching strategies to engage our students
-in their learning of the language.</p>
+<p></p>
+<p></p>
+<h4><strong>Designing the curriculum</strong></h4>
+<p>At Townsville, we use the Strategies for English Language Learning and
+Reading (STELLAR) approach to design our English Language curriculum. Through
+STELLAR, we aim to help our students grow into confident and curious learners
+with a strong desire to explore and understand the world around them.</p>
+<p>This approach also nurtures students who can communicate clearly, work
+well in groups and interact effectively with people from different backgrounds
+and cultures.</p>
+<p>
+<br>
+</p>
 <h4>Key Programmes</h4>
 <table style="minWidth: 75px">
 <colgroup>
