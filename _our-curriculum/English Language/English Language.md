@@ -117,28 +117,28 @@ English Language</p>
 </p>
 <h2><strong>Key Programmes</strong></h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/enrichment-support-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Enrichment &amp; Support Programmes</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/enrichment-support-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/English/Enrichment/Picture12.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Enrichment &amp; Support Programmes</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/elts/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/English/Learning EL/EL_Learning_2026__4_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">English Language Talent Superstar</div>
 <div class="isomer-card-link">Click here to learn more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/eng-li-cious/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eng-li-cious</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/eng-li-cious/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/English/Englicious/Englicious_2026_Dress_up__2_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eng-li-cious</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/internationalisation/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Internationalization" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Internationalization" src="/images/English/Internationalization/Inter_2026__1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Internationalization</div>
 <div class="isomer-card-link">Click here to learn more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/mystery-reader/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mystery Reader" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mystery Reader</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/mystery-reader/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mystery Reader" src="/images/English/Mystery Reader/Mytery_Reader_2026__3_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mystery Reader</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 </div>
 <p></p>
