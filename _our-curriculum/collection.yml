@@ -2,6 +2,7 @@ collections:
   our-curriculum:
     output: true
     order:
+      - English Language/National Awards.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Enrichment & Support Programmes.md
