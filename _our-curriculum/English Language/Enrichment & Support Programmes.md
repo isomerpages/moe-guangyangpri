@@ -6,6 +6,9 @@ description: ""
 third_nav_title: English Language
 ---
 <h2><strong><u>Support Programme</u></strong></h2>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Enrichment/Enrichment_2026_Lsp__1_.jpg">
+</div>
 <h4><strong>Learning Support Programme (LSP)</strong></h4>
 <p>The Learning Support Programme&nbsp; helps students build strong basic
 literacy skills so they can confidently access learning in the regular
@@ -23,11 +26,44 @@ who have reading difficulties but do not have dyslexia. The programme helps
 these students strengthen their literacy skills so they can better cope
 with the demands of the mainstream curriculum<strong>.</strong>
 </p>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Enrichment/Enrichment_2026_Lsp__1_.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Enrichment/Enrichment_2026_Lsp__3_.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Enrichment/Enrichment_2026_Lsp__4_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Enrichment/Enrichment_2026_Lsp__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Enrichment/Enrichment_2026_Lsp__6_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <h2><strong><u>Enrichment Programme</u></strong></h2>
 <h4><strong>Reading Circles (RC)</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Enrichment/Picture12.jpg">
+</div>
 <p>Reading Circles is a programme designed for selected Primary 4 students
 who are advanced readers. It aims to broaden their understanding of the
 world by exposing them to a wide range of rich, age-appropriate texts,
@@ -36,8 +72,24 @@ both fiction and non-fiction.</p>
 connections between the texts and their own experiences. The programme
 also helps them develop imagination, appreciate literary elements more
 deeply and grow in empathy as they encounter diverse perspectives and characters.</p>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Enrichment/Picture12.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/English/Enrichment/Enrichment_2026_RC__2_.jpg">
 </div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Enrichment/Enrichment_2026_RC__3_.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
