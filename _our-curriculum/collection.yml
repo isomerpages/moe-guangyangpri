@@ -2,7 +2,6 @@ collections:
   our-curriculum:
     output: true
     order:
-      - English Language/National Awards.md
       - English Language/.keep
       - English Language/English Language.md
       - English Language/Enrichment & Support Programmes.md
@@ -11,6 +10,7 @@ collections:
       - English Language/Internationalisation.md
       - English Language/Mystery Reader.md
       - English Language/Featured @ The Straits Times.md
+      - English Language/National Awards.md
       - English Language/Professional Development.md
       - Mathematics/.keep
       - Mathematics/Mathematics.md
