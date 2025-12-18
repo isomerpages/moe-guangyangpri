@@ -12,6 +12,49 @@ their language skills through a variety of engaging activities and games.</p>
 <p>Highlights include exciting language-based challenges such as Spelling
 Bee, Word Scramble and Tongue Twisters, all designed to make learning English
 fun and enjoyable.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Activity__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Activity__1_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Activity__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Activity__4_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Activity__3_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4><strong><u>Spelling Bee</u></strong></h4>
 <p>The annual Spelling Bee encourages students to expand their vocabulary
 and sharpen their spelling skills. With a blend of fun and friendly competition,
