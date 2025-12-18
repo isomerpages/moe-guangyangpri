@@ -117,18 +117,28 @@ English Language</p>
 </p>
 <h2><strong>Key Programmes</strong></h2>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/enrichment-support-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Enrichment &amp; Support Programmes</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/elts/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">English Language Talent Superstar</div>
+<div class="isomer-card-link">Click here to learn more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/eng-li-cious/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Eng-li-cious</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/internationalisation/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Internationalization" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Internationalization</div>
+<div class="isomer-card-link">Click here to learn more!</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/mystery-reader/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mystery Reader" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mystery Reader</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 </div>
 <p></p>
