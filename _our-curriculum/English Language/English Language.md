@@ -65,62 +65,18 @@ and cultures.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Main_Page_2026___6_.jpg">
 </div>
+<h4><br><strong>Exposure. Experience. Environment.</strong></h4>
+<p>The 3Es approach guides the design of lesson experiences for each STELLAR
+theme. Through this approach, students receive rich and meaningful exposure
+that helps them build a strong foundation in listening, speaking, reading,
+writing, grammar and vocabulary. At the same time, lessons are designed
+to strengthen the development of essential 21st Century Competencies.</p>
+<p>The STELLAR programme also aims to nurture a love for reading and to build
+a strong language foundation. It uses age-appropriate texts and research-based
+teaching strategies to actively engage students in their learning of the
+English Language</p>
 <p>
 <br>
 </p>
 <h4>Key Programmes</h4>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/english-language/intervention-programmes/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engintervention.png"></a>
-<p><a href="/our-curriculum/english-language/enrichment-support-programmes/" rel="noopener noreferrer nofollow" target="_blank">Enrichment &amp; Support Programmes</a>
-</p>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/english-language/elts/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engELTS2023.png"></a>
-<p><a href="/our-curriculum/english-language/elts/" rel="noopener noreferrer nofollow" target="_blank">English Language Talent Superstar</a>
-</p>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/english-language/speech-and-drama/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engspeech.png"></a>
-<p><a href="/our-curriculum/english-language/eng-li-cious/" rel="noopener noreferrer nofollow" target="_blank">Eng-li-cious</a>
-</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/english-language/intervention-programmes/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/enginternational.png"></a>
-<p><strong><a href="/our-curriculum/english-language/intervention-programmes/" rel="noopener noreferrer nofollow" target="_blank">Internationalisation</a></strong>
-</p>
-</td>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<h4>Our Teachers</h4>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/english-language/featured-straits-times/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/engfeatured.png"></a>
-<p><a href="/our-curriculum/english-language/featured-straits-times/" rel="noopener noreferrer nofollow" target="_blank">Featured @ The Straits Times</a>
-</p>
-</th>
-<th rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/our-curriculum/english-language/professional-development/"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/English/engphoto10.png"></a>
-<p><a href="/our-curriculum/english-language/professional-development/" rel="noopener noreferrer nofollow" target="_blank">Professional Development</a>
-</p>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
