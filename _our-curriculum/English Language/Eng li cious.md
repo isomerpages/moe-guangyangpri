@@ -5,28 +5,28 @@ variant: tiptap
 description: ""
 third_nav_title: English Language
 ---
-<p><strong>Eng-li-cious: Character Dress-Up Day, Spelling Bee</strong>
-</p>
-<p>Eng-li-cious, Towsnville’s English Week, promotes a love for English Language.
-During the event, students get to strengthen their command of the English
-language through engaging activities and games.</p>
-<p>Highlights of the events include language games such as Spelling Bees,
-Word Scramble Challenges, and Tongue Twisters which make learning English
-enjoyable.</p>
-<p><strong><u>Spelling Bee</u></strong>
-</p>
+<h2><strong>Eng-li-cious: Character Dress-Up Day, Spelling Bee</strong></h2>
+<p>Eng-li-cious is Towsnville’s annual English Week celebration that promotes
+a love for the English Language. Throughout the week, students strengthen
+their language skills through a variety of engaging activities and games.</p>
+<p>Highlights include exciting language-based challenges such as Spelling
+Bee, Word Scramble and Tongue Twisters, all designed to make learning English
+fun and enjoyable.</p>
+<h4><strong><u>Spelling Bee</u></strong></h4>
 <p>The annual Spelling Bee encourages students to expand their vocabulary
-and sharpen their spelling skills. It combines fun and friendly competition,
-motivating students to enhance their language abilities in an engaging
-way.</p>
-<p><strong><u>Character Dress-Up Day</u></strong>
+and sharpen their spelling skills. With a blend of fun and friendly competition,
+the event motivates students to build confidence and strengthen their language
+abilities.</p>
+<p></p>
+<h4><strong><u>Character Dress-Up Day</u></strong></h4>
+<p>Character Dress-Up Day. is another exciting Eng-li-cious highlight. Students
+come dressed as their favourite characters from books, movies, or games,
+bringing stories to life in vibrant and creative ways. As they share their
+chosen characters, students learn from one another and develop greater
+appreciation for stories and imagination.</p>
+<p>
+<br>
 </p>
-<p>Character Dress-Up Day also happens during Eng-li-cious. Students get
-to dress up as their favourite characters from books, movies, or games,
-bringing those characters to life. This day adds lots of fun, vibrancy
-and creativity to the school environment. As students dress up as the different
-characters related to the theme, they get a chance to share their interests
-with their friends and learn from one another.</p>
 <p>
 <br>
 </p>
