@@ -33,7 +33,26 @@ create different types of texts, including digital and visual ones.</p>
 questions, discuss ideas and learn through meaningful conversation.</p>
 </li>
 </ul>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/English/Main_Page_2026___5_.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Main_Page_2026___4_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h4><strong>Designing the curriculum</strong></h4>
 <p>At Townsville, we use the Strategies for English Language Learning and
@@ -43,6 +62,9 @@ with a strong desire to explore and understand the world around them.</p>
 <p>This approach also nurtures students who can communicate clearly, work
 well in groups and interact effectively with people from different backgrounds
 and cultures.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Main_Page_2026___6_.jpg">
+</div>
 <p>
 <br>
 </p>
