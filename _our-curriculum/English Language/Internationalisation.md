@@ -28,9 +28,6 @@ Indonesian and Chinese cultures. Through the programmes, our students also
 nurtured a global awareness and deep appreciation for Singapore’s incredible
 journey of progress and development.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/enginternational_1.png">
-</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,61 +37,55 @@ journey of progress and development.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/International__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Internationalization/Inter_2026__1_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/International__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Internationalization/Inter_2026__2_.jpg">
 </div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/International__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Internationalization/Inter_2026__3_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/International__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Internationalization/Inter_2026__4_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/International__5_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Internationalization/Inter_2026__5_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/International__6_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Internationalization/Inter_2026__6_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/International__7_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Internationalization/Inter_2026__7_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/International__8_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Internationalization/Inter_2026__8_.jpg">
 </div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/International__9_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Internationalization/Inter_2026__9_.jpg">
+</div>
 <p></p>
