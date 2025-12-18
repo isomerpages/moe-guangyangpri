@@ -149,7 +149,7 @@ in English Language teaching. Our work has been featured in The Straits
 Times, highlighting our efforts in creating engaging and meaningful learning
 experiences.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/featured-straits-times/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Featured @ Straits Times</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/featured-straits-times/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/English/engstraitstimes_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Featured @ Straits Times</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/national-awards/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -170,6 +170,6 @@ classroom practices. Through regular workshops, collaborative learning
 and training, our teachers stay updated with current pedagogies so they
 can provide meaningful and engaging learning experiences for our students.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/professional-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Professional Development</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/english-language/professional-development/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/English/engPDstaff__2_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Professional Development</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 </div>
 <p></p>
