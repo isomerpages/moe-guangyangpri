@@ -5,6 +5,10 @@ description: ""
 third_nav_title: Mathematics
 variant: tiptap
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Maths/Main_Page__3_.png">
+</div>
 <h3><strong><u>Vision</u></strong></h3>
 <p>Love Math, Love Learning Math</p>
 <p><strong><u>Teaching Approach</u></strong>
@@ -30,25 +34,29 @@ real-life contexts.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Main_Page__2_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Maths/Main_Page__4_.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 81%;" height="auto" width="100%" alt="" src="/images/Maths/Main_Page__5_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <p>We are committed to developing confident problem-solvers and effective
 communicators. Our approach emphasizes making students’ thinking visible
 and integrating learning across subject areas to deepen understanding and
 strengthen competencies. Ultimately, we seek to nurture critical thinkers,
 creative problem-solvers, and articulate communicators, preparing students
 to thrive in a rapidly changing future.</p>
+<p></p>
 <h4><strong>Key Programmes</strong></h4>
 <p></p>
