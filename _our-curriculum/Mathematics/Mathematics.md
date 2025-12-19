@@ -57,22 +57,32 @@ strengthen competencies. Ultimately, we seek to nurture critical thinkers,
 creative problem-solvers, and articulate communicators, preparing students
 to thrive in a rapidly changing future.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Maths/Math Competitions/Competition_photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Math Competitions</div><div class="isomer-card-description">Townsvillites from P4 to P6 have the opportunity to participate in various national-level mathematics competitions, aimed at nurturing and recognising budding talents in primary schools.</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/mathematics/math-competitions/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Maths/Math Competitions/Competition_photo.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Math Competitions</div><div class="isomer-card-description">Townsvillites from P4 to P6 have the opportunity to participate in various national-level mathematics competitions, aimed at nurturing and recognising budding talents in primary schools.</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 </div>
 <h4><strong>Key Programmes</strong></h4>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/math-explorers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Maths/Math Explorers/Math_Explorers_2026__4_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Math Explorers</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/mathematics/math-e2k/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Maths/E2K/E2K__2_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Maths E2K</div>
+<div class="isomer-card-link">Click here to learn more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/mathematics/lsm/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Maths/LSP/LSP_2026__7_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Learning Support Programmes</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/mathematics/financial-literacy/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Financial Literacy" src="/images/Maths/Financial Literacy/FLphotos__7_.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Financial Literacy</div>
+<div class="isomer-card-link">Click here to learn more!</div>
+</div>
+</a>
 </div>
 <p></p>
