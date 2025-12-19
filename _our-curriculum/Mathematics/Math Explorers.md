@@ -58,7 +58,6 @@ Fitness Award) tables to set and improve personal fitness goals.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Maths/Math Explorers/Math_Explorers_2026__3_.png">
 </div>
