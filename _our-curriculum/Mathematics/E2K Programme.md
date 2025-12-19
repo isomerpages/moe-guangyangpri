@@ -5,11 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: Mathematics
 ---
-<p><strong>E2K Mathematics Programme: Nurturing Young Mathematical Minds</strong>
-</p>
+<h2><strong><u>E2K (P4-P5)</u></strong></h2>
 <p>The E2K Mathematics Programme is an enrichment opportunity for our high-achieving
 Primary 4 and 5 pupils who show exceptional interest and aptitude in Mathematics.</p>
-<p>Programme Objectives:</p>
+<h4><strong>Programme Objectives:</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Develop advanced mathematical reasoning skills</p>
@@ -27,7 +26,7 @@ Primary 4 and 5 pupils who show exceptional interest and aptitude in Mathematics
 <p>Enhance critical 21st-century competencies</p>
 </li>
 </ul>
-<p>Our Approach:</p>
+<h4><strong>Our Approach:</strong></h4>
 <p>Using specially designed resources, including puzzles, games, and mathematical
 explorations, we create a rich, engaging learning environment. This hands-on
 approach encourages pupils to:</p>
