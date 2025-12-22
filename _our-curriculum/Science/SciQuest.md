@@ -115,26 +115,25 @@ gather evidence, formulate explanations and communicate their findings.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P4_Ice_Cream_Making__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P4_ice_Cream_Sciquest__2_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P4_Ice_Cream_Making__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P4_ice_Cream_Sciquest__4_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P4_Ice_Cream_Making__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P4_ice_Cream_Sciquest__3_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P4_Ice_Cream_Making__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P4_ice_Cream_Sciquest__1_.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -147,19 +146,29 @@ gather evidence, formulate explanations and communicate their findings.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="2">
-<p><strong>P5 Seed dispersal</strong>
+<p><strong>P5 Electrical Systems</strong>
 </p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P5_Seed_Dispersal__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P5_Electrical_Sciquest__1_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P5_Seed_Dispersal__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P5_Electrical_Sciquest__2_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P5_Electrical_Sciquest__3_.jpg">
 </div>
 </td>
 </tr>
@@ -180,25 +189,24 @@ gather evidence, formulate explanations and communicate their findings.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P6_Sugei_Buloh__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P6_Sungei_Buloh_Sciquest__2_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P6_Sugei_Buloh__3_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P6_Sungei_Buloh_Sciquest__3_.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P6_Sugei_Buloh__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P6_Sungei_Buloh_Sciquest__4_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P6_Sugei_Buloh__4_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P6_Sungei_Buloh_Sciquest__1_.jpg">
 </div>
 </td>
 </tr>
