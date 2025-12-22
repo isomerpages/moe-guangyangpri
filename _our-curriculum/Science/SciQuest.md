@@ -64,8 +64,21 @@ gather evidence, formulate explanations and communicate their findings.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P3_LKC_Natural_History_Museum__1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P3_History_Mus_Sciquest__1_.jpg">
 </div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P3_History_Mus_Sciquest__3_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P3_History_Mus_Sciquest__2_.jpg">
+</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -80,7 +93,9 @@ gather evidence, formulate explanations and communicate their findings.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P3_LKC_Natural_History_Museum__1_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
