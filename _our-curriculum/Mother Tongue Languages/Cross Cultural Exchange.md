@@ -30,36 +30,37 @@ the perspectives of all our students.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__6_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__3_.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__5_.jpg">
+<img style="width: 71%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__5_.jpg">
 </div>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__6_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 71%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__2_.jpg">
+</div>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__4_.jpg">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__3_.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__2_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__1_.jpg">
+<img style="width: 71%;" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__1_.jpg">
 </div>
 </td>
 </tr>
