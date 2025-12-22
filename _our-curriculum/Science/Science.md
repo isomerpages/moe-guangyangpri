@@ -9,28 +9,28 @@ third_nav_title: Science
 <p>Nurturing curious learners, anchored in Science and values to be lifelong
 contributors.</p>
 <h4><strong>Teaching Approach</strong></h4>
-<p>Science is formally introduced in Primary 3 as per the MOE Primary Science
-Syllabus.&nbsp; Adopting an inquiry-based approach to learning, students
-investigate problems and search for possible solutions through asking questions,
-making observations, hypotheses testing and critical thinking as well as
-develop explanations backed by evidence.</p>
+<p>Science is formally introduced in Primary 3, in line with &nbsp;the MOE
+Primary Science Syllabus. Adopting an inquiry-based approach to learning,
+students investigate problems and search for possible solutions by asking
+questions, making observations, testing hypotheses, and applying critical
+thinking, as well as developing explanations supported by evidence.</p>
 <p>Through the implementation of this syllabus, the Science Department aims
 to:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Equip pupils with Science knowledge and skills and imbue them with attitudes
-and ethics to be young scientists;</p>
+<p>Equip pupils with scientific knowledge and skills, and instill in them
+the attitudes and ethics of young scientists;</p>
 </li>
 <li>
-<p>raise competency of Science teachers so as to nurture young scientists;</p>
+<p>Raise the competency of Science teachers to better nurture young scientists;</p>
 </li>
 <li>
-<p>maintain strong collaborative culture with key stakeholders and the community;</p>
-</li>
-<li>
-<p>take collaborative action towards environmental responsibility.</p>
+<p>Maintain a strong culture of collaboration with key stakeholders and the
+community;</p>
 </li>
 </ul>
+<p>Take collaborative action to promote environmental responsibility.</p>
+<p></p>
 <h3><strong>Key Programmes</strong></h3>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/science/sciquest/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SciQuest" src="/images/Science/SciQuest/2024_07_11_13_17_15.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">SciQuest</div><div class="isomer-card-link">Discovering Science!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-curriculum/science/earth-guardians/" class="isomer-card">
