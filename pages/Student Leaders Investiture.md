@@ -15,7 +15,8 @@ a special milestone, as each leader received a collar pin and certificate,
 symbolizing the start of their exciting journey. It was a moment of pride,
 responsibility, and inspiration for both the leaders and the Townsville
 family!</p>
-<p>&nbsp;Message by our President of the Student Leader Council is here.</p>
+<p>&nbsp;Message by our President of the Student Leader Council is <a href="https://townsvillepri.moe.edu.sg/student-leaders-president/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
