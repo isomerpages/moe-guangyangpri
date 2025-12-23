@@ -30,6 +30,21 @@ every student has a chance to contribute and grow.</p>
 </div>
 <p>Under this tiered structure, some avenues where students can exhibit their
 leadership potential is by being a Student Leader or a Peer Support Leader.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+</div>
 <h4><strong><u>Student Leaders</u></strong></h4>
 <p>A student leader exemplifies the school’s core values through their actions
 and leadership. They serve as positive role models, inspiring their peers
@@ -143,7 +158,7 @@ Day on Padlet.</p>
 <p>The Padlet was filled with Teachers’ Day messages from the Townsville
 students.</p>
 <p></p>
-<h4><u>CCA Leaders</u></h4>
+<h4><strong><u>CCA Leaders</u></strong></h4>
 <p>CCA leaders guide and inspire their teams to participate actively and
 perform their best in their CCA. They encourage teamwork, discipline, and
 commitment among members. By leading with enthusiasm and responsibility,
