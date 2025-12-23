@@ -31,7 +31,7 @@ every student has a chance to contribute and grow.</p>
 <p>Under this tiered structure, some avenues where students can exhibit their
 leadership potential is by being a Student Leader or a Peer Support Leader.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/student-leaders/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Student Leaders" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Leaders</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/student-leaders/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Student Leaders" src="/images/Student Leaders/Stud_Lead_Inv_2026__1_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Student Leaders</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/student-leaders-investiture/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
