@@ -5,104 +5,38 @@ variant: tiptap
 description: ""
 third_nav_title: Signature Programmes
 ---
+<p></p>
+<p></p>
+<p></p>
 <p><strong>In Townsville Primary School</strong>, every student is given
 a chance to lead and make a positive impact to themselves, their community
 around them and the world at large.</p>
-<h4>Our Vision</h4>
+<h3>Our Vision</h3>
 <p>Every Leader in Townsville a values-driven leader who serves with a heart.</p>
-<h4>Our Mission</h4>
-<p>Encouraging all Leaders in Townsville to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Aspire to do their best</p>
-</li>
-<li>
-<p>Respect and empathise with their peers</p>
-</li>
-<li>
-<p>Be diligent in executing their duties</p>
-</li>
-</ol>
-<p><strong><u>Our structure</u></strong>
-</p>
-<p>We adopt a tiered structure that ensures every student is given a chance
-to lead, shine and contribute.</p>
+<h3>Our Mission</h3>
+<p>Encouraging all Leaders in Townsville to</p>
+<p>1. Aspire to do their best</p>
+<p>2. Be diligent in executing their duties</p>
+<p>3. Respect and empathise with their peers</p>
+<h3><strong><u>Our structure</u></strong></h3>
+<p>A tiered leadership structure plays an important role in developing confident,
+responsible, and capable student leaders. It provides opportunities for
+leadership at every level — from class monitors and peer supporters to
+CCA leaders, student leaders and student leader council — ensuring that
+every student has a chance to contribute and grow.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Leaders In Townsville/Leadersintownsville__5_.png">
 </div>
 <p>Under this tiered structure, some avenues where students can exhibit their
 leadership potential is by being a Student Leader or a Peer Support Leader.</p>
-<p><strong><u>Student Leaders</u></strong>
-</p>
-<p>Under guidance from experienced teachers, pupils hone and sharpen their
-leadership skills with each other during discussion sessions aided by technology.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Leaders In Townsville/Leadersintownsville__1_.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Leaders In Townsville/Leadersintownsville__2_.jpeg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Leaders In Townsville/Leadersintownsville__1_.jpeg">
-</div>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Then, they apply the leadership skills and work together to contribute
-to their community.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Leaders In Townsville/Leadersintownsville__4_.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Leaders In Townsville/Leadersintownsville__8_.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Read the Student Leader President's message <a href="/student-leaders-president/" rel="noopener noreferrer nofollow" target="_blank">Here.</a>
-</p>
-<p><strong><a href="/student-leaders-investiture-2024/" rel="noopener noreferrer nofollow" target="_blank">Student Leaders' Investiture 2024</a></strong>
-</p>
-<p>The school held the Student Leaders Investiture on 8 July 2024. The student
-leaders were officially inducted and introduced to the Townsville family.
-Visit the page <a href="/student-leaders-investiture-2024/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<p><strong><u>Peer Support Leaders</u></strong>
-</p>
-<p>Peer Support Leaders show care and concern to their classmates and support
-them in times of difficulty.</p>
-<p>They rally their classmates together to show their appreciation to their
-community too.</p>
+<h4><strong><u>Student Leaders</u></strong></h4>
+<p>A student leader exemplifies the school’s core values through their actions
+and leadership. They serve as positive role models, inspiring their peers
+to uphold these values in everyday life. With dedication and pride, they
+carry out their responsibilities and motivate their teammates to do the
+same. Always ready to offer guidance and support, they help foster a spirit
+of responsibility, teamwork, and care within the school community.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -112,17 +46,132 @@ community too.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Leaders In Townsville/Leadersintownsville__6_.jpg">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Leaders In Townsville/Leadersintownsville__7_.jpg">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>Leading with purpose: Student leaders present the T-shirt donation initiative
+for the P3 upcycling activity.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Student leaders engaging the school community to pick the perfect Teachers’
+Day gifts.</p>
+<h4><strong><u>Peer Support Leaders</u></strong></h4>
+<p>A Peer Support Leader serves as friendly and approachable role models
+who help create a sense of belonging among students. By offering encouragement,
+lending a listening ear, and promoting positive relationships, Peer Support
+Leaders help ensure that every student feels valued and supported especially
+in class. They rally their classmates together to show their appreciation
+to their community too.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>Peer Support Leaders sharing their experiences and challenges for the
+year during the termly check-in session.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>PSLs briefing the class on writing a heartfelt messages for Teachers’
+Day on Padlet.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>The Padlet was filled with Teachers’ Day messages from the Townsville
+students.</p>
+<p></p>
+<h4><u>CCA Leaders</u></h4>
+<p>CCA leaders guide and inspire their teams to participate actively and
+perform their best in their CCA. They encourage teamwork, discipline, and
+commitment among members. By leading with enthusiasm and responsibility,
+CCA leaders help their peers develop skills, confidence, and a sense of
+pride in their achievements, while fostering a positive and supportive
+environment.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>CCA Leaders during CCA Carnival.</p>
