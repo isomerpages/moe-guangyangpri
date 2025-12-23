@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Signature Programmes
 ---
-<p></p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leaders/Stud_Lead_Inv_2026__7_.jpg">
+</div>
 <p><strong>In Townsville Primary School</strong>, every student is given
 a chance to lead and make a positive impact to themselves, their community
 around them and the world at large.</p>
@@ -26,7 +26,7 @@ CCA leaders, student leaders and student leader council — ensuring that
 every student has a chance to contribute and grow.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Leaders In Townsville/Leadersintownsville__5_.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Signature Programmes/Leaders In Townsville/Leadersintownsville__5_.png">
 </div>
 <p>Under this tiered structure, some avenues where students can exhibit their
 leadership potential is by being a Student Leader or a Peer Support Leader.</p>
@@ -45,18 +45,14 @@ of responsibility, teamwork, and care within the school community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leaders/Stud_Leads_2026__4_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leaders/Stud_Leads_2026__2_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -71,10 +67,14 @@ for the P3 upcycling activity.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leaders/Stud_Leads_2026__3_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leaders/Stud_Leads_2026__5_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -96,10 +96,14 @@ to their community too.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Student Leaders/Peer_Supp_2026__4_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Student Leaders/Peer_Supp_2026__2_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -113,7 +117,9 @@ year during the termly check-in session.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Student Leaders/Peer_Supp_2026__3_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -127,7 +133,9 @@ Day on Padlet.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Student Leaders/Peer_Supp_2026__1_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
@@ -150,26 +158,26 @@ environment.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leaders/CCA_Stud_2026__2_.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leaders/CCA_Stud_2026__1_.jpg">
+</div>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leaders/CCA_Stud_2026__3_.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student Leaders/CCA_Stud_2026__4_.jpg">
+</div>
 </td>
 </tr>
 </tbody>
