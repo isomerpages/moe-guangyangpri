@@ -12,15 +12,23 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: Townsvilleps@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/School Leaders/eddie_foo_edited.jpg"></a>
+<td rowspan="1" colspan="1">
+<p><a href="townsvilleps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Eddie Foo | Principal</a>
+</p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: Townsvilleps@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/School Leaders/ms lynette fernandez.jpg"></a>
+<td rowspan="1" colspan="1">
+<p><a href="townsvilleps@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Lynette Fernandez | Vice-Principal (Education)</a>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: Townsvilleps@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/School Leaders/mr sunny ho.jpg"></a>
+<td rowspan="1" colspan="1">
+<p><a href="townsvilleps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Sunny Ho | Vice-Principal (Education)</a>
+</p>
 </td>
-<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="mailto: Townsvilleps@moe.edu.sg"><img style="width: 65%;" height="auto" width="100%" alt="" src="/images/School Leaders/mr martin velan anthony.jpg"></a>
+<td rowspan="1" colspan="1">
+<p><a href="townsvilleps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Martin Valen Anthony | Vice-Principal (Admin)</a>
+</p>
 </td>
 </tr>
 </tbody>
