@@ -20,11 +20,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: hafizah_ismadi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hafizah Ismadi (LvlMgr/P4)</a>
+<p><a href="mailto: kelvin_woon_wei_shen@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Woon</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: cheh_seok_buay@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Lek Seok Buay (SSD)</a>
+<p><a href="mailto: leng_han@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Leng Han</a>
 </p>
 </td>
 </tr>
@@ -36,10 +36,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="shamsiah_samsudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Shamsiah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: law_polly@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Polly Chin</a>
+<p><a href="mailto: tan_maggie@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Maggie Tan</a>
 </p>
 </td>
 </tr>
@@ -51,11 +52,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: seah_jia_ying_sylvia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Sylvia Seah Jia Ying</a>
+<p><a href="mailto: rajinikanth_naidu_s@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Rajinikanth Naidu</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: chan_sui_sui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Chan Sui Sui (PT)</a>
+<p><a href="mailto: toh_xiao_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Toh Xiao Ting</a>
 </p>
 </td>
 </tr>
@@ -67,11 +68,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: won_min_ting@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Won Min Ting</a>
+<p><a href="mailto: poh_choon_sian@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Katherine Cheong</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: chan_sui_sui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Arun</a>
+<p><a href="mailto: tan_yong_zu@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Tan Yong Zu</a>
 </p>
 </td>
 </tr>
