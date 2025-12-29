@@ -25,24 +25,36 @@ and motivation to explore their own potential.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/Edu___Career_GD_2026__2_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/Edu___Career_GD_2026__4_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/Edu___Career_GD_2026__5_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCE/ECG/ECG_2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/Edu___Career_GD_2026__3_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/Edu___Career_GD_2026__6_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/ECG/Edu___Career_GD_2026__1_.jpg">
 </div>
 </td>
 </tr>

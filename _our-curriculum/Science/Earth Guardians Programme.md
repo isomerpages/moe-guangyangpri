@@ -23,7 +23,7 @@ the following initiatives:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Earth Guardians Program/Assembly_Talks.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Science/Earth Guardians Program/earth_Guardians_2026__1_.jpg">
 </div>
 </td>
 </tr>
@@ -44,12 +44,12 @@ the following initiatives:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Earth Guardians Program/Recycling_Campaigns__1_.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Science/Earth Guardians Program/earth_Guardians_2026__2_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Earth Guardians Program/Recycling_Campaigns__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/Earth Guardians Program/earth_Guardians_2026__1_.png">
 </div>
 </td>
 </tr>

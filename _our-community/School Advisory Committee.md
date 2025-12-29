@@ -25,7 +25,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/School Leaders/eddie_foo_edited.jpg">
+<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/School Leaders/mr martin velan anthony.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

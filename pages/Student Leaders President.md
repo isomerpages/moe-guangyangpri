@@ -4,4 +4,31 @@ permalink: /student-leaders-president/
 variant: tiptap
 description: ""
 ---
-<p>I am Adway Lakshmi Narayanan and I am the President of the Student Leaders’ Council of Townsville Primary School for 2023.</p><p>After completing 6 years of my primary school education in Townsville Primary, I feel ready for the real world and that I can overcome any challenge with sheer hard work and consistent effort.</p><p>I still remember the day of the Student Leaders’ Council Investiture when I had to deliver a speech to the school. It was nerve-wracking as I had never spoken to the school in such a capacity. I will never forget that day as I accepted the responsibilities of being the role model of the school.</p><p>As a student in Townsville, one can expect many opportunities to nurture their talents. I began developing my speaking skills during Show and Tell sessions in Primary 1 and 2. In Primary 3 and 4, I begin to develop my leadership potential when I was selected to be a junior Student Leader and finally in P6, I was selected to be the President of the Student Leaders’ Council.</p><p>Teachers of Townsville Primary School place students at the center of all they do. I am deeply thankful to have completed my primary education journey in Townsville Primary School and I wish you would have a fruitful journey as well.</p><p>&nbsp;</p><p>Yours Sincerely,</p><p>Adway Lakshminarayanan</p><p>President. Student Leaders’ Council 2023.</p>
+<p>Dear Townsville Primary School family,</p>
+<p>As we step into a brand new year — 2026 — I’m deeply honoured to serve
+as your President of the Student Leader Council. Each new school year gives
+us a chance to start fresh, to dream bigger, and to work together to make
+our school an even brighter and kinder place for all.</p>
+<p>This term, our goal is to create not only a friendly, but also a safe
+learning environment for every student to feel valued and supported. We
+believe that every voice matters — no matter how big or small — and that
+listening to one another helps us grow stronger together and create a school
+community where everyone can feel heard and shine.</p>
+<p>We have several exciting environmental projects that can promote the well-being
+of the students. The Student Leader Council is committed to creating safe
+spaces where everyone can share ideas, express opinions and feelings, and
+contribute to making our school more vibrant and inclusive. We also aim
+to make sure everyone has the confidence to express themselves and share
+new ideas.</p>
+<p>Let’s make 2026 a year where we not only learn and achieve, but also listen,
+empathise, and uplift one another. Together, we can shape Townsville Primary
+School into a place where every student feels proud to belong and inspired
+to be their best self. Let’s R.I.D.E to Excellence together!</p>
+<p>With gratitude and hope,</p>
+<p>Peh Sin Huey,</p>
+<p>President of the Student Leader Council 2025/2026</p>
+<p>Townsville Primary School</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Student Leaders/Stud_Desk_2026.jpg">
+</div>
+<p></p>

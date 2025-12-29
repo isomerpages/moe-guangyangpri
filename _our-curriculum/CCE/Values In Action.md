@@ -28,31 +28,43 @@ take action to make a difference to their school and the community.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA__1_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA__1_.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA__2_.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA__3_.png">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P4_VIA__4_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,31 +88,43 @@ take action to make a difference to their school and the community.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA_1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA__1_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA_2.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA_3.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA_4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA__8_.jpg">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA_5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA__7_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA__6_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA__4_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/Values in Action/P5_VIA__2_.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">

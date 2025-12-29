@@ -32,7 +32,7 @@ learning journey.</p>
 learners who are not only proficient in their Mother Tongue but also rooted
 in cultural values, prepared for a rapidly changing world.</p>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/mother-tongue-lessons/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fun MTL Lessons" src="/images/Mother Tongue Language/MT Lessons in TVPS/Role_Play_in_class.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fun Mother Tongue Language Lessons</div><div class="isomer-card-link">Read More!</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/mother-tongue-lessons/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Fun MTL Lessons" src="/images/Mother Tongue Language/MT Lessons in TVPS/Role_Play_in_class.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Fun Mother Tongue Language Lessons</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/department-programmes/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -41,9 +41,9 @@ in cultural values, prepared for a rapidly changing world.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Department Programmes</div>
-<div class="isomer-card-link">Read More!</div>
+<div class="isomer-card-link">Click here to learn more!</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/support-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Support Programme" src="/images/Mother Tongue Language/MTSP Strive/Class_Activity_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Support Programmes</div><div class="isomer-card-link">Read More!</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/support-programmes/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Support Programme" src="/images/Mother Tongue Language/MTSP Strive/Class_Activity_1.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Support Programmes</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/partnership-with-external-organizations/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -52,8 +52,8 @@ in cultural values, prepared for a rapidly changing world.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Partnership with external organizations</div>
-<div class="isomer-card-link">Read More!</div>
+<div class="isomer-card-link">Click here to learn more!</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/cross-cultural-exchange/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cross Cultural Exchange" src="/images/Mother Tongue Language/Cross Cultural Exchange/Partnership_with_Ex__6_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Cross Cultural Exchange</div><div class="isomer-card-link">Click here to learn more!</div></div></a>
 </div>
 <p></p>

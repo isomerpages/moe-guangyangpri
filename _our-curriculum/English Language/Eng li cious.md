@@ -5,28 +5,132 @@ variant: tiptap
 description: ""
 third_nav_title: English Language
 ---
-<p><strong>Eng-li-cious: Character Dress-Up Day, Spelling Bee</strong>
-</p>
-<p>Eng-li-cious, Towsnville’s English Week, promotes a love for English Language.
-During the event, students get to strengthen their command of the English
-language through engaging activities and games.</p>
-<p>Highlights of the events include language games such as Spelling Bees,
-Word Scramble Challenges, and Tongue Twisters which make learning English
-enjoyable.</p>
-<p><strong><u>Spelling Bee</u></strong>
-</p>
+<h2><strong>Eng-li-cious: Character Dress-Up Day, Spelling Bee</strong></h2>
+<p>Eng-li-cious is Towsnville’s annual English Week celebration that promotes
+a love for the English Language. Throughout the week, students strengthen
+their language skills through a variety of engaging activities and games.</p>
+<p>Highlights include exciting language-based challenges such as Spelling
+Bee, Word Scramble and Tongue Twisters, all designed to make learning English
+fun and enjoyable.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Activity__5_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Activity__1_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Activity__2_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Activity__4_.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Activity__3_.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong><u>Spelling Bee</u></strong></h4>
 <p>The annual Spelling Bee encourages students to expand their vocabulary
-and sharpen their spelling skills. It combines fun and friendly competition,
-motivating students to enhance their language abilities in an engaging
-way.</p>
-<p><strong><u>Character Dress-Up Day</u></strong>
+and sharpen their spelling skills. With a blend of fun and friendly competition,
+the event motivates students to build confidence and strengthen their language
+abilities.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Bee__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Bee__2_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Bee__3_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong><u>Character Dress-Up Day</u></strong></h4>
+<p>Character Dress-Up Day. is another exciting Eng-li-cious highlight. Students
+come dressed as their favourite characters from books, movies, or games,
+bringing stories to life in vibrant and creative ways. As they share their
+chosen characters, students learn from one another and develop greater
+appreciation for stories and imagination.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Dress_up__1_.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Dress_up__2_.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Dress_up__4_.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/English/Englicious/Englicious_2026_Dress_up__3_.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>
+<br>
 </p>
-<p>Character Dress-Up Day also happens during Eng-li-cious. Students get
-to dress up as their favourite characters from books, movies, or games,
-bringing those characters to life. This day adds lots of fun, vibrancy
-and creativity to the school environment. As students dress up as the different
-characters related to the theme, they get a chance to share their interests
-with their friends and learn from one another.</p>
 <p>
 <br>
 </p>
