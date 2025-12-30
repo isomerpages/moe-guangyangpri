@@ -72,31 +72,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: ong_hui_min_felicia@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Felicia Ong (Level Head EL)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="mailto: chew_hua_jie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Lim-Chew Hua Jie (Level Head CL)</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: madhavi_chandramohan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Madhavi Chandramohan (Subject Head ML/TL)</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: ang_shi_yin_pearl@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Pearl Phua (LH Maths)</a>
 </p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: pei_cihui_pamela@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Pamela Chan (Level Head Sci)</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -158,6 +149,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="priscilla_carmel_rajadurai@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Priscilla Carmel (SH Discipline)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
 </tbody>
 </table>
 <h3>Teacher Leaders Guild (TLG)</h3>
@@ -199,7 +199,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: siti_wazirah_daud@moe.du.sg" rel="noopener nofollow" target="_blank">Mrs Wazirah Covas (Senior Teacher LP)</a>
+<p><a href="mailto: siti_wazirah_daud@moe.du.sg" rel="noopener nofollow" target="_blank">Mrs Wazirah Covas (Senior Teacher English)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
