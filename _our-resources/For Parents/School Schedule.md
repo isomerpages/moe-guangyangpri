@@ -31,15 +31,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pri 1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.45 a.m. – 9.15 a.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Pri 2</p>
+<p>Pri 2 &amp; Pri 3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.15 a.m. – 9.45 a.m.</p>
@@ -47,7 +39,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pri 3</p>
+<p>Pri 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>9.45 a.m. – 10.15 a.m.</p>
@@ -55,7 +47,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pri 4</p>
+<p>Pri 5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.15 a.m. – 10.45 a.m.</p>
@@ -63,7 +55,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pri 5</p>
+<p>Pri 6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>10.45 a.m. – 11.15 a.m.</p>
@@ -71,17 +63,9 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pri 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>11.15 a.m. – 11.45 a.m.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Snack Break</strong>
 </p>
-<p>Pri 1 to Pri 4</p>
+<p>Pri 2 to Pri 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>11.40 a.m. – 11.50 a.m.</p>
@@ -108,7 +92,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Pri 1 and Pri 2</p>
+<p>Pri 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1.20 p.m.</p>
@@ -125,21 +109,38 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4>Term 4 Calendar</h4>
-<p></p>
+<h4>Term 1 Calendar</h4>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_TVPS_Term_4_School_Calendar__Sep.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_Jan.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_TVPS_Term_4_School_Calendar_Oct.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_Feb.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_TVPS_Term_4_School_Calendar_Nov.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_Mar.jpg">
 </div>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2025_TVPS_Term_4_School_Calendar_Dec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_Apr.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_May.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_Jun.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_Jul.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_Aug.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_Sep.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_Oct.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/2026_TVPS_School_Calendar_Nov.jpg">
 </div>
 <p></p>
