@@ -5,6 +5,10 @@ description: ""
 variant: tiptap
 third_nav_title: Science
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science/SciQuest/P4_ice_Cream_Sciquest__2_.jpg">
+</div>
 <h3><strong>Vision</strong></h3>
 <p>Nurturing curious learners, anchored in Science and values to be lifelong
 contributors.</p>
