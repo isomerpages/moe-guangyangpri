@@ -5,6 +5,9 @@ description: ""
 variant: tiptap
 third_nav_title: Mother Tongue Languages
 ---
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mother Tongue Language/mothertongue48.jpg">
+</div>
 <h4><strong>Vision</strong></h4>
 <p>Effective communicator in Mother Tongue, rooted in one’s culture, ready
 for the future.</p>
