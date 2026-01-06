@@ -5,11 +5,15 @@ description: ""
 variant: tiptap
 third_nav_title: CCE
 ---
-<h3>Vision</h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE/NE_19.jpg">
+</div>
+<h3><strong>Vision</strong></h3>
 <p>A resilient and responsible Townsvillite; a compassionate and active member
 of the community.</p>
 <hr>
-<h4>Teaching Approach</h4>
+<h4><strong>Teaching Approach</strong></h4>
 <p>The CCE curriculum is based on the three big ideas of Identity, Relationships
 and Choices. It involves the teaching and learning of core values and social-emotional
 competencies with a focus on developing a sense of purpose in our students.</p>
