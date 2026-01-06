@@ -53,7 +53,7 @@ third_nav_title: For Students
 <a rel="noopener noreferrer nofollow" href="https://townsvillepri.moe.edu.sg/our-resources/for-students/student-learning-space/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder Image" src="/images/For Students/SLS_new.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
