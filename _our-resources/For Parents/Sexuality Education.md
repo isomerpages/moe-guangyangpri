@@ -30,7 +30,11 @@ communities on sexuality issues.&nbsp;</p>
 </li>
 </ul>
 <p></p>
-<p>2. The three Goals of Sexuality Education are:</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>The three Goals of Sexuality Education are:</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>To help students make wise, responsible and informed decisions through
@@ -52,7 +56,11 @@ of positive mainstream values and attitudes about sexuality.</p>
 </li>
 </ul>
 <p></p>
-<p>3. &nbsp; &nbsp; &nbsp; The Key Messages of Sexuality Education are:</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>The Key Messages of Sexuality Education are:</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>Love and respect yourself as you love and respect others;</p>
@@ -74,13 +82,21 @@ more information on MOE Sexuality Education.</p>
 <p></p>
 <h4><strong>OVERVIEW OF TOWNSVILLE PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME</strong></h4>
 <p></p>
-<p>4. Sexuality Education is delivered in a holistic manner through the school
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
 Sexual Behaviour, and Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
 more information on the scope of Sexuality Education in the school curriculum.</p>
+</li>
+</ol>
 <p></p>
-<p>5.&nbsp; The subjects that incorporate topics on sexuality include:</p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>The subjects that incorporate topics on sexuality include:</p>
+</li>
+</ol>
 <ul>
 <li>
 <p>Science</p>
@@ -91,7 +107,9 @@ more information on the scope of Sexuality Education in the school curriculum.</
 </ul>
 <p></p>
 <h4><strong>SEXUALITY EDUCATION LESSONS</strong></h4>
-<p>6. The upper primary years mark the onset of puberty. With better nutrition
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>The upper primary years mark the onset of puberty. With better nutrition
 and improved health care, children are reaching puberty at a younger age
 and have to grapple with physical, emotional and psychological changes
 in themselves. The implication is that our children are becoming biologically
@@ -101,14 +119,20 @@ our young are also exposed to a wide range of influences that could endanger
 health and undermine the integrity of the family. Our students require
 close guidance so that they can respond with discernment to the sexual
 messages in the media and other sources.</p>
+</li>
+</ol>
 <p></p>
-<p>7. Sexuality Education (SEd) lessons are taught as part of CCE (FTGP)
-at Primary 5 and 6. Through these lessons, students will learn healthy
-ways to manage the physiological, social and emotional changes in their
-growing years. They learn to build healthy and rewarding relationships
-with others, including those with members of the opposite sex. Students
-are also guided to make wise, informed and responsible decisions to keep
-themselves safe from sexuality-related risks.</p>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
+Primary 5 and 6. Through these lessons, students will learn healthy ways
+to manage the physiological, social and emotional changes in their growing
+years. They learn to build healthy and rewarding relationships with others,
+including those with members of the opposite sex. Students are also guided
+to make wise, informed and responsible decisions to keep themselves safe
+from sexuality-related risks.</p>
+</li>
+</ol>
 <p></p>
 <h3><strong>At Townsville Primary School, the following Sexuality Education lessons will be taught:</strong></h3>
 <h4><strong>Sexuality Education Lessons in CCE</strong></h4>
@@ -136,7 +160,8 @@ themselves safe from sexuality-related risks.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lesson OVERVIEW</p>
+<p><strong>Lesson OVERVIEW</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>TIME PERIOD</strong>
@@ -205,8 +230,7 @@ and how to seek help for themselves and their friends.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>Sexuality Education Lessons in CCE</strong>
-</p>
+<h4><strong>Sexuality Education Lessons in CCE</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -217,7 +241,8 @@ and how to seek help for themselves and their friends.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p>Primary 6</p>
+<p><strong>Primary 6</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -284,21 +309,24 @@ and learn to behave maturely towards each other.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Information for Parents</strong>
-</p>
-<p>8. Parents may opt their children out of Sexuality Education lessons,
-and/or supplementary Sexuality Education programmes by MOE-approved external
-providers.</p>
-<p>&nbsp;</p>
-<p>9. Parents who wish to opt their children out of the Sexuality Education
+<h4><strong>Information for Parents</strong></h4>
+<ol start="8" data-tight="true" class="tight">
+<li>
+<p>Parents may opt their children out of Sexuality Education lessons, and/or
+supplementary Sexuality Education programmes by MOE-approved external providers.</p>
+</li>
+<li>
+<p>Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated&nbsp;
 to parents before the start of the programme and is also downloadable
-<a href="https://drive.google.com/file/d/1epi0rO_Z2QvPj5AUkIRN4c1Fj0vw_2gK/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
-</a>.[SS(1] &nbsp;The completed opt-out form is to be submitted to the Form
-Teachers.</p>
-<p>10. Parents can contact the school at 6457 4345 for discussion or to seek
+<a href="https://drive.google.com/file/d/18ELiMS0T_R3tA6Y0oLMN3btu0VTIVOFl/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank"><u>here</u>
+</a>. The completed opt-out form is to be submitted to the Form Teachers.</p>
+</li>
+<li>
+<p>Parents can contact the school at 6457 4345 for discussion or to seek
 clarification about the school’s Sexuality Education programme.</p>
+</li>
+</ol>
 <p></p>
 <p>
 <br>
