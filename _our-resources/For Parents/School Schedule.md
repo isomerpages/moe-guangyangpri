@@ -34,7 +34,7 @@ variant: tiptap
 <p>Pri 2 &amp; Pri 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.15 a.m. – 9.45 a.m.</p>
+<p>9.00 a.m. – 9.30 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -42,7 +42,7 @@ variant: tiptap
 <p>Pri 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>9.45 a.m. – 10.15 a.m.</p>
+<p>9.00 a.m. – 10.30 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -50,7 +50,7 @@ variant: tiptap
 <p>Pri 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.15 a.m. – 10.45 a.m.</p>
+<p>10.30 a.m. – 11.00 a.m.</p>
 </td>
 </tr>
 <tr>
@@ -58,7 +58,7 @@ variant: tiptap
 <p>Pri 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>10.45 a.m. – 11.15 a.m.</p>
+<p>11:00 a.m. – 11.30 a.m.</p>
 </td>
 </tr>
 <tr>
