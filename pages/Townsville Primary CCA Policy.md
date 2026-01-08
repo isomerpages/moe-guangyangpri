@@ -38,6 +38,14 @@ and seek permission from the CCA Teacher (Overall-In-Charge) before submitting
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://go.gov.sg/tvpswithdrawal-changeofccaapplicationform"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular Activities/CCA_Withdrawal___Change_Form.png"></a>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CCA Withdrawal is only open on 5 Oct, 0800hrs to 23 Oct 2026 2359hrs</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
