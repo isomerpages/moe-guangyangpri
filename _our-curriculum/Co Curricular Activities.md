@@ -111,5 +111,4 @@ of responsibility to school, community and nation.</p>
 </tbody>
 </table>
 <p></p><a class="isomer-image-wrapper" href="https://townsvillepri.moe.edu.sg/townsville-primary-cca-policy/"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co Curricular Activities/Button.png"></a>
-<p>CCA Withdrawal is open on 5 Oct, 0800hrs (Monday) to 23 Oct 2026 2359hrs
-(Friday)</p>
+<p></p>
