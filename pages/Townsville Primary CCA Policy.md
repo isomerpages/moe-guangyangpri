@@ -46,7 +46,8 @@ and seek permission from the CCA Teacher (Overall-In-Charge) before submitting
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>CCA Withdrawal is only open on 5 Oct, 0800hrs to 23 Oct 2026 2359hrs</p>
+<p>Change of CCA is only open on 5 Oct, 0800hrs to 23 Oct 2359hrs. Please
+approach CCA Teachers for CCA Withdrawal.</p>
 </td>
 </tr>
 </tbody>
