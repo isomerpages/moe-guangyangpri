@@ -11,6 +11,8 @@ variant: markdown
 
 Bookshop Operating Hours: 8.30am to 3pm (except PH and weekends and school holidays)
 <br>
+Phone: 94356025
+<br>
 Website: <a href="https://www.pacificbookstores.com">https://www.pacificbookstores.com</a> / <a href="https://www.pacificeshop.com">https://www.pacificeshop.com</a> 
 
 <hr>
@@ -59,5 +61,7 @@ E-mail: Contact_YPS@hpb.gov.sg
 <p style="font-size:20px"><strong>Uniform Vendor</strong></p>
 
 **Jeep Sing Fashion**
+<br>
+Phone: 64563198
 <br>
 Website : [Jeep Sing Fashion Support Center](https://jeepsinguniform.com/pages/contact-us?utm_source=flyer&amp;utm_medium=school)
