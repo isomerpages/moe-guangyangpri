@@ -109,38 +109,8 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<h4>Term 1 Calendar</h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_Jan_2026_TVPS_School_Calendar__150126_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_Feb_2026_TVPS_School_Calendar__150126_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_Mar_2026_TVPS_School_Calendar__150126_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_Apr_2026_TVPS_School_Calendar__150126_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_May_2026_TVPS_School_Calendar__150126_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_Jun_2026_TVPS_School_Calendar__150126_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_Jul_2026_TVPS_School_Calendar__150126_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_Aug_2026_TVPS_School_Calendar__150126_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_Sep_2026_TVPS_School_Calendar__150126_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_Oct_2026_TVPS_School_Calendar__150126_.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Calendar/New_Nov_2026_TVPS_School_Calendar__150126_.jpg">
+<h4>Term 2 Calendar</h4>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="border: 0" height="600" width="800" allowfullscreen="true" frameborder="0" src="https://calendar.google.com/calendar/embed?src=c_9dt31gva57mrt0jjqa7u279qb8%40group.calendar.google.com&amp;ctz=Asia%2FSingapore"></iframe>
 </div>
 <p></p>
