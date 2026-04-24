@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ratna Cenderakasih Binte Sumardi (Admin Asst)</p>
+<p>Ms Karthiyayini D/O Ravindran(Admin Asst)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Mazila Jamadi (OSO)</p>
