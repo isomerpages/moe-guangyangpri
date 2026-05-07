@@ -36,15 +36,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nazariah Ali (AE)</p>
+<p>Ms Nazariah Ali (AE)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Samsiah Abdul Hamid A (CSO)</p>
+<p>Mdm Samsiah Abdul Hamid (CSO)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Zaidah Binte Adam (OSO)</p>
+<p>Mdm Siti Zaidah Adam (OSO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jumadi Bin Pahmu (OSO)</p>
