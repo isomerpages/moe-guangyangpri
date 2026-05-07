@@ -27,7 +27,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="townsvilleps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Martin Valen Anthony | Vice-Principal (Admin)</a>
+<p><a href="townsvilleps@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Martin Anthony | Vice-Principal (Admin)</a>
 </p>
 </td>
 </tr>
@@ -66,7 +66,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: lee_boon_haw_jeremy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jeremy Damian Lee (HOD ICT)</a>
+<p><a href="mailto: lee_boon_haw_jeremy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Jeremy Lee (HOD ICT)</a>
 </p>
 </td>
 </tr>
@@ -115,7 +115,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: johnson_chee_john_son@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Johnson Chee (HOD PAM &amp; CCA)</a>
+<p><a href="mailto: johnson_chee_john_son@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Johnson Chee John Son (HOD PAM &amp; CCA)</a>
 </p>
 </td>
 </tr>
@@ -141,7 +141,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: vemalan_elangovan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Vemalan S/O Elangovan (Subject Head NE/SS)</a>
+<p><a href="mailto: vemalan_elangovan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Vemalan Elangovan (Subject Head NE/SS)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -173,7 +173,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: s_nirmala_devi_santhanasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs S Nirmala Devi (Lead Teacher Sci)</a>
+<p><a href="mailto: s_nirmala_devi_santhanasamy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Nirmala Sam (Lead Teacher Sci)</a>
 </p>
 </td>
 </tr>
