@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: ng_ho_lam_bernard@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hafizah</a>
+<p><a href="mailto: ng_ho_lam_bernard@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Hafizah Ismadi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -50,7 +50,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: noor_saleha_johari@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Polly Chin</a>
+<p><a href="mailto: noor_saleha_johari@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Law Polly</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: karen_anne_silva@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Karen Anne Chan Lai Fun</a>
+<p><a href="mailto: karen_anne_silva@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Karen Anne Silva</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -98,7 +98,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: rajikannu_arunmozhi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Arun</a>
+<p><a href="mailto: rajikannu_arunmozhi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Rajikannu Arunmozhi</a>
 </p>
 </td>
 </tr>
