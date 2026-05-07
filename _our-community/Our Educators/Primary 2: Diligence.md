@@ -25,11 +25,11 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: irdawati_mohd_ariffin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Irdawati</a>
+<p><a href="mailto: irdawati_mohd_ariffin@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Irdawati Mohd Ariffin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: chrisnita_baliram@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chrisnita D/O Baliram</a>
+<p><a href="mailto: chrisnita_baliram@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Chris Ram</a>
 </p>
 </td>
 </tr>
@@ -83,7 +83,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: tham_yuen_ee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Tham Yuen Ee</a>
+<p><a href="mailto: tham_yuen_ee@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Nge Yuen Ee</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
