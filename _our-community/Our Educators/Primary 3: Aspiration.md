@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="shamsiah_samsudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Shamsiah</a>
+<p><a href="shamsiah_samsudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Shamsiah Samsudin</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,7 +52,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: rajinikanth_naidu_s@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Rajinikanth Naidu</a>
+<p><a href="mailto: rajinikanth_naidu_s@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Rajinikanth</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
