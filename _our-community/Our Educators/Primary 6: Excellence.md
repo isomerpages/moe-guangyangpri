@@ -40,11 +40,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: vemalan_elangovan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Vemalan</a>
+<p><a href="mailto: vemalan_elangovan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Vemalan Elangovan</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: goh_heoh_pio@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Boo Heoh Pio</a>
+<p><a href="mailto: goh_heoh_pio@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Goh Heoh Pio</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,7 +60,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: farahiyah_dina_osman@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Farahiyah</a>
+<p><a href="mailto: farahiyah_dina_osman@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Farahiyah Dina Osman</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -68,7 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">Mdm Shanthi</a>
+<p><a href="" rel="noopener nofollow" target="_blank">Mdm Shanthi Deenathayalan</a>
 </p>
 </td>
 </tr>
@@ -99,7 +99,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: mohammad_hanafee_b_osman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohd Hanafee</a>
+<p><a href="mailto: mohammad_hanafee_b_osman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohammad Hanafee B Osman </a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -122,7 +122,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: suzana_suah@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Suzana</a>
+<p><a href="mailto: suzana_suah@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Suzana Su'ah</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,7 +162,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="eliza_abdul_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Eliza</a>
+<p><a href="eliza_abdul_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Eliza Abdul Rashid</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
