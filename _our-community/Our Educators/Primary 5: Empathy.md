@@ -24,7 +24,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: diana_baharudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Diana</a>
+<p><a href="mailto: diana_baharudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Diana Baharudin</a>
 </p>
 </td>
 </tr>
@@ -36,7 +36,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: hema_malini_jeyaraj@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Hema Ramasamy</a>
+<p><a href="mailto: hema_malini_jeyaraj@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Hema Rama Samy</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -52,11 +52,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: lazar_jennifer_selvi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lazar Jennifer Selvi</a>
+<p><a href="mailto: lazar_jennifer_selvi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Lazar Jennifer</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: moh_tzer_huey_valerie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Valerie Moh</a>
+<p><a href="mailto: moh_tzer_huey_valerie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Valerie Lim</a>
 </p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: yuen_hooi_shing@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Yuen Hooi Shing</a>
+<p><a href="mailto: yuen_hooi_shing@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yuen Hooi Shing</a>
 </p>
 </td>
 </tr>
