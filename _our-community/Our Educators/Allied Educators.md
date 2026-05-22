@@ -14,7 +14,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Pan (SENO) (PT)</p>
+<p>Ms Amanda Pan Jiayi (SENO) (PT)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Josephine Tan (SENO)</p>
@@ -30,18 +30,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Esther Tan Chor Joo (AED/T&amp;L)</p>
+<p>Mr Chalice Lin (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Ng Guat Ming Mindy (AED/T&amp;L) (PT)</p>
+<p>Ms Emily Poh (SC)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Emily Poh (SC)</p>
+<p>Mdm Kavithasri d/o Anandan (SSC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Kavithasri d/o Anandan (SSC)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
