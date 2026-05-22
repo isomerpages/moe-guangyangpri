@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: tan_maggie@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Maggie Tan</a>
+<p><a href="mailto: tan_maggie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Maggie Tan</a>
 </p>
 </td>
 </tr>
