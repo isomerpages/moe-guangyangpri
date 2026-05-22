@@ -12,15 +12,15 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Nancy Koh Mei Chin (AM)</p>
+<p>Ms Nancy Koh (AM)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Candy Heng Cheng Peng (AM)</p>
+<p>Ms Candy Heng (AM)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohammad Zhafrie Bin Jalil (OM)</p>
+<p>Mr Zhafrie Jalil (OM)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr G Kernabalan (OM)</p>
@@ -47,7 +47,7 @@ variant: tiptap
 <p>Mdm Siti Zaidah Adam (OSO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Jumadi Bin Pahmu (OSO)</p>
+<p>Mr Jumadi Pahmu (OSO)</p>
 </td>
 </tr>
 <tr>
