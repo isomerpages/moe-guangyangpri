@@ -169,7 +169,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: cheh_seok_buay@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Cheh Seok Buay (SSD)</a>
+<p><a href="mailto: cheh_seok_buay@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Lek Seok Buay (SSD)</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -220,12 +220,12 @@ variant: tiptap
 <p>Ms Candy Heng (Admin Manager)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nancy Koh (Admin Manager)</p>
+<p>Ms Nancy Koh (Admin Manager)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Mohd Zhafrie (Operations Manager)</p>
+<p>Mr Zhafrie Jalil (Operations Manager)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr G Kernabalan (Operations Manager)</p>
