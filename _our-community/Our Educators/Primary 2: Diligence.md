@@ -68,7 +68,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs</p>
+<p><a href="mailto: siti_wazirah_daud@moe.du.sg" rel="noopener nofollow" target="_blank">Mrs Wazirah Covas</a>
+</p>
 </td>
 </tr>
 <tr>
