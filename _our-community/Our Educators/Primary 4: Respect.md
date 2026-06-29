@@ -6,9 +6,8 @@ third_nav_title: Our Educators
 variant: tiptap
 ---
 <h4>Form Teachers</h4>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -17,9 +16,6 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p><strong>Respect 1</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -31,17 +27,11 @@ variant: tiptap
 <p><a href="mailto: eliza_abdul_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Peh Ah Lian</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Respect 2</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -53,17 +43,11 @@ variant: tiptap
 <p><a href="mailto: noor_saleha_johari@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Law Polly</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Respect 3</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -75,17 +59,11 @@ variant: tiptap
 <p><a href="mailto: chan_sui_sui@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Chan Sui Sui</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Respect 4</strong>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -95,10 +73,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto: belinda_christian_a@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Belinda Christian</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: rajikannu_arunmozhi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Rajikannu Arunmozhi</a>
 </p>
 </td>
 </tr>
