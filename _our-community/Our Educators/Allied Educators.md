@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Educators
 variant: tiptap
 ---
-<h4>Special Education Needs Officers (SENO), School Counsellors (SC) &amp; Student Welfare Officers (SWO) </h4>
+<h4>Special Education Needs Officers (SENO), School Counsellors (SC) &amp; Student Welfare Officers (SWO)</h4>
 <p></p>
 <p><strong>Special Education Needs Officers</strong>
 </p>
@@ -42,7 +42,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>School Councilors</strong>
+<p><strong>School Councellors</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
