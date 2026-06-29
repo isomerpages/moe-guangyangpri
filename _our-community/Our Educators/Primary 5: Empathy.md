@@ -6,8 +6,9 @@ third_nav_title: Our Educators
 variant: tiptap
 ---
 <h4>Form Teachers</h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -16,6 +17,9 @@ variant: tiptap
 <td rowspan="1" colspan="2">
 <p><strong>Empathy 1</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -27,11 +31,17 @@ variant: tiptap
 <p><a href="mailto: diana_baharudin@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Diana Baharudin</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Empathy 2</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -43,11 +53,17 @@ variant: tiptap
 <p><a href="mailto: goh_jia_yee@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Goh Jia Yee</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Empathy 3</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -59,11 +75,17 @@ variant: tiptap
 <p><a href="mailto: moh_tzer_huey_valerie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Valerie Lim</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Empathy 4</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -75,11 +97,18 @@ variant: tiptap
 <p><a href="mailto: madhavi_chandramohan@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Madhavi Chandramohan</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: priyadarshini_jayapal@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Priyadarshini Jayapal</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Empathy 5</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -91,11 +120,17 @@ variant: tiptap
 <p><a href="mailto: yuen_hooi_shing@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Yuen Hooi Shing</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong>Empathy 6</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -106,6 +141,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto: priscilla_carmel_rajadurai@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Priscilla Carmel</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
