@@ -20,7 +20,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: kelvin_woon_wei_shen@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Kelvin Woon</a>
+<p><a href="mailto: rajikannu_arunmozhi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Rajikannu Arunmozhi</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
