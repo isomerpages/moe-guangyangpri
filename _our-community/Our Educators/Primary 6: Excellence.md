@@ -68,8 +68,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="" rel="noopener nofollow" target="_blank">Mdm Shanthi Deenathayalan</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -88,7 +87,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="" rel="noopener nofollow" target="_blank">Mdm Shanthi Deenathayalan</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: mohammad_hanafee_b_osman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohammad Hanafee B Osman </a>
+<p><a href="mailto: mohammad_hanafee_b_osman@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Mohammad Hanafee B Osman</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,16 +162,40 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="eliza_abdul_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Eliza Abdul Rashid</a>
+<p><a href="mailto: see_chen_han_andy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Andy See</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="latha_devi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Latha Joseph</a>
+<p><a href="mailto: latha_devi@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Latha Joseph</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="see_chen_han_andy@moe.edu.sg" rel="noopener nofollow" target="_blank">Mr Andy See</a>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Excellence 9</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: eliza_abdul_rashid@moe.edu.sg" rel="noopener nofollow" target="_blank">Ms Eliza Abdul Rashid</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto: junaidah_mohamed_sali@moe.edu.sg" rel="noopener nofollow" target="_blank">Mdm Junaidah</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
