@@ -25,7 +25,7 @@ variant: tiptap
 <p>Ms Amanda Pan Jiayi (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Yew Chong (SENO) (PT)</p>
+<p>Mr Ong Yew Chong (SENO)</p>
 </td>
 </tr>
 <tr>
