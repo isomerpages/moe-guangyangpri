@@ -183,7 +183,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto: chua_sock_eng_theresa@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Theresa Wong (Senior Teacher Maths)</a>
+<p><a href="mailto: siti_wazirah_daud@moe.du.sg" rel="noopener nofollow" target="_blank">Mrs Wazirah Covas (Senior Teacher English)</a>
 </p>
 </td>
 </tr>
@@ -195,15 +195,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto: tan_maggie@moe.edu.sg" rel="noopener nofollow" target="_blank">Mrs Maggie Tan (Senior Teacher Art)</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="mailto: siti_wazirah_daud@moe.du.sg" rel="noopener nofollow" target="_blank">Mrs Wazirah Covas (Senior Teacher English)</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
