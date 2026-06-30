@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Our Educators
 variant: tiptap
 ---
-<h4>Special Education Needs Officers (SENO), School Counsellors (SC) &amp; Student Welfare Officers (SWO)</h4>
-<p></p>
-<p><strong>Special Education Needs Officers</strong>
-</p>
+<h4><strong>Special Education Needs Officer (SENO)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -25,7 +22,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chalice Lin (SENO)</p>
+<p>Ms Amanda Pan Jiayi (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ong Yew Chong (SENO) (PT)</p>
@@ -33,7 +30,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Amanda Pan Jiayi (SENO) (PT)</p>
+<p>Mr Chalice Lin (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -42,8 +39,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>School Councellors</strong>
-</p>
+<h4><strong>School Counsellor (SC)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -61,8 +57,7 @@ variant: tiptap
 </tbody>
 </table>
 <p></p>
-<p><strong>Student Welfare Officers</strong>
-</p>
+<h4><strong>Student Welfare Officer (SWO)</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
